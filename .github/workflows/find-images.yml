@@ -1,0 +1,14 @@
+name: Find image candidates
+on: workflow_dispatch
+jobs:
+  find:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/find_images.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: candidates
+          path: candidates.json
