@@ -44,20 +44,17 @@ jobs:
         run: gradle --no-daemon assembleRelease
 
       - name: Publish the GitHub release
-        if: startsWith(github.ref, 'refs/tags/v')
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          if [[ "$GITHUB_REF" == refs/tags/v* ]]; then
+            TAG="$GITHUB_REF_NAME"
+          else
+            TAG="v$(grep -oP 'versionName = "\K[^"]+' app/build.gradle.kts)"
+          fi
           APK=$(ls app/build/outputs/apk/release/*.apk | head -n 1)
-          cp "$APK" "MilitaryInfo-${GITHUB_REF_NAME}.apk"
+          cp "$APK" "MilitaryInfo-${TAG}.apk"
           TITLE=$(head -n 1 RELEASE_NOTES.md)
           tail -n +3 RELEASE_NOTES.md > "$RUNNER_TEMP/notes.md"
-          gh release create "$GITHUB_REF_NAME" "MilitaryInfo-${GITHUB_REF_NAME}.apk" \
-            --title "$TITLE" --notes-file "$RUNNER_TEMP/notes.md"
-
-      - name: Keep the APK from manual runs
-        if: ${{ !startsWith(github.ref, 'refs/tags/v') }}
-        uses: actions/upload-artifact@v4
-        with:
-          name: MilitaryInfo-apk
-          path: app/build/outputs/apk/release/*.apk
+          gh release create "$TAG" "MilitaryInfo-${TAG}.apk" \
+            --target "$GITHUB_SHA" --title "$TITLE" --notes-file "$RUNNER_TEMP/notes.md"

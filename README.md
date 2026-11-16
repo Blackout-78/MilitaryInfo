@@ -29,7 +29,7 @@ Each entry can list `variants` (finish, gender, uniform, era, colors) and `attac
 
 ## Build and release
 
-GitHub builds the APK. Push a tag that starts with `v` (for example `v0.1.0`). The workflow reads the release title and notes from `RELEASE_NOTES.md`.
+GitHub builds the APK. Open the **Actions** tab, pick **Build and release APK**, and tap **Run workflow**. It publishes a release named from `versionName` (for example `v0.1.0`). Pushing a tag that starts with `v` does the same. The workflow reads the release title and notes from `RELEASE_NOTES.md`.
 
 Repository secrets used for signing: `KEYSTORE_BASE64`, `KEYSTORE_PASSWORD`, `KEY_ALIAS`.
 
