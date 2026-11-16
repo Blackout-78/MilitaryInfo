@@ -59,6 +59,15 @@ R["m-vua"]=sym([(F(3,8),"R"),(F(1,16),"UB"),(F(1,64),"W"),(F(3,32),"UB"),(F(3,32
 R["m-asua"]=sym([(F(17,32),"S"),(F(1,32),"Y")],(F(1,4),"G"))
 
 R["m-muc"]=[(F(1,32),"S"),(F(21,16),"S"),(F(1,32),"S")]  # MIL-DTL-11589/92E (31 May 2010): solid Scarlet 67111
+
+# --- Cross-check and additions from the Illustrated Guide measurements (tools/guide_fit.json) ---
+G = json.load(open("tools/guide_fit.json"))
+for k, v in G["new"].items():           # ribbons drawn directly from the guide's measured stripes
+    R[k] = [(F(w, 64), c) for w, c in v["stripes"]]
+for k, v in G["colors"].items():        # use the guide's matched colors when the stripe count agrees
+    if k in R and k not in G["new"] and len(R[k]) == len(v["hex"]):
+        R[k] = [(w, h) for (w, _), h in zip(R[k], v["hex"])]
+H.update({"S":"#C62B3F","R":"#C62B3F","W":"#FFFFFF","BK":"#1F1A17","OGB":"#2F2C7B","UB":"#2F2C7B","G":"#29613B","MG":"#047F44","GY":"#F5CB00","Y":"#F3C21E","BB":"#6495BD","CR":"#A82754","SR":"#7E2F43","PG":"#169F61","IG":"#008952","BR":"#68412B","SP":"#74392A","OG":"#AD912B","GO":"#EB9838","IB":"#315A9D","OB":"#4679B4","P":"#57307E","AFY":"#F4CA00","CH":"#EFCC65","GR":"#66BCC8","TL":"#144E5B","FB":"#24305A"})
 # Good Conduct: left half starts SR; right half is the mirror image.
 W = F(11,8)
 bad = {k: float(sum(w for w,_ in v)) for k,v in R.items() if sum(w for w,_ in v) != W}
@@ -71,7 +80,7 @@ for k, st in R.items():
     im = Image.new("RGB", (PW*S, PH*S), "#000000"); d = ImageDraw.Draw(im); x = F(0)
     for w, c in st:
         x0 = round(float(x)/1.375*PW*S); x += w; x1 = round(float(x)/1.375*PW*S)
-        d.rectangle([x0,0,x1-1,PH*S-1], fill=H[c])
+        d.rectangle([x0,0,x1-1,PH*S-1], fill=H.get(c,c))
     im = im.resize((PW//2, PH//2), Image.LANCZOS); im.save(out+k+".png", optimize=True)
 json.dump(sorted(R), open("/tmp/ribbon_ids.json","w"))
 print(len(R), "ribbons drawn")
