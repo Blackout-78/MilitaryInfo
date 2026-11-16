@@ -33,7 +33,7 @@ class SettingsView(
             card(
                 context, "Version",
                 context.label("${AppInfo.NAME} ${BuildConfig.VERSION_NAME} (build ${BuildConfig.VERSION_CODE})", 15f, medium = true),
-                context.label("Night shell. Sample entries only.", 13f, Night.muted)
+                context.label("Army medals and ribbons loaded (official). Other categories are samples.", 13f, Night.muted)
             ),
             lp().margins(b = context.dp(10))
         )

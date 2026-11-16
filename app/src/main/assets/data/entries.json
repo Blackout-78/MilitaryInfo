@@ -1,14 +1,20 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "0.1.0-sample",
+  "dataVersion": "0.2.0-army-medals",
   "entries": [
     {
       "id": "u-woodland-bdu",
       "tab": "uniforms",
       "group": "Field",
       "name": "Woodland BDU",
-      "branches": ["Army"],
-      "eras": ["coldwar", "gulf", "modern"],
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
       "yearFrom": 1981,
       "yearTo": 2005,
       "summary": "Four-color woodland camouflage battle dress uniform. The Army field uniform from the early 1980s until the ACU.",
@@ -20,8 +26,16 @@
       "remember": "Woodland 1981, ACU 2005.",
       "swatches": [],
       "variants": [
-        { "label": "Woodland BDU (four-color)", "era": "coldwar", "note": "The standard green, brown, and black pattern." },
-        { "label": "Desert BDU (six-color)", "era": "gulf", "note": "Nicknamed the chocolate chip." }
+        {
+          "label": "Woodland BDU (four-color)",
+          "era": "coldwar",
+          "note": "The standard green, brown, and black pattern."
+        },
+        {
+          "label": "Desert BDU (six-color)",
+          "era": "gulf",
+          "note": "Nicknamed the chocolate chip."
+        }
       ],
       "attachments": [],
       "proof": "unverified",
@@ -33,8 +47,13 @@
       "tab": "uniforms",
       "group": "Service",
       "name": "Pinks and greens",
-      "branches": ["Army"],
-      "eras": ["ww2", "modern"],
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2",
+        "modern"
+      ],
       "yearFrom": null,
       "yearTo": null,
       "summary": "WWII-era officer service uniform: pink-toned trousers with a dark green coat. Brought back in modern form as the Army Green Service Uniform.",
@@ -46,8 +65,15 @@
       "remember": "Pinks on the legs, greens on the coat.",
       "swatches": [],
       "variants": [
-        { "label": "WWII officer service combination", "era": "ww2" },
-        { "label": "Army Green Service Uniform", "era": "modern", "note": "The modern revival of the look." }
+        {
+          "label": "WWII officer service combination",
+          "era": "ww2"
+        },
+        {
+          "label": "Army Green Service Uniform",
+          "era": "modern",
+          "note": "The modern revival of the look."
+        }
       ],
       "attachments": [],
       "proof": "unverified",
@@ -59,8 +85,12 @@
       "tab": "uniforms",
       "group": "Dress",
       "name": "Army Blue dress uniform",
-      "branches": ["Army"],
-      "eras": ["modern"],
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
       "yearFrom": null,
       "yearTo": null,
       "summary": "Dark blue formal uniform worn for formal and ceremonial occasions.",
@@ -77,99 +107,21 @@
       "image": null
     },
     {
-      "id": "m-army-commendation",
-      "tab": "medals",
-      "group": "Medals",
-      "name": "Army Commendation Medal",
-      "branches": ["Army"],
-      "eras": ["ww2", "korea", "vietnam", "coldwar", "gulf", "modern"],
-      "yearFrom": 1945,
-      "yearTo": null,
-      "summary": "Army award for heroism, meritorious achievement, or meritorious service.",
-      "facts": [
-        "Began in 1945 as the Army Commendation Ribbon",
-        "Became the Army Commendation Medal in 1960"
-      ],
-      "remember": "Ribbon 1945, medal 1960.",
-      "swatches": [],
-      "variants": [],
-      "attachments": [
-        {
-          "name": "Devices",
-          "note": "Devices that can be pinned on the ribbon.",
-          "variants": [
-            { "label": "Oak leaf cluster", "note": "Shows an additional award." },
-            { "label": "V device", "note": "Shows the award was earned for valor." }
-          ]
-        }
-      ],
-      "proof": "unverified",
-      "sources": [],
-      "image": null
-    },
-    {
-      "id": "m-oak-leaf-cluster",
-      "tab": "medals",
-      "group": "Devices",
-      "name": "Oak leaf cluster",
-      "branches": ["Army", "Air Force"],
-      "eras": ["ww2", "korea", "vietnam", "coldwar", "gulf", "modern"],
-      "yearFrom": null,
-      "yearTo": null,
-      "summary": "Small metal device pinned on a ribbon to show additional awards of the same medal.",
-      "facts": [
-        "Bronze oak leaf cluster: one additional award",
-        "Silver oak leaf cluster: five additional awards",
-        "Navy and Marine Corps use stars instead"
-      ],
-      "remember": "Oak leaves for Army and Air Force, stars for Navy and Marines.",
-      "swatches": [],
-      "variants": [
-        {
-          "label": "Bronze oak leaf cluster",
-          "note": "One additional award.",
-          "swatches": [{ "role": "Metal", "name": "Bronze", "hex": "#CD7F32" }]
-        },
-        {
-          "label": "Silver oak leaf cluster",
-          "note": "Five additional awards.",
-          "swatches": [{ "role": "Metal", "name": "Silver", "hex": "#C0C0C0" }]
-        }
-      ],
-      "attachments": [],
-      "proof": "unverified",
-      "sources": [],
-      "image": null
-    },
-    {
-      "id": "m-valor-device",
-      "tab": "medals",
-      "group": "Devices",
-      "name": "V device",
-      "branches": ["Army", "Navy", "Marine Corps", "Air Force", "Coast Guard"],
-      "eras": ["vietnam", "coldwar", "gulf", "modern"],
-      "yearFrom": null,
-      "yearTo": null,
-      "summary": "Small bronze letter V added to a ribbon to show the award was earned for valor.",
-      "facts": [
-        "Worn centered on the ribbon",
-        "Only authorized awards can carry it"
-      ],
-      "remember": "V stands for valor.",
-      "swatches": [],
-      "variants": [],
-      "attachments": [],
-      "proof": "unverified",
-      "sources": [],
-      "image": null
-    },
-    {
       "id": "b-sharpshooter",
       "tab": "badges",
       "group": "Marksmanship",
       "name": "Sharpshooter badge",
-      "branches": ["Army"],
-      "eras": ["ww2", "korea", "vietnam", "coldwar", "gulf", "modern"],
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
       "yearFrom": null,
       "yearTo": null,
       "summary": "Middle marksmanship qualification badge, above Marksman and below Expert. Weapon bars hang underneath.",
@@ -181,20 +133,44 @@
       "remember": "Sharpshooter is the middle rung.",
       "swatches": [],
       "variants": [
-        { "label": "Sharpshooter badge", "finish": "polished" },
-        { "label": "Sharpshooter badge", "finish": "subdued" }
+        {
+          "label": "Sharpshooter badge",
+          "finish": "polished"
+        },
+        {
+          "label": "Sharpshooter badge",
+          "finish": "subdued"
+        }
       ],
       "attachments": [
         {
           "name": "Qualification bars",
           "note": "Bar names and the full bar list still need to be checked.",
           "variants": [
-            { "label": "Rifle bar", "finish": "polished" },
-            { "label": "Rifle bar", "finish": "subdued" },
-            { "label": "Pistol bar", "finish": "polished" },
-            { "label": "Pistol bar", "finish": "subdued" },
-            { "label": "Machine gun bar", "finish": "polished" },
-            { "label": "Machine gun bar", "finish": "subdued" }
+            {
+              "label": "Rifle bar",
+              "finish": "polished"
+            },
+            {
+              "label": "Rifle bar",
+              "finish": "subdued"
+            },
+            {
+              "label": "Pistol bar",
+              "finish": "polished"
+            },
+            {
+              "label": "Pistol bar",
+              "finish": "subdued"
+            },
+            {
+              "label": "Machine gun bar",
+              "finish": "polished"
+            },
+            {
+              "label": "Machine gun bar",
+              "finish": "subdued"
+            }
           ]
         }
       ],
@@ -207,8 +183,17 @@
       "tab": "badges",
       "group": "Skill badges",
       "name": "Parachutist badge",
-      "branches": ["Army"],
-      "eras": ["ww2", "korea", "vietnam", "coldwar", "gulf", "modern"],
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
       "yearFrom": null,
       "yearTo": null,
       "summary": "Army jump badge in three levels: Basic, Senior, and Master.",
@@ -219,9 +204,15 @@
       "remember": "Basic, Senior, Master: the badge adds a star, then a wreath.",
       "swatches": [],
       "variants": [
-        { "label": "Basic Parachutist Badge" },
-        { "label": "Senior Parachutist Badge" },
-        { "label": "Master Parachutist Badge" }
+        {
+          "label": "Basic Parachutist Badge"
+        },
+        {
+          "label": "Senior Parachutist Badge"
+        },
+        {
+          "label": "Master Parachutist Badge"
+        }
       ],
       "attachments": [],
       "proof": "unverified",
@@ -233,8 +224,13 @@
       "tab": "ranks",
       "group": "Service stripes",
       "name": "Service stripes and overseas service",
-      "branches": ["Army"],
-      "eras": ["ww1", "modern"],
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "modern"
+      ],
       "yearFrom": null,
       "yearTo": null,
       "summary": "Sleeve marks that show length of service and time overseas. Each branch has its own rules.",
@@ -246,9 +242,23 @@
       "remember": "Stripes count years, bars and chevrons count overseas time.",
       "swatches": [],
       "variants": [
-        { "label": "Overseas service chevron", "era": "ww1", "note": "One chevron per six months overseas. Color to verify." },
-        { "label": "Service stripe", "era": "modern", "uniform": "Army dress", "note": "One stripe per three years. Color per uniform to verify." },
-        { "label": "Overseas service bar", "era": "modern", "uniform": "Army dress", "note": "One bar per six months overseas. Color per uniform to verify." }
+        {
+          "label": "Overseas service chevron",
+          "era": "ww1",
+          "note": "One chevron per six months overseas. Color to verify."
+        },
+        {
+          "label": "Service stripe",
+          "era": "modern",
+          "uniform": "Army dress",
+          "note": "One stripe per three years. Color per uniform to verify."
+        },
+        {
+          "label": "Overseas service bar",
+          "era": "modern",
+          "uniform": "Army dress",
+          "note": "One bar per six months overseas. Color per uniform to verify."
+        }
       ],
       "attachments": [],
       "proof": "unverified",
@@ -260,8 +270,12 @@
       "tab": "ranks",
       "group": "Skill tabs",
       "name": "Ranger tab",
-      "branches": ["Army"],
-      "eras": ["modern"],
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
       "yearFrom": null,
       "yearTo": null,
       "summary": "Tab worn above the unit patch by Ranger School graduates.",
@@ -277,8 +291,16 @@
           "era": "modern",
           "note": "Colors still need to be checked.",
           "swatches": [
-            { "role": "Field", "name": "Black", "hex": "#111111" },
-            { "role": "Letters", "name": "Yellow", "hex": "#F2C94C" }
+            {
+              "role": "Field",
+              "name": "Black",
+              "hex": "#111111"
+            },
+            {
+              "role": "Letters",
+              "name": "Yellow",
+              "hex": "#F2C94C"
+            }
           ]
         }
       ],
@@ -292,8 +314,13 @@
       "tab": "ranks",
       "group": "Skill tabs",
       "name": "Airborne tab",
-      "branches": ["Army"],
-      "eras": ["ww2", "modern"],
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2",
+        "modern"
+      ],
       "yearFrom": null,
       "yearTo": null,
       "summary": "Tab worn above the unit patch by airborne-qualified soldiers.",
@@ -304,8 +331,16 @@
       "remember": null,
       "swatches": [],
       "variants": [
-        { "label": "Airborne tab", "era": "ww2", "note": "Era color to verify." },
-        { "label": "Airborne tab", "era": "modern", "note": "Era color to verify." }
+        {
+          "label": "Airborne tab",
+          "era": "ww2",
+          "note": "Era color to verify."
+        },
+        {
+          "label": "Airborne tab",
+          "era": "modern",
+          "note": "Era color to verify."
+        }
       ],
       "attachments": [],
       "proof": "unverified",
@@ -317,8 +352,12 @@
       "tab": "ranks",
       "group": "Rank insignia",
       "name": "Sergeant (E-5)",
-      "branches": ["Army"],
-      "eras": ["modern"],
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
       "yearFrom": null,
       "yearTo": null,
       "summary": "Army enlisted rank insignia, shown per uniform and per gender.",
@@ -329,13 +368,2718 @@
       "remember": null,
       "swatches": [],
       "variants": [
-        { "label": "Sleeve insignia", "uniform": "Army Green Service", "gender": "male", "note": "Color to verify." },
-        { "label": "Sleeve insignia", "uniform": "Army Green Service", "gender": "female", "note": "Color and size to verify." },
-        { "label": "Chest insignia", "uniform": "Combat uniform", "gender": "any", "note": "Subdued color. Details to verify." }
+        {
+          "label": "Sleeve insignia",
+          "uniform": "Army Green Service",
+          "gender": "male",
+          "note": "Color to verify."
+        },
+        {
+          "label": "Sleeve insignia",
+          "uniform": "Army Green Service",
+          "gender": "female",
+          "note": "Color and size to verify."
+        },
+        {
+          "label": "Chest insignia",
+          "uniform": "Combat uniform",
+          "gender": "any",
+          "note": "Subdued color. Details to verify."
+        }
       ],
       "attachments": [],
       "proof": "unverified",
       "sources": [],
+      "image": null
+    },
+    {
+      "id": "m-moh",
+      "tab": "medals",
+      "group": "Decorations",
+      "name": "Medal of Honor",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1862,
+      "yearTo": null,
+      "summary": "Conspicuous gallantry and intrepidity at the risk of life, above and beyond the call of duty, in action against an enemy.",
+      "facts": [
+        "Established by Joint Resolution of Congress, 12 July 1862 (10 USC 7271)",
+        "Category: valor",
+        "V and C devices are not authorized (table 3-1, note 1)"
+      ],
+      "remember": "1862, from Congress. No V needed.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 3-9",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-dsc",
+      "tab": "medals",
+      "group": "Decorations",
+      "name": "Distinguished Service Cross",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1918,
+      "yearTo": null,
+      "summary": "Extraordinary heroism in action against an enemy or in armed conflict that does not justify the Medal of Honor.",
+      "facts": [
+        "Established by Act of Congress, 9 July 1918 (10 USC 7272)",
+        "Category: valor",
+        "V and C devices are not authorized (table 3-1, note 1)"
+      ],
+      "remember": "DSC, DSM, and Silver Star share one birthday: 9 July 1918.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 3-10",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-dsm",
+      "tab": "medals",
+      "group": "Decorations",
+      "name": "Distinguished Service Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1918,
+      "yearTo": null,
+      "summary": "Exceptionally meritorious service in a duty of great responsibility.",
+      "facts": [
+        "Established by Act of Congress, 9 July 1918 (10 USC 7273)",
+        "The C device may be added for service under combat conditions, on or after 7 Jan 2016"
+      ],
+      "remember": "DSC, DSM, and Silver Star share one birthday: 9 July 1918.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "C device",
+          "note": "Meritorious service or achievement under combat conditions, on or after 7 Jan 2016 (para 6-6).",
+          "variants": []
+        },
+        {
+          "name": "Oak leaf cluster",
+          "note": "Second and later awards (para 1-22, 6-3).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 3-11",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-silver-star",
+      "tab": "medals",
+      "group": "Decorations",
+      "name": "Silver Star",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1918,
+      "yearTo": null,
+      "summary": "Gallantry in action with marked distinction against an enemy, not warranting the Medal of Honor or the Distinguished Service Cross.",
+      "facts": [
+        "Established by Act of Congress, 9 July 1918 (10 USC 7276)",
+        "Category: valor",
+        "V and C devices are not authorized (table 3-1, note 1)"
+      ],
+      "remember": "DSC, DSM, and Silver Star share one birthday: 9 July 1918.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 3-12",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-lom",
+      "tab": "medals",
+      "group": "Decorations",
+      "name": "Legion of Merit",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1942,
+      "yearTo": null,
+      "summary": "Exceptionally meritorious conduct in outstanding services and achievements.",
+      "facts": [
+        "Established by Act of Congress, 20 July 1942 (10 USC 1121)",
+        "C device: combat conditions, on or after 7 Jan 2016 (para 3-13d)",
+        "R device: specific achievement (para 3-13e)"
+      ],
+      "remember": "1942. Takes C or R, never V.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "C device",
+          "note": "Meritorious service or achievement under combat conditions, on or after 7 Jan 2016 (para 6-6).",
+          "variants": []
+        },
+        {
+          "name": "R device",
+          "note": "Specific meritorious achievement, on or after 7 Jan 2016 (para 6-7).",
+          "variants": []
+        },
+        {
+          "name": "Oak leaf cluster",
+          "note": "Second and later awards (para 1-22, 6-3).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 3-13",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-dfc",
+      "tab": "medals",
+      "group": "Decorations",
+      "name": "Distinguished Flying Cross",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1926,
+      "yearTo": null,
+      "summary": "Heroism or extraordinary achievement while participating in aerial flight, for single acts.",
+      "facts": [
+        "Established by Act of Congress, 2 July 1926 (10 USC 7279)",
+        "When awarded for valor on or after 7 Jan 2016, a bronze V is worn",
+        "The C device may also be awarded"
+      ],
+      "remember": "DFC and Soldier's Medal share one birthday: 2 July 1926.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "V device",
+          "note": "Valor: acts of heroism involving conflict with an armed enemy (para 6-5).",
+          "variants": []
+        },
+        {
+          "name": "C device",
+          "note": "Meritorious service or achievement under combat conditions, on or after 7 Jan 2016 (para 6-6).",
+          "variants": []
+        },
+        {
+          "name": "Oak leaf cluster",
+          "note": "Second and later awards (para 1-22, 6-3).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 3-14",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-soldiers-medal",
+      "tab": "medals",
+      "group": "Decorations",
+      "name": "Soldier's Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1926,
+      "yearTo": null,
+      "summary": "Heroism involving clearly recognizable personal hazard, not involving conflict with an armed enemy.",
+      "facts": [
+        "Established by Act of Congress, 2 July 1926 (10 USC 7280)",
+        "Because it is only for noncombat heroism, V and C devices are not authorized (para 3-15f)"
+      ],
+      "remember": "No enemy, so no V. Born with the DFC: 2 July 1926.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Oak leaf cluster",
+          "note": "Second and later awards (para 1-22, 6-3).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 3-15",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-bsm",
+      "tab": "medals",
+      "group": "Decorations",
+      "name": "Bronze Star Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1944,
+      "yearTo": null,
+      "summary": "Heroic or meritorious achievement or service, not involving aerial flight, under combat or hostile conditions.",
+      "facts": [
+        "Established by Executive Order 9419, 4 February 1944",
+        "When awarded for valor, a bronze V is worn",
+        "The C device is not authorized (para 3-16f)"
+      ],
+      "remember": "1944. V for valor, never C.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "V device",
+          "note": "Valor: acts of heroism involving conflict with an armed enemy (para 6-5).",
+          "variants": []
+        },
+        {
+          "name": "Oak leaf cluster",
+          "note": "Second and later awards (para 1-22, 6-3).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 3-16",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-msm",
+      "tab": "medals",
+      "group": "Decorations",
+      "name": "Meritorious Service Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1969,
+      "yearTo": null,
+      "summary": "Outstanding meritorious achievement or service.",
+      "facts": [
+        "Established by Executive Order 11448, 16 January 1969",
+        "The R device may be added for specific achievement",
+        "The C device is not authorized (para 3-17d)"
+      ],
+      "remember": "1969. R yes, C never.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "R device",
+          "note": "Specific meritorious achievement, on or after 7 Jan 2016 (para 6-7).",
+          "variants": []
+        },
+        {
+          "name": "Oak leaf cluster",
+          "note": "Second and later awards (para 1-22, 6-3).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 3-17",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-air-medal",
+      "tab": "medals",
+      "group": "Decorations",
+      "name": "Air Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1942,
+      "yearTo": null,
+      "summary": "Meritorious achievement while participating in aerial flight, including valor, single acts, and sustained service.",
+      "facts": [
+        "Established by Executive Order 9158, 11 May 1942",
+        "When awarded for valor, a bronze V is worn (para 3-18e)",
+        "The C device may be added, on or after 7 Jan 2016 (para 3-18f)",
+        "Second and later awards use numerals, not oak leaf clusters"
+      ],
+      "remember": "1942. Flying. Numerals, not clusters.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "V device",
+          "note": "Valor: acts of heroism involving conflict with an armed enemy (para 6-5).",
+          "variants": []
+        },
+        {
+          "name": "C device",
+          "note": "Meritorious service or achievement under combat conditions, on or after 7 Jan 2016 (para 6-6).",
+          "variants": []
+        },
+        {
+          "name": "Numeral",
+          "note": "Second and later awards (para 6-4).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 3-18",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-arcom",
+      "tab": "medals",
+      "group": "Decorations",
+      "name": "Army Commendation Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1945,
+      "yearTo": null,
+      "summary": "Heroism, meritorious achievement, or meritorious service while serving with the Army after 6 December 1941.",
+      "facts": [
+        "Established by War Department Circular 377, 18 December 1945",
+        "A bronze V is worn for valor (para 3-19d)",
+        "C device: on or after 7 Jan 2016 (para 3-19e)",
+        "R device: specific achievement (para 3-19f)"
+      ],
+      "remember": "1945. V, C, and R are all allowed.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "V device",
+          "note": "Valor: acts of heroism involving conflict with an armed enemy (para 6-5).",
+          "variants": []
+        },
+        {
+          "name": "C device",
+          "note": "Meritorious service or achievement under combat conditions, on or after 7 Jan 2016 (para 6-6).",
+          "variants": []
+        },
+        {
+          "name": "R device",
+          "note": "Specific meritorious achievement, on or after 7 Jan 2016 (para 6-7).",
+          "variants": []
+        },
+        {
+          "name": "Oak leaf cluster",
+          "note": "Second and later awards (para 1-22, 6-3).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 3-19",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-aam",
+      "tab": "medals",
+      "group": "Decorations",
+      "name": "Army Achievement Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1981,
+      "yearTo": null,
+      "summary": "Meritorious service or achievement of a lesser degree than required for the Army Commendation Medal.",
+      "facts": [
+        "Established by the Secretary of the Army, 10 April 1981 (AGO 1990-15)",
+        "C device: on or after 7 Jan 2016 (para 3-20e)",
+        "R device: specific achievement, on or after 7 Jan 2016 (para 3-20f)",
+        "No V device rule is stated for this medal"
+      ],
+      "remember": "1981. One step below the ARCOM.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "C device",
+          "note": "Meritorious service or achievement under combat conditions, on or after 7 Jan 2016 (para 6-6).",
+          "variants": []
+        },
+        {
+          "name": "R device",
+          "note": "Specific meritorious achievement, on or after 7 Jan 2016 (para 6-7).",
+          "variants": []
+        },
+        {
+          "name": "Oak leaf cluster",
+          "note": "Second and later awards (para 1-22, 6-3).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 3-20",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-purple-heart",
+      "tab": "medals",
+      "group": "Decorations",
+      "name": "Purple Heart",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1782,
+      "yearTo": null,
+      "summary": "Awarded in the President's name for wounds or death in listed hostile and friendly-fire circumstances when treatment was required.",
+      "facts": [
+        "Originally established by General George Washington at Newburgh, NY, on 7 August 1782",
+        "An oak leaf cluster marks each subsequent award",
+        "Multiple wounds from the same instant or source count as one award"
+      ],
+      "remember": "Washington started it in 1782. One cluster per later award.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Oak leaf cluster",
+          "note": "Second and later awards (para 1-22, 6-3).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-7",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-defense-dsm",
+      "tab": "medals",
+      "group": "Decorations",
+      "name": "Defense Distinguished Service Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1970,
+      "yearTo": null,
+      "summary": "Department of Defense award for exceptional performance and contributions at the highest levels of responsibility.",
+      "facts": [
+        "Established by Executive Order 11545, 9 July 1970",
+        "Awarded by the Secretary of Defense to officers"
+      ],
+      "remember": "1970. Defense-level, for officers.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-2",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-defense-superior",
+      "tab": "medals",
+      "group": "Decorations",
+      "name": "Defense Superior Service Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1976,
+      "yearTo": null,
+      "summary": "Department of Defense award for superior service in a position of significant responsibility.",
+      "facts": [
+        "Established by Executive Order 11904, 6 February 1976",
+        "Service after 6 February 1976 qualifies"
+      ],
+      "remember": "1976. Defense-level.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-3",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-defense-meritorious",
+      "tab": "medals",
+      "group": "Decorations",
+      "name": "Defense Meritorious Service Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1977,
+      "yearTo": null,
+      "summary": "Department of Defense award for noncombat meritorious achievement or service.",
+      "facts": [
+        "Established by Executive Order 12019, 3 November 1977",
+        "The Bronze Star Medal covers combat-level achievement instead"
+      ],
+      "remember": "1977. Noncombat. Combat goes to the BSM.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-4",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-jscm",
+      "tab": "medals",
+      "group": "Decorations",
+      "name": "Joint Service Commendation Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1963,
+      "yearTo": null,
+      "summary": "Secretary of Defense award for meritorious achievement or service in a joint assignment.",
+      "facts": [
+        "Authorized by the Secretary of Defense, 25 June 1963",
+        "Service after 1 January 1963 qualifies"
+      ],
+      "remember": "Authorized June 1963.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-5",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-jsam",
+      "tab": "medals",
+      "group": "Decorations",
+      "name": "Joint Service Achievement Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1983,
+      "yearTo": null,
+      "summary": "Secretary of Defense award to members below O-6 for outstanding performance and meritorious achievement.",
+      "facts": [
+        "Authorized by the Secretary of Defense, 3 August 1983",
+        "Service after 3 August 1983 qualifies"
+      ],
+      "remember": "Authorized August 1983, below O-6.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-6",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-agcm",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "Army Good Conduct Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1941,
+      "yearTo": null,
+      "summary": "Exemplary behavior, efficiency, and fidelity during continuous enlisted active federal service.",
+      "facts": [
+        "Established by Executive Order 8809, 28 June 1941, amended by EO 9323 and EO 10444 (10 April 1953)",
+        "Each qualifying period is 3 years (para 4-5)",
+        "An AGCM clasp is referenced in para 4-5 (see appendix E)"
+      ],
+      "remember": "Established June 1941. Three years per award.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 4-1, 4-5",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-arcam",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "Army Reserve Components Achievement Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1971,
+      "yearTo": null,
+      "summary": "Exemplary behavior, efficiency, and fidelity in Reserve Component service.",
+      "facts": [
+        "Established by the Secretary of the Army, 3 March 1971 (AGO 1971-30)",
+        "Three qualifying years in a National Guard unit, Troop Program Unit, or as an IMA (para 4-15)",
+        "Oak leaf clusters mark second and succeeding awards (para 4-18)"
+      ],
+      "remember": "March 1971. Reserve and Guard version of good conduct.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Oak leaf cluster",
+          "note": "Second and later awards (para 1-22, 6-3).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 4-11",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-pow",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "Prisoner of War Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1917,
+      "yearTo": null,
+      "summary": "For anyone serving with U.S. Armed Forces who was taken prisoner and held captive after 5 April 1917 under listed circumstances.",
+      "facts": [
+        "Criteria are codified in 10 USC 1128",
+        "One medal only; service stars mark subsequent awards"
+      ],
+      "remember": "Captured after 5 April 1917.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-9",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-ndsm",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "National Defense Service Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1950,
+      "yearTo": 2022,
+      "summary": "Honorable active service during any of four listed periods.",
+      "facts": [
+        "Established by Executive Order 10448, 22 April 1953",
+        "Periods: 27 Jun 1950 to 27 Jul 1954 (Korea)",
+        "1 Jan 1961 to 14 Aug 1974 (Vietnam)",
+        "2 Aug 1990 to 30 Nov 1995 (Persian Gulf)",
+        "11 Sep 2001 to 30 Dec 2022 (GWOT)",
+        "A bronze service star marks a second or subsequent award"
+      ],
+      "remember": "Four wars: Korea, Vietnam, Gulf, GWOT.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Bronze service star",
+          "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-10",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-antarctica",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "Antarctica Service Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1946,
+      "yearTo": null,
+      "summary": "Participation in U.S. Antarctic expeditions or support after 2 January 1946 under listed qualifications.",
+      "facts": [
+        "Established by PL 86-600 (DA Bulletin 3, 1960)",
+        "A Wintered Over clasp and disc: bronze for the first winter, gold for the second, silver for three or more",
+        "One clasp or disc is worn on the ribbon"
+      ],
+      "remember": "Bronze, gold, silver: first, second, third winter.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Wintered Over clasp and disc",
+          "note": "Bronze first winter, gold second, silver three or more (para 2-11).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-11",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-afem",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "Armed Forces Expeditionary Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1958,
+      "yearTo": null,
+      "summary": "Participation in designated U.S. operations after 1 July 1958 with foreign armed opposition or imminent hostile action.",
+      "facts": [
+        "Established by Executive Order 10977, 4 December 1961",
+        "A bronze service star marks each succeeding operation in a different theater or against a different enemy"
+      ],
+      "remember": "Eligibility starts 1 July 1958.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Bronze service star",
+          "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-12",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-vsm",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "Vietnam Service Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "vietnam",
+        "coldwar"
+      ],
+      "yearFrom": 1965,
+      "yearTo": 1973,
+      "summary": "Service in Vietnam and contiguous waters or airspace under listed qualifications.",
+      "facts": [
+        "Established by Executive Order 11231, 8 July 1965, amended by EO 13286, 2 February 2003",
+        "Eligible 3 July 1965 to 28 March 1973",
+        "One bronze service star per campaign under listed conditions"
+      ],
+      "remember": "3 July 1965 to 28 March 1973.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Bronze service star",
+          "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-13",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-swasm",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "Southwest Asia Service Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1990,
+      "yearTo": 1995,
+      "summary": "Service in Southwest Asia and contiguous areas.",
+      "facts": [
+        "Established by Executive Order 12754, 12 March 1991",
+        "Eligible 2 August 1990 to 30 November 1995",
+        "One bronze service star per designated campaign"
+      ],
+      "remember": "2 Aug 1990 to 30 Nov 1995.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Bronze service star",
+          "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-14",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-kcm",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "Kosovo Campaign Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "yearFrom": 1999,
+      "yearTo": 2013,
+      "summary": "Participation in or direct support of listed Kosovo operations.",
+      "facts": [
+        "Established by Executive Order 13154, 3 May 2000",
+        "Eligible 24 March 1999 to 31 December 2013",
+        "One bronze star per campaign; a second star requires both campaigns"
+      ],
+      "remember": "24 Mar 1999 to 31 Dec 2013.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Bronze service star",
+          "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-15",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-acm",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "Afghanistan Campaign Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "yearFrom": 2001,
+      "yearTo": 2021,
+      "summary": "Direct support of Operation Enduring Freedom or Freedom's Sentinel in Afghanistan, meeting time or combat criteria.",
+      "facts": [
+        "Authorized by PL 108-234 (28 May 2004) and EO 13363 (29 November 2004)",
+        "Eligible 11 September 2001 to 31 August 2021",
+        "The medal is awarded once; a bronze star marks each designated campaign"
+      ],
+      "remember": "11 Sep 2001 to 31 Aug 2021.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Bronze service star",
+          "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-16",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-icm",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "Iraq Campaign Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "yearFrom": 2003,
+      "yearTo": 2011,
+      "summary": "Service in the Iraq area in direct support of Operation Iraqi Freedom or New Dawn, meeting time or combat criteria.",
+      "facts": [
+        "Authorized by PL 108-234 (28 May 2004) and EO 13363 (29 November 2004)",
+        "Eligible 19 March 2003 to 31 December 2011",
+        "The medal is awarded once; a bronze star marks each designated service"
+      ],
+      "remember": "19 Mar 2003 to 31 Dec 2011.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Bronze service star",
+          "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-17",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-ircm",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "Inherent Resolve Campaign Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "yearFrom": 2014,
+      "yearTo": null,
+      "summary": "Qualifying service in Iraq and Syria (later Syria only) on or after 15 June 2014.",
+      "facts": [
+        "Established by Executive Order 13723, 30 March 2016",
+        "Meets 30-day or combat, evacuation, or aircrew criteria",
+        "A separate bronze campaign star for each designated phase; presented only on the initial award"
+      ],
+      "remember": "Starts 15 June 2014. Star per phase.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Bronze service star",
+          "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-18",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-gwotem",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "Global War on Terrorism Expeditionary Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "yearFrom": 2001,
+      "yearTo": null,
+      "summary": "Deployed abroad for service in the Global War on Terrorism in an approved area, meeting time or combat criteria.",
+      "facts": [
+        "Established by Executive Order 13289, 12 March 2003",
+        "On or after 11 September 2001, to a date to be determined",
+        "A bronze star marks separate deployments in different named operations"
+      ],
+      "remember": "On or after 11 Sep 2001. Deployed abroad.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Bronze service star",
+          "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-19",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-gwotsm",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "Global War on Terrorism Service Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "yearFrom": 2001,
+      "yearTo": 2022,
+      "summary": "Support of approved GWOT operations outside the area of eligibility, or of designated counterterrorism operations.",
+      "facts": [
+        "Established by Executive Order 13289, 12 March 2003",
+        "Serving on or after 11 September 2001 through 10 September 2022",
+        "Only one award per person; no subsequent stars"
+      ],
+      "remember": "11 Sep 2001 to 10 Sep 2022. Service, not deployed.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-20",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-kdsm",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "Korea Defense Service Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1954,
+      "yearTo": null,
+      "summary": "Active duty in support of the defense of the Republic of Korea.",
+      "facts": [
+        "Authorized by 10 USC 7286, 8308, and 9286",
+        "From 28 July 1954 to a date to be determined",
+        "One award only; the Overseas Service Ribbon may also be awarded"
+      ],
+      "remember": "Starts 28 Jul 1954, the day after the Korean Service Medal period ends.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-21",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-afsm",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "Armed Forces Service Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "yearFrom": 1992,
+      "yearTo": null,
+      "summary": "Participation in a designated significant U.S. operation after 1 June 1992 with no foreign armed opposition.",
+      "facts": [
+        "Established by Executive Order 12985, 11 January 1996",
+        "A bronze star marks service in different designated areas; no two awards for the same area"
+      ],
+      "remember": "After 1 June 1992. No armed opposition.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Bronze service star",
+          "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-22",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-hsm",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "Humanitarian Service Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1975,
+      "yearTo": null,
+      "summary": "Meritorious direct participation in an approved significant humanitarian operation, physically present at the relief site.",
+      "facts": [
+        "Established by Executive Order 11965, 19 January 1977",
+        "Service after 1 April 1975 qualifies"
+      ],
+      "remember": "Established 1977, counts from 1 Apr 1975.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-23",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-movsm",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "Military Outstanding Volunteer Service Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "yearFrom": 1993,
+      "yearTo": null,
+      "summary": "Outstanding voluntary, sustained, direct community service.",
+      "facts": [
+        "Established by Executive Order 12830, 9 January 1993, amended by EO 13286 (28 February 2003)",
+        "Service after 31 December 1992 qualifies",
+        "Bronze stars mark subsequent awards; worn immediately after the Humanitarian Service Medal"
+      ],
+      "remember": "Starts 1993. Worn right after the HSM.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Bronze service star",
+          "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-24",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-afrm",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "Armed Forces Reserve Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1950,
+      "yearTo": null,
+      "summary": "Ten years of honorable Reserve service within 12 consecutive years, or specified contingency active duty.",
+      "facts": [
+        "Established as announced in DA Bulletin 15, 1950",
+        "Bronze, silver, and gold hourglasses mark each 10-year period",
+        "An M device marks specified contingency active duty"
+      ],
+      "remember": "1950. Hourglass per 10 years, M for mobilized.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Hourglass device",
+          "note": "Bronze, silver, and gold for 10-year periods (para 2-26).",
+          "variants": []
+        },
+        {
+          "name": "M device",
+          "note": "Active duty for designated operations; numbering begins with the second award (para 6-9).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-26",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-ksm",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "Korean Service Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "korea",
+        "coldwar"
+      ],
+      "yearFrom": 1950,
+      "yearTo": 1954,
+      "summary": "Service in or in support of Korea under listed conditions.",
+      "facts": [
+        "Established by Executive Order 10179, 8 November 1950, amended by EO 13286 (28 February 2003)",
+        "Eligible 27 June 1950 to 27 July 1954",
+        "Bronze star per campaign; arrowhead for a listed assault or jump"
+      ],
+      "remember": "27 Jun 1950 to 27 Jul 1954.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Bronze service star",
+          "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+          "variants": []
+        },
+        {
+          "name": "Arrowhead",
+          "note": "Assault landing by parachute, helicopter, glider, or amphibious assault (para 6-12).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-27",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-humane-action",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "Medal of Humane Action",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "coldwar"
+      ],
+      "yearFrom": 1948,
+      "yearTo": 1949,
+      "summary": "At least 120 days in the Berlin Airlift or in direct support, within prescribed boundaries.",
+      "facts": [
+        "Established by Act of Congress, 20 July 1949",
+        "Eligible 26 June 1948 to 30 September 1949",
+        "The Berlin Airlift device is worn by listed Army units"
+      ],
+      "remember": "Berlin Airlift: 120 days, 1948 to 1949.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Berlin Airlift device",
+          "note": "Gold-colored C-54 miniature (para 6-13).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-28",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-wwii-victory",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "World War II Victory Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2",
+        "coldwar"
+      ],
+      "yearFrom": 1941,
+      "yearTo": 1946,
+      "summary": "Service between 7 December 1941 and 31 December 1946, inclusive.",
+      "facts": [
+        "Established by Act of Congress, 6 July 1945 (59 Stat 461)"
+      ],
+      "remember": "7 Dec 1941 to 31 Dec 1946.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-29",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-eame",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "European-African-Middle Eastern Campaign Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2"
+      ],
+      "yearFrom": 1941,
+      "yearTo": 1945,
+      "summary": "Service in the European-African-Middle Eastern Theater under listed conditions.",
+      "facts": [
+        "Established by Executive Order 9265, announced in War Department Bulletin 56, 1942",
+        "Eligible 7 December 1941 to 8 November 1945",
+        "One bronze star per campaign; arrowhead for a listed assault or jump"
+      ],
+      "remember": "7 Dec 1941 to 8 Nov 1945.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Bronze service star",
+          "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+          "variants": []
+        },
+        {
+          "name": "Arrowhead",
+          "note": "Assault landing by parachute, helicopter, glider, or amphibious assault (para 6-12).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-30",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-apc",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "Asiatic-Pacific Campaign Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2",
+        "coldwar"
+      ],
+      "yearFrom": 1941,
+      "yearTo": 1946,
+      "summary": "Service in the Asiatic-Pacific Theater under listed conditions.",
+      "facts": [
+        "Established by Executive Order 9265 (War Department Bulletin 56, 6 November 1942)",
+        "Eligible 7 December 1941 to 2 March 1946",
+        "One bronze star per campaign; arrowhead for a listed assault or jump"
+      ],
+      "remember": "7 Dec 1941 to 2 Mar 1946.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Bronze service star",
+          "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+          "variants": []
+        },
+        {
+          "name": "Arrowhead",
+          "note": "Assault landing by parachute, helicopter, glider, or amphibious assault (para 6-12).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-31",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-american-campaign",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "American Campaign Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2",
+        "coldwar"
+      ],
+      "yearFrom": 1941,
+      "yearTo": 1946,
+      "summary": "Service in the American Theater under listed conditions.",
+      "facts": [
+        "Established by Executive Order 9265 (War Department Bulletin 56, 1942)",
+        "Eligible 7 December 1941 to 2 March 1946",
+        "A bronze service star marks participation in the antisubmarine campaign (para 2-32c)"
+      ],
+      "remember": "7 Dec 1941 to 2 Mar 1946. Home theater.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Bronze service star",
+          "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-32",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-wac",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "Women's Army Corps Service Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2"
+      ],
+      "yearFrom": 1942,
+      "yearTo": 1945,
+      "summary": "Service in the Women's Army Auxiliary Corps or the Women's Army Corps.",
+      "facts": [
+        "Established by Executive Order 9365, announced in War Department Bulletin 17, 1943",
+        "WAAC: July 1942 to August 1943",
+        "WAC: September 1943 to September 1945"
+      ],
+      "remember": "WAAC 1942 to 1943, then WAC to 1945.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-33",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-adsm",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "American Defense Service Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2"
+      ],
+      "yearFrom": 1939,
+      "yearTo": 1941,
+      "summary": "Service from 8 September 1939 to 7 December 1941 under orders to active duty for 12 months or longer.",
+      "facts": [
+        "Established by Executive Order 8808, announced in War Department Bulletin 17, 1941",
+        "A Foreign Service clasp marks service outside the continental U.S.; a bronze service star on the ribbon shows it"
+      ],
+      "remember": "Before Pearl Harbor: Sep 1939 to Dec 1941.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Foreign Service clasp",
+          "note": "Service outside the continental U.S. (para 2-34).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-34",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-aom",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "Army of Occupation Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf"
+      ],
+      "yearFrom": 1945,
+      "yearTo": 1990,
+      "summary": "30 consecutive days at a normal post of duty in a listed occupation area and period.",
+      "facts": [
+        "Established by War Department General Orders 32, 1946",
+        "Germany (exclusive of Berlin): 9 May 1945 to 5 May 1955",
+        "Austria: 9 May 1945 to 27 July 1955; Berlin: 9 May 1945 to 2 October 1990",
+        "Italy: 9 May 1945 to 15 September 1947 (listed area)",
+        "Japan: 3 September 1945 to 27 April 1952; Korea: 3 September 1945 to 29 June 1949",
+        "Clasps read Germany (Europe) or Japan (Far East); no other inscriptions are authorized"
+      ],
+      "remember": "Germany clasp for Europe, Japan clasp for the Far East.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Germany or Japan clasp",
+          "note": "Europe service wears Germany; Far East service wears Japan (para 5-8b).",
+          "variants": []
+        },
+        {
+          "name": "Berlin Airlift device",
+          "note": "Gold-colored C-54 miniature (para 6-13).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 5-8",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-aoo-germany",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "Army of Occupation of Germany Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "interwar"
+      ],
+      "yearFrom": 1918,
+      "yearTo": 1923,
+      "summary": "Service in Germany or Austria-Hungary after World War I.",
+      "facts": [
+        "Established by Act of Congress, 21 November 1941 (55 Stat 781)",
+        "Eligible 12 November 1918 to 11 July 1923"
+      ],
+      "remember": "Established 1941 for service 1918 to 1923.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 5-9",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-wwi-victory",
+      "tab": "medals",
+      "group": "Service medals",
+      "name": "World War I Victory Medal",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1"
+      ],
+      "yearFrom": 1917,
+      "yearTo": 1918,
+      "summary": "Service from 6 April 1917 to 11 November 1918, or with listed expeditions.",
+      "facts": [
+        "Established by War Department General Order 48, 1919",
+        "Battle clasps, service clasps, and service stars are authorized appurtenances"
+      ],
+      "remember": "6 Apr 1917 to 11 Nov 1918. Clasps show the battles.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Battle and service clasps",
+          "note": "Authorized on this medal (para 5-10; details in chapter 6).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 5-10",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-osr",
+      "tab": "medals",
+      "group": "Ribbons",
+      "name": "Overseas Service Ribbon",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1981,
+      "yearTo": null,
+      "summary": "Successfully completing an overseas tour under AR 614-30.",
+      "facts": [
+        "Established by the Secretary of the Army, 10 April 1981, as announced in AGO 1990-15",
+        "Numerals mark second and later awards"
+      ],
+      "remember": "April 1981. Numerals for repeats.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Numeral",
+          "note": "Second and later awards (para 6-4).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 5-4",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-asr",
+      "tab": "medals",
+      "group": "Ribbons",
+      "name": "Army Service Ribbon",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1981,
+      "yearTo": null,
+      "summary": "Completing initial military training, or 4 months of service for a civilian-skilled MOS or AOC.",
+      "facts": [
+        "Established by the Secretary of the Army, 10 April 1981, as announced in AGO 1990-15",
+        "Only one award is authorized"
+      ],
+      "remember": "April 1981. One time only.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 5-5",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-ncopdr",
+      "tab": "medals",
+      "group": "Ribbons",
+      "name": "Noncommissioned Officer Professional Development Ribbon",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1981,
+      "yearTo": null,
+      "summary": "Completing designated NCO professional development courses.",
+      "facts": [
+        "Established by the Secretary of the Army, 10 April 1981, as announced in AGO 1990-15",
+        "Numerals 2 to 6 show the highest completed level"
+      ],
+      "remember": "April 1981. The numeral is your highest level.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Numeral",
+          "note": "2 to 6 shows the highest level completed (para 5-6).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 5-6",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-arcotr",
+      "tab": "medals",
+      "group": "Ribbons",
+      "name": "Army Reserve Components Overseas Training Ribbon",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1984,
+      "yearTo": null,
+      "summary": "Completing at least 10 consecutive duty days of annual training or active duty training on foreign soil.",
+      "facts": [
+        "Established by the Secretary of the Army, 11 July 1984, as announced in AGO 1990-15",
+        "Numerals mark second and later awards"
+      ],
+      "remember": "July 1984. Reserve and Guard, on foreign soil.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Numeral",
+          "note": "Second and later awards (para 6-4).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 5-3",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-asdr",
+      "tab": "medals",
+      "group": "Ribbons",
+      "name": "Army Sea Duty Ribbon",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "yearFrom": 2006,
+      "yearTo": null,
+      "summary": "720 days of qualified sea duty on Army vessels, or 30 consecutive days on qualifying vessels in a combat zone for the first award.",
+      "facts": [
+        "Approved by the Principal Deputy ASA (M&RA), 17 April 2006",
+        "A service star marks each additional 2 years, up to 20 years",
+        "A gold star marks the tenth and final award"
+      ],
+      "remember": "April 2006. Gold star on the tenth award.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Bronze service star",
+          "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+          "variants": []
+        },
+        {
+          "name": "Gold star",
+          "note": "Tenth and final award, 20 years of sea service (para 6-15).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 5-7",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-recruiting",
+      "tab": "medals",
+      "group": "Ribbons",
+      "name": "Army Recruiting Ribbon",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "yearFrom": null,
+      "yearTo": null,
+      "summary": "Providing a valid referral of an applicant who enlists and ships to initial training.",
+      "facts": [
+        "Numerals mark additional awards, up to four awards",
+        "The regulation text does not state an establishment date"
+      ],
+      "remember": "Four awards at most.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Numeral",
+          "note": "Additional awards, up to four (para 2-25).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-25",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-puc",
+      "tab": "medals",
+      "group": "Unit awards",
+      "name": "Presidential Unit Citation",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1941,
+      "yearTo": null,
+      "summary": "Units showing extraordinary heroism against an armed enemy on or after 7 December 1941.",
+      "facts": [
+        "On 3 November 1966 the Distinguished Unit Citation was redesignated the PUC",
+        "The Secretary of the Army is final approval authority on behalf of the President",
+        "An oak leaf cluster marks repeat awards"
+      ],
+      "remember": "Distinguished Unit Citation became the PUC in 1966.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Oak leaf cluster",
+          "note": "Second and later awards (para 1-22, 6-3).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 7-12",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-vua",
+      "tab": "medals",
+      "group": "Unit awards",
+      "name": "Valorous Unit Award",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1963,
+      "yearTo": null,
+      "summary": "Units showing extraordinary heroism in conflict, for actions on or after 3 August 1963.",
+      "facts": [
+        "Approval authority: the Deputy Chief of Staff, G-1",
+        "An oak leaf cluster marks repeat awards"
+      ],
+      "remember": "Valor for units, from 3 Aug 1963.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Oak leaf cluster",
+          "note": "Second and later awards (para 1-22, 6-3).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 7-13",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-muc",
+      "tab": "medals",
+      "group": "Unit awards",
+      "name": "Meritorious Unit Commendation (Army)",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1944,
+      "yearTo": null,
+      "summary": "Units with exceptionally meritorious conduct in outstanding services during military operations against an armed enemy.",
+      "facts": [
+        "For operations on or after 1 January 1944",
+        "Approval authority: the Deputy Chief of Staff, G-1",
+        "An oak leaf cluster marks repeat awards"
+      ],
+      "remember": "From 1 Jan 1944. Service, not valor.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Oak leaf cluster",
+          "note": "Second and later awards (para 1-22, 6-3).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 7-14",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-asua",
+      "tab": "medals",
+      "group": "Unit awards",
+      "name": "Army Superior Unit Award",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "yearFrom": 1985,
+      "yearTo": null,
+      "summary": "Units with outstanding peacetime performance of a difficult mission under extraordinary circumstances.",
+      "facts": [
+        "Established by the Secretary of the Army, 8 April 1985 (AGO 1990-15)",
+        "Approval authority: the Deputy Chief of Staff, G-1",
+        "An oak leaf cluster marks repeat awards; a lapel pin exists (para 6-22)"
+      ],
+      "remember": "1985. The peacetime unit award.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Oak leaf cluster",
+          "note": "Second and later awards (para 1-22, 6-3).",
+          "variants": []
+        }
+      ],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 7-15",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-dev-olc",
+      "tab": "medals",
+      "group": "Devices",
+      "name": "Oak leaf cluster",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "yearFrom": null,
+      "yearTo": null,
+      "summary": "Bronze or silver twig of four oak leaves with three acorns, showing a second or later award.",
+      "facts": [
+        "Rule: an oak leaf cluster or numeral is awarded for each succeeding award (para 1-22)",
+        "Used on second and later awards of decorations (except the Air Medal), the ARCAM, and unit awards",
+        "Size: 13/32 inch on the suspension ribbon, 5/16 inch on the ribbon bar and unit award",
+        "Silver equals five bronze; wear no more than four per ribbon, then add a second ribbon",
+        "Posthumous awards: the device is attached to the medal (para 1-24h)"
+      ],
+      "remember": "Bronze is one. Silver is five. Max four per ribbon.",
+      "swatches": [],
+      "variants": [
+        {
+          "label": "Bronze oak leaf cluster",
+          "note": "One additional award.",
+          "swatches": [
+            {
+              "role": "Metal",
+              "name": "Bronze",
+              "hex": "#CD7F32"
+            }
+          ]
+        },
+        {
+          "label": "Silver oak leaf cluster",
+          "note": "Five additional awards.",
+          "swatches": [
+            {
+              "role": "Metal",
+              "name": "Silver",
+              "hex": "#C0C0C0"
+            }
+          ]
+        }
+      ],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 1-22, 6-3",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-dev-numeral",
+      "tab": "medals",
+      "group": "Devices",
+      "name": "Numeral",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "yearFrom": null,
+      "yearTo": null,
+      "summary": "Arabic numeral, 3/16 inch, starting with 2, showing second and later awards of certain medals and ribbons.",
+      "facts": [
+        "Used on the Air Medal, Overseas Service Ribbon, NCO Professional Development Ribbon, Armed Forces Reserve Medal, Reserve Components Overseas Training Ribbon, and the MFO Medal",
+        "Size: 3/16 inch; numbering begins with 2"
+      ],
+      "remember": "Starts at 2. The Air Medal uses numerals, not clusters.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-4",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-dev-v",
+      "tab": "medals",
+      "group": "Devices",
+      "name": "V device",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "yearFrom": null,
+      "yearTo": null,
+      "summary": "Bronze block letter V, 1/4 inch high, worn to show acts of heroism involving conflict with an armed enemy.",
+      "facts": [
+        "Serifs at the top of either side of the V",
+        "Only one V is worn on the service ribbon, even for multiple valor awards",
+        "Use for any other purpose is prohibited",
+        "Not authorized on the Medal of Honor, DSC, Silver Star, or Soldier's Medal"
+      ],
+      "remember": "V is for valor. One per ribbon.",
+      "swatches": [],
+      "variants": [
+        {
+          "label": "V device",
+          "note": "Bronze, 1/4 inch.",
+          "swatches": [
+            {
+              "role": "Metal",
+              "name": "Bronze",
+              "hex": "#CD7F32"
+            }
+          ]
+        }
+      ],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-5, table 3-1",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-dev-c",
+      "tab": "medals",
+      "group": "Devices",
+      "name": "C device",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "yearFrom": null,
+      "yearTo": null,
+      "summary": "Letter C worn to show meritorious service or achievement under combat conditions while personally exposed to risk.",
+      "facts": [
+        "Authorized on the DSM, LM, DFC, Air Medal, ARCOM, and AAM on or after 7 January 2016",
+        "Not authorized on the Bronze Star Medal or the Meritorious Service Medal",
+        "Only one C is worn on the service ribbon"
+      ],
+      "remember": "C is for combat, since 7 Jan 2016.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-6",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-dev-r",
+      "tab": "medals",
+      "group": "Devices",
+      "name": "R device",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "yearFrom": null,
+      "yearTo": null,
+      "summary": "Letter R worn on decorations awarded for specific meritorious achievement.",
+      "facts": [
+        "Authorized on the LM, MSM, ARCOM, and AAM on or after 7 January 2016",
+        "Not used on sustained-service medals",
+        "Only one R is worn on the service ribbon"
+      ],
+      "remember": "R is for a specific achievement.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-7",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-dev-m",
+      "tab": "medals",
+      "group": "Devices",
+      "name": "M device",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "yearFrom": null,
+      "yearTo": null,
+      "summary": "Letter M for Reserve Component members who volunteer for or serve on active duty in designated operations.",
+      "facts": [
+        "Worn on the Armed Forces Reserve Medal",
+        "One per operation; numbering begins with the second award"
+      ],
+      "remember": "M is for mobilized.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-9",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-dev-clasps",
+      "tab": "medals",
+      "group": "Devices",
+      "name": "Clasps",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "yearFrom": null,
+      "yearTo": null,
+      "summary": "Bars worn on suspension ribbons of certain medals.",
+      "facts": [
+        "Used on the Army Good Conduct Medal, WWI Victory Medal, American Defense Service Medal, Army of Occupation Medal, and Antarctica Service Medal",
+        "Bronze bars, except the Good Conduct clasp"
+      ],
+      "remember": "Bars on the medal ribbon. Bronze, except Good Conduct.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-10",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-dev-star",
+      "tab": "medals",
+      "group": "Devices",
+      "name": "Service star",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "yearFrom": null,
+      "yearTo": null,
+      "summary": "Bronze or silver five-pointed star, 3/16 inch, showing participation in a named campaign or an additional award.",
+      "facts": [
+        "On medals it marks a campaign; on ribbons it marks an additional award",
+        "A silver star is worn instead of five bronze stars",
+        "Also authorized on the Army Sea Duty Ribbon"
+      ],
+      "remember": "Bronze is one. Silver is five.",
+      "swatches": [],
+      "variants": [
+        {
+          "label": "Bronze service star",
+          "note": "One campaign or award.",
+          "swatches": [
+            {
+              "role": "Metal",
+              "name": "Bronze",
+              "hex": "#CD7F32"
+            }
+          ]
+        },
+        {
+          "label": "Silver service star",
+          "note": "Five bronze stars.",
+          "swatches": [
+            {
+              "role": "Metal",
+              "name": "Silver",
+              "hex": "#C0C0C0"
+            }
+          ]
+        }
+      ],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-11",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-dev-arrowhead",
+      "tab": "medals",
+      "group": "Devices",
+      "name": "Arrowhead",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "yearFrom": null,
+      "yearTo": null,
+      "summary": "Bronze, 1/4 inch, for an assault landing by parachute, helicopter, glider, or amphibious assault.",
+      "facts": [
+        "The Soldier must exit the aircraft or watercraft",
+        "One per ribbon"
+      ],
+      "remember": "Arrowhead means you made the assault.",
+      "swatches": [],
+      "variants": [
+        {
+          "label": "Arrowhead",
+          "note": "Bronze, 1/4 inch.",
+          "swatches": [
+            {
+              "role": "Metal",
+              "name": "Bronze",
+              "hex": "#CD7F32"
+            }
+          ]
+        }
+      ],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-12",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-dev-berlin",
+      "tab": "medals",
+      "group": "Devices",
+      "name": "Berlin Airlift device",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "yearFrom": null,
+      "yearTo": null,
+      "summary": "Gold-colored C-54 aircraft miniature for the Berlin Airlift.",
+      "facts": [
+        "92 consecutive days with a Berlin Airlift unit, or on an individual field-authority award",
+        "Period: 26 June 1948 to 30 September 1949",
+        "Worn on the Army of Occupation Medal"
+      ],
+      "remember": "C-54, 1948 to 1949.",
+      "swatches": [],
+      "variants": [
+        {
+          "label": "Berlin Airlift device",
+          "note": "Gold-colored C-54.",
+          "swatches": [
+            {
+              "role": "Metal",
+              "name": "Gold",
+              "hex": "#D4AF37"
+            }
+          ]
+        }
+      ],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-13",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-dev-astronaut",
+      "tab": "medals",
+      "group": "Devices",
+      "name": "Army Astronaut device",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "yearFrom": null,
+      "yearTo": null,
+      "summary": "Gold, 7/16 inch, for astronaut training and a flight of at least 62 miles (100 km).",
+      "facts": [
+        "Worn on one supporting badge at a time",
+        "May be awarded posthumously"
+      ],
+      "remember": "62 miles up.",
+      "swatches": [],
+      "variants": [
+        {
+          "label": "Army Astronaut device",
+          "note": "Gold, 7/16 inch.",
+          "swatches": [
+            {
+              "role": "Metal",
+              "name": "Gold",
+              "hex": "#D4AF37"
+            }
+          ]
+        }
+      ],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-14",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
+      "image": null
+    },
+    {
+      "id": "m-dev-gold-star",
+      "tab": "medals",
+      "group": "Devices",
+      "name": "Gold star (Sea Duty Ribbon)",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "yearFrom": null,
+      "yearTo": null,
+      "summary": "Gold, 5/16 inch, marking the tenth and final Army Sea Duty Ribbon award.",
+      "facts": [
+        "Equals 20 years of sea service"
+      ],
+      "remember": "Gold star, tenth award.",
+      "swatches": [],
+      "variants": [
+        {
+          "label": "Gold star",
+          "note": "Gold, 5/16 inch.",
+          "swatches": [
+            {
+              "role": "Metal",
+              "name": "Gold",
+              "hex": "#D4AF37"
+            }
+          ]
+        }
+      ],
+      "attachments": [],
+      "proof": "official",
+      "sources": [
+        "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-15",
+        "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+      ],
       "image": null
     }
   ]
