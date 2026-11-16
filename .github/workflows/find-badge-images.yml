@@ -4,12 +4,12 @@ jobs:
   find:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - run: pip install pillow
       - run: python3 tools/find_badge_images.py
-      - uses: actions/upload-artifact@v4
-        with:
-          name: badge-cands
-          path: cands/
+      - name: Publish candidates to a scratch branch
+        run: |
+          cd cands && git init -q -b badge-cands && git config user.email a@b.c && git config user.name bot
+          git add -A && git commit -q -m "candidates" && git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" badge-cands
