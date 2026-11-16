@@ -25,6 +25,7 @@ Each entry can list `variants` (finish, gender, uniform, era, colors) and `attac
 
 - `finish`: `polished` (shiny) or `subdued` (non-shiny)
 - `gender`: `male`, `female`, or `any`
+- An entry with no dates in its sources has an empty `eras` list and shows under every era.
 - `era`: `ww1`, `interwar`, `ww2`, `korea`, `vietnam`, `coldwar`, `gulf`, `modern`
 
 ## Build and release

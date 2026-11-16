@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.3.0-army-ribbons",
+ "dataVersion": "0.4.0-army-badges",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -107,119 +107,6 @@
    "image": null
   },
   {
-   "id": "b-sharpshooter",
-   "tab": "badges",
-   "group": "Marksmanship",
-   "name": "Sharpshooter badge",
-   "branches": [
-    "Army"
-   ],
-   "eras": [
-    "ww2",
-    "korea",
-    "vietnam",
-    "coldwar",
-    "gulf",
-    "modern"
-   ],
-   "yearFrom": null,
-   "yearTo": null,
-   "summary": "Middle marksmanship qualification badge, above Marksman and below Expert. Weapon bars hang underneath.",
-   "facts": [
-    "Three levels: Marksman, Sharpshooter, Expert",
-    "A bar for each weapon type hangs from the badge",
-    "Comes in a polished (shiny) finish and a subdued (non-shiny) finish"
-   ],
-   "remember": "Sharpshooter is the middle rung.",
-   "swatches": [],
-   "variants": [
-    {
-     "label": "Sharpshooter badge",
-     "finish": "polished"
-    },
-    {
-     "label": "Sharpshooter badge",
-     "finish": "subdued"
-    }
-   ],
-   "attachments": [
-    {
-     "name": "Qualification bars",
-     "note": "Bar names and the full bar list still need to be checked.",
-     "variants": [
-      {
-       "label": "Rifle bar",
-       "finish": "polished"
-      },
-      {
-       "label": "Rifle bar",
-       "finish": "subdued"
-      },
-      {
-       "label": "Pistol bar",
-       "finish": "polished"
-      },
-      {
-       "label": "Pistol bar",
-       "finish": "subdued"
-      },
-      {
-       "label": "Machine gun bar",
-       "finish": "polished"
-      },
-      {
-       "label": "Machine gun bar",
-       "finish": "subdued"
-      }
-     ]
-    }
-   ],
-   "proof": "unverified",
-   "sources": [],
-   "image": null
-  },
-  {
-   "id": "b-parachutist",
-   "tab": "badges",
-   "group": "Skill badges",
-   "name": "Parachutist badge",
-   "branches": [
-    "Army"
-   ],
-   "eras": [
-    "ww2",
-    "korea",
-    "vietnam",
-    "coldwar",
-    "gulf",
-    "modern"
-   ],
-   "yearFrom": null,
-   "yearTo": null,
-   "summary": "Army jump badge in three levels: Basic, Senior, and Master.",
-   "facts": [
-    "Three levels: Basic, Senior, Master",
-    "Combat jump stars mark combat jumps"
-   ],
-   "remember": "Basic, Senior, Master: the badge adds a star, then a wreath.",
-   "swatches": [],
-   "variants": [
-    {
-     "label": "Basic Parachutist Badge"
-    },
-    {
-     "label": "Senior Parachutist Badge"
-    },
-    {
-     "label": "Master Parachutist Badge"
-    }
-   ],
-   "attachments": [],
-   "proof": "unverified",
-   "sources": [],
-   "image": null
-  },
-  {
    "id": "r-service-stripes",
    "tab": "ranks",
    "group": "Service stripes",
@@ -258,88 +145,6 @@
      "era": "modern",
      "uniform": "Army dress",
      "note": "One bar per six months overseas. Color per uniform to verify."
-    }
-   ],
-   "attachments": [],
-   "proof": "unverified",
-   "sources": [],
-   "image": null
-  },
-  {
-   "id": "r-ranger-tab",
-   "tab": "ranks",
-   "group": "Skill tabs",
-   "name": "Ranger tab",
-   "branches": [
-    "Army"
-   ],
-   "eras": [
-    "modern"
-   ],
-   "yearFrom": null,
-   "yearTo": null,
-   "summary": "Tab worn above the unit patch by Ranger School graduates.",
-   "facts": [
-    "Worn above the unit shoulder patch",
-    "Earlier eras and colors still need to be added"
-   ],
-   "remember": "Black tab, gold letters.",
-   "swatches": [],
-   "variants": [
-    {
-     "label": "Ranger tab",
-     "era": "modern",
-     "note": "Colors still need to be checked.",
-     "swatches": [
-      {
-       "role": "Field",
-       "name": "Black",
-       "hex": "#111111"
-      },
-      {
-       "role": "Letters",
-       "name": "Yellow",
-       "hex": "#F2C94C"
-      }
-     ]
-    }
-   ],
-   "attachments": [],
-   "proof": "unverified",
-   "sources": [],
-   "image": null
-  },
-  {
-   "id": "r-airborne-tab",
-   "tab": "ranks",
-   "group": "Skill tabs",
-   "name": "Airborne tab",
-   "branches": [
-    "Army"
-   ],
-   "eras": [
-    "ww2",
-    "modern"
-   ],
-   "yearFrom": null,
-   "yearTo": null,
-   "summary": "Tab worn above the unit patch by airborne-qualified soldiers.",
-   "facts": [
-    "Worn above the unit shoulder patch",
-    "Era colors still need to be added"
-   ],
-   "remember": null,
-   "swatches": [],
-   "variants": [
-    {
-     "label": "Airborne tab",
-     "era": "ww2",
-     "note": "Era color to verify."
-    },
-    {
-     "label": "Airborne tab",
-     "era": "modern",
-     "note": "Era color to verify."
     }
    ],
    "attachments": [],
@@ -3273,6 +3078,1241 @@
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-15",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cib",
+   "tab": "badges",
+   "group": "Combat badges",
+   "name": "Combat Infantryman Badge (CIB)",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "ww2",
+    "korea",
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1941,
+   "yearTo": null,
+   "summary": "Awarded to infantry Soldiers who actively take part in ground combat while assigned to an infantry unit in combat.",
+   "facts": [
+    "Established by the War Department, 27 Oct 1943 (para 8-6a)",
+    "Be an infantry Soldier performing infantry duties, assigned to an infantry unit in active ground combat, and take part in that combat (para 8-6b)",
+    "Second and third awards are shown by one and two stars superimposed on the badge (para 8-6c)",
+    "Badge group 1 for order of wear (DA Pam 670-1, para 22-16a)"
+   ],
+   "remember": "Infantry plus ground combat. Established 27 Oct 1943.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-6",
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Text read from the copy hosted at home.army.mil/jackson"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cmb",
+   "tab": "badges",
+   "group": "Combat badges",
+   "name": "Combat Medical Badge (CMB)",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "ww2",
+    "korea",
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1941,
+   "yearTo": null,
+   "summary": "Awarded to medical personnel assigned or attached to an infantry unit while it is in actual ground combat.",
+   "facts": [
+    "Originally the Medical Badge; created by the War Department, 1 Mar 1945 (para 8-7a)",
+    "The infantry unit must have been in contact with the enemy (para 8-7b)",
+    "Second and third awards are shown by one and two stars superimposed on the badge (para 8-7d)",
+    "Badge group 1 for order of wear (DA Pam 670-1, para 22-16a)"
+   ],
+   "remember": "Medics with the infantry in combat. Created 1 Mar 1945.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-7",
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Text read from the copy hosted at home.army.mil/jackson"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cab",
+   "tab": "badges",
+   "group": "Combat badges",
+   "name": "Combat Action Badge (CAB)",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": 2001,
+   "yearTo": null,
+   "summary": "Awarded to any Soldier personally present and under hostile fire while performing satisfactorily.",
+   "facts": [
+    "The Chief of Staff of the Army approved the CAB on 2 May 2005 (para 8-8a)",
+    "May be awarded to any Soldier; must be personally present and under hostile fire (para 8-8d)",
+    "Retroactive awards are not authorized before 18 Sep 2001 (para 8-8f)",
+    "Badge group 1 for order of wear (DA Pam 670-1, para 22-16a)"
+   ],
+   "remember": "Any Soldier under fire. Approved 2005, counts back to 18 Sep 2001.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-8",
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Text read from the copy hosted at home.army.mil/jackson"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-eib",
+   "tab": "badges",
+   "group": "Special skill badges",
+   "name": "Expert Infantryman Badge (EIB)",
+   "branches": [
+    "Army"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Earned by passing the test given by an infantry unit; open to active duty infantry-field Soldiers.",
+   "facts": [
+    "Candidates must be on active duty orders with a primary MOS in CMF 11 or CMF 18 (para 8-9a)",
+    "Test is taken with an infantry unit of at least battalion size (para 8-9a)",
+    "Prerequisites and tests are set by the U.S. Army Infantry Center (para 8-9)",
+    "Badge group 2 for order of wear (DA Pam 670-1, para 22-16a)"
+   ],
+   "remember": "Expert tests: infantry EIB, medical EFMB, everyone else ESB.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-9",
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Text read from the copy hosted at home.army.mil/jackson"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-efmb",
+   "tab": "badges",
+   "group": "Special skill badges",
+   "name": "Expert Field Medical Badge (EFMB)",
+   "branches": [
+    "Army"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Earned by passing the Army medical field test.",
+   "facts": [
+    "Open to Soldiers on active duty, or assigned to a troop program unit in a Reserve Component unit or an AMEDD mobilization augmentation agency (para 8-10)",
+    "Officers must be assigned or detailed to an AMEDD corps (para 8-10)",
+    "Commanders of grade LTC/O-5 or above conduct the test and award the badge (para 8-10)",
+    "Badge group 2 for order of wear (DA Pam 670-1, para 22-16a)"
+   ],
+   "remember": "Medical field test: EFMB.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-10",
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Text read from the copy hosted at home.army.mil/jackson"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-esb",
+   "tab": "badges",
+   "group": "Special skill badges",
+   "name": "Expert Soldier Badge (ESB)",
+   "branches": [
+    "Army"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Earned by Soldiers outside the infantry, special forces, and medical career fields.",
+   "facts": [
+    "Regular Army, Army National Guard, and Army Reserve Soldiers except those in infantry, SF, and medical CMFs can compete (para 8-11)",
+    "The CG, U.S. Army Center for Initial Military Training is the sole authority (para 8-11)",
+    "Badge group 2 for order of wear (DA Pam 670-1, para 22-16a)"
+   ],
+   "remember": "ESB is for everyone not covered by EIB or EFMB.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-11",
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Text read from the copy hosted at home.army.mil/jackson"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-aviator",
+   "tab": "badges",
+   "group": "Special skill badges",
+   "name": "Army Aviator Badges",
+   "branches": [
+    "Army"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Aeronautical rating badges for Army aviators, in three degrees.",
+   "facts": [
+    "Three degrees: Basic, Senior, and Master Army Aviator Badge (para 8-12)",
+    "U.S. officers must have attained an aeronautical rating of Army aviator, senior Army aviator, or master Army aviator (para 8-12)",
+    "Badge group 3 for order of wear (DA Pam 670-1, para 22-16a)"
+   ],
+   "remember": "Three degrees: Basic, Senior, Master.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Basic Army Aviator Badge",
+     "note": null
+    },
+    {
+     "label": "Senior Army Aviator Badge",
+     "note": null
+    },
+    {
+     "label": "Master Army Aviator Badge",
+     "note": null
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-12",
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Text read from the copy hosted at home.army.mil/jackson"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-flight-surgeon",
+   "tab": "badges",
+   "group": "Special skill badges",
+   "name": "Flight Surgeon Badges",
+   "branches": [
+    "Army"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Badges for Army Medical Corps officers who complete flight surgeon training, in three levels.",
+   "facts": [
+    "Three levels: Basic, Senior, and Master Flight Surgeon Badge (para 8-13)",
+    "Any Army Medical Corps officer who satisfactorily completes the training is eligible (para 8-13)",
+    "The Basic Flight Surgeon Badge may be awarded by the CG, USAACE (para 8-13)",
+    "Badge group 3 for order of wear (DA Pam 670-1, para 22-16a)"
+   ],
+   "remember": "Doctors who fly: Basic, Senior, Master.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Basic Flight Surgeon Badge",
+     "note": null
+    },
+    {
+     "label": "Senior Flight Surgeon Badge",
+     "note": null
+    },
+    {
+     "label": "Master Flight Surgeon Badge",
+     "note": null
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-13",
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Text read from the copy hosted at home.army.mil/jackson"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-aviation",
+   "tab": "badges",
+   "group": "Special skill badges",
+   "name": "Aviation Badges",
+   "branches": [
+    "Army"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Badges for aircrew, in three degrees; they were formerly called Aircraft Crew Member badges.",
+   "facts": [
+    "Basic Aviation Badge (formerly Aircraft Crew Member Badge)",
+    "Senior Aviation Badge (formerly Senior Aircraft Crew Member Badge)",
+    "Master Aviation Badge (formerly Master Aircraft Crew Member Badge)",
+    "Must be on flying status under AR 600-106 or have a waiver (para 8-14)",
+    "Badge group 3 for order of wear (DA Pam 670-1, para 22-16a)"
+   ],
+   "remember": "Aviation badges used to be Aircraft Crew Member badges.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Basic Aviation Badge",
+     "note": null
+    },
+    {
+     "label": "Senior Aviation Badge",
+     "note": null
+    },
+    {
+     "label": "Master Aviation Badge",
+     "note": null
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-14",
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Text read from the copy hosted at home.army.mil/jackson"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-eod",
+   "tab": "badges",
+   "group": "Special skill badges",
+   "name": "Explosive Ordnance Disposal (EOD) Badges",
+   "branches": [
+    "Army"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Badges for explosive ordnance disposal technicians, in three types.",
+   "facts": [
+    "Three types: Basic, Senior, Master (para 8-15)",
+    "Any commissioned officer or enlisted Soldier may be awarded the Basic EOD Badge (para 8-15)",
+    "Senior: 36 months cumulative service in a TOE or TDA EOD position after the basic badge (para 8-15)",
+    "Master: 60 months cumulative service in an EOD position since the Senior badge (para 8-15)",
+    "Badge group 3 for order of wear (DA Pam 670-1, para 22-16a)"
+   ],
+   "remember": "EOD: 36 months to Senior, 60 more to Master.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Basic EOD Badge",
+     "note": null
+    },
+    {
+     "label": "Senior EOD Badge",
+     "note": null
+    },
+    {
+     "label": "Master EOD Badge",
+     "note": null
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-15",
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Text read from the copy hosted at home.army.mil/jackson"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-parachutist",
+   "tab": "badges",
+   "group": "Special skill badges",
+   "name": "Parachutist Badges",
+   "branches": [
+    "Army"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Awarded for completing the Airborne course, in three degrees by number of jumps.",
+   "facts": [
+    "Three degrees: Basic, Senior, Master (para 8-16)",
+    "Basic: satisfactorily complete the Airborne course (para 8-16)",
+    "Senior: a minimum of 30 jumps, with additional conditions (para 8-16)",
+    "Master: a minimum of 65 jumps, with additional conditions (para 8-16)",
+    "A bronze service star on the badge shows a combat parachute jump (para 8-16)",
+    "The wreath and star on the Master and Senior badges project slightly above the background trimming (DA Pam 670-1, para 21-32b)",
+    "Badge group 4 for order of wear (DA Pam 670-1, para 22-16a)"
+   ],
+   "remember": "Basic, then 30 jumps for Senior, 65 for Master. Bronze star = combat jump.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Basic Parachutist Badge",
+     "note": null
+    },
+    {
+     "label": "Senior Parachutist Badge",
+     "note": null
+    },
+    {
+     "label": "Master Parachutist Badge",
+     "note": null
+    }
+   ],
+   "attachments": [
+    {
+     "name": "Bronze service star",
+     "note": "Combat parachute jump (para 8-16)",
+     "variants": []
+    },
+    {
+     "name": "Airborne background trimming",
+     "note": "Oval worn beneath the badge (DA Pam 670-1, para 21-32b)",
+     "variants": []
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-16",
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, paras 21-32b, 22-16a",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Text read from the copy hosted at home.army.mil/jackson"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-freefall",
+   "tab": "badges",
+   "group": "Special skill badges",
+   "name": "Military Freefall Parachutist Badge",
+   "branches": [
+    "Army"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Awarded for completing the military freefall program, in two degrees.",
+   "facts": [
+    "Complete a program of instruction in military freefall approved by USAJFKSWCS (para 8-17)",
+    "Two degrees: basic and jumpmaster (para 8-17)",
+    "A bronze service star may be worn on all degrees to show a military freefall combat jump (para 8-17)",
+    "Badge group 4 for order of wear (DA Pam 670-1, para 22-16a)"
+   ],
+   "remember": "Freefall: two degrees, basic and jumpmaster.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Basic Military Freefall Parachutist Badge",
+     "note": null
+    },
+    {
+     "label": "Jumpmaster Military Freefall Parachutist Badge",
+     "note": null
+    }
+   ],
+   "attachments": [
+    {
+     "name": "Bronze service star",
+     "note": "Military freefall combat jump (para 8-17)",
+     "variants": []
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-17",
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Text read from the copy hosted at home.army.mil/jackson"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-pathfinder",
+   "tab": "badges",
+   "group": "Special skill badges",
+   "name": "Pathfinder Badge",
+   "branches": [
+    "Army"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Awarded for completing the Pathfinder Course.",
+   "facts": [
+    "Complete the Pathfinder Course conducted under the auspices of the U.S. Army Infantry School (para 8-18)",
+    "Badge group 4 for order of wear (DA Pam 670-1, para 22-16a)"
+   ],
+   "remember": "Pathfinder Course at the Infantry School.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-18",
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Text read from the copy hosted at home.army.mil/jackson"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-air-assault",
+   "tab": "badges",
+   "group": "Special skill badges",
+   "name": "Air Assault Badge",
+   "branches": [
+    "Army"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Awarded for completing an air assault training course.",
+   "facts": [
+    "Basic eligibility: satisfactory completion of an air assault training course (para 8-19)",
+    "Background trimming is worn beneath the badge (DA Pam 670-1, para 21-32b)",
+    "Badge group 4 for order of wear (DA Pam 670-1, para 22-16a)"
+   ],
+   "remember": "Air assault course = Air Assault Badge.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Airborne background trimming",
+     "note": "Oval worn beneath the badge (DA Pam 670-1, para 21-32b)",
+     "variants": []
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-19",
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, paras 21-32b, 22-16a",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Text read from the copy hosted at home.army.mil/jackson"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-space",
+   "tab": "badges",
+   "group": "Special skill badges",
+   "name": "Space Badges",
+   "branches": [
+    "Army"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Awarded for space-related education or training, in three degrees.",
+   "facts": [
+    "Three degrees: Basic, Senior, Master (para 8-20)",
+    "Basic eligibility: completion of the appropriate space-related education or training (para 8-20)",
+    "Badge group 4 for order of wear (DA Pam 670-1, para 22-16a)"
+   ],
+   "remember": "Space badge: Basic, Senior, Master.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Basic Space Badge",
+     "note": null
+    },
+    {
+     "label": "Senior Space Badge",
+     "note": null
+    },
+    {
+     "label": "Master Space Badge",
+     "note": null
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-20",
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Text read from the copy hosted at home.army.mil/jackson"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-driver-tech",
+   "tab": "badges",
+   "group": "Special skill badges",
+   "name": "Driver and Technician Badge",
+   "branches": [
+    "Army"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Awarded to drivers, maintainers, technicians, specialists, and repairers, with bars for each vehicle or skill type.",
+   "facts": [
+    "Called the driver and mechanic badge in DA Pam 670-1 (2021); AR 600-8-22 (2024) calls it the Driver and Technician Badge",
+    "A commander of LTC/O-5 or higher may approve the Driver Badge (para 8-21)",
+    "No more than three clasps may be attached (DA Pam 670-1, para 22-16b(3)(b))",
+    "Worn only on the left pocket flap; not authorized on utility uniforms (DA Pam 670-1, paras 22-16b, 22-16d)",
+    "Badge group 5 for order of wear (DA Pam 670-1, para 22-16a)"
+   ],
+   "remember": "Bars on it: W wheels, T tracks, M motorcycles, A amphibious.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Component bars",
+     "note": "Authorized only for these types (para 8-21); AR 600-8-22 calls them component bars, DA Pam 670-1 calls them clasps",
+     "variants": [
+      {
+       "label": "Driver-W",
+       "note": "Wheeled vehicles"
+      },
+      {
+       "label": "Driver-T",
+       "note": "Tracked vehicles"
+      },
+      {
+       "label": "Driver-M",
+       "note": "Motorcycles"
+      },
+      {
+       "label": "Driver-A",
+       "note": "Amphibious vehicles"
+      },
+      {
+       "label": "Technician-S",
+       "note": "Technician Senior: munitions, mechanical, or electrical equipment"
+      },
+      {
+       "label": "Technician-M",
+       "note": "Technician Master: munitions, mechanical, or electrical equipment"
+      },
+      {
+       "label": "Operator-S",
+       "note": "Special mechanical equipment"
+      }
+     ]
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-21",
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Text read from the copy hosted at home.army.mil/jackson"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-diver",
+   "tab": "badges",
+   "group": "Special skill badges",
+   "name": "Diver Badges",
+   "branches": [
+    "Army"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Five types of diver badges are authorized.",
+   "facts": [
+    "Master Diver Badge",
+    "First-Class Diver Badge",
+    "Salvage Diver Badge",
+    "Second-Class Diver Badge",
+    "Special Operations Divers Badge (formerly the Scuba Diver Badge)",
+    "Qualification and approval are set by AR 611-75 (para 8-22)",
+    "Badge group 4 for order of wear (DA Pam 670-1, para 22-16a)"
+   ],
+   "remember": "Five diver badges, top is Master Diver.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Master Diver Badge",
+     "note": null
+    },
+    {
+     "label": "First-Class Diver Badge",
+     "note": null
+    },
+    {
+     "label": "Salvage Diver Badge",
+     "note": null
+    },
+    {
+     "label": "Second-Class Diver Badge",
+     "note": null
+    },
+    {
+     "label": "Special Operations Divers Badge",
+     "note": null
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-22",
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Text read from the copy hosted at home.army.mil/jackson"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-rigger",
+   "tab": "badges",
+   "group": "Special skill badges",
+   "name": "Parachute Rigger Badge",
+   "branches": [
+    "Army"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Awarded for completing the Parachute Rigger course.",
+   "facts": [
+    "Complete the Parachute Rigger course conducted by the U.S. Army Quartermaster School (para 8-23)",
+    "Officers qualify by completing one of the courses listed in para 8-23",
+    "Badge group 3 for order of wear (DA Pam 670-1, para 22-16a)"
+   ],
+   "remember": "Rigger course at the Quartermaster School.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-23",
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Text read from the copy hosted at home.army.mil/jackson"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-instructor",
+   "tab": "badges",
+   "group": "Special skill badges",
+   "name": "Army Instructor Badges (AIB)",
+   "branches": [
+    "Army"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Awarded to qualified instructors, in three levels.",
+   "facts": [
+    "Three levels: Basic, Senior, Master AIB (para 8-24)",
+    "Criteria are set by the CG, TRADOC; awarding authority is the first COL or GS-15 in the chain of command (para 8-24)",
+    "Civilian instructors may wear the AIB Lapel Pin (para 8-24)"
+   ],
+   "remember": "AIB: Basic, Senior, Master. Civilians get a lapel pin.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Basic Army Instructor Badge",
+     "note": null
+    },
+    {
+     "label": "Senior Army Instructor Badge",
+     "note": null
+    },
+    {
+     "label": "Master Army Instructor Badge",
+     "note": null
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-24",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-presidential",
+   "tab": "badges",
+   "group": "Identification badges",
+   "name": "Presidential Service Badge",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1964,
+   "yearTo": null,
+   "summary": "Awarded to Soldiers assigned to the White House Office.",
+   "facts": [
+    "Badge and certificate established by EO 11174, 1 Sep 1964 (para 8-26)",
+    "Assignment of at least 1 year after 21 Jan 1989 (para 8-26)",
+    "Once awarded, may be worn as a permanent part of the uniform (para 8-26)"
+   ],
+   "remember": "EO 11174, 1964. White House, one year.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-26",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-vice-presidential",
+   "tab": "badges",
+   "group": "Identification badges",
+   "name": "Vice Presidential Service Badge",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1976,
+   "yearTo": null,
+   "summary": "Awarded to Soldiers assigned to the Office of the Vice President.",
+   "facts": [
+    "Established by EO 11926, 19 Jul 1976 (para 8-27)",
+    "At least 1 year of duty in the Office of the Vice President after 19 Dec 1974 (para 8-27)",
+    "Once awarded, may be worn as a permanent part of the uniform (para 8-27)"
+   ],
+   "remember": "EO 11926, 1976. Vice President's office, one year.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-27",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-osd-id",
+   "tab": "badges",
+   "group": "Identification badges",
+   "name": "Office of the Secretary of Defense Identification Badge",
+   "branches": [
+    "Army"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Shows satisfactory service on the Secretary of Defense's staff.",
+   "facts": [
+    "Authorized under 10 USC (para 8-28)",
+    "Indicates the Servicemember satisfactorily served on the SECDEF's staff (para 8-28)"
+   ],
+   "remember": "SECDEF staff badge.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-28",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-jcs-id",
+   "tab": "badges",
+   "group": "Identification badges",
+   "name": "Joint Chiefs of Staff Identification Badge",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1963,
+   "yearTo": null,
+   "summary": "Worn by members who served on the Joint Staff.",
+   "facts": [
+    "Established by Joint Chiefs of Staff Memorandum Policy No. 142, 3 Apr 1963 (para 8-29)",
+    "Regular Army and Reserve Component members are authorized to wear it (para 8-29)",
+    "Permanent award is prescribed in CJCSI 1100.01E (para 8-29)"
+   ],
+   "remember": "JCS memo 142, 3 Apr 1963.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-29",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-army-staff-id",
+   "tab": "badges",
+   "group": "Identification badges",
+   "name": "Army Staff Identification Badge",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "interwar",
+    "ww2",
+    "korea",
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1931,
+   "yearTo": null,
+   "summary": "Awarded to military personnel serving on the staff of HQDA principal officials.",
+   "facts": [
+    "First proposed by General Douglas MacArthur, 28 Dec 1931 (para 8-30)",
+    "Awarded by HQDA principal officials to personnel serving on their staff (para 8-30)",
+    "Permanent issue must be authorized by the principal officials (para 8-30)"
+   ],
+   "remember": "MacArthur proposed it, 28 Dec 1931.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-30",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-tomb-guard-id",
+   "tab": "badges",
+   "group": "Identification badges",
+   "name": "Guard, Tomb of the Unknown Soldier Identification Badge",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1958,
+   "yearTo": null,
+   "summary": "Earned by Soldiers who serve as Tomb guards.",
+   "facts": [
+    "Retroactive to 1 Feb 1958 for Regular Army personnel (para 8-31)",
+    "Honorable service of at least 9 months, not necessarily continuous (para 8-31)",
+    "Permanent or temporary wear may be authorized (para 8-31)"
+   ],
+   "remember": "9 months of honorable Tomb service; back to 1 Feb 1958.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-31",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-horseman-id",
+   "tab": "badges",
+   "group": "Identification badges",
+   "name": "Military Horseman Identification Badge",
+   "branches": [
+    "Army"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Earned by completing 100 Armed Forces Full Honors Funerals at Arlington National Cemetery.",
+   "facts": [
+    "Complete 100 Armed Forces Full Honors Funerals in Arlington National Cemetery (para 8-32)",
+    "Permanent or temporary wear may be authorized (para 8-32)"
+   ],
+   "remember": "100 full honors funerals at Arlington.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-32",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-marksmanship",
+   "tab": "badges",
+   "group": "Marksmanship",
+   "name": "Marksmanship qualification badges",
+   "branches": [
+    "Army"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Expert, Sharpshooter, and Marksman badges; up to three qualification clasps can be worn on each badge.",
+   "facts": [
+    "Three levels: expert, sharpshooter, marksman (DA Pam 670-1, para 22-15a)",
+    "No more than three marksmanship qualification clasps may be worn on each badge (para 22-15c)",
+    "Other marksmanship badges listed: distinguished international shooter, distinguished rifleman, distinguished pistol shot, national trophy match, Inter-Service competition, U.S. Army excellence in competition rifleman and pistol shot (para 22-15a)",
+    "Badge group 5 for order of wear (DA Pam 670-1, para 22-16a)",
+    "Clasp weapon names were not found in the sources read, so they are not listed here"
+   ],
+   "remember": "Expert, Sharpshooter, Marksman. Max three clasps.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Expert badge",
+     "note": null
+    },
+    {
+     "label": "Sharpshooter badge",
+     "note": null
+    },
+    {
+     "label": "Marksman badge",
+     "note": null
+    }
+   ],
+   "attachments": [
+    {
+     "name": "Qualification clasps",
+     "note": "No more than three per badge (para 22-15c)",
+     "variants": []
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-15",
+    "Text read from the copy hosted at home.army.mil/jackson"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-ranger-tab",
+   "tab": "badges",
+   "group": "Skill tabs",
+   "name": "Ranger Tab",
+   "branches": [
+    "Army"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Skill tab worn on the left sleeve above the unit patch.",
+   "facts": [
+    "Full-color tab, 2-3/8 inches long and 11/16 inch wide, with a 1/8-inch yellow border (DA Pam 670-1, para 22-16e)",
+    "Special skill tabs are centered 1/4 inch above the SSI on the left sleeve (para 22-16f)",
+    "One of four authorized skill tabs: Ranger, SF, Sapper, President's Hundred (AR 600-8-22, para 8-2d)",
+    "Badge group 4 for order of wear (DA Pam 670-1, para 22-16a)"
+   ],
+   "remember": "Ranger tab: yellow border, 2-3/8 inches.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16e-f",
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-2d",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Text read from the copy hosted at home.army.mil/jackson"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-sf-tab",
+   "tab": "badges",
+   "group": "Skill tabs",
+   "name": "Special Forces Tab",
+   "branches": [
+    "Army"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Teal blue skill tab worn on the left sleeve above the unit patch.",
+   "facts": [
+    "Full-color teal blue arc, 3-1/4 inches wide and 11/16 inch high (DA Pam 670-1, para 22-16e)",
+    "Special skill tabs are centered 1/4 inch above the SSI on the left sleeve (para 22-16f)",
+    "Badge group 4 for order of wear (DA Pam 670-1, para 22-16a)"
+   ],
+   "remember": "SF tab is teal blue, 3-1/4 inches.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16e-f",
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-2d",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Text read from the copy hosted at home.army.mil/jackson"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-sapper-tab",
+   "tab": "badges",
+   "group": "Skill tabs",
+   "name": "Sapper Tab",
+   "branches": [
+    "Army"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Red skill tab worn on the left sleeve above the unit patch.",
+   "facts": [
+    "Full-color red arc, 2-3/8 inches long and 11/16 inch wide, with a 1/8-inch red border (DA Pam 670-1, para 22-16e)",
+    "Special skill tabs are centered 1/4 inch above the SSI on the left sleeve (para 22-16f)",
+    "Badge group 4 for order of wear (DA Pam 670-1, para 22-16a)"
+   ],
+   "remember": "Sapper tab is red, 2-3/8 inches.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16e-f",
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-2d",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Text read from the copy hosted at home.army.mil/jackson"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-presidents-hundred-tab",
+   "tab": "badges",
+   "group": "Skill tabs",
+   "name": "President's Hundred Tab",
+   "branches": [
+    "Army"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marksmanship tab of yellow cloth worn on the left sleeve of the AGSU.",
+   "facts": [
+    "Full-color tab of yellow cloth, 4-1/4 inches long and 5/8 inch high (DA Pam 670-1, para 22-15e)",
+    "Centered 1/4 inch above the SSI on the left sleeve of the AGSU (para 22-15e)",
+    "The bronze metallic brassard is not authorized for wear on the Army uniform (para 22-15e)",
+    "Tabs do not count toward the three-badge limit (para 22-15c)"
+   ],
+   "remember": "President's Hundred: yellow, 4-1/4 inches.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-15e",
+    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-2d",
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Text read from the copy hosted at home.army.mil/jackson"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-airborne-trim",
+   "tab": "badges",
+   "group": "Skill tabs",
+   "name": "Airborne background trimming",
+   "branches": [
+    "Army"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Oval embroidered backing worn beneath parachutist or air assault badges.",
+   "facts": [
+    "Oval-shaped embroidered device in distinctive colors, 1-3/8 inches high and 2-1/4 inches wide (DA Pam 670-1, para 21-32b)",
+    "Worn beneath any authorized parachutist or air assault badge (para 21-32b)",
+    "The basic badge is centered on the trimming; the wreath and star project slightly above it (para 21-32b)",
+    "See AR 670-1 for who may wear it (para 21-32b)"
+   ],
+   "remember": "Oval under the wings: 1-3/8 by 2-1/4 inches.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 21-32b",
+    "Text read from the copy hosted at home.army.mil/jackson"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-wear-rules",
+   "tab": "badges",
+   "group": "Wear rules",
+   "name": "Where badges are worn (ASU and AGSU)",
+   "branches": [
+    "Army"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Badge limits and positions on the service uniforms.",
+   "facts": [
+    "Badges go 1/4 inch above the ribbons, or above the top of the pocket (DA Pam 670-1, para 22-16b(3)(d))",
+    "Only one combat or special skill badge from group 1 or group 2 above the ribbons (para 22-16b(3)(a))",
+    "Up to three badges above the ribbons or pocket flap (para 22-16b(3)(e))",
+    "Only three badges from groups 3, 4, or 5, including marksmanship, below the ribbons (para 22-16b(3)(b))",
+    "AGSU: a total of four badges at one time (para 22-16b(2))",
+    "Group 1: CIB, CMB, CAB. Group 2: EIB, EFMB, ESB. Group 3: astronaut device, aviator, flight surgeon, aviation, EOD, parachute rigger. Group 4: parachutist, pathfinder, freefall, air assault, diver, space, and Ranger, SF, Sapper tabs. Group 5: driver and mechanic, marksmanship. Group 6: physical fitness (APFU only) (para 22-16a)"
+   ],
+   "remember": "Groups 1 and 2 on top, max three above and three below.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16",
+    "Text read from the copy hosted at home.army.mil/jackson"
    ],
    "image": null
   }

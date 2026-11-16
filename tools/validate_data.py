@@ -80,8 +80,8 @@ def main() -> int:
         for era in e.get("eras", []):
             if era not in ERAS:
                 bad(where, f"unknown era {era!r}")
-        if not e.get("eras"):
-            bad(where, "needs at least one era")
+        if not e.get("eras") and e.get("yearFrom") is not None:
+            bad(where, "has years but no era")
         proof = e.get("proof")
         if proof not in PROOFS:
             bad(where, f"unknown proof {proof!r}")

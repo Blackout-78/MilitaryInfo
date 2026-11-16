@@ -1,13 +1,14 @@
-MilitaryInfo 0.3.2 - 14 More Ribbons and a Fix
+MilitaryInfo 0.4.0 - Army Badges and Tabs
 
 Added
-- 14 new ribbon pictures: DFC, Presidential Unit Citation, Defense DSM, Defense Superior Service, Defense Meritorious Service, JSAM, HSM, MOVSM, Kosovo, GWOT Expeditionary, GWOT Service, Korea Defense Service, Sea Duty, Armed Forces Reserve
-- All 51 ribbons now cross-checked against the MIL-DTL-11589 illustrated guide, with matched colors
-
-Fixed
-- Army Reserve Components Overseas Training Ribbon was missing its two white edge stripes
+- 33 Army entries in Badges: combat badges (CIB, CMB, CAB), expert badges (EIB, EFMB, ESB), aviator, flight surgeon, aviation, EOD, parachutist, freefall, pathfinder, air assault, space, driver and technician, diver, rigger, and instructor badges
+- Identification badges: Presidential, Vice Presidential, OSD, JCS, Army Staff, Tomb Guard, Military Horseman
+- Marksmanship badges, and the Ranger, Special Forces, Sapper, and President's Hundred tabs
+- Parachutist degrees, EOD requirements, and Driver and Technician bars with their types
+- Airborne background trimming and the rules for where badges are worn
+- Entries with no dates in their sources now show under every era filter
 
 Known limits
-- Widths on the 14 new ribbons are measured to the nearest 1/64 inch (plus or minus 1/64)
-- No ribbon picture for the Medal of Honor, Antarctica, and WWII Victory (gradient or rainbow patterns)
-- Other branches, badges, ranks, and uniforms are still sample entries marked Unverified
+- No badge pictures yet
+- Polished and subdued versions are not in yet (no source found); marksmanship clasp names were not in the sources read
+- Ranks and uniforms are still sample entries marked Unverified

@@ -124,7 +124,7 @@ class CatalogView(
         val tokens = query.lowercase().split(' ', '\t').filter { it.isNotBlank() }
         shown = all.filter { e ->
             (branch == null || e.branches.contains(branch)) &&
-                (era == null || e.eras.contains(era)) &&
+                (era == null || e.eras.isEmpty() || e.eras.contains(era)) &&
                 (group == null || e.group == group) &&
                 e.matchesGender(gender) &&
                 e.matches(tokens)
