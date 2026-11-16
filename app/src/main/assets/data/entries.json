@@ -1,0 +1,342 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "0.1.0-sample",
+  "entries": [
+    {
+      "id": "u-woodland-bdu",
+      "tab": "uniforms",
+      "group": "Field",
+      "name": "Woodland BDU",
+      "branches": ["Army"],
+      "eras": ["coldwar", "gulf", "modern"],
+      "yearFrom": 1981,
+      "yearTo": 2005,
+      "summary": "Four-color woodland camouflage battle dress uniform. The Army field uniform from the early 1980s until the ACU.",
+      "facts": [
+        "Adopted in 1981 as the Battle Dress Uniform (BDU)",
+        "Replaced by the ACU, fielded starting in 2005",
+        "A six-color desert version was issued for desert operations"
+      ],
+      "remember": "Woodland 1981, ACU 2005.",
+      "swatches": [],
+      "variants": [
+        { "label": "Woodland BDU (four-color)", "era": "coldwar", "note": "The standard green, brown, and black pattern." },
+        { "label": "Desert BDU (six-color)", "era": "gulf", "note": "Nicknamed the chocolate chip." }
+      ],
+      "attachments": [],
+      "proof": "unverified",
+      "sources": [],
+      "image": null
+    },
+    {
+      "id": "u-pinks-greens",
+      "tab": "uniforms",
+      "group": "Service",
+      "name": "Pinks and greens",
+      "branches": ["Army"],
+      "eras": ["ww2", "modern"],
+      "yearFrom": null,
+      "yearTo": null,
+      "summary": "WWII-era officer service uniform: pink-toned trousers with a dark green coat. Brought back in modern form as the Army Green Service Uniform.",
+      "facts": [
+        "Pink-toned trousers with a dark olive-green coat",
+        "Officer combination in World War II",
+        "The modern Army Green Service Uniform revives the look"
+      ],
+      "remember": "Pinks on the legs, greens on the coat.",
+      "swatches": [],
+      "variants": [
+        { "label": "WWII officer service combination", "era": "ww2" },
+        { "label": "Army Green Service Uniform", "era": "modern", "note": "The modern revival of the look." }
+      ],
+      "attachments": [],
+      "proof": "unverified",
+      "sources": [],
+      "image": null
+    },
+    {
+      "id": "u-army-blue",
+      "tab": "uniforms",
+      "group": "Dress",
+      "name": "Army Blue dress uniform",
+      "branches": ["Army"],
+      "eras": ["modern"],
+      "yearFrom": null,
+      "yearTo": null,
+      "summary": "Dark blue formal uniform worn for formal and ceremonial occasions.",
+      "facts": [
+        "Service stripes and overseas service bars go on the sleeves",
+        "Ribbons and badges go above the left pocket"
+      ],
+      "remember": "Blue is for dress, green is for service.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [],
+      "proof": "unverified",
+      "sources": [],
+      "image": null
+    },
+    {
+      "id": "m-army-commendation",
+      "tab": "medals",
+      "group": "Medals",
+      "name": "Army Commendation Medal",
+      "branches": ["Army"],
+      "eras": ["ww2", "korea", "vietnam", "coldwar", "gulf", "modern"],
+      "yearFrom": 1945,
+      "yearTo": null,
+      "summary": "Army award for heroism, meritorious achievement, or meritorious service.",
+      "facts": [
+        "Began in 1945 as the Army Commendation Ribbon",
+        "Became the Army Commendation Medal in 1960"
+      ],
+      "remember": "Ribbon 1945, medal 1960.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [
+        {
+          "name": "Devices",
+          "note": "Devices that can be pinned on the ribbon.",
+          "variants": [
+            { "label": "Oak leaf cluster", "note": "Shows an additional award." },
+            { "label": "V device", "note": "Shows the award was earned for valor." }
+          ]
+        }
+      ],
+      "proof": "unverified",
+      "sources": [],
+      "image": null
+    },
+    {
+      "id": "m-oak-leaf-cluster",
+      "tab": "medals",
+      "group": "Devices",
+      "name": "Oak leaf cluster",
+      "branches": ["Army", "Air Force"],
+      "eras": ["ww2", "korea", "vietnam", "coldwar", "gulf", "modern"],
+      "yearFrom": null,
+      "yearTo": null,
+      "summary": "Small metal device pinned on a ribbon to show additional awards of the same medal.",
+      "facts": [
+        "Bronze oak leaf cluster: one additional award",
+        "Silver oak leaf cluster: five additional awards",
+        "Navy and Marine Corps use stars instead"
+      ],
+      "remember": "Oak leaves for Army and Air Force, stars for Navy and Marines.",
+      "swatches": [],
+      "variants": [
+        {
+          "label": "Bronze oak leaf cluster",
+          "note": "One additional award.",
+          "swatches": [{ "role": "Metal", "name": "Bronze", "hex": "#CD7F32" }]
+        },
+        {
+          "label": "Silver oak leaf cluster",
+          "note": "Five additional awards.",
+          "swatches": [{ "role": "Metal", "name": "Silver", "hex": "#C0C0C0" }]
+        }
+      ],
+      "attachments": [],
+      "proof": "unverified",
+      "sources": [],
+      "image": null
+    },
+    {
+      "id": "m-valor-device",
+      "tab": "medals",
+      "group": "Devices",
+      "name": "V device",
+      "branches": ["Army", "Navy", "Marine Corps", "Air Force", "Coast Guard"],
+      "eras": ["vietnam", "coldwar", "gulf", "modern"],
+      "yearFrom": null,
+      "yearTo": null,
+      "summary": "Small bronze letter V added to a ribbon to show the award was earned for valor.",
+      "facts": [
+        "Worn centered on the ribbon",
+        "Only authorized awards can carry it"
+      ],
+      "remember": "V stands for valor.",
+      "swatches": [],
+      "variants": [],
+      "attachments": [],
+      "proof": "unverified",
+      "sources": [],
+      "image": null
+    },
+    {
+      "id": "b-sharpshooter",
+      "tab": "badges",
+      "group": "Marksmanship",
+      "name": "Sharpshooter badge",
+      "branches": ["Army"],
+      "eras": ["ww2", "korea", "vietnam", "coldwar", "gulf", "modern"],
+      "yearFrom": null,
+      "yearTo": null,
+      "summary": "Middle marksmanship qualification badge, above Marksman and below Expert. Weapon bars hang underneath.",
+      "facts": [
+        "Three levels: Marksman, Sharpshooter, Expert",
+        "A bar for each weapon type hangs from the badge",
+        "Comes in a polished (shiny) finish and a subdued (non-shiny) finish"
+      ],
+      "remember": "Sharpshooter is the middle rung.",
+      "swatches": [],
+      "variants": [
+        { "label": "Sharpshooter badge", "finish": "polished" },
+        { "label": "Sharpshooter badge", "finish": "subdued" }
+      ],
+      "attachments": [
+        {
+          "name": "Qualification bars",
+          "note": "Bar names and the full bar list still need to be checked.",
+          "variants": [
+            { "label": "Rifle bar", "finish": "polished" },
+            { "label": "Rifle bar", "finish": "subdued" },
+            { "label": "Pistol bar", "finish": "polished" },
+            { "label": "Pistol bar", "finish": "subdued" },
+            { "label": "Machine gun bar", "finish": "polished" },
+            { "label": "Machine gun bar", "finish": "subdued" }
+          ]
+        }
+      ],
+      "proof": "unverified",
+      "sources": [],
+      "image": null
+    },
+    {
+      "id": "b-parachutist",
+      "tab": "badges",
+      "group": "Skill badges",
+      "name": "Parachutist badge",
+      "branches": ["Army"],
+      "eras": ["ww2", "korea", "vietnam", "coldwar", "gulf", "modern"],
+      "yearFrom": null,
+      "yearTo": null,
+      "summary": "Army jump badge in three levels: Basic, Senior, and Master.",
+      "facts": [
+        "Three levels: Basic, Senior, Master",
+        "Combat jump stars mark combat jumps"
+      ],
+      "remember": "Basic, Senior, Master: the badge adds a star, then a wreath.",
+      "swatches": [],
+      "variants": [
+        { "label": "Basic Parachutist Badge" },
+        { "label": "Senior Parachutist Badge" },
+        { "label": "Master Parachutist Badge" }
+      ],
+      "attachments": [],
+      "proof": "unverified",
+      "sources": [],
+      "image": null
+    },
+    {
+      "id": "r-service-stripes",
+      "tab": "ranks",
+      "group": "Service stripes",
+      "name": "Service stripes and overseas service",
+      "branches": ["Army"],
+      "eras": ["ww1", "modern"],
+      "yearFrom": null,
+      "yearTo": null,
+      "summary": "Sleeve marks that show length of service and time overseas. Each branch has its own rules.",
+      "facts": [
+        "Army dress service stripe: one per three years of service",
+        "Overseas service bar: one per six months overseas",
+        "WWI overseas service chevron: one per six months overseas"
+      ],
+      "remember": "Stripes count years, bars and chevrons count overseas time.",
+      "swatches": [],
+      "variants": [
+        { "label": "Overseas service chevron", "era": "ww1", "note": "One chevron per six months overseas. Color to verify." },
+        { "label": "Service stripe", "era": "modern", "uniform": "Army dress", "note": "One stripe per three years. Color per uniform to verify." },
+        { "label": "Overseas service bar", "era": "modern", "uniform": "Army dress", "note": "One bar per six months overseas. Color per uniform to verify." }
+      ],
+      "attachments": [],
+      "proof": "unverified",
+      "sources": [],
+      "image": null
+    },
+    {
+      "id": "r-ranger-tab",
+      "tab": "ranks",
+      "group": "Skill tabs",
+      "name": "Ranger tab",
+      "branches": ["Army"],
+      "eras": ["modern"],
+      "yearFrom": null,
+      "yearTo": null,
+      "summary": "Tab worn above the unit patch by Ranger School graduates.",
+      "facts": [
+        "Worn above the unit shoulder patch",
+        "Earlier eras and colors still need to be added"
+      ],
+      "remember": "Black tab, gold letters.",
+      "swatches": [],
+      "variants": [
+        {
+          "label": "Ranger tab",
+          "era": "modern",
+          "note": "Colors still need to be checked.",
+          "swatches": [
+            { "role": "Field", "name": "Black", "hex": "#111111" },
+            { "role": "Letters", "name": "Yellow", "hex": "#F2C94C" }
+          ]
+        }
+      ],
+      "attachments": [],
+      "proof": "unverified",
+      "sources": [],
+      "image": null
+    },
+    {
+      "id": "r-airborne-tab",
+      "tab": "ranks",
+      "group": "Skill tabs",
+      "name": "Airborne tab",
+      "branches": ["Army"],
+      "eras": ["ww2", "modern"],
+      "yearFrom": null,
+      "yearTo": null,
+      "summary": "Tab worn above the unit patch by airborne-qualified soldiers.",
+      "facts": [
+        "Worn above the unit shoulder patch",
+        "Era colors still need to be added"
+      ],
+      "remember": null,
+      "swatches": [],
+      "variants": [
+        { "label": "Airborne tab", "era": "ww2", "note": "Era color to verify." },
+        { "label": "Airborne tab", "era": "modern", "note": "Era color to verify." }
+      ],
+      "attachments": [],
+      "proof": "unverified",
+      "sources": [],
+      "image": null
+    },
+    {
+      "id": "r-sergeant-e5",
+      "tab": "ranks",
+      "group": "Rank insignia",
+      "name": "Sergeant (E-5)",
+      "branches": ["Army"],
+      "eras": ["modern"],
+      "yearFrom": null,
+      "yearTo": null,
+      "summary": "Army enlisted rank insignia, shown per uniform and per gender.",
+      "facts": [
+        "Insignia color changes with the uniform",
+        "Each variant lists the uniform it belongs to"
+      ],
+      "remember": null,
+      "swatches": [],
+      "variants": [
+        { "label": "Sleeve insignia", "uniform": "Army Green Service", "gender": "male", "note": "Color to verify." },
+        { "label": "Sleeve insignia", "uniform": "Army Green Service", "gender": "female", "note": "Color and size to verify." },
+        { "label": "Chest insignia", "uniform": "Combat uniform", "gender": "any", "note": "Subdued color. Details to verify." }
+      ],
+      "attachments": [],
+      "proof": "unverified",
+      "sources": [],
+      "image": null
+    }
+  ]
+}
