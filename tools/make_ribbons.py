@@ -58,6 +58,7 @@ R["m-arcotr"]=[(F(19,32),"UB"),(F(3,64),"W"),(F(3,32),"R"),(F(3,64),"W"),(F(19,3
 R["m-vua"]=sym([(F(3,8),"R"),(F(1,16),"UB"),(F(1,64),"W"),(F(3,32),"UB"),(F(3,32),"W")],(F(3,32),"R"))
 R["m-asua"]=sym([(F(17,32),"S"),(F(1,32),"Y")],(F(1,4),"G"))
 
+R["m-muc"]=[(F(1,32),"S"),(F(21,16),"S"),(F(1,32),"S")]  # MIL-DTL-11589/92E (31 May 2010): solid Scarlet 67111
 # Good Conduct: left half starts SR; right half is the mirror image.
 W = F(11,8)
 bad = {k: float(sum(w for w,_ in v)) for k,v in R.items() if sum(w for w,_ in v) != W}

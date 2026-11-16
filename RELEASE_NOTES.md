@@ -1,11 +1,9 @@
-MilitaryInfo 0.3.0 - Army Ribbons and Order of Wear
+MilitaryInfo 0.3.1 - Army Meritorious Unit Commendation Ribbon
 
 Added
-- 36 ribbon pictures drawn to the official stripe widths (each set adds up to the 1 3/8 inch ribbon)
-- Order of wear on 54 Army awards, from DA Pam 670-1 (26 Jan 2021) para 22-5
-- Image credit lines in each entry's sources
+- Ribbon picture for the Army Meritorious Unit Commendation, from DoD spec MIL-DTL-11589/92E (solid Scarlet, 1 3/8 inch)
 
 Known limits
+- 36 other Army ribbons were added in 0.3.0; 17 awards still have no ribbon picture (no official stripe source found yet)
 - Ribbon colors are close matches to the named Federal colors, not exact values
-- No ribbon picture yet for the Medal of Honor, DFC, Kosovo, Antarctica, WWII Victory, GWOT, HSM, MOVSM, AFRM, Sea Duty, unit citations, and Defense awards (source text incomplete or did not add up)
-- No medal pictures; other branches, badges, ranks, and uniforms are still sample entries marked Unverified
+- Other branches, badges, ranks, and uniforms are still sample entries marked Unverified
