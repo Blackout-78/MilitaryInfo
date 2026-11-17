@@ -1,3 +1,6 @@
+## 0.16.6
+- 9 uniform photos (public domain or CC0, credited): Army and Navy uniforms.
+
 ## 0.16.5
 - 56 ribbon and medal pictures (public domain, credited): Navy, Marine Corps, Coast Guard, Air Force and Space Force awards.
 

@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.16.5-pictures-3",
+ "dataVersion": "0.16.6-pictures-4",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -40,7 +40,7 @@
    "attachments": [],
    "proof": "unverified",
    "sources": [],
-   "image": null
+   "image": "badges/u-woodland-bdu.png"
   },
   {
    "id": "u-pinks-greens",
@@ -78,7 +78,7 @@
    "attachments": [],
    "proof": "unverified",
    "sources": [],
-   "image": null
+   "image": "badges/u-pinks-greens.png"
   },
   {
    "id": "m-moh",
@@ -6294,7 +6294,7 @@
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021 (read from the copy hosted at home.army.mil/jackson)",
     "Paras 4-1, 4-2, 4-7f, 4-8a, 4-10"
    ],
-   "image": null
+   "image": "badges/u-acu-ocp.png"
   },
   {
    "id": "u-agsu",
@@ -6333,7 +6333,7 @@
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021 (read from the copy hosted at home.army.mil/jackson)",
     "Paras 14-1, 14-2a, 21-7b"
    ],
-   "image": null
+   "image": "badges/u-agsu.png"
   },
   {
    "id": "u-asu",
@@ -6379,7 +6379,7 @@
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021 (read from the copy hosted at home.army.mil/jackson)",
     "Paras 1-7a, 11-1, 11-2, 11-8c(4), 12-1, 21-28, 21-29"
    ],
-   "image": null
+   "image": "badges/u-asu.png"
   },
   {
    "id": "u-mess-blue",
@@ -6494,7 +6494,7 @@
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021 (read from the copy hosted at home.army.mil/jackson)",
     "Chapter 10, para 10-1. Components were not read"
    ],
-   "image": null
+   "image": "badges/u-apfu.png"
   },
   {
    "id": "n-ens",
@@ -7168,7 +7168,7 @@
    "sources": [
     "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, chapter 3 page: Male-Enlisted/Service-Dress/Service-Dress-Blue/ (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-3/Male-Enlisted/Service-Dress/Service-Dress-Blue/)"
    ],
-   "image": null
+   "image": "badges/nu-sdb-enl.png"
   },
   {
    "id": "nu-khaki-off",
@@ -7196,7 +7196,7 @@
    "sources": [
     "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, chapter 3 page: Male-Officer/Service/Service-Khaki/ (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-3/Male-Officer/Service/Service-Khaki/)"
    ],
-   "image": null
+   "image": "badges/nu-khaki-off.png"
   },
   {
    "id": "nu-sdw-off",
@@ -7224,7 +7224,7 @@
    "sources": [
     "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, chapter 3 page: Male-Officer/Service-Dress/-Service-Dress-White (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-3/Male-Officer/Service-Dress/-Service-Dress-White)"
    ],
-   "image": null
+   "image": "badges/nu-sdw-off.png"
   },
   {
    "id": "nu-nwu3",
