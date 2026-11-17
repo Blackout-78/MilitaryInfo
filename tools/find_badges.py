@@ -29,7 +29,7 @@ for eid, qs in Q.items():
     seen = {}; 
     for q in qs:
         for c in search(q):
-            if c["title"] not in seen and not re.search(r"\.pdf|ribbon|ceremony|awarded|presents|receives", c["title"], re.I): seen[c["title"]] = c
+            if c["title"] not in seen and not re.search(r"\.pdf|ceremony|awarded|presents|receives", c["title"], re.I): seen[c["title"]] = c
         time.sleep(0.5)
     cs = list(seen.values())[:6]; out[eid] = cs
     for i, c in enumerate(cs):
