@@ -40,13 +40,9 @@ class MainActivity : Activity() {
         content.addView(host, FrameLayout.LayoutParams(MATCH, MATCH))
 
         val stamp = label("v${BuildConfig.VERSION_NAME} build ${BuildConfig.VERSION_CODE}", 10f, Night.muted)
-        content.addView(
-            stamp,
-            FrameLayout.LayoutParams(WRAP, WRAP, Gravity.BOTTOM or Gravity.START).apply {
-                setMargins(dp(10), 0, 0, dp(4))
-            }
-        )
         root.addView(content, lp(MATCH, 0, 1f))
+        stamp.setPadding(dp(10), dp(2), 0, dp(3))
+        root.addView(stamp, lp())
 
         val divider = View(this).apply { setBackgroundColor(Night.border) }
         root.addView(divider, lp(MATCH, 1))
