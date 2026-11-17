@@ -2,7 +2,7 @@
 import json, os, re, time, urllib.parse, urllib.request, io
 from PIL import Image, ImageChops
 API="https://commons.wikimedia.org/w/api.php"; UA="MilitaryInfo-image-finder/1.0 (https://github.com/Blackout-78/MilitaryInfo)"
-L={"b-mcib":"File:US Army Master Combat Infantryman Badge.png","b-mcmb":"File:US Army Master Combat Medical Badge.png","b-mcab":"File:US Army Master Combat Action Badge.png"}
+L=json.load(open("tools/badge_picks.json"))
 os.makedirs("out/badges",exist_ok=True); meta={}
 for k,t in L.items():
     try:
