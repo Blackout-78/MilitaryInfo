@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.13.3",
+ "dataVersion": "0.13.4-dod-wide",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -144,7 +144,8 @@
     "Established by Act of Congress, 9 July 1918 (10 USC 7272)",
     "Category: valor",
     "V and C devices are not authorized (table 3-1, note 1)",
-    "Order of wear: No. 2 in the Army table for decorations. Lower numbers are worn first (higher)."
+    "Order of wear: No. 2 in the Army table for decorations. Lower numbers are worn first (higher).",
+    "DoD manual: Service-specific (all Military Service Crosses: Distinguished Service Cross, Navy Cross, Air Force Cross); devices: oak leaf cluster (bronze or silver), 5/16 inch star (gold or silver)"
    ],
    "remember": "DSC, DSM, and Silver Star share one birthday: 9 July 1918.",
    "swatches": [],
@@ -156,7 +157,8 @@
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
-    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches"
+    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
+    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.1 (PDF supplied by the app owner)"
    ],
    "image": "ribbons/m-dsc.png"
   },
@@ -184,7 +186,8 @@
    "facts": [
     "Established by Act of Congress, 9 July 1918 (10 USC 7273)",
     "The C device may be added for service under combat conditions, on or after 7 Jan 2016",
-    "Order of wear: No. 7 in the Army table for decorations. Lower numbers are worn first (higher)."
+    "Order of wear: No. 7 in the Army table for decorations. Lower numbers are worn first (higher).",
+    "DoD manual: Service-specific (each department has its own DSM); devices: C, oak leaf cluster (bronze or silver), 5/16 inch star (gold or silver)"
    ],
    "remember": "DSC, DSM, and Silver Star share one birthday: 9 July 1918.",
    "swatches": [],
@@ -209,7 +212,8 @@
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
-    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches"
+    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
+    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.2 (PDF supplied by the app owner)"
    ],
    "image": "ribbons/m-dsm.png"
   },
@@ -219,7 +223,11 @@
    "group": "Decorations",
    "name": "Silver Star",
    "branches": [
-    "Army"
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "ww1",
@@ -238,19 +246,36 @@
     "Established by Act of Congress, 9 July 1918 (10 USC 7276)",
     "Category: valor",
     "V and C devices are not authorized (table 3-1, note 1)",
-    "Order of wear: No. 8 in the Army table for decorations. Lower numbers are worn first (higher)."
+    "Order of wear: No. 8 in the Army table for decorations. Lower numbers are worn first (higher).",
+    "DoD manual: Gallantry in action that does not warrant the Medal of Honor or a service cross",
+    "DoD manual: Worn after the department DSM and before the Defense Superior Service Medal",
+    "DoD manual: Devices: oak leaf cluster (bronze or silver) and 5/16 inch star (gold or silver)"
    ],
    "remember": "DSC, DSM, and Silver Star share one birthday: 9 July 1918.",
    "swatches": [],
    "variants": [],
-   "attachments": [],
+   "attachments": [
+    {
+     "name": "Oak leaf cluster",
+     "note": "Bronze or silver; Army practice (department regulation governs).",
+     "variants": [],
+     "link": "m-dev-olc"
+    },
+    {
+     "name": "5/16 inch star",
+     "note": "Gold or silver; used instead of an oak leaf cluster by some departments.",
+     "variants": [],
+     "link": "m-dev-star516"
+    }
+   ],
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 3-12",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
-    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches"
+    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
+    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.3 (PDF supplied by the app owner)"
    ],
    "image": "ribbons/m-silver-star.png"
   },
@@ -260,7 +285,11 @@
    "group": "Decorations",
    "name": "Legion of Merit",
    "branches": [
-    "Army"
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "ww2",
@@ -277,7 +306,9 @@
     "Established by Act of Congress, 20 July 1942 (10 USC 1121)",
     "C device: combat conditions, on or after 7 Jan 2016 (para 3-13d)",
     "R device: specific achievement (para 3-13e)",
-    "Order of wear: No. 10 in the Army table for decorations. Lower numbers are worn first (higher)."
+    "Order of wear: No. 10 in the Army table for decorations. Lower numbers are worn first (higher).",
+    "DoD manual: Exceptionally meritorious conduct or service; worn after the Defense Superior Service Medal and before the DFC",
+    "DoD manual: Devices: C, R, oak leaf cluster (bronze or silver), 5/16 inch star (gold or silver)"
    ],
    "remember": "1942. Takes C or R, never V.",
    "swatches": [],
@@ -308,7 +339,8 @@
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
-    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches"
+    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
+    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.4 (PDF supplied by the app owner)"
    ],
    "image": "ribbons/m-lom.png"
   },
@@ -318,7 +350,11 @@
    "group": "Decorations",
    "name": "Distinguished Flying Cross",
    "branches": [
-    "Army"
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "interwar",
@@ -336,7 +372,10 @@
     "Established by Act of Congress, 2 July 1926 (10 USC 7279)",
     "When awarded for valor on or after 7 Jan 2016, a bronze V is worn",
     "The C device may also be awarded",
-    "Order of wear: No. 11 in the Army table for decorations. Lower numbers are worn first (higher)."
+    "Order of wear: No. 11 in the Army table for decorations. Lower numbers are worn first (higher).",
+    "DoD manual: Heroism or extraordinary achievement in aerial flight",
+    "DoD manual: Worn after the Legion of Merit; Army before the Soldier's Medal, Navy and Marine Corps before the Navy and Marine Corps Medal, Air Force and Space Force before the Airman's Medal",
+    "DoD manual: Devices: V, C, oak leaf cluster (bronze or silver), 5/16 inch star (gold or silver)"
    ],
    "remember": "DFC and Soldier's Medal share one birthday: 2 July 1926.",
    "swatches": [],
@@ -366,7 +405,8 @@
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 3-14",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
-    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/47)"
+    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/47)",
+    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.5 (PDF supplied by the app owner)"
    ],
    "image": "ribbons/m-dfc.png"
   },
@@ -422,7 +462,11 @@
    "group": "Decorations",
    "name": "Bronze Star Medal",
    "branches": [
-    "Army"
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "ww2",
@@ -439,7 +483,11 @@
     "Established by Executive Order 9419, 4 February 1944",
     "When awarded for valor, a bronze V is worn",
     "The C device is not authorized (para 3-16f)",
-    "Order of wear: No. 16 in the Army table for decorations. Lower numbers are worn first (higher)."
+    "Order of wear: No. 16 in the Army table for decorations. Lower numbers are worn first (higher).",
+    "DoD manual: Valor or meritorious service not in aerial flight, after 6 Dec 1941",
+    "DoD manual: Worn after the Soldier's Medal (Army), Navy and Marine Corps Medal (Navy, Marine Corps) or Airman's Medal (Air Force, Space Force), and before the Purple Heart",
+    "DoD manual: Devices: V, oak leaf cluster (bronze or silver), 5/16 inch star (gold or silver)",
+    "DoD manual: After 30 Oct 2000 requires hostile fire or imminent danger pay or hazardous duty pay (Title 10 USC 1133)"
    ],
    "remember": "1944. V for valor, never C.",
    "swatches": [],
@@ -464,7 +512,8 @@
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
-    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches"
+    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
+    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.6 (PDF supplied by the app owner)"
    ],
    "image": "ribbons/m-bsm.png"
   },
@@ -474,7 +523,11 @@
    "group": "Decorations",
    "name": "Meritorious Service Medal",
    "branches": [
-    "Army"
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "vietnam",
@@ -489,7 +542,9 @@
     "Established by Executive Order 11448, 16 January 1969",
     "The R device may be added for specific achievement",
     "The C device is not authorized (para 3-17d)",
-    "Order of wear: No. 19 in the Army table for decorations. Lower numbers are worn first (higher)."
+    "Order of wear: No. 19 in the Army table for decorations. Lower numbers are worn first (higher).",
+    "DoD manual: Worn after the Defense Meritorious Service Medal and before the Air Medal",
+    "DoD manual: Devices: R, oak leaf cluster (bronze or silver), 5/16 inch star (gold or silver)"
    ],
    "remember": "1969. R yes, C never.",
    "swatches": [],
@@ -514,7 +569,8 @@
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
-    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches"
+    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
+    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.8 (PDF supplied by the app owner)"
    ],
    "image": "ribbons/m-msm.png"
   },
@@ -524,7 +580,11 @@
    "group": "Decorations",
    "name": "Air Medal",
    "branches": [
-    "Army"
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "ww2",
@@ -542,7 +602,9 @@
     "When awarded for valor, a bronze V is worn (para 3-18e)",
     "The C device may be added, on or after 7 Jan 2016 (para 3-18f)",
     "Second and later awards use numerals, not oak leaf clusters",
-    "Order of wear: No. 20 in the Army table for decorations. Lower numbers are worn first (higher)."
+    "Order of wear: No. 20 in the Army table for decorations. Lower numbers are worn first (higher).",
+    "DoD manual: Aerial flight achievement after 8 Sep 1939; worn after the MSM and before the Joint Service Commendation Medal",
+    "DoD manual: Devices: V, C, oak leaf cluster, 5/16 inch star, numerals (bronze or gold)"
    ],
    "remember": "1942. Flying. Numerals, not clusters.",
    "swatches": [],
@@ -573,7 +635,8 @@
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
-    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches"
+    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
+    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.9 (PDF supplied by the app owner)"
    ],
    "image": "ribbons/m-air-medal.png"
   },
@@ -704,7 +767,11 @@
    "group": "Decorations",
    "name": "Purple Heart",
    "branches": [
-    "Army"
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "ww1",
@@ -723,7 +790,9 @@
     "Originally established by General George Washington at Newburgh, NY, on 7 August 1782",
     "An oak leaf cluster marks each subsequent award",
     "Multiple wounds from the same instant or source count as one award",
-    "Order of wear: No. 17 in the Army table for decorations. Lower numbers are worn first (higher)."
+    "Order of wear: No. 17 in the Army table for decorations. Lower numbers are worn first (higher).",
+    "DoD manual: Worn after the Bronze Star and before the Defense Meritorious Service Medal",
+    "DoD manual: Devices: oak leaf cluster (bronze or silver) and 5/16 inch star (gold or silver)"
    ],
    "remember": "Washington started it in 1782. One cluster per later award.",
    "swatches": [],
@@ -742,7 +811,8 @@
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
-    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches"
+    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
+    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.7 (PDF supplied by the app owner)"
    ],
    "image": "ribbons/m-purple-heart.png"
   },
@@ -1006,7 +1076,11 @@
    "group": "Service medals",
    "name": "Prisoner of War Medal",
    "branches": [
-    "Army"
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "ww1",
@@ -1024,19 +1098,30 @@
    "facts": [
     "Criteria are codified in 10 USC 1128",
     "One medal only; service stars mark subsequent awards",
-    "Order of wear: No. 1 in the Army table for service medals and ribbons. Lower numbers are worn first (higher)."
+    "Order of wear: No. 1 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
+    "DoD manual: Individual service medal; held captive after 5 Apr 1917 (Title 10 USC 1128)",
+    "DoD manual: Worn right after decorations for heroism or merit and before any other service medal or ribbon",
+    "DoD manual: Service star is the only device"
    ],
    "remember": "Captured after 5 April 1917.",
    "swatches": [],
    "variants": [],
-   "attachments": [],
+   "attachments": [
+    {
+     "name": "Service star",
+     "note": "Bronze for each later award; a silver star replaces five bronze (DoD manual).",
+     "variants": [],
+     "link": "m-dev-star"
+    }
+   ],
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-9",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
-    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches"
+    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.15 (PDF supplied by the app owner)"
    ],
    "image": "ribbons/m-pow.png"
   },
@@ -1046,7 +1131,11 @@
    "group": "Service medals",
    "name": "National Defense Service Medal",
    "branches": [
-    "Army"
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "korea",
@@ -1065,15 +1154,18 @@
     "2 Aug 1990 to 30 Nov 1995 (Persian Gulf)",
     "11 Sep 2001 to 30 Dec 2022 (GWOT)",
     "A bronze service star marks a second or subsequent award",
-    "Order of wear: No. 11 in the Army table for service medals and ribbons. Lower numbers are worn first (higher)."
+    "Order of wear: No. 11 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
+    "DoD manual: Individual service medal for periods the Secretary of Defense names; the list of periods is kept on a DoD website, not in the manual",
+    "DoD manual: Worn after: Army, the Army of Occupation Medal; Navy and Marine Corps, the Navy Occupation Service Medal; Air Force and Space Force, the Air Force Recognition Ribbon",
+    "DoD manual: Service star is the only device"
    ],
    "remember": "Four wars: Korea, Vietnam, Gulf, GWOT.",
    "swatches": [],
    "variants": [],
    "attachments": [
     {
-     "name": "Bronze service star",
-     "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+     "name": "Service star",
+     "note": "Bronze for each later award; a silver star replaces five bronze (DoD manual).",
      "variants": [],
      "link": "m-dev-star"
     }
@@ -1084,7 +1176,8 @@
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
-    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches"
+    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.14 (PDF supplied by the app owner)"
    ],
    "image": "ribbons/m-ndsm.png"
   },
@@ -1094,7 +1187,11 @@
    "group": "Service medals",
    "name": "Antarctica Service Medal",
    "branches": [
-    "Army"
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "korea",
@@ -1110,15 +1207,18 @@
     "Established by PL 86-600 (DA Bulletin 3, 1960)",
     "A Wintered Over clasp and disc: bronze for the first winter, gold for the second, silver for three or more",
     "One clasp or disc is worn on the ribbon",
-    "Order of wear: No. 13 in the Army table for service medals and ribbons. Lower numbers are worn first (higher)."
+    "Order of wear: No. 13 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
+    "DoD manual: Deployed service medal; period begins 1 Jan 1946; area south of 60 degrees south",
+    "DoD manual: Worn after the NDSM and before the AFEM",
+    "DoD manual: Wintered Over clasp (bronze first, gold second, silver third or later; one only) and a matching disk on the ribbon"
    ],
    "remember": "Bronze, gold, silver: first, second, third winter.",
    "swatches": [],
    "variants": [],
    "attachments": [
     {
-     "name": "Wintered Over clasp and disc",
-     "note": "Bronze first winter, gold second, silver three or more (para 2-11).",
+     "name": "Wintered Over clasp and disk",
+     "note": "Clasp on the suspension ribbon and a disk on the ribbon: bronze first winter, gold second, silver third or later; only one of each (DoD manual).",
      "variants": []
     }
    ],
@@ -1126,7 +1226,8 @@
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-11",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
-    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)"
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.2 (PDF supplied by the app owner)"
    ],
    "image": null
   },
@@ -1136,7 +1237,11 @@
    "group": "Service medals",
    "name": "Armed Forces Expeditionary Medal",
    "branches": [
-    "Army"
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "vietnam",
@@ -1150,17 +1255,32 @@
    "facts": [
     "Established by Executive Order 10977, 4 December 1961",
     "A bronze service star marks each succeeding operation in a different theater or against a different enemy",
-    "Order of wear: No. 14 in the Army table for service medals and ribbons. Lower numbers are worn first (higher)."
+    "Order of wear: No. 14 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
+    "DoD manual: Expeditionary medal; for operations after 1 Jul 1958 with foreign armed opposition or imminent hostile action",
+    "DoD manual: Worn after the Antarctica Service Medal and before the Vietnam Service Medal",
+    "DoD manual: One award per designated operation; a service star marks each later operation"
    ],
    "remember": "Eligibility starts 1 July 1958.",
    "swatches": [],
    "variants": [],
    "attachments": [
     {
-     "name": "Bronze service star",
-     "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+     "name": "Service star",
+     "note": "Bronze for each later award; a silver star replaces five bronze (DoD manual).",
      "variants": [],
      "link": "m-dev-star"
+    },
+    {
+     "name": "Arrowhead",
+     "note": "Bronze, 1/4 inch; may be authorized by the Secretary of the Army or the Secretary of the Air Force.",
+     "variants": [],
+     "link": "m-dev-arrowhead"
+    },
+    {
+     "name": "Fleet Marine Force Combat Operations Insignia",
+     "note": "Navy members assigned to Marine Corps units in combat, if authorized by the Secretary of the Navy.",
+     "variants": [],
+     "link": "m-dev-fmf"
     }
    ],
    "proof": "official",
@@ -1169,7 +1289,8 @@
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
-    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches"
+    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.3 (PDF supplied by the app owner)"
    ],
    "image": "ribbons/m-afem.png"
   },
@@ -1221,7 +1342,11 @@
    "group": "Service medals",
    "name": "Southwest Asia Service Medal",
    "branches": [
-    "Army"
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "coldwar",
@@ -1235,17 +1360,26 @@
     "Established by Executive Order 12754, 12 March 1991",
     "Eligible 2 August 1990 to 30 November 1995",
     "One bronze service star per designated campaign",
-    "Order of wear: No. 16 in the Army table for service medals and ribbons. Lower numbers are worn first (higher)."
+    "Order of wear: No. 16 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
+    "DoD manual: Campaign medal; period 2 Aug 1990 to 30 Nov 1995",
+    "DoD manual: Worn after the Vietnam Service Medal and before the Kosovo Campaign Medal",
+    "DoD manual: Campaign star is bronze only"
    ],
    "remember": "2 Aug 1990 to 30 Nov 1995.",
    "swatches": [],
    "variants": [],
    "attachments": [
     {
-     "name": "Bronze service star",
-     "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+     "name": "Campaign star",
+     "note": "Bronze for each designated campaign phase; a silver star replaces five bronze (DoD manual).",
      "variants": [],
-     "link": "m-dev-star"
+     "link": "m-dev-campaign-star"
+    },
+    {
+     "name": "Fleet Marine Force Combat Operations Insignia",
+     "note": "Navy members assigned to Marine Corps units in combat, if authorized by the Secretary of the Navy.",
+     "variants": [],
+     "link": "m-dev-fmf"
     }
    ],
    "proof": "official",
@@ -1254,7 +1388,8 @@
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
-    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches"
+    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.16 (PDF supplied by the app owner)"
    ],
    "image": "ribbons/m-swasm.png"
   },
@@ -1264,7 +1399,11 @@
    "group": "Service medals",
    "name": "Kosovo Campaign Medal",
    "branches": [
-    "Army"
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "modern"
@@ -1276,17 +1415,26 @@
     "Established by Executive Order 13154, 3 May 2000",
     "Eligible 24 March 1999 to 31 December 2013",
     "One bronze star per campaign; a second star requires both campaigns",
-    "Order of wear: No. 17 in the Army table for service medals and ribbons. Lower numbers are worn first (higher)."
+    "Order of wear: No. 17 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
+    "DoD manual: Campaign medal; period 24 Mar 1999 to 31 Dec 2013",
+    "DoD manual: Worn after the Southwest Asia Service Medal and before the Afghanistan Campaign Medal",
+    "DoD manual: Authorized device: campaign star (no arrowhead is listed)"
    ],
    "remember": "24 Mar 1999 to 31 Dec 2013.",
    "swatches": [],
    "variants": [],
    "attachments": [
     {
-     "name": "Bronze service star",
-     "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+     "name": "Campaign star",
+     "note": "Bronze for each designated campaign phase; a silver star replaces five bronze (DoD manual).",
      "variants": [],
-     "link": "m-dev-star"
+     "link": "m-dev-campaign-star"
+    },
+    {
+     "name": "Fleet Marine Force Combat Operations Insignia",
+     "note": "Navy members assigned to Marine Corps units in combat, if authorized by the Secretary of the Navy.",
+     "variants": [],
+     "link": "m-dev-fmf"
     }
    ],
    "proof": "official",
@@ -1294,7 +1442,8 @@
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-15",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
-    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/532)"
+    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/532)",
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.12 (PDF supplied by the app owner)"
    ],
    "image": "ribbons/m-kcm.png"
   },
@@ -1304,7 +1453,11 @@
    "group": "Service medals",
    "name": "Afghanistan Campaign Medal",
    "branches": [
-    "Army"
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "modern"
@@ -1316,17 +1469,32 @@
     "Authorized by PL 108-234 (28 May 2004) and EO 13363 (29 November 2004)",
     "Eligible 11 September 2001 to 31 August 2021",
     "The medal is awarded once; a bronze star marks each designated campaign",
-    "Order of wear: No. 18 in the Army table for service medals and ribbons. Lower numbers are worn first (higher)."
+    "Order of wear: No. 18 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
+    "DoD manual: Campaign medal; period begins 11 Sep 2001, end date to be set by the Secretary of Defense",
+    "DoD manual: Worn after the Kosovo Campaign Medal and before the Iraq Campaign Medal",
+    "DoD manual: Awarded once; a campaign star marks each campaign phase"
    ],
    "remember": "11 Sep 2001 to 31 Aug 2021.",
    "swatches": [],
    "variants": [],
    "attachments": [
     {
-     "name": "Bronze service star",
-     "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+     "name": "Campaign star",
+     "note": "Bronze for each designated campaign phase; a silver star replaces five bronze (DoD manual).",
      "variants": [],
-     "link": "m-dev-star"
+     "link": "m-dev-campaign-star"
+    },
+    {
+     "name": "Arrowhead",
+     "note": "Bronze, 1/4 inch; may be authorized by the Secretary of the Army or the Secretary of the Air Force.",
+     "variants": [],
+     "link": "m-dev-arrowhead"
+    },
+    {
+     "name": "Fleet Marine Force Combat Operations Insignia",
+     "note": "Navy members assigned to Marine Corps units in combat, if authorized by the Secretary of the Navy.",
+     "variants": [],
+     "link": "m-dev-fmf"
     }
    ],
    "proof": "official",
@@ -1335,7 +1503,8 @@
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
-    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches"
+    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.1 (PDF supplied by the app owner)"
    ],
    "image": "ribbons/m-acm.png"
   },
@@ -1345,7 +1514,11 @@
    "group": "Service medals",
    "name": "Iraq Campaign Medal",
    "branches": [
-    "Army"
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "modern"
@@ -1357,17 +1530,31 @@
     "Authorized by PL 108-234 (28 May 2004) and EO 13363 (29 November 2004)",
     "Eligible 19 March 2003 to 31 December 2011",
     "The medal is awarded once; a bronze star marks each designated service",
-    "Order of wear: No. 19 in the Army table for service medals and ribbons. Lower numbers are worn first (higher)."
+    "Order of wear: No. 19 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
+    "DoD manual: Campaign medal; period 19 Mar 2003 to 31 Dec 2011",
+    "DoD manual: Worn after the Afghanistan Campaign Medal and before the Inherent Resolve Campaign Medal"
    ],
    "remember": "19 Mar 2003 to 31 Dec 2011.",
    "swatches": [],
    "variants": [],
    "attachments": [
     {
-     "name": "Bronze service star",
-     "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+     "name": "Campaign star",
+     "note": "Bronze for each designated campaign phase; a silver star replaces five bronze (DoD manual).",
      "variants": [],
-     "link": "m-dev-star"
+     "link": "m-dev-campaign-star"
+    },
+    {
+     "name": "Arrowhead",
+     "note": "Bronze, 1/4 inch; may be authorized by the Secretary of the Army or the Secretary of the Air Force.",
+     "variants": [],
+     "link": "m-dev-arrowhead"
+    },
+    {
+     "name": "Fleet Marine Force Combat Operations Insignia",
+     "note": "Navy members assigned to Marine Corps units in combat, if authorized by the Secretary of the Navy.",
+     "variants": [],
+     "link": "m-dev-fmf"
     }
    ],
    "proof": "official",
@@ -1376,7 +1563,8 @@
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
-    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches"
+    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.10 (PDF supplied by the app owner)"
    ],
    "image": "ribbons/m-icm.png"
   },
@@ -1386,7 +1574,11 @@
    "group": "Service medals",
    "name": "Inherent Resolve Campaign Medal",
    "branches": [
-    "Army"
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "modern"
@@ -1398,24 +1590,39 @@
     "Established by Executive Order 13723, 30 March 2016",
     "Meets 30-day or combat, evacuation, or aircrew criteria",
     "A separate bronze campaign star for each designated phase; presented only on the initial award",
-    "Order of wear: No. 20 in the Army table for service medals and ribbons. Lower numbers are worn first (higher)."
+    "Order of wear: No. 20 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
+    "DoD manual: Campaign medal; period begins 15 Jun 2014 (Iraq, Syria and contiguous waters and airspace)",
+    "DoD manual: Worn after the Iraq Campaign Medal and before the GWOT Expeditionary Medal"
    ],
    "remember": "Starts 15 June 2014. Star per phase.",
    "swatches": [],
    "variants": [],
    "attachments": [
     {
-     "name": "Bronze service star",
-     "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+     "name": "Campaign star",
+     "note": "Bronze for each designated campaign phase; a silver star replaces five bronze (DoD manual).",
      "variants": [],
-     "link": "m-dev-star"
+     "link": "m-dev-campaign-star"
+    },
+    {
+     "name": "Arrowhead",
+     "note": "Bronze, 1/4 inch; may be authorized by the Secretary of the Army or the Secretary of the Air Force.",
+     "variants": [],
+     "link": "m-dev-arrowhead"
+    },
+    {
+     "name": "Fleet Marine Force Combat Operations Insignia",
+     "note": "Navy members assigned to Marine Corps units in combat, if authorized by the Secretary of the Navy.",
+     "variants": [],
+     "link": "m-dev-fmf"
     }
    ],
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-18",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
-    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)"
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.9 (PDF supplied by the app owner)"
    ],
    "image": null
   },
@@ -1425,7 +1632,11 @@
    "group": "Service medals",
    "name": "Global War on Terrorism Expeditionary Medal",
    "branches": [
-    "Army"
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "modern"
@@ -1437,17 +1648,31 @@
     "Established by Executive Order 13289, 12 March 2003",
     "On or after 11 September 2001, to a date to be determined",
     "A bronze star marks separate deployments in different named operations",
-    "Order of wear: No. 21 in the Army table for service medals and ribbons. Lower numbers are worn first (higher)."
+    "Order of wear: No. 21 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
+    "DoD manual: Expeditionary medal; for operations on or after 11 Sep 2001; each operation has its own period of award",
+    "DoD manual: Worn after the Inherent Resolve Campaign Medal and before the GWOT Service Medal"
    ],
    "remember": "On or after 11 Sep 2001. Deployed abroad.",
    "swatches": [],
    "variants": [],
    "attachments": [
     {
-     "name": "Bronze service star",
-     "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+     "name": "Service star",
+     "note": "Bronze for each later award; a silver star replaces five bronze (DoD manual).",
      "variants": [],
      "link": "m-dev-star"
+    },
+    {
+     "name": "Arrowhead",
+     "note": "Bronze, 1/4 inch; may be authorized by the Secretary of the Army or the Secretary of the Air Force.",
+     "variants": [],
+     "link": "m-dev-arrowhead"
+    },
+    {
+     "name": "Fleet Marine Force Combat Operations Insignia",
+     "note": "Navy members assigned to Marine Corps units in combat, if authorized by the Secretary of the Navy.",
+     "variants": [],
+     "link": "m-dev-fmf"
     }
    ],
    "proof": "official",
@@ -1455,7 +1680,8 @@
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-19",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
-    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/579)"
+    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/579)",
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.6 (PDF supplied by the app owner)"
    ],
    "image": "ribbons/m-gwotem.png"
   },
@@ -1465,7 +1691,11 @@
    "group": "Service medals",
    "name": "Global War on Terrorism Service Medal",
    "branches": [
-    "Army"
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "modern"
@@ -1477,7 +1707,10 @@
     "Established by Executive Order 13289, 12 March 2003",
     "Serving on or after 11 September 2001 through 10 September 2022",
     "Only one award per person; no subsequent stars",
-    "Order of wear: No. 22 in the Army table for service medals and ribbons. Lower numbers are worn first (higher)."
+    "Order of wear: No. 22 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
+    "DoD manual: Individual service medal; non-deployed support on or after 11 Sep 2001",
+    "DoD manual: Worn after the GWOT Expeditionary Medal and before the Korea Defense Service Medal",
+    "DoD manual: No devices, no later awards"
    ],
    "remember": "11 Sep 2001 to 10 Sep 2022. Service, not deployed.",
    "swatches": [],
@@ -1488,7 +1721,8 @@
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-20",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
-    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/580)"
+    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/580)",
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.7 (PDF supplied by the app owner)"
    ],
    "image": "ribbons/m-gwotsm.png"
   },
@@ -1498,7 +1732,11 @@
    "group": "Service medals",
    "name": "Korea Defense Service Medal",
    "branches": [
-    "Army"
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "vietnam",
@@ -1513,7 +1751,10 @@
     "Authorized by 10 USC 7286, 8308, and 9286",
     "From 28 July 1954 to a date to be determined",
     "One award only; the Overseas Service Ribbon may also be awarded",
-    "Order of wear: No. 23 in the Army table for service medals and ribbons. Lower numbers are worn first (higher)."
+    "Order of wear: No. 23 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
+    "DoD manual: Deployed service medal; period begins 28 Jul 1954",
+    "DoD manual: Worn after the GWOT Service Medal and before the Armed Forces Service Medal",
+    "DoD manual: No devices are authorized"
    ],
    "remember": "Starts 28 Jul 1954, the day after the Korean Service Medal period ends.",
    "swatches": [],
@@ -1524,7 +1765,8 @@
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-21",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
-    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/585)"
+    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/585)",
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.11 (PDF supplied by the app owner)"
    ],
    "image": "ribbons/m-kdsm.png"
   },
@@ -1534,7 +1776,11 @@
    "group": "Service medals",
    "name": "Armed Forces Service Medal",
    "branches": [
-    "Army"
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "modern"
@@ -1545,15 +1791,18 @@
    "facts": [
     "Established by Executive Order 12985, 11 January 1996",
     "A bronze star marks service in different designated areas; no two awards for the same area",
-    "Order of wear: No. 24 in the Army table for service medals and ribbons. Lower numbers are worn first (higher)."
+    "Order of wear: No. 24 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
+    "DoD manual: Deployed service medal; for designated operations on or after 1 Jun 1992 with no foreign armed opposition (the non-combat match to the AFEM)",
+    "DoD manual: Worn after the Korea Defense Service Medal and before the Humanitarian Service Medal",
+    "DoD manual: One award per designated operation; service star is the only device"
    ],
    "remember": "After 1 June 1992. No armed opposition.",
    "swatches": [],
    "variants": [],
    "attachments": [
     {
-     "name": "Bronze service star",
-     "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+     "name": "Service star",
+     "note": "Bronze for each later award; a silver star replaces five bronze (DoD manual).",
      "variants": [],
      "link": "m-dev-star"
     }
@@ -1564,7 +1813,8 @@
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
-    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches"
+    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.4 (PDF supplied by the app owner)"
    ],
    "image": "ribbons/m-afsm.png"
   },
@@ -1574,7 +1824,11 @@
    "group": "Service medals",
    "name": "Humanitarian Service Medal",
    "branches": [
-    "Army"
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "vietnam",
@@ -1588,18 +1842,29 @@
    "facts": [
     "Established by Executive Order 11965, 19 January 1977",
     "Service after 1 April 1975 qualifies",
-    "Order of wear: No. 25 in the Army table for service medals and ribbons. Lower numbers are worn first (higher)."
+    "Order of wear: No. 25 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
+    "DoD manual: Individual service medal; humanitarian operations after 1 Apr 1975",
+    "DoD manual: Worn after the Armed Forces Service Medal and before the Military Outstanding Volunteer Service Medal",
+    "DoD manual: Service star is the only device"
    ],
    "remember": "Established 1977, counts from 1 Apr 1975.",
    "swatches": [],
    "variants": [],
-   "attachments": [],
+   "attachments": [
+    {
+     "name": "Service star",
+     "note": "Bronze for each later award; a silver star replaces five bronze (DoD manual).",
+     "variants": [],
+     "link": "m-dev-star"
+    }
+   ],
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-23",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
-    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/233)"
+    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/233)",
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.8 (PDF supplied by the app owner)"
    ],
    "image": "ribbons/m-hsm.png"
   },
@@ -1609,7 +1874,11 @@
    "group": "Service medals",
    "name": "Military Outstanding Volunteer Service Medal",
    "branches": [
-    "Army"
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "modern"
@@ -1621,15 +1890,18 @@
     "Established by Executive Order 12830, 9 January 1993, amended by EO 13286 (28 February 2003)",
     "Service after 31 December 1992 qualifies",
     "Bronze stars mark subsequent awards; worn immediately after the Humanitarian Service Medal",
-    "Order of wear: No. 26 in the Army table for service medals and ribbons. Lower numbers are worn first (higher)."
+    "Order of wear: No. 26 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
+    "DoD manual: Individual service medal; outstanding volunteer service after 31 Dec 1992",
+    "DoD manual: Worn after the Humanitarian Service Medal; Army before the Army Sea Duty Ribbon, Navy and Marine Corps before the Sea Service Deployment Ribbon, Air Force and Space Force before the Overseas Service Ribbon (Short Tour)",
+    "DoD manual: Service star is the only device"
    ],
    "remember": "Starts 1993. Worn right after the HSM.",
    "swatches": [],
    "variants": [],
    "attachments": [
     {
-     "name": "Bronze service star",
-     "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
+     "name": "Service star",
+     "note": "Bronze for each later award; a silver star replaces five bronze (DoD manual).",
      "variants": [],
      "link": "m-dev-star"
     }
@@ -1639,7 +1911,8 @@
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-24",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
-    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/374)"
+    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/374)",
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.13 (PDF supplied by the app owner)"
    ],
    "image": "ribbons/m-movsm.png"
   },
@@ -1649,7 +1922,12 @@
    "group": "Service medals",
    "name": "Armed Forces Reserve Medal",
    "branches": [
-    "Army"
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force",
+    "Coast Guard"
    ],
    "eras": [
     "korea",
@@ -1665,7 +1943,10 @@
     "Established as announced in DA Bulletin 15, 1950",
     "Bronze, silver, and gold hourglasses mark each 10-year period",
     "An M device marks specified contingency active duty",
-    "Order of wear: No. 28 in the Army table for service medals and ribbons. Lower numbers are worn first (higher)."
+    "Order of wear: No. 28 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
+    "DoD manual: Six versions of the medal; the front is the same, the back differs by Reserve component (Army, Navy, Marine Corps, Air Force, National Guard, Coast Guard)",
+    "DoD manual: Qualifies: 10 years in 12 consecutive years of Reserve service, or called to active duty on or after 1 Aug 1990, or volunteer service in designated operations",
+    "DoD manual: Hourglass shown first, then M device and numerals (numerals start with 2)"
    ],
    "remember": "1950. Hourglass per 10 years, M for mobilized.",
    "swatches": [],
@@ -1673,14 +1954,21 @@
    "attachments": [
     {
      "name": "Hourglass device",
-     "note": "Bronze, silver, and gold for 10-year periods (para 2-26).",
-     "variants": []
+     "note": "Bronze 10 years, silver 20, gold 30; gold with bronze is 40 (DoD manual).",
+     "variants": [],
+     "link": "m-dev-hourglass"
     },
     {
      "name": "M device",
-     "note": "Active duty for designated operations; numbering begins with the second award (para 6-9).",
+     "note": "Bronze M for mobilization; numerals mark later awards.",
      "variants": [],
      "link": "m-dev-m"
+    },
+    {
+     "name": "Numeral",
+     "note": "Arabic numerals, bronze or gold; see the department regulation.",
+     "variants": [],
+     "link": "m-dev-numeral"
     }
    ],
    "proof": "official",
@@ -1688,7 +1976,8 @@
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-26",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
-    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/13)"
+    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/13)",
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.5 (PDF supplied by the app owner)"
    ],
    "image": "ribbons/m-afrm.png"
   },
@@ -2389,7 +2678,11 @@
    "group": "Unit awards",
    "name": "Presidential Unit Citation",
    "branches": [
-    "Army"
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "ww2",
@@ -2406,7 +2699,10 @@
     "On 3 November 1966 the Distinguished Unit Citation was redesignated the PUC",
     "The Secretary of the Army is final approval authority on behalf of the President",
     "An oak leaf cluster marks repeat awards",
-    "Order of wear: No. 1 in the Army table for unit awards. Lower numbers are worn first (higher)."
+    "Order of wear: No. 1 in the Army table for unit awards. Lower numbers are worn first (higher).",
+    "DoD manual: Established by E.O. 10694 as amended by E.O. 14085; units after 7 Dec 1941",
+    "DoD manual: Army: before all other unit citations. Navy and Marine Corps: after the Combat Action Ribbon and before the Joint Meritorious Unit Award. Air Force and Space Force: after the Air Force Combat Action Medal and before the Joint Meritorious Unit Award",
+    "DoD manual: Devices: oak leaf cluster (bronze or silver) and 3/16 inch star (bronze or silver)"
    ],
    "remember": "Distinguished Unit Citation became the PUC in 1966.",
    "swatches": [],
@@ -2424,7 +2720,8 @@
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 7-12",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
-    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/54)"
+    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/54)",
+    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.10 (PDF supplied by the app owner)"
    ],
    "image": "ribbons/m-puc.png"
   },
@@ -2810,7 +3107,11 @@
    "group": "Devices",
    "name": "Service star",
    "branches": [
-    "Army"
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "modern"
@@ -2821,7 +3122,8 @@
    "facts": [
     "On medals it marks a campaign; on ribbons it marks an additional award",
     "A silver star is worn instead of five bronze stars",
-    "Also authorized on the Army Sea Duty Ribbon"
+    "Also authorized on the Army Sea Duty Ribbon",
+    "DoD manual: Service stars are bronze or silver, 3/16 inch; campaign medals use the campaign star instead"
    ],
    "remember": "Bronze is one. Silver is five.",
    "swatches": [],
@@ -2853,7 +3155,8 @@
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-11",
-    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.3 to 4.15 (PDF supplied by the app owner)"
    ],
    "image": null
   },
@@ -2863,7 +3166,9 @@
    "group": "Devices",
    "name": "Arrowhead",
    "branches": [
-    "Army"
+    "Army",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "modern"
@@ -2873,7 +3178,8 @@
    "summary": "Bronze, 1/4 inch, for an assault landing by parachute, helicopter, glider, or amphibious assault.",
    "facts": [
     "The Soldier must exit the aircraft or watercraft",
-    "One per ribbon"
+    "One per ribbon",
+    "DoD manual: Authorized for the Afghanistan, Iraq and Inherent Resolve Campaign Medals and the Armed Forces Expeditionary and Global War on Terrorism Expeditionary Medals, as authorized by the Secretary of the Army or the Secretary of the Air Force"
    ],
    "remember": "Arrowhead means you made the assault.",
    "swatches": [],
@@ -2894,7 +3200,8 @@
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-12",
-    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.1, 4.3, 4.6, 4.9, 4.10 (PDF supplied by the app owner)"
    ],
    "image": null
   },
@@ -10324,6 +10631,133 @@
    "sources": [
     "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
     "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-dev-campaign-star",
+   "tab": "medals",
+   "group": "Devices",
+   "name": "Campaign star",
+   "branches": [
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Bronze or silver five-pointed star, 3/16 inch, worn for each designated campaign phase on a campaign medal.",
+   "facts": [
+    "Worn on the suspension and campaign ribbon of the Afghanistan, Iraq, Inherent Resolve, Southwest Asia Service and Kosovo Campaign Medals",
+    "A silver campaign star is worn in place of five bronze ones",
+    "The Southwest Asia Service Medal uses the bronze star only"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.1, 4.9, 4.10, 4.12, 4.16 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-dev-fmf",
+   "tab": "medals",
+   "group": "Devices",
+   "name": "Fleet Marine Force Combat Operations Insignia",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Miniature bronze Marine Corps emblem for Navy members assigned to Marine Corps units that take part in combat.",
+   "facts": [
+    "May be authorized by the Secretary of the Navy",
+    "Listed for the Afghanistan, Iraq, Inherent Resolve, Kosovo and Southwest Asia Service Medals, and for the Armed Forces Expeditionary and Global War on Terrorism Expeditionary Medals"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.1, 4.3, 4.6, 4.9, 4.10, 4.12, 4.16 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-dev-hourglass",
+   "tab": "medals",
+   "group": "Devices",
+   "name": "Hourglass device",
+   "branches": [
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force",
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Bronze, silver or gold hourglass on the Armed Forces Reserve Medal for 10-year periods of Reserve service.",
+   "facts": [
+    "Bronze is 10 years, silver 20 years, gold 30 years",
+    "A gold and a bronze together mean 40 years",
+    "Shown first (the wearer's right), then the M device, when both are worn"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.5.j (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-dev-star516",
+   "tab": "medals",
+   "group": "Devices",
+   "name": "5/16 inch star",
+   "branches": [
+    "Army",
+    "Navy",
+    "Marine Corps",
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Gold or silver 5/16 inch star worn for later awards of several DoD-wide decorations.",
+   "facts": [
+    "Listed for the Military Service Crosses, Department DSMs, Silver Star, Legion of Merit, DFC, Bronze Star, Purple Heart, Meritorious Service Medal and Air Medal",
+    "Each military department sets the wear rules (Army uses oak leaf clusters; see the department regulation)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.1 to 3.9 (PDF supplied by the app owner)"
    ],
    "image": null
   }
