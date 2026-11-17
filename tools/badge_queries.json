@@ -1,0 +1,31 @@
+{
+ "esb": [
+  "Expert Soldier Badge",
+  "Expert Soldier Badge United States Army"
+ ],
+ "mcib": [
+  "Master Combat Infantryman Badge"
+ ],
+ "mcmb": [
+  "Master Combat Medical Badge"
+ ],
+ "mcab": [
+  "Master Combat Action Badge"
+ ],
+ "cib-check": [
+  "Combat Infantryman Badge",
+  "Combat Infantryman Badge 2nd award"
+ ],
+ "eib-check": [
+  "Expert Infantryman Badge"
+ ],
+ "cab-check": [
+  "Combat Action Badge United States Army"
+ ],
+ "cmb-check": [
+  "Combat Medical Badge"
+ ],
+ "efmb-check": [
+  "Expert Field Medical Badge"
+ ]
+}
