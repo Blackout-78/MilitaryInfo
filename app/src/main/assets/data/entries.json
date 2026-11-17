@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.14.0-air-space",
+ "dataVersion": "0.14.1-tier-pictures",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -3569,15 +3569,18 @@
    "variants": [
     {
      "label": "Basic Army Aviator Badge",
-     "note": null
+     "note": null,
+     "image": "badges/b-aviator.png"
     },
     {
      "label": "Senior Army Aviator Badge",
-     "note": null
+     "note": null,
+     "image": "badges/tiers/avr-senior.png"
     },
     {
      "label": "Master Army Aviator Badge",
-     "note": null
+     "note": null,
+     "image": "badges/tiers/avr-master.png"
     }
    ],
    "attachments": [],
@@ -3618,11 +3621,13 @@
     },
     {
      "label": "Senior Flight Surgeon Badge",
-     "note": null
+     "note": null,
+     "image": "badges/tiers/fs-senior.png"
     },
     {
      "label": "Master Flight Surgeon Badge",
-     "note": null
+     "note": null,
+     "image": "badges/tiers/fs-master.png"
     }
    ],
    "attachments": [],
@@ -3660,15 +3665,18 @@
    "variants": [
     {
      "label": "Basic Aviation Badge",
-     "note": null
+     "note": null,
+     "image": "badges/tiers/av-basic.png"
     },
     {
      "label": "Senior Aviation Badge",
-     "note": null
+     "note": null,
+     "image": "badges/tiers/av-senior.png"
     },
     {
      "label": "Master Aviation Badge",
-     "note": null
+     "note": null,
+     "image": "badges/tiers/av-master.png"
     }
    ],
    "attachments": [],
@@ -3705,15 +3713,18 @@
    "variants": [
     {
      "label": "Basic EOD Badge",
-     "note": null
+     "note": null,
+     "image": "badges/tiers/eod-basic.png"
     },
     {
      "label": "Senior EOD Badge",
-     "note": null
+     "note": null,
+     "image": "badges/tiers/eod-senior.png"
     },
     {
      "label": "Master EOD Badge",
-     "note": null
+     "note": null,
+     "image": "badges/tiers/eod-master.png"
     }
    ],
    "attachments": [],
@@ -3753,15 +3764,18 @@
    "variants": [
     {
      "label": "Basic Parachutist Badge",
-     "note": null
+     "note": null,
+     "image": "badges/tiers/par-basic.png"
     },
     {
      "label": "Senior Parachutist Badge",
-     "note": null
+     "note": null,
+     "image": "badges/tiers/par-senior.png"
     },
     {
      "label": "Master Parachutist Badge",
-     "note": null
+     "note": null,
+     "image": "badges/tiers/par-master.png"
     }
    ],
    "attachments": [
@@ -3811,11 +3825,13 @@
    "variants": [
     {
      "label": "Basic Military Freefall Parachutist Badge",
-     "note": null
+     "note": null,
+     "image": "badges/b-freefall.png"
     },
     {
      "label": "Jumpmaster Military Freefall Parachutist Badge",
-     "note": null
+     "note": null,
+     "image": "badges/tiers/ff-master.png"
     }
    ],
    "attachments": [
@@ -4125,11 +4141,13 @@
     },
     {
      "label": "Senior Army Instructor Badge",
-     "note": null
+     "note": null,
+     "image": "badges/tiers/ins-senior.png"
     },
     {
      "label": "Master Army Instructor Badge",
-     "note": null
+     "note": null,
+     "image": "badges/tiers/ins-master.png"
     }
    ],
    "attachments": [],

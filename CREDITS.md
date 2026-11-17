@@ -57,3 +57,26 @@ Cropped from an enlisted insignia chart supplied by the app owner (https://i.pin
 ## Marine Corps rank pictures (enlisted E-2 to E-9, officers O-1 to O-10)
 
 Taken from the "NJROTC Marine Corps Ranks" PDF supplied by the app owner (original author and license not stated). Cropped and enlarged. Entries stay Unverified until an official marines.mil source is available.
+
+## Badge tier pictures (Basic, Senior, Master)
+
+All from Wikimedia Commons, tagged public domain. The EOD Basic and Senior pictures are Navy-labelled files of the DoD EOD badge design.
+
+| Entry and tier | Commons file | License | Page |
+|---|---|---|---|
+| b-parachutist Basic | US Army Basic Parachutist Badge.png | Public domain | https://commons.wikimedia.org/wiki/File:US_Army_Basic_Parachutist_Badge.png |
+| b-parachutist Senior | US Senior Parachutist Badge.png | Public domain | https://commons.wikimedia.org/wiki/File:US_Senior_Parachutist_Badge.png |
+| b-parachutist Master | Master Parachutist Badge.jpg | Public domain | https://commons.wikimedia.org/wiki/File:Master_Parachutist_Badge.jpg |
+| b-aviator Senior | Army Senior Aviator.png | Public domain | https://commons.wikimedia.org/wiki/File:Army_Senior_Aviator.png |
+| b-aviator Master | US Army Master Aviator Badge.png | Public domain | https://commons.wikimedia.org/wiki/File:US_Army_Master_Aviator_Badge.png |
+| b-aviation Basic | Aviation Badge Basic.png | Public domain | https://commons.wikimedia.org/wiki/File:Aviation_Badge_Basic.png |
+| b-aviation Senior | Aviation Badge Senior.png | Public domain | https://commons.wikimedia.org/wiki/File:Aviation_Badge_Senior.png |
+| b-aviation Master | Aviation Badge Master.png | Public domain | https://commons.wikimedia.org/wiki/File:Aviation_Badge_Master.png |
+| b-flight-surgeon Senior | Senior Flight Surgeon Badge USA.png | Public domain | https://commons.wikimedia.org/wiki/File:Senior_Flight_Surgeon_Badge_USA.png |
+| b-flight-surgeon Master | Master Flight Surgeon USA.png | Public domain | https://commons.wikimedia.org/wiki/File:Master_Flight_Surgeon_USA.png |
+| b-eod Basic | USN - EOD Basic.png | Public domain | https://commons.wikimedia.org/wiki/File:USN_-_EOD_Basic.png |
+| b-eod Senior | USN - EOD Senior.jpg | Public domain | https://commons.wikimedia.org/wiki/File:USN_-_EOD_Senior.jpg |
+| b-eod Master | Master EOD (US Army).png | Public domain | https://commons.wikimedia.org/wiki/File:Master_EOD_(US_Army).png |
+| b-instructor Senior | US Army Senior Instructor ID Badge.png | Public domain | https://commons.wikimedia.org/wiki/File:US_Army_Senior_Instructor_ID_Badge.png |
+| b-instructor Master | US Army Master Instructor ID Badge.png | Public domain | https://commons.wikimedia.org/wiki/File:US_Army_Master_Instructor_ID_Badge.png |
+| b-freefall Jumpmaster | Master Military Freefall Parachutist Badge (US Army).png | Public domain | https://commons.wikimedia.org/wiki/File:Master_Military_Freefall_Parachutist_Badge_(US_Army).png |

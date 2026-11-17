@@ -129,7 +129,7 @@ class DetailView(
             swatches = v.swatches,
             variants = emptyList(),
             attachments = emptyList(),
-            image = v.image ?: entry.image
+            image = v.image ?: (if (entry.variants.any { it.image != null }) null else entry.image)
         )
     }
 
