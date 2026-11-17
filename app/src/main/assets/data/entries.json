@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.5.0-army-ranks",
+ "dataVersion": "0.6.0-army-uniforms",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -75,32 +75,6 @@
      "note": "The modern revival of the look."
     }
    ],
-   "attachments": [],
-   "proof": "unverified",
-   "sources": [],
-   "image": null
-  },
-  {
-   "id": "u-army-blue",
-   "tab": "uniforms",
-   "group": "Dress",
-   "name": "Army Blue dress uniform",
-   "branches": [
-    "Army"
-   ],
-   "eras": [
-    "modern"
-   ],
-   "yearFrom": null,
-   "yearTo": null,
-   "summary": "Dark blue formal uniform worn for formal and ceremonial occasions.",
-   "facts": [
-    "Service stripes and overseas service bars go on the sleeves",
-    "Ribbons and badges go above the left pocket"
-   ],
-   "remember": "Blue is for dress, green is for service.",
-   "swatches": [],
-   "variants": [],
    "attachments": [],
    "proof": "unverified",
    "sources": [],
@@ -5699,6 +5673,243 @@
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
     "Para 21-29a to 21-29d. The 6-month rule is from AR 670-1 para 21-29a as quoted at ar670.com (unofficial copy); DA Pam text read did not state it"
+   ],
+   "image": null
+  },
+  {
+   "id": "u-acu-ocp",
+   "tab": "uniforms",
+   "group": "Field",
+   "name": "Army Combat Uniform (OCP)",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "The daily work, utility, and field uniform, in the Operational Camouflage Pattern.",
+   "facts": [
+    "Includes a coat, trousers, tan 499 undershirt, tan 499 rigger belt, socks, coyote leather combat boots, and headgear (para 4-2)",
+    "Patrol cap is the standard garrison headgear (para 4-10a(1))",
+    "Coat has hook-and-loop fasteners for the flag, insignia, and tapes (para 4-8a)",
+    "OCP items replace UCP items as those become unserviceable and on-hand stock runs out (para 4-1b)"
+   ],
+   "remember": "OCP: the daily work and field uniform.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Maternity work uniform (OCP)",
+     "era": "modern",
+     "note": "A daily work and utility uniform for pregnant Soldiers (para 5-1)."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021 (read from the copy hosted at home.army.mil/jackson)",
+    "Paras 4-1, 4-2, 4-7f, 4-8a, 4-10"
+   ],
+   "image": null
+  },
+  {
+   "id": "u-agsu",
+   "tab": "uniforms",
+   "group": "Service",
+   "name": "Army Green Service Uniform (AGSU)",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Service uniform in heritage colors. The pamphlet's 2021 revision added it.",
+   "facts": [
+    "Coat: heritage green 564",
+    "Trousers or slacks: heritage taupe 565",
+    "Shirt: heritage tan 566, short- or long-sleeved",
+    "Necktie: four-in-hand, heritage green",
+    "A clothing bag issue item for enlisted personnel (para 14-1)",
+    "Sew-on grade insignia: heritage tan 566 on heritage green 564 (para 21-7b)"
+   ],
+   "remember": "Green coat 564, taupe trousers 565, tan shirt 566.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Maternity version",
+     "era": "modern",
+     "note": "Covered in chapter 15."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021 (read from the copy hosted at home.army.mil/jackson)",
+    "Paras 14-1, 14-2a, 21-7b"
+   ],
+   "image": null
+  },
+  {
+   "id": "u-asu",
+   "tab": "uniforms",
+   "group": "Dress",
+   "name": "Army Service Uniform (Army Blue)",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army blue service and dress uniform for men and women.",
+   "facts": [
+    "Male Class A: Army blue coat, low-waist trousers, white short- or long-sleeved shirt (para 11-2b(1))",
+    "Male Class B: low-waist trousers and white short- or long-sleeved shirt, no coat (para 11-2b(2))",
+    "Coat color: Army blue 450 or 150 (para 11-2a(1))",
+    "Private through specialist wear no ornamentation on the trousers (para 11-8c(4))",
+    "Male is chapter 11, female is chapter 12, maternity is chapter 13",
+    "Service stripes go on the left sleeve and overseas service bars on the right sleeve (paras 21-28, 21-29)"
+   ],
+   "remember": "Blue coat is Class A. Drop the coat for Class B.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Male",
+     "era": "modern",
+     "gender": "male",
+     "note": "Chapter 11."
+    },
+    {
+     "label": "Female",
+     "era": "modern",
+     "gender": "female",
+     "note": "Chapter 12."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021 (read from the copy hosted at home.army.mil/jackson)",
+    "Paras 1-7a, 11-1, 11-2, 11-8c(4), 12-1, 21-28, 21-29"
+   ],
+   "image": null
+  },
+  {
+   "id": "u-mess-blue",
+   "tab": "uniforms",
+   "group": "Formal",
+   "name": "Army Blue Mess uniform",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Black-tie uniform that corresponds to a civilian tuxedo. The Blue Evening Mess is the most formal.",
+   "facts": [
+    "Male blue mess uniform is worn for black-tie functions and corresponds to a civilian tuxedo (para 16-6a)",
+    "Male blue evening mess uniform is the most formal uniform worn by Army personnel (para 16-6a)",
+    "Female: blue mess jacket, blue skirt (knee- or full-length), white formal blouse, black dress neck tab, black cummerbund, black pumps, sheer stockings (para 17-2)"
+   ],
+   "remember": "Blue mess is Army black tie.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Male",
+     "era": "modern",
+     "gender": "male",
+     "note": "Chapter 16."
+    },
+    {
+     "label": "Female",
+     "era": "modern",
+     "gender": "female",
+     "note": "Chapter 17."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021 (read from the copy hosted at home.army.mil/jackson)",
+    "Paras 16-6a, 17-1, 17-2"
+   ],
+   "image": null
+  },
+  {
+   "id": "u-mess-white",
+   "tab": "uniforms",
+   "group": "Formal",
+   "name": "Army White Mess uniform",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Seasonal black-tie uniform in white. The White Evening Mess is the most formal.",
+   "facts": [
+    "Normally worn from April to October. Clothing zones I and II may wear it year-round (paras 18-1, 19-1)",
+    "Male: white mess jacket, black high-waist trousers, white shirt, necktie, white vest (evening only), black cummerbund, black oxford shoes, black socks, white undershirt (para 18-2)",
+    "Female: white mess jacket, black or white skirt, white formal blouse, black neck tab, black or white cummerbund, pumps, sheer stockings (para 19-2)",
+    "Male white mess is worn for black-tie functions, like the blue mess (para 18-6a)"
+   ],
+   "remember": "White mess: April to October.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Male",
+     "era": "modern",
+     "gender": "male",
+     "note": "Chapter 18."
+    },
+    {
+     "label": "Female",
+     "era": "modern",
+     "gender": "female",
+     "note": "Chapter 19."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021 (read from the copy hosted at home.army.mil/jackson)",
+    "Paras 18-1, 18-2, 18-6a, 19-1, 19-2"
+   ],
+   "image": null
+  },
+  {
+   "id": "u-apfu",
+   "tab": "uniforms",
+   "group": "Fitness",
+   "name": "Army Physical Fitness Uniform (APFU)",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "The authorized physical fitness uniform.",
+   "facts": [
+    "The physical fitness uniform authorized for wear is classified as the Army physical fitness uniform (para 10-1)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021 (read from the copy hosted at home.army.mil/jackson)",
+    "Chapter 10, para 10-1. Components were not read"
    ],
    "image": null
   }

@@ -33,7 +33,7 @@ class SettingsView(
             card(
                 context, "Version",
                 context.label("${AppInfo.NAME} ${BuildConfig.VERSION_NAME} (build ${BuildConfig.VERSION_CODE})", 15f, medium = true),
-                context.label("Army medals, ribbons, badges, tabs, ranks, and service marks loaded (official). Uniforms are samples.", 13f, Night.muted)
+                context.label("Army medals, ribbons, badges, tabs, ranks, and service marks loaded (official). Two older uniforms are unverified samples.", 13f, Night.muted)
             ),
             lp().margins(b = context.dp(10))
         )
