@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.7.0-army-rank-pictures",
+ "dataVersion": "0.8.0-navy-ranks",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -5964,6 +5964,651 @@
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021 (read from the copy hosted at home.army.mil/jackson)",
     "Chapter 10, para 10-1. Components were not read"
+   ],
+   "image": null
+  },
+  {
+   "id": "n-ens",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Ensign",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy O-1. Sleeve insignia: One 1/2-inch stripe.",
+   "facts": [
+    "Grade: O-1",
+    "Sleeve stripes: One 1/2-inch stripe.",
+    "Gold stripes encircle the sleeve, with 1/4-inch intervals between multiple stripes (para 4101)",
+    "Line officers wear grade insignia on both collar points (para 4104)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4101 Sleeve Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4101/)",
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4104 Collar Grade Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4104/)"
+   ],
+   "image": "navy/n-ens.png"
+  },
+  {
+   "id": "n-ltjg",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Lieutenant Junior Grade",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy O-2. Sleeve insignia: One 1/2-inch stripe with a 1/4-inch stripe above it.",
+   "facts": [
+    "Grade: O-2",
+    "Sleeve stripes: One 1/2-inch stripe with a 1/4-inch stripe above it.",
+    "Gold stripes encircle the sleeve, with 1/4-inch intervals between multiple stripes (para 4101)",
+    "Line officers wear grade insignia on both collar points (para 4104)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4101 Sleeve Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4101/)",
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4104 Collar Grade Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4104/)"
+   ],
+   "image": "navy/n-ltjg.png"
+  },
+  {
+   "id": "n-lt",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Lieutenant",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy O-3. Sleeve insignia: Two 1/2-inch stripes.",
+   "facts": [
+    "Grade: O-3",
+    "Sleeve stripes: Two 1/2-inch stripes.",
+    "Gold stripes encircle the sleeve, with 1/4-inch intervals between multiple stripes (para 4101)",
+    "Line officers wear grade insignia on both collar points (para 4104)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4101 Sleeve Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4101/)",
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4104 Collar Grade Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4104/)"
+   ],
+   "image": "navy/n-lt.png"
+  },
+  {
+   "id": "n-lcdr",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Lieutenant Commander",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy O-4. Sleeve insignia: Two 1/2-inch stripes with a 1/4-inch stripe between.",
+   "facts": [
+    "Grade: O-4",
+    "Sleeve stripes: Two 1/2-inch stripes with a 1/4-inch stripe between.",
+    "Gold stripes encircle the sleeve, with 1/4-inch intervals between multiple stripes (para 4101)",
+    "Line officers wear grade insignia on both collar points (para 4104)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4101 Sleeve Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4101/)",
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4104 Collar Grade Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4104/)"
+   ],
+   "image": "navy/n-lcdr.png"
+  },
+  {
+   "id": "n-cdr",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Commander",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy O-5. Sleeve insignia: Three 1/2-inch stripes.",
+   "facts": [
+    "Grade: O-5",
+    "Sleeve stripes: Three 1/2-inch stripes.",
+    "Gold stripes encircle the sleeve, with 1/4-inch intervals between multiple stripes (para 4101)",
+    "Line officers wear grade insignia on both collar points (para 4104)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4101 Sleeve Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4101/)",
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4104 Collar Grade Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4104/)"
+   ],
+   "image": "navy/n-cdr.png"
+  },
+  {
+   "id": "n-capt",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Captain",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy O-6. Sleeve insignia: Four 1/2-inch stripes.",
+   "facts": [
+    "Grade: O-6",
+    "Sleeve stripes: Four 1/2-inch stripes.",
+    "Gold stripes encircle the sleeve, with 1/4-inch intervals between multiple stripes (para 4101)",
+    "Line officers wear grade insignia on both collar points (para 4104)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4101 Sleeve Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4101/)",
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4104 Collar Grade Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4104/)"
+   ],
+   "image": "navy/n-capt.png"
+  },
+  {
+   "id": "n-radm-lh",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Rear Admiral (lower half)",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy O-7. Sleeve insignia: One 2-inch stripe.",
+   "facts": [
+    "Grade: O-7",
+    "Sleeve stripes: One 2-inch stripe.",
+    "Gold stripes encircle the sleeve, with 1/4-inch intervals between multiple stripes (para 4101)",
+    "Flag officers wear collar stars (4 Admiral, 3 Vice, 2 Rear, 1 Rear lower half, per image names in 4104)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4101 Sleeve Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4101/)",
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4104 Collar Grade Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4104/)"
+   ],
+   "image": "navy/n-radm-lh.png"
+  },
+  {
+   "id": "n-radm",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Rear Admiral (upper half)",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy O-8. Sleeve insignia: One 2-inch stripe with one 1/2-inch stripe above.",
+   "facts": [
+    "Grade: O-8",
+    "Sleeve stripes: One 2-inch stripe with one 1/2-inch stripe above.",
+    "Gold stripes encircle the sleeve, with 1/4-inch intervals between multiple stripes (para 4101)",
+    "Flag officers wear collar stars (4 Admiral, 3 Vice, 2 Rear, 1 Rear lower half, per image names in 4104)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4101 Sleeve Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4101/)",
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4104 Collar Grade Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4104/)"
+   ],
+   "image": "navy/n-radm.png"
+  },
+  {
+   "id": "n-vadm",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Vice Admiral",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy O-9. Sleeve insignia: One 2-inch stripe with two 1/2-inch stripes above.",
+   "facts": [
+    "Grade: O-9",
+    "Sleeve stripes: One 2-inch stripe with two 1/2-inch stripes above.",
+    "Gold stripes encircle the sleeve, with 1/4-inch intervals between multiple stripes (para 4101)",
+    "Flag officers wear collar stars (4 Admiral, 3 Vice, 2 Rear, 1 Rear lower half, per image names in 4104)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4101 Sleeve Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4101/)",
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4104 Collar Grade Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4104/)"
+   ],
+   "image": "navy/n-vadm.png"
+  },
+  {
+   "id": "n-adm",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Admiral",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy O-10. Sleeve insignia: One 2-inch stripe with three 1/2-inch stripes above.",
+   "facts": [
+    "Grade: O-10",
+    "Sleeve stripes: One 2-inch stripe with three 1/2-inch stripes above.",
+    "Gold stripes encircle the sleeve, with 1/4-inch intervals between multiple stripes (para 4101)",
+    "Flag officers wear collar stars (4 Admiral, 3 Vice, 2 Rear, 1 Rear lower half, per image names in 4104)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4101 Sleeve Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4101/)",
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4104 Collar Grade Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4104/)"
+   ],
+   "image": "navy/n-adm.png"
+  },
+  {
+   "id": "n-fadm",
+   "tab": "ranks",
+   "group": "Flag officers",
+   "name": "Fleet Admiral",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy Special. Sleeve insignia: One 2-inch stripe with four 1/2-inch stripes above.",
+   "facts": [
+    "Grade: Special",
+    "Sleeve stripes: One 2-inch stripe with four 1/2-inch stripes above.",
+    "Gold stripes encircle the sleeve, with 1/4-inch intervals between multiple stripes (para 4101)",
+    "Line officers wear grade insignia on both collar points (para 4104)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4101 Sleeve Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4101/)",
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4104 Collar Grade Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4104/)"
+   ],
+   "image": "navy/n-fadm.png"
+  },
+  {
+   "id": "n-w5",
+   "tab": "ranks",
+   "group": "Warrant officers",
+   "name": "Chief Warrant Officer 5",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy W-5. Sleeve insignia: One 1/2-inch stripe with a 1/8-inch blue strip broken by one hash mark.",
+   "facts": [
+    "Grade: W-5",
+    "Sleeve stripe (para 4101.3.b): One 1/2-inch stripe with a 1/8-inch blue strip broken by one hash mark",
+    "Warrant officer breaks are bright blue",
+    "Warrant officers wear grade insignia on the right collar point and staff insignia on the left (para 4104)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4101 Sleeve Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4101/)",
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4104 Collar Grade Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4104/)"
+   ],
+   "image": null
+  },
+  {
+   "id": "n-w4",
+   "tab": "ranks",
+   "group": "Warrant officers",
+   "name": "Chief Warrant Officer 4",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy W-4. Sleeve insignia: One 1/2-inch stripe with one break.",
+   "facts": [
+    "Grade: W-4",
+    "Sleeve stripe (para 4101.3.b): One 1/2-inch stripe with one break",
+    "Warrant officer breaks are bright blue",
+    "Warrant officers wear grade insignia on the right collar point and staff insignia on the left (para 4104)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4101 Sleeve Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4101/)",
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4104 Collar Grade Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4104/)"
+   ],
+   "image": null
+  },
+  {
+   "id": "n-w3",
+   "tab": "ranks",
+   "group": "Warrant officers",
+   "name": "Chief Warrant Officer 3",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy W-3. Sleeve insignia: One 1/2-inch stripe with two breaks.",
+   "facts": [
+    "Grade: W-3",
+    "Sleeve stripe (para 4101.3.b): One 1/2-inch stripe with two breaks",
+    "Warrant officer breaks are bright blue",
+    "Warrant officers wear grade insignia on the right collar point and staff insignia on the left (para 4104)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4101 Sleeve Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4101/)",
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4104 Collar Grade Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4104/)"
+   ],
+   "image": null
+  },
+  {
+   "id": "n-w2",
+   "tab": "ranks",
+   "group": "Warrant officers",
+   "name": "Chief Warrant Officer 2",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy W-2. Sleeve insignia: One 1/2-inch stripe with three breaks.",
+   "facts": [
+    "Grade: W-2",
+    "Sleeve stripe (para 4101.3.b): One 1/2-inch stripe with three breaks",
+    "Warrant officer breaks are bright blue",
+    "Warrant officers wear grade insignia on the right collar point and staff insignia on the left (para 4104)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4101 Sleeve Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4101/)",
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4104 Collar Grade Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4104/)"
+   ],
+   "image": null
+  },
+  {
+   "id": "n-w1",
+   "tab": "ranks",
+   "group": "Warrant officers",
+   "name": "Warrant Officer 1",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy W-1. Sleeve insignia: One 1/4-inch stripe with three breaks.",
+   "facts": [
+    "Grade: W-1",
+    "Sleeve stripe (para 4101.3.b): One 1/4-inch stripe with three breaks",
+    "Warrant officer breaks are bright blue",
+    "Warrant officers wear grade insignia on the right collar point and staff insignia on the left (para 4104)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4101 Sleeve Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4101/)",
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4104 Collar Grade Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4104/)"
+   ],
+   "image": null
+  },
+  {
+   "id": "n-e1",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Seaman Recruit",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy E-1. Wears the striker mark only, no group rate mark.",
+   "facts": [
+    "E-1 wears the striker mark only, centered 2 inches above the midway point between shoulder and elbow (para 4221)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4221 E-1 to E-6 Rate Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4221/)"
+   ],
+   "image": null
+  },
+  {
+   "id": "n-e2",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Seaman Apprentice",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy E-2. Two group rate stripes, with the striker mark above.",
+   "facts": [
+    "E-2 personnel wear two stripes (para 4221)",
+    "Group rate marks are 3 inches long, angled at 30 degrees",
+    "Striker mark is worn above the stripes, on Service Dress uniforms only"
+   ],
+   "remember": "Two stripes.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4221 E-1 to E-6 Rate Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4221/)"
+   ],
+   "image": null
+  },
+  {
+   "id": "n-e3",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Seaman",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy E-3. Three group rate stripes, with the striker mark above.",
+   "facts": [
+    "E-3 personnel wear three stripes (para 4221)",
+    "Group rate marks are 3 inches long, angled at 30 degrees",
+    "Striker mark is worn above the stripes, on Service Dress uniforms only"
+   ],
+   "remember": "Three stripes.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4221 E-1 to E-6 Rate Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4221/)"
+   ],
+   "image": null
+  },
+  {
+   "id": "n-cpo-badge",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Chief Petty Officer rating badge",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "The rating badge worn by Chief Petty Officers: a perched eagle with chevrons.",
+   "facts": [
+    "Rating badges consist of a perched eagle with expanded wings pointing upward and the eagle's head to its right (para 4211)",
+    "Chevrons are 3-1/4 inches wide for male CPOs and 2-1/2 inches wide for female CPOs",
+    "Service Dress Blue: navy background, silver eagle and specialty mark, gold/scarlet chevrons and service stripes",
+    "Dinner Dress White Jacket: white background, silver eagle and specialty mark, gold/blue chevrons and stripes",
+    "Sewn on the left sleeve of the Service Dress Blue jacket, centered between shoulder seam and elbow",
+    "CPO collar insignia: a gold fouled anchor with silver block letters USN (para 4212)"
+   ],
+   "remember": "Chief: eagle on the sleeve, anchor on the collar.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4211 CPO Rating Badges (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4211/)",
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4212 CPO Collar Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4212/)"
+   ],
+   "image": null
+  },
+  {
+   "id": "n-service-stripes",
+   "tab": "ranks",
+   "group": "Service marks",
+   "name": "Service stripes",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "One stripe for each four years of active duty service.",
+   "facts": [
+    "One stripe for each four years of active duty service. Active reserve time in an active status also counts (para 4231)",
+    "Stripes are cardinal, gold, or blue as specified",
+    "Male CPO: 7-inch stripes, 3/8 inch wide. Male E-1 to E-6: 5-1/4 inch, 3/8 inch wide. Women: 5-1/4 inch, 1/4 inch wide",
+    "Left sleeve; lower end of the first stripe 2 inches from the end of the sleeve; angled 45 degrees; spaced 1/4 inch apart",
+    "Enlisted Sailors with 12 cumulative years of service may wear gold stripes instead of red"
+   ],
+   "remember": "One stripe, four years.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4231 Service Stripes (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4231/)"
    ],
    "image": null
   }
