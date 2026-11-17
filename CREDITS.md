@@ -83,3 +83,28 @@ All from Wikimedia Commons, tagged public domain. The EOD Basic and Senior pictu
 | b-mcib | US Army Master Combat Infantryman Badge.png | Public domain | https://commons.wikimedia.org/wiki/File:US_Army_Master_Combat_Infantryman_Badge.png |
 | b-mcmb | US Army Master Combat Medical Badge.png | Public domain | https://commons.wikimedia.org/wiki/File:US_Army_Master_Combat_Medical_Badge.png |
 | b-mcab | US Army Master Combat Action Badge.png | Public domain | https://commons.wikimedia.org/wiki/File:US_Army_Master_Combat_Action_Badge.png |
+| m-antarctica | ANTARCTICA SERVICE MEDAL OBV.png | CC0 (TexasBob85) | https://commons.wikimedia.org/wiki/File:ANTARCTICA_SERVICE_MEDAL_OBV.png |
+| m-ircm | Inherent Resolve Campaign Medal, obverse.png | Public domain (United States Department of Defense) | https://commons.wikimedia.org/wiki/File:Inherent_Resolve_Campaign_Medal,_obverse.png |
+| m-wwii-victory | World War II Victory Medal - Obverse.png | CC0 (0x0077BE) | https://commons.wikimedia.org/wiki/File:World_War_II_Victory_Medal_-_Obverse.png |
+| m-dev-berlin | Berlin-airlift-device.png | Public domain (US Army) | https://commons.wikimedia.org/wiki/File:Berlin-airlift-device.png |
+| m-dev-olc | Bronze-Oak-Leaf-Cluster.png | Public domain (US Army) | https://commons.wikimedia.org/wiki/File:Bronze-Oak-Leaf-Cluster.png |
+| m-dev-v | "V" device, brass.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:%22V%22_device,_brass.svg |
+| m-af-cross | Air Force Cross (United States).png | Public domain (Illustration by Virginia Reyes of the Ai) | https://commons.wikimedia.org/wiki/File:Air_Force_Cross_(United_States).png |
+| m-af-dsm | Air Force Distinguished Service Medal.png | Public domain (Illustration by Virginia Reyes of the Ai) | https://commons.wikimedia.org/wiki/File:Air_Force_Distinguished_Service_Medal.png |
+| m-airmans | Airman's Medal.jpg | Public domain (Virginia Reyes of the Air Force News Age) | https://commons.wikimedia.org/wiki/File:Airman%27s_Medal.jpg |
+| m-ascom | Air and Space Commendation Medal.jpg | Public domain (United States Air Force) | https://commons.wikimedia.org/wiki/File:Air_and_Space_Commendation_Medal.jpg |
+| m-cam | Air Force Combat Action Medal.png | Public domain (United States Air Force) | https://commons.wikimedia.org/wiki/File:Air_Force_Combat_Action_Medal.png |
+| m-crm | USAF Combat Readiness Medal.jpg | Public domain (US Air Force) | https://commons.wikimedia.org/wiki/File:USAF_Combat_Readiness_Medal.jpg |
+| m-afgcm | Air Force Good Conduct Medal.jpg | Public domain (en:User:DesertCondor) | https://commons.wikimedia.org/wiki/File:Air_Force_Good_Conduct_Medal.jpg |
+| m-sfgcm | Space Force Good Conduct Medal Obverse.png | Public domain (US Army Institute of Heraldry) | https://commons.wikimedia.org/wiki/File:Space_Force_Good_Conduct_Medal_Obverse.png |
+| m-ascm | Air and Space Campaign Medal.PNG | Public domain (Air Force Personnel Center) | https://commons.wikimedia.org/wiki/File:Air_and_Space_Campaign_Medal.PNG |
+| m-rcecm | USAF Remote Combat Effects Campaign Medal Obverse.png | Public domain (US Army Institute of Heraldry) | https://commons.wikimedia.org/wiki/File:USAF_Remote_Combat_Effects_Campaign_Medal_Obverse.png |
+| nm-navy-cross | Navy Cross.png | Public domain (This image includes elements that have b) | https://commons.wikimedia.org/wiki/File:Navy_Cross.png |
+| nm-nmcm | Navy and Marine Corps Medal.svg | CC0 (RMEATme) | https://commons.wikimedia.org/wiki/File:Navy_and_Marine_Corps_Medal.svg |
+| nm-ncm | Navy and Marine Corps Commendation Medal.jpg | Public domain (The Institute of Heraldry) | https://commons.wikimedia.org/wiki/File:Navy_and_Marine_Corps_Commendation_Medal.jpg |
+| nm-nam | Navy and Marine Corps Achievement Medal.svg | Public domain (U.S. Navy) | https://commons.wikimedia.org/wiki/File:Navy_and_Marine_Corps_Achievement_Medal.svg |
+| cw-w2 | USCG W-2 insignia.svg | Public domain (United States Coast Guard) | https://commons.wikimedia.org/wiki/File:USCG_W-2_insignia.svg |
+| cw-w3 | USCG W-3 insignia.svg | Public domain (United States Coast Guard) | https://commons.wikimedia.org/wiki/File:USCG_W-3_insignia.svg |
+| se-tsgt | USSF-E-6.svg | Public domain (U.S. Space Force.) | https://commons.wikimedia.org/wiki/File:USSF-E-6.svg |
+| se-smsgt | USSF-E-8.svg | Public domain (U.S. Space Force.) | https://commons.wikimedia.org/wiki/File:USSF-E-8.svg |
+| m-dev-fmf | Fleet Marine Force Combat Insignia.svg | Public domain (U.S. Defense Logistics Agency) | https://commons.wikimedia.org/wiki/File:Fleet_Marine_Force_Combat_Insignia.svg |

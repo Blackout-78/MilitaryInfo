@@ -1,3 +1,6 @@
+## 0.16.3
+- 25 new pictures (public domain, credited): Air Force and Space Force medals, Navy and Marine Corps medals, Coast Guard warrant officer boards, Space Force rank marks, devices.
+
 ## 0.16.2
 - Pictures added for the Master Combat Infantryman, Medical and Action Badges (public domain, credited).
 - New page: Master Combat Action Badge (marked Unverified for details).
