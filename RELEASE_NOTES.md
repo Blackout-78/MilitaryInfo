@@ -1,3 +1,6 @@
+## 0.18.0
+- Badges phase 1: 62 new Official entries, all text-backed. Coast Guard: 24 qualification insignia and 4 command devices (COMDTINST M1020.6K 4.B). Air Force and Space Force: 30 duty badges, wear rules (DAFI 36-2903 ch. 12). Marine Corps: PSB, VPSB, OSD and JCS ID badges with design text (MCO 1020.34H 4007). Pictures for these are not added yet; each page says so.
+
 ## 0.17.5
 - Navy enlisted rating badges (E-4 to E-9) checked against the Navy Uniform Regulations, Chapter 4 (articles 4211, 4221). Verified text added: badge design, sleeve position, chevron width, colors. Chevron, rocker and star counts per grade are not in the text, so those lines stay marked UNVERIFIED and the entries stay Unverified.
 

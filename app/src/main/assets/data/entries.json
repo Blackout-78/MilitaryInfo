@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.17.5-navy-enlisted",
+ "dataVersion": "0.18.0-badges-phase1",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -14757,6 +14757,1868 @@
     "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.13 (PDF supplied by the app owner)"
    ],
    "image": "badges/cu-odu.png"
+  },
+  {
+   "id": "b-cg-aviator",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Aviator insignia",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard qualification insignia: A gold-toned, winged insignia with a fouled anchor behind a shield in the center.",
+   "facts": [
+    "Description: A gold-toned, winged insignia with a fouled anchor behind a shield in the center. (4.B.1.a)",
+    "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+   ],
+   "remember": "Aviator",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-aircrew",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Air Crew insignia",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard qualification insignia: A gold-toned, winged insignia with an anchor and the letters \"AC\" inscribed.",
+   "facts": [
+    "Description: A gold-toned, winged insignia with an anchor and the letters \"AC\" inscribed. Enlisted members qualified for aircrew duties who advance to officer status may continue to wear it. (4.B.1.a)",
+    "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+   ],
+   "remember": "Air Crew",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-flightofficer",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Flight Officer insignia",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard qualification insignia: A gold-toned, winged insignia behind a shield in the center.",
+   "facts": [
+    "Description: A gold-toned, winged insignia behind a shield in the center. (4.B.1.a)",
+    "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+   ],
+   "remember": "Flight Officer",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-flightsurgeon",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Flight Surgeon insignia",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard qualification insignia: A gold-toned, winged insignia with a silver caduceus superimposed on a shield in the center.",
+   "facts": [
+    "Description: A gold-toned, winged insignia with a silver caduceus superimposed on a shield in the center. (4.B.1.a)",
+    "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+   ],
+   "remember": "Flight Surgeon",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-rescueswimmer",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Aviation Rescue Swimmer insignia",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard qualification insignia: A gold-toned, winged insignia with the \"Star of Life\" and crossed scuba diver fins.",
+   "facts": [
+    "Description: A gold-toned, winged insignia with the \"Star of Life\" and crossed scuba diver fins. Once qualified the member wears it in lieu of the aircrew insignia. (4.B.1.a)",
+    "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+   ],
+   "remember": "Aviation Rescue Swimmer",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-astronaut",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Astronaut insignia",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard qualification insignia: A gold-toned, winged insignia with crossed anchors overlaid with a shield and shooting star.",
+   "facts": [
+    "Description: A gold-toned, winged insignia with crossed anchors overlaid with a shield and shooting star. (4.B.1.a)",
+    "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+   ],
+   "remember": "Astronaut",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-aviationms",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Aviation Mission Specialist insignia",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard qualification insignia: A gold-toned, winged insignia with a silver anchor on a gold background encircled in a silver ring.",
+   "facts": [
+    "Description: A gold-toned, winged insignia with a silver anchor on a gold background encircled in a silver ring. (4.B.1.a)",
+    "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+   ],
+   "remember": "Aviation Mission Specialist",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-cutterman",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Cutterman insignia",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard qualification insignia: A gold-toned (officers) or pewter-toned (enlisted) insignia with a shield on a five-pointed star superimposed on a ship's wheel centered over stylized waves.",
+   "facts": [
+    "Description: A gold-toned (officers) or pewter-toned (enlisted) insignia with a shield on a five-pointed star superimposed on a ship's wheel centered over stylized waves. (4.B.1.a)",
+    "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+   ],
+   "remember": "Cutterman",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-boatforce",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Boat Force Operations insignia",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard qualification insignia: Pewter-toned insignia with an eight-point compass rose over a crossed boat hook and oar centered over stylized waves.",
+   "facts": [
+    "Description: Pewter-toned insignia with an eight-point compass rose over a crossed boat hook and oar centered over stylized waves. Advanced qualification: the compass rose is polished gold and the waves and oars are pewter. (4.B.1.a)",
+    "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+   ],
+   "remember": "Boat Force Operations",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-coxswain",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Coxswain insignia",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard qualification insignia: A pewter-toned insignia with curled stylized waves and crossed oars with a compass rose superimposed.",
+   "facts": [
+    "Description: A pewter-toned insignia with curled stylized waves and crossed oars with a compass rose superimposed. (4.B.1.a)",
+    "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+   ],
+   "remember": "Coxswain",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-eews",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Enlisted Expeditionary Warfare Specialist insignia",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard qualification insignia: A polished silver insignia of a bow of a patrol craft on a crossed rifle and sword against a background of ocean swells.",
+   "facts": [
+    "Description: A polished silver insignia of a bow of a patrol craft on a crossed rifle and sword against a background of ocean swells. (4.B.1.a)",
+    "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+   ],
+   "remember": "Enlisted Expeditionary Warfare Specialist",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-surfman",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Surfman insignia",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard qualification insignia: A pewter-toned insignia of a life buoy crossed with two boat oars.",
+   "facts": [
+    "Description: A pewter-toned insignia of a life buoy crossed with two boat oars. A more advanced qualification, always worn in lieu of the Coxswain insignia. (4.B.1.a)",
+    "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+   ],
+   "remember": "Surfman",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-scuba",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Scuba Diver insignia",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard qualification insignia: A gold-toned (officers) or pewter-toned (enlisted) insignia with a wet suit hood, facemask and breathing apparatus.",
+   "facts": [
+    "Description: A gold-toned (officers) or pewter-toned (enlisted) insignia with a wet suit hood, facemask and breathing apparatus. (4.B.1.a)",
+    "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+   ],
+   "remember": "Scuba Diver",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-diver2",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Second Class Diver insignia",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard qualification insignia: A pewter-toned insignia with a diving helmet and breastplate.",
+   "facts": [
+    "Description: A pewter-toned insignia with a diving helmet and breastplate. (4.B.1.a)",
+    "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+   ],
+   "remember": "Second Class Diver",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-diver1",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "First Class Diver insignia",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard qualification insignia: A pewter-toned insignia with a diving helmet and breastplate surrounded by sea serpents.",
+   "facts": [
+    "Description: A pewter-toned insignia with a diving helmet and breastplate surrounded by sea serpents. (4.B.1.a)",
+    "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+   ],
+   "remember": "First Class Diver",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-masterdiver",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Master Diver insignia",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard qualification insignia: A pewter insignia with the same design as the Diving Officer insignia.",
+   "facts": [
+    "Description: A pewter insignia with the same design as the Diving Officer insignia. (4.B.1.a)",
+    "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+   ],
+   "remember": "Master Diver",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-divingofficer",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Diving Officer insignia",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard qualification insignia: A matte gold-toned insignia with two upright sea horses facing a diving helmet and two tridents projecting upward from the helmet.",
+   "facts": [
+    "Description: A matte gold-toned insignia with two upright sea horses facing a diving helmet and two tridents projecting upward from the helmet. A double carrick bend is superimposed on the breastplate. (4.B.1.a)",
+    "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+   ],
+   "remember": "Diving Officer",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-dmt",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Diving Medical Technician insignia",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard qualification insignia: A pewter-toned insignia with two upright sea horses facing a diving helmet and two tridents projecting upward from the helmet.",
+   "facts": [
+    "Description: A pewter-toned insignia with two upright sea horses facing a diving helmet and two tridents projecting upward from the helmet. A caduceus is superimposed on the breastplate. (4.B.1.a)",
+    "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+   ],
+   "remember": "Diving Medical Technician",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-portsec",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Port Security insignia",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard qualification insignia: A gold-toned (officers) or pewter-toned (enlisted) insignia with two seahorses facing outward from a Coast Guard shield on two crossed swords and a trident on a background of stylized waves.",
+   "facts": [
+    "Description: A gold-toned (officers) or pewter-toned (enlisted) insignia with two seahorses facing outward from a Coast Guard shield on two crossed swords and a trident on a background of stylized waves. (4.B.1.a)",
+    "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+   ],
+   "remember": "Port Security",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-marinesafety",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Marine Safety insignia",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard qualification insignia: A pebble-finished rectangle with a polished gold horizontal trident and a centered compass rose, entwined by a line.",
+   "facts": [
+    "Description: A pebble-finished rectangle with a polished gold horizontal trident and a centered compass rose, entwined by a line. A polished silver shield is centered on the compass rose. (4.B.1.a)",
+    "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+   ],
+   "remember": "Marine Safety",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-tactleo",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Law Enforcement Detachment and Tactical Law Enforcement Team insignia",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard qualification insignia: A polished gold insignia with a ribbon on the top edge.",
+   "facts": [
+    "Description: A polished gold insignia with a ribbon on the top edge. A compass rose and a silver shield are centered between two crossed swords. Across the bottom it reads \"TACTICAL LAW ENFORCEMENT.\" (4.B.1.a)",
+    "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+   ],
+   "remember": "Law Enforcement Detachment and Tactical Law Enforcement Team",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-honorguard",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Coast Guard Ceremonial Honor Guard insignia",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard qualification insignia: A gold-toned metal oval insignia, authorized for past and present members assigned to the Ceremonial Honor Guard.",
+   "facts": [
+    "Description: A gold-toned metal oval insignia, authorized for past and present members assigned to the Ceremonial Honor Guard. (4.B.1.a)",
+    "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+   ],
+   "remember": "Coast Guard Ceremonial Honor Guard",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-companycmdr",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Company Commander insignia",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard qualification insignia: A gold-toned oval with the Coast Guard shield and two crossed swords on a background of stylized waves, placed between the words \"Company Commander\".",
+   "facts": [
+    "Description: A gold-toned oval with the Coast Guard shield and two crossed swords on a background of stylized waves, placed between the words \"Company Commander\". (4.B.1.a)",
+    "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+   ],
+   "remember": "Company Commander",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-paNP",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Physician Assistant and Nurse Practitioner insignia",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard qualification insignia: A one-inch gold shield with a silver caduceus centered on the shield.",
+   "facts": [
+    "Description: A one-inch gold shield with a silver caduceus centered on the shield. There is no miniature version. (4.B.1.a)",
+    "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+   ],
+   "remember": "Physician Assistant and Nurse Practitioner",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-cmdafloat",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Command Afloat device",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard command device: A gold and silver device with a miniature officer eagle superimposed on a partially unfurled commission pennant.",
+   "facts": [
+    "Description: A gold and silver device with a miniature officer eagle superimposed on a partially unfurled commission pennant. (4.B.2)",
+    "Devices denote command afloat and ashore experience; the afloat and ashore devices are equivalent (para 4.B.2)",
+    "Full-size on full dress, miniature on other uniforms (para 4.B.2)"
+   ],
+   "remember": "Command Afloat device",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.2"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-cmdashore",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Command Ashore device",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard command device: A gold and silver device with a miniature officer eagle superimposed on a wreath of gold oak leaves.",
+   "facts": [
+    "Description: A gold and silver device with a miniature officer eagle superimposed on a wreath of gold oak leaves. (4.B.2)",
+    "Devices denote command afloat and ashore experience; the afloat and ashore devices are equivalent (para 4.B.2)",
+    "Full-size on full dress, miniature on other uniforms (para 4.B.2)"
+   ],
+   "remember": "Command Ashore device",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.2"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-oicafloat",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Officer in Charge Afloat device",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard command device: A pewter-toned device with a Coast Guard shield and anchor superimposed on a rope grommet.",
+   "facts": [
+    "Description: A pewter-toned device with a Coast Guard shield and anchor superimposed on a rope grommet. (4.B.2)",
+    "Devices denote command afloat and ashore experience; the afloat and ashore devices are equivalent (para 4.B.2)",
+    "Full-size on full dress, miniature on other uniforms (para 4.B.2)"
+   ],
+   "remember": "Officer in Charge Afloat device",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.2"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-cg-oicashore",
+   "tab": "badges",
+   "group": "Qualification insignia",
+   "name": "Officer in Charge Ashore device",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard command device: A pewter-toned device with a wreath of oak leaves open at the top with a Coast Guard shield in its center.",
+   "facts": [
+    "Description: A pewter-toned device with a wreath of oak leaves open at the top with a Coast Guard shield in its center. (4.B.2)",
+    "Devices denote command afloat and ashore experience; the afloat and ashore devices are equivalent (para 4.B.2)",
+    "Full-size on full dress, miniature on other uniforms (para 4.B.2)"
+   ],
+   "remember": "Officer in Charge Ashore device",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.2"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-pres",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "Presidential Service Badge and Vice-Presidential Service Badge",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Worn during and after an assignment to White House duty.",
+   "facts": [
+    "Wear rule: Worn during and after an assignment to White House duty. Worn only on the right side; no other badge removes them from the right side of the uniform. OPR: Military Assistant to the President. (para 12.4.1)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "Presidential Service Badge and Vice-Presidential Service Badge",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.1",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-osd",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "Office of the Secretary of Defense (OSD) badge",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Worn during and after assignment to specific duty in the OSD.",
+   "facts": [
+    "Wear rule: Worn during and after assignment to specific duty in the OSD. OPR: OSD Deputy Chief Management Officer. (para 12.4.2)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "Office of the Secretary of Defense (OSD) badge",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.2",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-jcs",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "Joint Chiefs of Staff (JCS) badge",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Worn during and after assignment to specific duty in the JCS.",
+   "facts": [
+    "Wear rule: Worn during and after assignment to specific duty in the JCS. OPR: JCS Manpower and Personnel Directorate (J1). (para 12.4.3)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "Joint Chiefs of Staff (JCS) badge",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.3",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-haf",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "Headquarters Air Force (HAF) badge",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Worn during assignment to the HAF or SecAF staff within the National Capital Region; permanent wear after at least 365 consecutive days in a qualifying position.",
+   "facts": [
+    "Wear rule: Worn during assignment to the HAF or SecAF staff within the National Capital Region; permanent wear after at least 365 consecutive days in a qualifying position. The OSD and JCS badges take priority over it. (para 12.4.4)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "Headquarters Air Force (HAF) badge",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.4",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-aetc",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "AETC Instructor badge",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. May be worn with any blues combination; the AETC Instructor/Master badge may be worn during and after an assignment as an AETC instructor.",
+   "facts": [
+    "Wear rule: May be worn with any blues combination; the AETC Instructor/Master badge may be worn during and after an assignment as an AETC instructor. (para 12.4.5.1)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "AETC Instructor badge",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.5.1",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-jrotc",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "AFJROTC Instructor badge",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Worn only while performing assigned duties; continue to wear while attending PME.",
+   "facts": [
+    "Wear rule: Worn only while performing assigned duties; continue to wear while attending PME. (para 12.4.5.2)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "AFJROTC Instructor badge",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.5.2",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-dli",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "Defense Language Instructor badge",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Worn only while performing assigned duties; continue to wear while attending PME.",
+   "facts": [
+    "Wear rule: Worn only while performing assigned duties; continue to wear while attending PME. OPR: Defense Language Institute Foreign Language Center. (para 12.4.5.3)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "Defense Language Instructor badge",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.5.3",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-recruit",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "Air Force Recruiting Service badge (AETC, AFRC and ANG versions)",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Earned recruiting service badge is authorized for permanent wear by Airmen with an 8R special duty identifier in their records; continue to wear while attending PME.",
+   "facts": [
+    "Wear rule: Earned recruiting service badge is authorized for permanent wear by Airmen with an 8R special duty identifier in their records; continue to wear while attending PME. Separate badges exist for AETC, AFRC and the Air National Guard. (para 12.4.6-12.4.8)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "Air Force Recruiting Service badge (AETC, AFRC and ANG versions)",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.6-12.4.8",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-uc",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "Unified Command badge",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Worn only for the duration of assignment to a Combatant Commander's staff.",
+   "facts": [
+    "Wear rule: Worn only for the duration of assignment to a Combatant Commander's staff. (para 12.4.9)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "Unified Command badge",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.9",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-army",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "Army Staff identification badge",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Worn only while performing duties for the duration of the assignment.",
+   "facts": [
+    "Wear rule: Worn only while performing duties for the duration of the assignment. OPR: Army Military Personnel Center. (para 12.4.10)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "Army Staff identification badge",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.10",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-nato",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "NATO badge",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Worn only while performing duties for the duration of the assignment.",
+   "facts": [
+    "Wear rule: Worn only while performing duties for the duration of the assignment. (para 12.4.11)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "NATO badge",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.11",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-un",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "United Nations (UN) badge",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Worn only while performing duties for the duration of the assignment.",
+   "facts": [
+    "Wear rule: Worn only while performing duties for the duration of the assignment. (para 12.4.12)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "United Nations (UN) badge",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.12",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-sf",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "Security Forces shield",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Worn while performing duties in control AFSC 31PX or 3P0XX billets only; wear with the beret continues while attending PME and on joint, instructor and recruiter duties.",
+   "facts": [
+    "Wear rule: Worn while performing duties in control AFSC 31PX or 3P0XX billets only; wear with the beret continues while attending PME and on joint, instructor and recruiter duties. (para 12.4.13)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "Security Forces shield",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.13",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-fire",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "Fire protection shield",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Worn while performing fire protection duties; continues while attending PME or on joint, instructor, recruiter or other developmental special duty assignments.",
+   "facts": [
+    "Wear rule: Worn while performing fire protection duties; continues while attending PME or on joint, instructor, recruiter or other developmental special duty assignments. (para 12.4.14)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "Fire protection shield",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.14",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-osi",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "Air Force Office of Special Investigations (AFOSI) shield",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Worn as directed by the AFOSI commander.",
+   "facts": [
+    "Wear rule: Worn as directed by the AFOSI commander. (para 12.4.15)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "Air Force Office of Special Investigations (AFOSI) shield",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.15",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-epme",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "Air Force Enlisted Professional Military Education (EPME) badge",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Airmen and Guardians with the 8T000 special duty identifier, and Joint and Foreign EPME instructors, may permanently wear their awarded badge.",
+   "facts": [
+    "Wear rule: Airmen and Guardians with the 8T000 special duty identifier, and Joint and Foreign EPME instructors, may permanently wear their awarded badge. (para 12.4.16)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "Air Force Enlisted Professional Military Education (EPME) badge",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.16",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-deca",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "Defense Commissary Agency (DeCA) badge",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Worn only while performing duties for the duration of the assignment.",
+   "facts": [
+    "Wear rule: Worn only while performing duties for the duration of the assignment. (para 12.4.17)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "Defense Commissary Agency (DeCA) badge",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.17",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-disa",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "Defense Information Systems Agency (DISA) badge",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Worn only while performing duties for the duration of the assignment.",
+   "facts": [
+    "Wear rule: Worn only while performing duties for the duration of the assignment. (para 12.4.18)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "Defense Information Systems Agency (DISA) badge",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.18",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-dfas",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "Defense Finance and Accounting Service (DFAS) badge",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Worn only while performing duties for the duration of the assignment.",
+   "facts": [
+    "Wear rule: Worn only while performing duties for the duration of the assignment. (para 12.4.19)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "Defense Finance and Accounting Service (DFAS) badge",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.19",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-mps",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "Military Postal Service (MPS) badge",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Worn only while performing postal duty.",
+   "facts": [
+    "Wear rule: Worn only while performing postal duty. (para 12.4.20)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "Military Postal Service (MPS) badge",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.20",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-hg",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "USAF Honor Guard badge",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Earned badge is permanent for Airmen with 8G000 (enlisted) or 85G0 (officer) special duty identifiers.",
+   "facts": [
+    "Wear rule: Earned badge is permanent for Airmen with 8G000 (enlisted) or 85G0 (officer) special duty identifiers. Base Honor Guard badges are worn only while performing honor guard duties. (para 12.4.21)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "USAF Honor Guard badge",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.21",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-ndu",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "National Defense University (NDU) badge",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Worn only while assigned to the NDU faculty or staff.",
+   "facts": [
+    "Wear rule: Worn only while assigned to the NDU faculty or staff. (para 12.4.22)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "National Defense University (NDU) badge",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.22",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-usafa",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "USAF Academy Permanent Professor badge",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Worn during and after assignment to the specific duty.",
+   "facts": [
+    "Wear rule: Worn during and after assignment to the specific duty. (para 12.4.23)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "USAF Academy Permanent Professor badge",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.23",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-ig",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "Inspector General (IG) badge",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Worn while performing duties in authorized IG billets; continue to wear while attending PME; may be worn upon retirement per para 14.3.",
+   "facts": [
+    "Wear rule: Worn while performing duties in authorized IG billets; continue to wear while attending PME; may be worn upon retirement per para 14.3. (para 12.4.24)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "Inspector General (IG) badge",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.24",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-iaafa",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "IAAFA badge",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Worn after receiving SEI HJ (officer) or 450 (enlisted) during and after assignment to the Inter-American Air Forces Academy.",
+   "facts": [
+    "Wear rule: Worn after receiving SEI HJ (officer) or 450 (enlisted) during and after assignment to the Inter-American Air Forces Academy. (para 12.4.26)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "IAAFA badge",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.26",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-dcma",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "Defense Contract Management Agency (DCMA) badge",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Authorized during and after assignment to a qualifying position.",
+   "facts": [
+    "Wear rule: Authorized during and after assignment to a qualifying position. (para 12.4.27)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "Defense Contract Management Agency (DCMA) badge",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.27",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-nro",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "National Reconnaissance Office (NRO) badge",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Worn only while performing duties for the duration of the assignment.",
+   "facts": [
+    "Wear rule: Worn only while performing duties for the duration of the assignment. (para 12.4.28)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "National Reconnaissance Office (NRO) badge",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.28",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-dla",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "Defense Logistics Agency (DLA) badge",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Worn only while performing duties for the duration of the assignment.",
+   "facts": [
+    "Wear rule: Worn only while performing duties for the duration of the assignment. (para 12.4.29)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "Defense Logistics Agency (DLA) badge",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.29",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-gold",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "Gold Star Lapel Button",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Authorized under 10 U.S.C.",
+   "facts": [
+    "Wear rule: Authorized under 10 U.S.C. 1126 for issued Airmen on Air Force dress uniform coats; centered below the U.S. insignia on the widest part of the left lapel of the service coat, and centered on the left lapel of the mess dress coat even with the top row of medals. (para 12.4.30)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "Gold Star Lapel Button",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.30",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-af-nok",
+   "tab": "badges",
+   "group": "Duty badges",
+   "name": "Next of Kin Lapel Button",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force and Space Force duty badge. Authorized under 10 U.S.C.",
+   "facts": [
+    "Wear rule: Authorized under 10 U.S.C. 1126 for issued Airmen on Air Force dress uniform coats; worn in the same place as the Gold Star Lapel Button, side by side with it if both are authorized, with no order of precedence between them. (para 12.4.31)",
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
+    "Design is not described in DAFI 36-2903; picture not yet added"
+   ],
+   "remember": "Next of Kin Lapel Button",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.31",
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-mc-psb",
+   "tab": "badges",
+   "group": "Identification badges",
+   "name": "Presidential Service Badge (PSB)",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps service and identification badge: A blue enameled disc, 1 15/16 inches in diameter, surrounded by 27 gold rays radiating from the center.",
+   "facts": [
+    "Design: A blue enameled disc, 1 15/16 inches in diameter, surrounded by 27 gold rays radiating from the center. Superimposed on the disc is a gold-colored device taken from the seal of the President, encircled with 50 stars. (para 4007.2a(1))",
+    "Wear: Male Marines wear it centered on the upper right pocket of the blue dress coat, service coat and khaki shirts. (para 4007.2a(1))",
+    "No more than two service or identification badges are worn on the same side of the uniform (para 4007.1c)",
+    "Command identification badges are not worn with the utility uniforms (para 4007.1c)"
+   ],
+   "remember": "Presidential Service Badge (PSB)",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "MCO 1020.34H, Marine Corps Uniform Regulations (1 May 2018), para 4007.2a(1)"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-mc-vpsb",
+   "tab": "badges",
+   "group": "Identification badges",
+   "name": "Vice-Presidential Service Badge (VPSB)",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps service and identification badge: A white enameled disc, 1 15/16 inches in diameter, surrounded by 27 gold rays radiating from the center.",
+   "facts": [
+    "Design: A white enameled disc, 1 15/16 inches in diameter, surrounded by 27 gold rays radiating from the center. Superimposed on the disc is a gold-colored device taken from the seal of the Vice-President. (para 4007.2a(2))",
+    "Wear: Worn according to the same rules as the PSB. (para 4007.2a(2))",
+    "No more than two service or identification badges are worn on the same side of the uniform (para 4007.1c)",
+    "Command identification badges are not worn with the utility uniforms (para 4007.1c)"
+   ],
+   "remember": "Vice-Presidential Service Badge (VPSB)",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "MCO 1020.34H, Marine Corps Uniform Regulations (1 May 2018), para 4007.2a(2)"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-mc-osd",
+   "tab": "badges",
+   "group": "Identification badges",
+   "name": "Office of the Secretary of Defense Identification Badge (OSD ID)",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps service and identification badge: An eagle with wings displayed horizontally, grasping three crossed gold arrows, with an enamel shield on its breast (blue upper portion, 13 alternating red and white stripes below); a gold annulet bearing 13 gold stars above the eagle and a green enamel wreath of laurel and olive below; all on a silver sunburst of 33 rays, 2 inches in diameter.",
+   "facts": [
+    "Design: An eagle with wings displayed horizontally, grasping three crossed gold arrows, with an enamel shield on its breast (blue upper portion, 13 alternating red and white stripes below); a gold annulet bearing 13 gold stars above the eagle and a green enamel wreath of laurel and olive below; all on a silver sunburst of 33 rays, 2 inches in diameter. (para 4007.2a(3))",
+    "Wear: Only personnel assigned to duty in the OSD who received a certificate of eligibility may wear it. On the blue dress coat and service coat it is centered on the upper left pocket; the miniature is 1 1/2 inches in diameter. (para 4007.2a(3))",
+    "No more than two service or identification badges are worn on the same side of the uniform (para 4007.1c)",
+    "Command identification badges are not worn with the utility uniforms (para 4007.1c)"
+   ],
+   "remember": "Office of the Secretary of Defense Identification Badge (OSD ID)",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "MCO 1020.34H, Marine Corps Uniform Regulations (1 May 2018), para 4007.2a(3)"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-mc-jcs",
+   "tab": "badges",
+   "group": "Identification badges",
+   "name": "Joint Chiefs of Staff Identification Badge (JCS ID)",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps service and identification badge: The United States shield (blue upper portion, 13 red and white stripes) on four gold unsheathed swords, surrounded by a gold scroll with \"JOINT\" at the top and \"CHIEFS OF STAFF\" at the bottom in blue enamel letters, all within an oval silver laurel wreath 2 1/4 inches high by 2 inches wide.",
+   "facts": [
+    "Design: The United States shield (blue upper portion, 13 red and white stripes) on four gold unsheathed swords, surrounded by a gold scroll with \"JOINT\" at the top and \"CHIEFS OF STAFF\" at the bottom in blue enamel letters, all within an oval silver laurel wreath 2 1/4 inches high by 2 inches wide. (para 4007.2a(4))",
+    "Wear: May be permanently awarded to a Marine assigned to the JCS organization who serves at least 365 consecutive days after 14 January 1961 and receives a certificate of eligibility. Worn in the same manner as the OSD ID badge; the miniature is one third smaller with nine stripes on the shield. (para 4007.2a(4))",
+    "No more than two service or identification badges are worn on the same side of the uniform (para 4007.1c)",
+    "Command identification badges are not worn with the utility uniforms (para 4007.1c)"
+   ],
+   "remember": "Joint Chiefs of Staff Identification Badge (JCS ID)",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "MCO 1020.34H, Marine Corps Uniform Regulations (1 May 2018), para 4007.2a(4)"
+   ],
+   "image": null
   }
  ]
 }
