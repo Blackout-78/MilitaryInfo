@@ -2,15 +2,10 @@
 import json, os, re, time, urllib.parse, urllib.request, io
 from PIL import Image, ImageChops
 API="https://commons.wikimedia.org/w/api.php"; UA="MilitaryInfo-image-finder/1.0 (https://github.com/Blackout-78/MilitaryInfo)"
-L={
- "par-basic":"File:US Army Basic Parachutist Badge.png","par-senior":"File:US Senior Parachutist Badge.png","par-master":"File:Master Parachutist Badge.jpg",
- "av-basic":"File:Aviation Badge Basic.png","av-senior":"File:Aviation Badge Senior.png","av-master":"File:Aviation Badge Master.png",
- "fs-senior":"File:Senior Flight Surgeon Badge USA.png","fs-master":"File:Master Flight Surgeon USA.png",
- "eod-basic":"File:USN - EOD Basic.png","eod-senior":"File:USN - EOD Senior.jpg","eod-master":"File:Master EOD (US Army).png",
- "sp-senior":"File:SeniorSpaceBadge.png","sp-master":"File:Master space badge.JPG",
- "ins-basic":"File:Basic Army Instructor Badge (5326843).jpg","ins-senior":"File:US Army Senior Instructor ID Badge.png","ins-master":"File:US Army Master Instructor ID Badge.png",
- "ff-master":"File:Master Military Freefall Parachutist Badge (US Army).png",
-}
+L={"avr-senior":"File:Army Senior Aviator.png"}
+for q in ("Army Master Aviator","Master Army Aviator badge","Army Aviator Badge Master"):
+    d=json.load(urllib.request.urlopen(urllib.request.Request(API+"?"+urllib.parse.urlencode({"action":"query","format":"json","list":"search","srnamespace":6,"srsearch":q,"srlimit":8}),headers={"User-Agent":UA}),timeout=40))
+    print(q,[x["title"] for x in d["query"]["search"]])
 os.makedirs("out/tier",exist_ok=True); meta={}
 for k,t in L.items():
     try:
