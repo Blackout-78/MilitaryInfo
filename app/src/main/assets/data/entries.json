@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.17.4-cg-ranks-fix",
+ "dataVersion": "0.17.5-navy-enlisted",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -7472,8 +7472,10 @@
    "yearTo": null,
    "summary": "Navy E-7. Dress blue rating badge: three chevrons and one rocker above the rating mark.",
    "facts": [
-    "Dress blue insignia has three chevrons and one rocker above the rating mark",
-    "Secondary source: the official Navy text read did not state this insignia. Verify before relying on it"
+    "Rating badge: perched eagle, wings raised, head turned to the right, on a pentagonal background; chevrons, rocker and stars as authorized show the rate, and a specialty mark shows the rating (art. 4211)",
+    "Chevrons on CPO rating badges are 3-1/4 inches wide for men (art. 4211)",
+    "On Service Dress Blue and Dinner Dress Blue Jacket the eagle, specialty mark and stars are silver on navy blue; on the Dinner Dress White Jacket the background is white (art. 4211)",
+    "UNVERIFIED, not stated in the regulation text (figures only): number of chevrons, rockers and stars for this grade"
    ],
    "remember": "Three chevrons and a rocker.",
    "swatches": [],
@@ -7481,7 +7483,7 @@
    "attachments": [],
    "proof": "unverified",
    "sources": [
-    "Wikipedia, 'List of United States Navy enlisted rates' (secondary source, not official)"
+    "U.S. Navy Uniform Regulations (NAVPERS 15665 series), Chapter 4, mynavyhr.navy.mil, article 4211 (web page read 17 Nov 2026; the page does not state its edition)"
    ],
    "image": null
   },
@@ -7500,8 +7502,11 @@
    "yearTo": null,
    "summary": "Navy E-8. One inverted star above the eagle.",
    "facts": [
-    "One inverted five-point star denotes senior chief",
-    "Secondary source: the official Navy text read did not state this insignia. Verify before relying on it"
+    "Rating badge: perched eagle, wings raised, head turned to the right, on a pentagonal background; chevrons, rocker and stars as authorized show the rate, and a specialty mark shows the rating (art. 4211)",
+    "Chevrons on CPO rating badges are 3-1/4 inches wide for men (art. 4211)",
+    "On Service Dress Blue and Dinner Dress Blue Jacket the eagle, specialty mark and stars are silver on navy blue; on the Dinner Dress White Jacket the background is white (art. 4211)",
+    "Collar anchor carries one, two or three silver stars for Senior Chief, Master Chief and MCPON (art. 4211); which rank wears which count is not in the text.",
+    "UNVERIFIED, not stated in the regulation text (figures only): number of chevrons, rockers and stars for this grade"
    ],
    "remember": "One star.",
    "swatches": [],
@@ -7509,7 +7514,7 @@
    "attachments": [],
    "proof": "unverified",
    "sources": [
-    "Wikipedia, 'List of United States Navy enlisted rates' (secondary source, not official)"
+    "U.S. Navy Uniform Regulations (NAVPERS 15665 series), Chapter 4, mynavyhr.navy.mil, article 4211 (web page read 17 Nov 2026; the page does not state its edition)"
    ],
    "image": null
   },
@@ -7528,9 +7533,11 @@
    "yearTo": null,
    "summary": "Navy E-9. Two inverted stars above the eagle.",
    "facts": [
-    "Two inverted five-point stars denote master chief",
-    "The Master Chief Petty Officer of the Navy wears a third star above the eagle (per an undated copy of NAVPERS 15665 chapter 4: three gold stars above the eagle and one gold star in place of the specialty mark)",
-    "Secondary source: the official Navy text read did not state this insignia. Verify before relying on it"
+    "Rating badge: perched eagle, wings raised, head turned to the right, on a pentagonal background; chevrons, rocker and stars as authorized show the rate, and a specialty mark shows the rating (art. 4211)",
+    "Chevrons on CPO rating badges are 3-1/4 inches wide for men (art. 4211)",
+    "On Service Dress Blue and Dinner Dress Blue Jacket the eagle, specialty mark and stars are silver on navy blue; on the Dinner Dress White Jacket the background is white (art. 4211)",
+    "Collar anchor carries one, two or three silver stars for Senior Chief, Master Chief and MCPON (art. 4211); which rank wears which count is not in the text.",
+    "UNVERIFIED, not stated in the regulation text (figures only): number of chevrons, rockers and stars for this grade"
    ],
    "remember": "Two stars.",
    "swatches": [],
@@ -7538,7 +7545,7 @@
    "attachments": [],
    "proof": "unverified",
    "sources": [
-    "Wikipedia, 'List of United States Navy enlisted rates' (secondary source, not official)"
+    "U.S. Navy Uniform Regulations (NAVPERS 15665 series), Chapter 4, mynavyhr.navy.mil, article 4211 (web page read 17 Nov 2026; the page does not state its edition)"
    ],
    "image": null
   },
@@ -7558,10 +7565,9 @@
    "summary": "Navy E-4. Rating badge with a perched eagle and one chevron.",
    "facts": [
     "Grade: E-4",
-    "Chevrons: one chevron (read from the picture, not stated in the official text read)",
-    "A specialty mark for the rating goes between the eagle's talons and the upper chevron (para 4226)",
-    "E-4 to E-6 wear pewter or anodized miniature collar devices (para 4227)",
-    "Picture shows the coveralls version: navy background, white eagle, red chevrons. Colors change with the uniform (para 4221)"
+    "Rating badge on the left sleeve, centered between the shoulder seam and the elbow (art. 4221)",
+    "Background: navy blue on navy uniforms; the badge colors follow a per-uniform chart; on the peacoat the eagle is white and the chevrons are cardinal (art. 4221)",
+    "UNVERIFIED, not stated in the regulation text (figures only): number of chevrons for this grade and the eagle pose"
    ],
    "remember": "One chevron.",
    "swatches": [],
@@ -7569,8 +7575,7 @@
    "attachments": [],
    "proof": "unverified",
    "sources": [
-    "Chevron count read from the public-domain Wikimedia Commons drawing: https://commons.wikimedia.org/wiki/File:Rate_insignia_of_a_United_States_Navy_petty_officer_third_class_(coveralls).svg",
-    "Navy Uniform Regulations (NAVPERS 15665) paras 4221, 4226, 4227, mynavyhr.navy.mil"
+    "U.S. Navy Uniform Regulations (NAVPERS 15665 series), Chapter 4, mynavyhr.navy.mil, article 4221 (web page read 17 Nov 2026; the page does not state its edition)"
    ],
    "image": "navy/n-e4.png"
   },
@@ -7590,10 +7595,9 @@
    "summary": "Navy E-5. Rating badge with a perched eagle and two chevrons.",
    "facts": [
     "Grade: E-5",
-    "Chevrons: two chevrons (read from the picture, not stated in the official text read)",
-    "A specialty mark for the rating goes between the eagle's talons and the upper chevron (para 4226)",
-    "E-4 to E-6 wear pewter or anodized miniature collar devices (para 4227)",
-    "Picture shows the coveralls version: navy background, white eagle, red chevrons. Colors change with the uniform (para 4221)"
+    "Rating badge on the left sleeve, centered between the shoulder seam and the elbow (art. 4221)",
+    "Background: navy blue on navy uniforms; the badge colors follow a per-uniform chart; on the peacoat the eagle is white and the chevrons are cardinal (art. 4221)",
+    "UNVERIFIED, not stated in the regulation text (figures only): number of chevrons for this grade and the eagle pose"
    ],
    "remember": "Two chevrons.",
    "swatches": [],
@@ -7601,8 +7605,7 @@
    "attachments": [],
    "proof": "unverified",
    "sources": [
-    "Chevron count read from the public-domain Wikimedia Commons drawing: https://commons.wikimedia.org/wiki/File:Rate_insignia_of_a_United_States_Navy_petty_officer_second_class_(coveralls).svg",
-    "Navy Uniform Regulations (NAVPERS 15665) paras 4221, 4226, 4227, mynavyhr.navy.mil"
+    "U.S. Navy Uniform Regulations (NAVPERS 15665 series), Chapter 4, mynavyhr.navy.mil, article 4221 (web page read 17 Nov 2026; the page does not state its edition)"
    ],
    "image": "navy/n-e5.png"
   },
@@ -7622,10 +7625,9 @@
    "summary": "Navy E-6. Rating badge with a perched eagle and three chevrons.",
    "facts": [
     "Grade: E-6",
-    "Chevrons: three chevrons (read from the picture, not stated in the official text read)",
-    "A specialty mark for the rating goes between the eagle's talons and the upper chevron (para 4226)",
-    "E-4 to E-6 wear pewter or anodized miniature collar devices (para 4227)",
-    "Picture shows the coveralls version: navy background, white eagle, red chevrons. Colors change with the uniform (para 4221)"
+    "Rating badge on the left sleeve, centered between the shoulder seam and the elbow (art. 4221)",
+    "Background: navy blue on navy uniforms; the badge colors follow a per-uniform chart; on the peacoat the eagle is white and the chevrons are cardinal (art. 4221)",
+    "UNVERIFIED, not stated in the regulation text (figures only): number of chevrons for this grade and the eagle pose"
    ],
    "remember": "Three chevrons.",
    "swatches": [],
@@ -7633,8 +7635,7 @@
    "attachments": [],
    "proof": "unverified",
    "sources": [
-    "Chevron count read from the public-domain Wikimedia Commons drawing: https://commons.wikimedia.org/wiki/File:Rate_insignia_of_a_United_States_Navy_petty_officer_first_class_(coveralls).svg",
-    "Navy Uniform Regulations (NAVPERS 15665) paras 4221, 4226, 4227, mynavyhr.navy.mil"
+    "U.S. Navy Uniform Regulations (NAVPERS 15665 series), Chapter 4, mynavyhr.navy.mil, article 4221 (web page read 17 Nov 2026; the page does not state its edition)"
    ],
    "image": "navy/n-e6.png"
   },

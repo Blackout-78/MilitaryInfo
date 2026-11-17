@@ -1,3 +1,6 @@
+## 0.17.5
+- Navy enlisted rating badges (E-4 to E-9) checked against the Navy Uniform Regulations, Chapter 4 (articles 4211, 4221). Verified text added: badge design, sleeve position, chevron width, colors. Chevron, rocker and star counts per grade are not in the text, so those lines stay marked UNVERIFIED and the entries stay Unverified.
+
 ## 0.17.4
 - Fix: Coast Guard officer pages showed duplicated lines from 0.17.3. Cleaned.
 
