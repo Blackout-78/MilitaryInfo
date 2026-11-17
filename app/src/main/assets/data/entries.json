@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.4.1-badge-pictures",
+ "dataVersion": "0.5.0-army-ranks",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -101,97 +101,6 @@
    "remember": "Blue is for dress, green is for service.",
    "swatches": [],
    "variants": [],
-   "attachments": [],
-   "proof": "unverified",
-   "sources": [],
-   "image": null
-  },
-  {
-   "id": "r-service-stripes",
-   "tab": "ranks",
-   "group": "Service stripes",
-   "name": "Service stripes and overseas service",
-   "branches": [
-    "Army"
-   ],
-   "eras": [
-    "ww1",
-    "modern"
-   ],
-   "yearFrom": null,
-   "yearTo": null,
-   "summary": "Sleeve marks that show length of service and time overseas. Each branch has its own rules.",
-   "facts": [
-    "Army dress service stripe: one per three years of service",
-    "Overseas service bar: one per six months overseas",
-    "WWI overseas service chevron: one per six months overseas"
-   ],
-   "remember": "Stripes count years, bars and chevrons count overseas time.",
-   "swatches": [],
-   "variants": [
-    {
-     "label": "Overseas service chevron",
-     "era": "ww1",
-     "note": "One chevron per six months overseas. Color to verify."
-    },
-    {
-     "label": "Service stripe",
-     "era": "modern",
-     "uniform": "Army dress",
-     "note": "One stripe per three years. Color per uniform to verify."
-    },
-    {
-     "label": "Overseas service bar",
-     "era": "modern",
-     "uniform": "Army dress",
-     "note": "One bar per six months overseas. Color per uniform to verify."
-    }
-   ],
-   "attachments": [],
-   "proof": "unverified",
-   "sources": [],
-   "image": null
-  },
-  {
-   "id": "r-sergeant-e5",
-   "tab": "ranks",
-   "group": "Rank insignia",
-   "name": "Sergeant (E-5)",
-   "branches": [
-    "Army"
-   ],
-   "eras": [
-    "modern"
-   ],
-   "yearFrom": null,
-   "yearTo": null,
-   "summary": "Army enlisted rank insignia, shown per uniform and per gender.",
-   "facts": [
-    "Insignia color changes with the uniform",
-    "Each variant lists the uniform it belongs to"
-   ],
-   "remember": null,
-   "swatches": [],
-   "variants": [
-    {
-     "label": "Sleeve insignia",
-     "uniform": "Army Green Service",
-     "gender": "male",
-     "note": "Color to verify."
-    },
-    {
-     "label": "Sleeve insignia",
-     "uniform": "Army Green Service",
-     "gender": "female",
-     "note": "Color and size to verify."
-    },
-    {
-     "label": "Chest insignia",
-     "uniform": "Combat uniform",
-     "gender": "any",
-     "note": "Subdued color. Details to verify."
-    }
-   ],
    "attachments": [],
    "proof": "unverified",
    "sources": [],
@@ -4334,6 +4243,1462 @@
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16",
     "Text read from the copy hosted at home.army.mil/jackson"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-pvt",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Private",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade E-1. The private wears no grade insignia.",
+   "facts": [
+    "Grade: E-1",
+    "Insignia: The private wears no grade insignia.",
+    "Wears no grade insignia"
+   ],
+   "remember": "No insignia at all.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-7a(14)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-pv2",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Private (E-2)",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade E-2. One chevron.",
+   "facts": [
+    "Grade: E-2",
+    "Insignia: One chevron.",
+    "Enlisted personnel wear subdued grade insignia on utility uniforms"
+   ],
+   "remember": "One chevron.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Sew-on, Army Service Uniform",
+     "era": "modern",
+     "uniform": "ASU",
+     "gender": "male",
+     "note": "Golden-light on Army blue (or white cloth). Large size. Para 21-7b(1)."
+    },
+    {
+     "label": "Sew-on, Army Service Uniform",
+     "era": "modern",
+     "uniform": "ASU",
+     "gender": "female",
+     "note": "Golden-light on Army blue (or white cloth). Small size. Para 21-7b(2)."
+    },
+    {
+     "label": "Sew-on, Army Green Service Uniform",
+     "era": "modern",
+     "uniform": "AGSU",
+     "gender": "any",
+     "note": "Heritage tan 566 on heritage green 564. Para 21-7b."
+    },
+    {
+     "label": "Pin-on, polished",
+     "era": "modern",
+     "uniform": "Service",
+     "gender": "any",
+     "note": "Polished brass. Para 21-7c."
+    },
+    {
+     "label": "Pin-on, subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Dull, flat black finish. Worn centered on the hook-and-loop pad on utility uniforms. Paras 21-7d, 21-7e(4)."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-7a(13)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-pfc",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Private First Class",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade E-3. One chevron above one arc.",
+   "facts": [
+    "Grade: E-3",
+    "Insignia: One chevron above one arc.",
+    "Enlisted personnel wear subdued grade insignia on utility uniforms"
+   ],
+   "remember": "Chevron over one arc.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Sew-on, Army Service Uniform",
+     "era": "modern",
+     "uniform": "ASU",
+     "gender": "male",
+     "note": "Golden-light on Army blue (or white cloth). Large size. Para 21-7b(1)."
+    },
+    {
+     "label": "Sew-on, Army Service Uniform",
+     "era": "modern",
+     "uniform": "ASU",
+     "gender": "female",
+     "note": "Golden-light on Army blue (or white cloth). Small size. Para 21-7b(2)."
+    },
+    {
+     "label": "Sew-on, Army Green Service Uniform",
+     "era": "modern",
+     "uniform": "AGSU",
+     "gender": "any",
+     "note": "Heritage tan 566 on heritage green 564. Para 21-7b."
+    },
+    {
+     "label": "Pin-on, polished",
+     "era": "modern",
+     "uniform": "Service",
+     "gender": "any",
+     "note": "Polished brass. Para 21-7c."
+    },
+    {
+     "label": "Pin-on, subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Dull, flat black finish. Worn centered on the hook-and-loop pad on utility uniforms. Paras 21-7d, 21-7e(4)."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-7a(12)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-spc",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Specialist",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade E-4. Shaped like an inverted chevron at the bottom with an eagle device in the center.",
+   "facts": [
+    "Grade: E-4",
+    "Insignia: Shaped like an inverted chevron at the bottom with an eagle device in the center.",
+    "Enlisted personnel wear subdued grade insignia on utility uniforms"
+   ],
+   "remember": "Eagle in the middle.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Sew-on, Army Service Uniform",
+     "era": "modern",
+     "uniform": "ASU",
+     "gender": "male",
+     "note": "Golden-light on Army blue (or white cloth). Large size. Para 21-7b(1)."
+    },
+    {
+     "label": "Sew-on, Army Service Uniform",
+     "era": "modern",
+     "uniform": "ASU",
+     "gender": "female",
+     "note": "Golden-light on Army blue (or white cloth). Small size. Para 21-7b(2)."
+    },
+    {
+     "label": "Sew-on, Army Green Service Uniform",
+     "era": "modern",
+     "uniform": "AGSU",
+     "gender": "any",
+     "note": "Heritage tan 566 on heritage green 564. Para 21-7b."
+    },
+    {
+     "label": "Pin-on, polished",
+     "era": "modern",
+     "uniform": "Service",
+     "gender": "any",
+     "note": "Polished brass. Para 21-7c."
+    },
+    {
+     "label": "Pin-on, subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Dull, flat black finish. Worn centered on the hook-and-loop pad on utility uniforms. Paras 21-7d, 21-7e(4)."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-7a(11)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-cpl",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Corporal",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade E-4. Two chevrons.",
+   "facts": [
+    "Grade: E-4",
+    "Insignia: Two chevrons.",
+    "Enlisted personnel wear subdued grade insignia on utility uniforms"
+   ],
+   "remember": "Two chevrons, no arc.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Sew-on, Army Service Uniform",
+     "era": "modern",
+     "uniform": "ASU",
+     "gender": "male",
+     "note": "Golden-light on Army blue (or white cloth). Large size. Para 21-7b(1)."
+    },
+    {
+     "label": "Sew-on, Army Service Uniform",
+     "era": "modern",
+     "uniform": "ASU",
+     "gender": "female",
+     "note": "Golden-light on Army blue (or white cloth). Small size. Para 21-7b(2)."
+    },
+    {
+     "label": "Sew-on, Army Green Service Uniform",
+     "era": "modern",
+     "uniform": "AGSU",
+     "gender": "any",
+     "note": "Heritage tan 566 on heritage green 564. Para 21-7b."
+    },
+    {
+     "label": "Pin-on, polished",
+     "era": "modern",
+     "uniform": "Service",
+     "gender": "any",
+     "note": "Polished brass. Para 21-7c."
+    },
+    {
+     "label": "Pin-on, subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Dull, flat black finish. Worn centered on the hook-and-loop pad on utility uniforms. Paras 21-7d, 21-7e(4)."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-7a(10)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-sgt",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Sergeant",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade E-5. Three chevrons.",
+   "facts": [
+    "Grade: E-5",
+    "Insignia: Three chevrons.",
+    "Enlisted personnel wear subdued grade insignia on utility uniforms"
+   ],
+   "remember": "Three chevrons, no arc.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Sew-on, Army Service Uniform",
+     "era": "modern",
+     "uniform": "ASU",
+     "gender": "male",
+     "note": "Golden-light on Army blue (or white cloth). Large size. Para 21-7b(1)."
+    },
+    {
+     "label": "Sew-on, Army Service Uniform",
+     "era": "modern",
+     "uniform": "ASU",
+     "gender": "female",
+     "note": "Golden-light on Army blue (or white cloth). Small size. Para 21-7b(2)."
+    },
+    {
+     "label": "Sew-on, Army Green Service Uniform",
+     "era": "modern",
+     "uniform": "AGSU",
+     "gender": "any",
+     "note": "Heritage tan 566 on heritage green 564. Para 21-7b."
+    },
+    {
+     "label": "Pin-on, polished",
+     "era": "modern",
+     "uniform": "Service",
+     "gender": "any",
+     "note": "Polished brass. Para 21-7c."
+    },
+    {
+     "label": "Pin-on, subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Dull, flat black finish. Worn centered on the hook-and-loop pad on utility uniforms. Paras 21-7d, 21-7e(4)."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-7a(9)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-ssg",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Staff Sergeant",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade E-6. Three chevrons above one arc.",
+   "facts": [
+    "Grade: E-6",
+    "Insignia: Three chevrons above one arc.",
+    "Enlisted personnel wear subdued grade insignia on utility uniforms"
+   ],
+   "remember": "Three over one.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Sew-on, Army Service Uniform",
+     "era": "modern",
+     "uniform": "ASU",
+     "gender": "male",
+     "note": "Golden-light on Army blue (or white cloth). Large size. Para 21-7b(1)."
+    },
+    {
+     "label": "Sew-on, Army Service Uniform",
+     "era": "modern",
+     "uniform": "ASU",
+     "gender": "female",
+     "note": "Golden-light on Army blue (or white cloth). Small size. Para 21-7b(2)."
+    },
+    {
+     "label": "Sew-on, Army Green Service Uniform",
+     "era": "modern",
+     "uniform": "AGSU",
+     "gender": "any",
+     "note": "Heritage tan 566 on heritage green 564. Para 21-7b."
+    },
+    {
+     "label": "Pin-on, polished",
+     "era": "modern",
+     "uniform": "Service",
+     "gender": "any",
+     "note": "Polished brass. Para 21-7c."
+    },
+    {
+     "label": "Pin-on, subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Dull, flat black finish. Worn centered on the hook-and-loop pad on utility uniforms. Paras 21-7d, 21-7e(4)."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-7a(8)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-sfc",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Sergeant First Class",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade E-7. Three chevrons above two arcs.",
+   "facts": [
+    "Grade: E-7",
+    "Insignia: Three chevrons above two arcs.",
+    "Enlisted personnel wear subdued grade insignia on utility uniforms"
+   ],
+   "remember": "Three over two.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Sew-on, Army Service Uniform",
+     "era": "modern",
+     "uniform": "ASU",
+     "gender": "male",
+     "note": "Golden-light on Army blue (or white cloth). Large size. Para 21-7b(1)."
+    },
+    {
+     "label": "Sew-on, Army Service Uniform",
+     "era": "modern",
+     "uniform": "ASU",
+     "gender": "female",
+     "note": "Golden-light on Army blue (or white cloth). Small size. Para 21-7b(2)."
+    },
+    {
+     "label": "Sew-on, Army Green Service Uniform",
+     "era": "modern",
+     "uniform": "AGSU",
+     "gender": "any",
+     "note": "Heritage tan 566 on heritage green 564. Para 21-7b."
+    },
+    {
+     "label": "Pin-on, polished",
+     "era": "modern",
+     "uniform": "Service",
+     "gender": "any",
+     "note": "Polished brass. Para 21-7c."
+    },
+    {
+     "label": "Pin-on, subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Dull, flat black finish. Worn centered on the hook-and-loop pad on utility uniforms. Paras 21-7d, 21-7e(4)."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-7a(7)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-msg",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Master Sergeant",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade E-8. Three chevrons above three arcs.",
+   "facts": [
+    "Grade: E-8",
+    "Insignia: Three chevrons above three arcs.",
+    "Enlisted personnel wear subdued grade insignia on utility uniforms"
+   ],
+   "remember": "Three over three.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Sew-on, Army Service Uniform",
+     "era": "modern",
+     "uniform": "ASU",
+     "gender": "male",
+     "note": "Golden-light on Army blue (or white cloth). Large size. Para 21-7b(1)."
+    },
+    {
+     "label": "Sew-on, Army Service Uniform",
+     "era": "modern",
+     "uniform": "ASU",
+     "gender": "female",
+     "note": "Golden-light on Army blue (or white cloth). Small size. Para 21-7b(2)."
+    },
+    {
+     "label": "Sew-on, Army Green Service Uniform",
+     "era": "modern",
+     "uniform": "AGSU",
+     "gender": "any",
+     "note": "Heritage tan 566 on heritage green 564. Para 21-7b."
+    },
+    {
+     "label": "Pin-on, polished",
+     "era": "modern",
+     "uniform": "Service",
+     "gender": "any",
+     "note": "Polished brass. Para 21-7c."
+    },
+    {
+     "label": "Pin-on, subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Dull, flat black finish. Worn centered on the hook-and-loop pad on utility uniforms. Paras 21-7d, 21-7e(4)."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-7a(6)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-1sg",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "First Sergeant",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade E-8. Three chevrons above three arcs with a pierced lozenge.",
+   "facts": [
+    "Grade: E-8",
+    "Insignia: Three chevrons above three arcs with a pierced lozenge.",
+    "Enlisted personnel wear subdued grade insignia on utility uniforms"
+   ],
+   "remember": "Three over three, lozenge in the middle.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Sew-on, Army Service Uniform",
+     "era": "modern",
+     "uniform": "ASU",
+     "gender": "male",
+     "note": "Golden-light on Army blue (or white cloth). Large size. Para 21-7b(1)."
+    },
+    {
+     "label": "Sew-on, Army Service Uniform",
+     "era": "modern",
+     "uniform": "ASU",
+     "gender": "female",
+     "note": "Golden-light on Army blue (or white cloth). Small size. Para 21-7b(2)."
+    },
+    {
+     "label": "Sew-on, Army Green Service Uniform",
+     "era": "modern",
+     "uniform": "AGSU",
+     "gender": "any",
+     "note": "Heritage tan 566 on heritage green 564. Para 21-7b."
+    },
+    {
+     "label": "Pin-on, polished",
+     "era": "modern",
+     "uniform": "Service",
+     "gender": "any",
+     "note": "Polished brass. Para 21-7c."
+    },
+    {
+     "label": "Pin-on, subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Dull, flat black finish. Worn centered on the hook-and-loop pad on utility uniforms. Paras 21-7d, 21-7e(4)."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-7a(5)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-sgm",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Sergeant Major",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade E-9. Three chevrons above three arcs with a five-pointed star.",
+   "facts": [
+    "Grade: E-9",
+    "Insignia: Three chevrons above three arcs with a five-pointed star.",
+    "Enlisted personnel wear subdued grade insignia on utility uniforms"
+   ],
+   "remember": "Three over three, star.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Sew-on, Army Service Uniform",
+     "era": "modern",
+     "uniform": "ASU",
+     "gender": "male",
+     "note": "Golden-light on Army blue (or white cloth). Large size. Para 21-7b(1)."
+    },
+    {
+     "label": "Sew-on, Army Service Uniform",
+     "era": "modern",
+     "uniform": "ASU",
+     "gender": "female",
+     "note": "Golden-light on Army blue (or white cloth). Small size. Para 21-7b(2)."
+    },
+    {
+     "label": "Sew-on, Army Green Service Uniform",
+     "era": "modern",
+     "uniform": "AGSU",
+     "gender": "any",
+     "note": "Heritage tan 566 on heritage green 564. Para 21-7b."
+    },
+    {
+     "label": "Pin-on, polished",
+     "era": "modern",
+     "uniform": "Service",
+     "gender": "any",
+     "note": "Polished brass. Para 21-7c."
+    },
+    {
+     "label": "Pin-on, subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Dull, flat black finish. Worn centered on the hook-and-loop pad on utility uniforms. Paras 21-7d, 21-7e(4)."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-7a(4)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-csm",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Command Sergeant Major",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade E-9. A five-pointed star within a wreath.",
+   "facts": [
+    "Grade: E-9",
+    "Insignia: A five-pointed star within a wreath.",
+    "Enlisted personnel wear subdued grade insignia on utility uniforms"
+   ],
+   "remember": "Star inside a wreath.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Sew-on, Army Service Uniform",
+     "era": "modern",
+     "uniform": "ASU",
+     "gender": "male",
+     "note": "Golden-light on Army blue (or white cloth). Large size. Para 21-7b(1)."
+    },
+    {
+     "label": "Sew-on, Army Service Uniform",
+     "era": "modern",
+     "uniform": "ASU",
+     "gender": "female",
+     "note": "Golden-light on Army blue (or white cloth). Small size. Para 21-7b(2)."
+    },
+    {
+     "label": "Sew-on, Army Green Service Uniform",
+     "era": "modern",
+     "uniform": "AGSU",
+     "gender": "any",
+     "note": "Heritage tan 566 on heritage green 564. Para 21-7b."
+    },
+    {
+     "label": "Pin-on, polished",
+     "era": "modern",
+     "uniform": "Service",
+     "gender": "any",
+     "note": "Polished brass. Para 21-7c."
+    },
+    {
+     "label": "Pin-on, subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Dull, flat black finish. Worn centered on the hook-and-loop pad on utility uniforms. Paras 21-7d, 21-7e(4)."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-7a(3)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-sma",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Sergeant Major of the Army",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade E-9. The eagle from the Great Seal of the United States between two stars.",
+   "facts": [
+    "Grade: E-9",
+    "Insignia: The eagle from the Great Seal of the United States between two stars.",
+    "Enlisted personnel wear subdued grade insignia on utility uniforms"
+   ],
+   "remember": "Eagle between two stars.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Sew-on, Army Service Uniform",
+     "era": "modern",
+     "uniform": "ASU",
+     "gender": "male",
+     "note": "Golden-light on Army blue (or white cloth). Large size. Para 21-7b(1)."
+    },
+    {
+     "label": "Sew-on, Army Service Uniform",
+     "era": "modern",
+     "uniform": "ASU",
+     "gender": "female",
+     "note": "Golden-light on Army blue (or white cloth). Small size. Para 21-7b(2)."
+    },
+    {
+     "label": "Sew-on, Army Green Service Uniform",
+     "era": "modern",
+     "uniform": "AGSU",
+     "gender": "any",
+     "note": "Heritage tan 566 on heritage green 564. Para 21-7b."
+    },
+    {
+     "label": "Pin-on, polished",
+     "era": "modern",
+     "uniform": "Service",
+     "gender": "any",
+     "note": "Polished brass. Para 21-7c."
+    },
+    {
+     "label": "Pin-on, subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Dull, flat black finish. Worn centered on the hook-and-loop pad on utility uniforms. Paras 21-7d, 21-7e(4)."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-7a(2)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-wo1",
+   "tab": "ranks",
+   "group": "Warrant officers",
+   "name": "Warrant Officer 1",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade WO1. One black enamel square on a silver bar.",
+   "facts": [
+    "Grade: WO1",
+    "Insignia: One black enamel square on a silver bar.",
+    "Subdued officer insignia is generally black (para 21-6)"
+   ],
+   "remember": "One square.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Generally black (para 21-6). Worn centered on the front hook-and-loop pad (21-6b(2))."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-6a(11)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-cw2",
+   "tab": "ranks",
+   "group": "Warrant officers",
+   "name": "Chief Warrant Officer 2",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade CW2. Two black enamel squares on a silver bar.",
+   "facts": [
+    "Grade: CW2",
+    "Insignia: Two black enamel squares on a silver bar.",
+    "Subdued officer insignia is generally black (para 21-6)"
+   ],
+   "remember": "Two squares.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Generally black (para 21-6). Worn centered on the front hook-and-loop pad (21-6b(2))."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-6a(10)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-cw3",
+   "tab": "ranks",
+   "group": "Warrant officers",
+   "name": "Chief Warrant Officer 3",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade CW3. Three black enamel squares on a silver bar.",
+   "facts": [
+    "Grade: CW3",
+    "Insignia: Three black enamel squares on a silver bar.",
+    "Subdued officer insignia is generally black (para 21-6)"
+   ],
+   "remember": "Three squares.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Generally black (para 21-6). Worn centered on the front hook-and-loop pad (21-6b(2))."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-6a(9)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-cw4",
+   "tab": "ranks",
+   "group": "Warrant officers",
+   "name": "Chief Warrant Officer 4",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade CW4. Four black enamel squares on a silver bar.",
+   "facts": [
+    "Grade: CW4",
+    "Insignia: Four black enamel squares on a silver bar.",
+    "Subdued officer insignia is generally black (para 21-6)"
+   ],
+   "remember": "Four squares.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Generally black (para 21-6). Worn centered on the front hook-and-loop pad (21-6b(2))."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-6a(8)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-cw5",
+   "tab": "ranks",
+   "group": "Warrant officers",
+   "name": "Chief Warrant Officer 5",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade CW5. A black line in the center of the bar.",
+   "facts": [
+    "Grade: CW5",
+    "Insignia: A black line in the center of the bar.",
+    "Subdued officer insignia is generally black (para 21-6)"
+   ],
+   "remember": "One line down the middle.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Generally black (para 21-6). Worn centered on the front hook-and-loop pad (21-6b(2))."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-6a(7)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-2lt",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Second Lieutenant",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade O-1. One gold-colored bar.",
+   "facts": [
+    "Grade: O-1",
+    "Insignia: One gold-colored bar.",
+    "Subdued officer insignia is generally black (para 21-6)"
+   ],
+   "remember": "One gold bar.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Generally black (para 21-6). Worn centered on the front hook-and-loop pad (21-6b(2))."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-6a(6)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-1lt",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "First Lieutenant",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade O-2. One silver-colored bar.",
+   "facts": [
+    "Grade: O-2",
+    "Insignia: One silver-colored bar.",
+    "Subdued officer insignia is generally black (para 21-6)"
+   ],
+   "remember": "One silver bar.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Generally black (para 21-6). Worn centered on the front hook-and-loop pad (21-6b(2))."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-6a(5)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-cpt",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Captain",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade O-3. Two silver-colored bars.",
+   "facts": [
+    "Grade: O-3",
+    "Insignia: Two silver-colored bars.",
+    "Subdued officer insignia is generally black (para 21-6)"
+   ],
+   "remember": "Two silver bars.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Generally black (para 21-6). Worn centered on the front hook-and-loop pad (21-6b(2))."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-6a(4)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-maj",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Major",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade O-4. Gold-colored oak leaf.",
+   "facts": [
+    "Grade: O-4",
+    "Insignia: Gold-colored oak leaf.",
+    "Subdued officer insignia is generally black (para 21-6)"
+   ],
+   "remember": "Gold leaf.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Generally black (para 21-6). Worn centered on the front hook-and-loop pad (21-6b(2))."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-6a(3)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-ltc",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Lieutenant Colonel",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade O-5. Silver-colored oak leaf.",
+   "facts": [
+    "Grade: O-5",
+    "Insignia: Silver-colored oak leaf.",
+    "Subdued officer insignia is generally black (para 21-6)"
+   ],
+   "remember": "Silver leaf.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Generally black (para 21-6). Worn centered on the front hook-and-loop pad (21-6b(2))."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-6a(2)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-col",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Colonel",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade O-6. Silver-colored spread eagle.",
+   "facts": [
+    "Grade: O-6",
+    "Insignia: Silver-colored spread eagle.",
+    "Subdued officer insignia is generally black (para 21-6)"
+   ],
+   "remember": "Silver eagle.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Generally black (para 21-6). Worn centered on the front hook-and-loop pad (21-6b(2))."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-6a(1)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-bg",
+   "tab": "ranks",
+   "group": "General officers",
+   "name": "Brigadier General",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade O-7. One silver-colored, five-pointed star.",
+   "facts": [
+    "Grade: O-7",
+    "Insignia: One silver-colored, five-pointed star.",
+    "Subdued general officer insignia has hook-and-loop backing (para 21-5a)"
+   ],
+   "remember": "One star.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Generally black (para 21-6). Worn centered on the front hook-and-loop pad (21-6b(2))."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-5a(4)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-mg",
+   "tab": "ranks",
+   "group": "General officers",
+   "name": "Major General",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade O-8. Two silver-colored, five-pointed stars.",
+   "facts": [
+    "Grade: O-8",
+    "Insignia: Two silver-colored, five-pointed stars.",
+    "Subdued general officer insignia has hook-and-loop backing (para 21-5a)"
+   ],
+   "remember": "Two stars.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Generally black (para 21-6). Worn centered on the front hook-and-loop pad (21-6b(2))."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-5a(3)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-lg",
+   "tab": "ranks",
+   "group": "General officers",
+   "name": "Lieutenant General",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade O-9. Three silver-colored, five-pointed stars.",
+   "facts": [
+    "Grade: O-9",
+    "Insignia: Three silver-colored, five-pointed stars.",
+    "Subdued general officer insignia has hook-and-loop backing (para 21-5a)"
+   ],
+   "remember": "Three stars.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Generally black (para 21-6). Worn centered on the front hook-and-loop pad (21-6b(2))."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-5a(2)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-gen",
+   "tab": "ranks",
+   "group": "General officers",
+   "name": "General",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Army grade O-10. Four silver-colored, five-pointed stars.",
+   "facts": [
+    "Grade: O-10",
+    "Insignia: Four silver-colored, five-pointed stars.",
+    "Subdued general officer insignia has hook-and-loop backing (para 21-5a)"
+   ],
+   "remember": "Four stars.",
+   "swatches": [],
+   "variants": [
+    {
+     "label": "Subdued",
+     "era": "modern",
+     "uniform": "Utility",
+     "gender": "any",
+     "note": "Generally black (para 21-6). Worn centered on the front hook-and-loop pad (21-6b(2))."
+    }
+   ],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-5a(1)"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-service-stripes",
+   "tab": "ranks",
+   "group": "Service marks",
+   "name": "Service stripes",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Diagonal stripes on the left sleeve of the dress coat. One stripe for each 3 years of honorable active Federal service.",
+   "facts": [
+    "Authorized: one stripe for each 3 years of honorable active Federal service (AR 670-1 para 21-28, text from an unofficial copy)",
+    "Male ASU: golden-lite stripe, 3/16 in wide, 1-5/16 in long, on blue, 3/32 in border; left sleeve, first stripe 4 in from the bottom; each added stripe 1/16 in higher; 45 degree angle",
+    "Male AGSU: heritage tan 566 on heritage green 564; both sleeves; each added stripe 1/8 in higher; 30 degree angle",
+    "Female ASU and AGSU: stripe 5/32 in wide, 1-1/4 in long, 5/64 in border",
+    "Mess uniforms: gold braid, male 1/2 in wide, female 1/4 in wide, variable length"
+   ],
+   "remember": "One stripe, three years.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Paras 21-28a to 21-28c. The 3-year rule is from AR 670-1 para 21-28 as quoted at ar670.com (unofficial copy); DA Pam text read did not state it"
+   ],
+   "image": null
+  },
+  {
+   "id": "r-overseas-bars",
+   "tab": "ranks",
+   "group": "Service marks",
+   "name": "Overseas service bars",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Small bars on the right sleeve of the dress coat. One bar for each 6-month period of overseas service.",
+   "facts": [
+    "Authorized: one bar for each 6-month period (AR 670-1 para 21-29a, text from an unofficial copy)",
+    "Male: golden-lite bar, 3/16 in wide, 1-5/16 in long, on blue, 3/32 in border",
+    "Female: golden-lite bar, 5/32 in wide, 13/32 in long, on blue, 5/64 in border",
+    "AGSU: heritage tan 566 on heritage green 564",
+    "Worn centered on the outside bottom half of the right sleeve; first bar 1/4 in above the sleeve braid (officers) or 4 in above the bottom of the sleeve (enlisted); each added bar 1/16 in higher"
+   ],
+   "remember": "One bar, six months.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
+    "Para 21-29a to 21-29d. The 6-month rule is from AR 670-1 para 21-29a as quoted at ar670.com (unofficial copy); DA Pam text read did not state it"
    ],
    "image": null
   }
