@@ -1,0 +1,16 @@
+name: Fetch PDFs
+on: workflow_dispatch
+jobs:
+  get:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          mkdir -p pdfs; i=0
+          while read u; do i=$((i+1)); curl -sSL -m 120 -A "Mozilla/5.0" -o pdfs/f$i.pdf -w "%{http_code} %{size_download} $u\n" "$u" || true; done < tools/pdfs.txt
+          file pdfs/* | tee pdfs/_log.txt
+      - run: |
+          cd pdfs && git init -q -b pdfs && git config user.email a@b.c && git config user.name bot
+          git add -A && git commit -q -m pdfs && git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" pdfs
