@@ -1,100 +1,58 @@
 {
  "mu-evening": [
-  "Marine Corps evening dress uniform",
-  "Marine officer evening dress"
- ],
- "mu-blue-dress": [
-  "Marine Corps dress blue uniform",
-  "Marine dress blues Alpha"
+  "deepcategory:\"Uniforms of the United States Marine Corps\" evening dress",
+  "deepcategory:\"Uniforms of the United States Marine Corps\" dress"
  ],
  "mu-blue-white": [
-  "Marine Corps blue-white dress uniform",
-  "Marine dress blue white trousers officer"
+  "deepcategory:\"Uniforms of the United States Marine Corps\" blue-white dress",
+  "deepcategory:\"Uniforms of the United States Marine Corps\" white trousers dress uniform"
  ],
  "mu-service": [
-  "Marine Corps service uniform Alpha",
-  "Marine service A uniform green coat khaki shirt"
- ],
- "mu-mccuu": [
-  "Marine Corps Combat Utility Uniform MARPAT",
-  "Marine MARPAT woodland utility uniform"
+  "deepcategory:\"Uniforms of the United States Marine Corps\" service uniform",
+  "deepcategory:\"Uniforms of the United States Marine Corps\" green service coat"
  ],
  "mu-pt": [
-  "Marine Corps physical training uniform",
-  "Marines PT shorts green shirt"
+  "deepcategory:\"Uniforms of the United States Marine Corps\" physical training",
+  "deepcategory:\"Uniforms of the United States Marine Corps\" PT"
  ],
  "au-mess": [
-  "Air Force mess dress uniform",
-  "Air Force mess dress officer"
+  "deepcategory:\"Uniforms of the United States Air Force\" mess dress",
+  "deepcategory:\"Uniforms of the United States Air Force\" dress"
  ],
  "au-semi": [
-  "Air Force semi-formal dress",
-  "Air Force enlisted service dress coat"
+  "deepcategory:\"Uniforms of the United States Air Force\" service dress",
+  "deepcategory:\"Uniforms of the United States Air Force\" blues"
  ],
  "au-service": [
-  "Air Force service dress uniform",
-  "Air Force blues uniform airman"
- ],
- "au-ocp": [
-  "Air Force OCP uniform airman",
-  "Operational Camouflage Pattern airman"
+  "deepcategory:\"Uniforms of the United States Air Force\" service dress blue",
+  "deepcategory:\"Uniforms of the United States Air Force\" blues uniform"
  ],
  "au-ptg": [
-  "Air Force physical training gear",
-  "Air Force PT uniform airmen"
+  "deepcategory:\"Uniforms of the United States Air Force\" physical training",
+  "deepcategory:\"Uniforms of the United States Air Force\" PT gear"
  ],
  "au-fdu": [
-  "Air Force flight duty uniform",
-  "Air Force flight suit aircrew"
+  "deepcategory:\"Uniforms of the United States Air Force\" flight suit",
+  "deepcategory:\"Uniforms of the United States Air Force\" flight duty"
  ],
  "cu-formal": [
-  "Coast Guard formal dress blue uniform",
-  "Coast Guard evening dress"
+  "deepcategory:\"Uniforms of the United States Coast Guard\" dress blue",
+  "deepcategory:\"Uniforms of the United States Coast Guard\" formal"
  ],
  "cu-ddbj": [
-  "Coast Guard dinner dress blue jacket",
-  "Coast Guard dinner dress jacket"
+  "deepcategory:\"Uniforms of the United States Coast Guard\" dinner dress",
+  "deepcategory:\"Uniforms of the United States Coast Guard\" dinner dress blue jacket"
  ],
  "cu-ddwj": [
-  "Coast Guard dinner dress white jacket"
- ],
- "cu-ddb": [
-  "Coast Guard dinner dress blue"
- ],
- "cu-ddw": [
-  "Coast Guard dinner dress white"
- ],
- "cu-fdb": [
-  "Coast Guard full dress blue",
-  "Coast Guard change of command uniform"
+  "deepcategory:\"Uniforms of the United States Coast Guard\" dinner dress white",
+  "deepcategory:\"Uniforms of the United States Coast Guard\" white jacket"
  ],
  "cu-fdw": [
-  "Coast Guard full dress white"
- ],
- "cu-sdba": [
-  "Coast Guard service dress blue",
-  "Coast Guard service dress blue Alpha"
- ],
- "cu-sdbb": [
-  "Coast Guard service dress blue Bravo",
-  "Coast Guard officer light blue shirt tie uniform"
- ],
- "cu-sdw": [
-  "Coast Guard service dress white",
-  "Coast Guard officer white uniform"
+  "deepcategory:\"Uniforms of the United States Coast Guard\" full dress white",
+  "deepcategory:\"Uniforms of the United States Coast Guard\" dress white"
  ],
  "cu-tb": [
-  "Coast Guard tropical blue uniform",
-  "Coast Guard tropical blue short sleeve"
- ],
- "cu-tbls": [
-  "Coast Guard tropical blue long sleeve"
- ],
- "cu-wdb": [
-  "Coast Guard winter dress blue sweater"
- ],
- "cu-odu": [
-  "Coast Guard operational dress uniform",
-  "Coast Guard ODU"
+  "deepcategory:\"Uniforms of the United States Coast Guard\" tropical blue",
+  "deepcategory:\"Uniforms of the United States Coast Guard\" short sleeve blue shirt"
  ]
 }
