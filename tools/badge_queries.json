@@ -1,294 +1,50 @@
 {
- "m-moh": [
-  "Medal of Honor ribbon",
-  "Army Medal of Honor ribbon.svg"
- ],
- "m-aam": [
-  "Aerial Achievement Medal ribbon",
-  "Aerial Achievement Medal ribbon.svg"
- ],
- "m-aom": [
-  "Army of Occupation Medal ribbon",
-  "Army Army of Occupation Medal ribbon.svg"
- ],
- "m-wwi-victory": [
-  "World War I Victory Medal ribbon",
-  "Army World War I Victory Medal ribbon.svg"
- ],
- "m-recruiting": [
-  "Army Recruiting Ribbon ribbon",
-  "Army Army Recruiting Ribbon ribbon.svg"
- ],
- "nm-dsm": [
-  "Distinguished Service Medal ribbon",
-  "Navy Distinguished Service Medal ribbon.svg"
- ],
- "nm-car": [
-  "Combat Action Ribbon ribbon",
-  "Navy Combat Action Ribbon ribbon.svg"
- ],
- "nm-e-ribbon": [
-  "Navy \"E\" Ribbon ribbon",
-  "Navy Navy \"E\" Ribbon ribbon.svg"
- ],
- "m-asam": [
-  "Air and Space Achievement Medal ribbon",
-  "Air and Space Achievement Medal ribbon.svg"
- ],
- "m-arfmsm": [
-  "Air Reserve Forces Meritorious Service Medal ribbon",
-  "Air Force Air Reserve Forces Meritorious Service Medal ribbon.svg"
- ],
- "m-oayr": [
-  "Outstanding Airman of the Year Ribbon ribbon",
-  "Outstanding Airman of the Year Ribbon ribbon.svg"
- ],
- "m-asrr": [
-  "Air and Space Recognition Ribbon ribbon",
-  "Air and Space Recognition Ribbon ribbon.svg"
- ],
- "m-ndosm": [
-  "Nuclear Deterrence Operations Service Medal ribbon",
-  "Nuclear Deterrence Operations Service Medal ribbon.svg"
- ],
- "m-asor": [
-  "Air and Space Overseas Ribbon ribbon",
-  "Air and Space Overseas Ribbon ribbon.svg"
- ],
- "m-asesr": [
-  "Air and Space Expeditionary Service Ribbon ribbon",
-  "Air and Space Expeditionary Service Ribbon ribbon.svg"
- ],
- "m-aslsa": [
-  "Air and Space Longevity Service Award ribbon",
-  "Air and Space Longevity Service Award ribbon.svg"
- ],
- "m-dsdr": [
-  "Developmental Special Duty Ribbon ribbon",
-  "Developmental Special Duty Ribbon ribbon.svg"
- ],
- "m-epmeg": [
-  "Air and Space Forces Enlisted Professional Military Education Graduate Ribbon ribbon",
-  "Air and Space Forces Enlisted Professional Military Education Graduate Ribbon ribbon.svg"
- ],
- "m-bmthgr": [
-  "Basic Military Training Honor Graduate Ribbon ribbon",
-  "Basic Military Training Honor Graduate Ribbon ribbon.svg"
- ],
- "m-saemr": [
-  "Small Arms Expert Marksmanship Ribbon ribbon",
-  "Small Arms Expert Marksmanship Ribbon ribbon.svg"
- ],
- "m-astr": [
-  "Air and Space Training Ribbon ribbon",
-  "Air and Space Training Ribbon ribbon.svg"
- ],
- "m-guc": [
-  "Gallant Unit Citation ribbon",
-  "Gallant Unit Citation ribbon.svg"
- ],
- "m-mua": [
-  "Meritorious Unit Award ribbon",
-  "Meritorious Unit Award ribbon.svg"
- ],
- "m-asoua": [
-  "Air and Space Outstanding Unit Award ribbon",
-  "Air and Space Outstanding Unit Award ribbon.svg"
- ],
- "m-asoea": [
-  "Air and Space Organizational Excellence Award ribbon",
-  "Air and Space Organizational Excellence Award ribbon.svg"
- ],
- "m-navy-cross": [
-  "Navy Cross ribbon",
-  "Navy Cross ribbon.svg"
- ],
- "m-navy-dsm": [
-  "Navy Distinguished Service Medal ribbon",
-  "Navy Distinguished Service Medal ribbon.svg"
- ],
- "m-nmcm": [
-  "Navy and Marine Corps Medal ribbon",
-  "Navy and Marine Corps Medal ribbon.svg"
- ],
- "m-nmccm": [
-  "Navy and Marine Corps Commendation Medal ribbon",
-  "Navy and Marine Corps Commendation Medal ribbon.svg"
- ],
- "m-nmcam": [
-  "Navy and Marine Corps Achievement Medal ribbon",
-  "Navy and Marine Corps Achievement Medal ribbon.svg"
- ],
- "m-car": [
-  "Combat Action Ribbon ribbon",
-  "Combat Action Ribbon ribbon.svg"
- ],
- "m-nuc": [
-  "Navy Unit Commendation ribbon",
-  "Navy Unit Commendation ribbon.svg"
- ],
- "m-nmuc": [
-  "Meritorious Unit Commendation ribbon",
-  "Meritorious Unit Commendation ribbon.svg"
- ],
- "m-ngcm": [
-  "Navy Good Conduct Medal ribbon",
-  "Navy Navy Good Conduct Medal ribbon.svg"
- ],
- "m-mcgcm": [
-  "Marine Corps Good Conduct Medal ribbon",
-  "Marine Corps Marine Corps Good Conduct Medal ribbon.svg"
- ],
- "m-nrmsm": [
-  "Naval Reserve Meritorious Service Medal ribbon",
-  "Navy Naval Reserve Meritorious Service Medal ribbon.svg"
- ],
- "m-smcrm": [
-  "Selected Marine Corps Reserve Medal ribbon",
-  "Marine Corps Selected Marine Corps Reserve Medal ribbon.svg"
- ],
- "m-nem": [
-  "Navy Expeditionary Medal ribbon",
-  "Navy Navy Expeditionary Medal ribbon.svg"
- ],
- "m-mcem": [
-  "Marine Corps Expeditionary Medal ribbon",
-  "Marine Corps Marine Corps Expeditionary Medal ribbon.svg"
- ],
- "m-nasr": [
-  "Navy Arctic Service Ribbon ribbon",
-  "Navy Arctic Service Ribbon ribbon.svg"
- ],
- "m-nrssr": [
-  "Naval Reserve Sea Service Ribbon ribbon",
-  "Navy Naval Reserve Sea Service Ribbon ribbon.svg"
- ],
- "m-nmcosr": [
-  "Navy and Marine Corps Overseas Service Ribbon ribbon",
-  "Navy and Marine Corps Overseas Service Ribbon ribbon.svg"
- ],
- "m-nrecr": [
-  "Navy Recruiting Service Ribbon ribbon",
-  "Navy Navy Recruiting Service Ribbon ribbon.svg"
- ],
- "m-mcrecr": [
-  "Marine Corps Recruiting Ribbon ribbon",
-  "Marine Corps Marine Corps Recruiting Ribbon ribbon.svg"
- ],
- "m-mcdir": [
-  "Marine Corps Drill Instructor Ribbon ribbon",
-  "Marine Corps Marine Corps Drill Instructor Ribbon ribbon.svg"
- ],
- "m-mcsgr": [
-  "Marine Corps Security Guard Ribbon ribbon",
-  "Marine Corps Marine Corps Security Guard Ribbon ribbon.svg"
- ],
- "m-nrtsr": [
-  "Navy Recruit Training Service Ribbon ribbon",
-  "Navy Navy Recruit Training Service Ribbon ribbon.svg"
- ],
- "m-ncgr": [
-  "Navy Ceremonial Guard Ribbon ribbon",
-  "Navy Navy Ceremonial Guard Ribbon ribbon.svg"
- ],
- "m-cg-hsdsm": [
-  "Homeland Security Distinguished Service Medal ribbon",
-  "Coast Guard Homeland Security Distinguished Service Medal ribbon.svg"
- ],
- "m-cg-dsm": [
-  "Coast Guard Distinguished Service Medal ribbon",
-  "Coast Guard Coast Guard Distinguished Service Medal ribbon.svg"
- ],
- "m-dot-guardian": [
-  "Department of Transportation Guardian Medal ribbon",
-  "Coast Guard Department of Transportation Guardian Medal ribbon.svg"
- ],
- "m-cg-medal": [
-  "Coast Guard Medal ribbon",
-  "Coast Guard Coast Guard Medal ribbon.svg"
- ],
- "m-cgcm": [
-  "Coast Guard Commendation Medal ribbon",
-  "Coast Guard Coast Guard Commendation Medal ribbon.svg"
- ],
- "m-cgam": [
-  "Coast Guard Achievement Medal ribbon",
-  "Coast Guard Coast Guard Achievement Medal ribbon.svg"
- ],
- "m-cgloc": [
-  "Commandant's Letter of Commendation Ribbon ribbon",
-  "Coast Guard Commandant's Letter of Commendation Ribbon ribbon.svg"
- ],
- "m-cg-gold-lsm": [
-  "Gold Lifesaving Medal ribbon",
-  "Coast Guard Gold Lifesaving Medal ribbon.svg"
- ],
- "m-cg-silver-lsm": [
-  "Silver Lifesaving Medal ribbon",
-  "Coast Guard Silver Lifesaving Medal ribbon.svg"
- ],
- "m-cguc": [
-  "Coast Guard Unit Commendation ribbon",
-  "Coast Guard Coast Guard Unit Commendation ribbon.svg"
- ],
- "m-cgmuc": [
-  "Coast Guard Meritorious Unit Commendation ribbon",
-  "Coast Guard Coast Guard Meritorious Unit Commendation ribbon.svg"
- ],
- "m-cgmtc": [
-  "Coast Guard Meritorious Team Commendation ribbon",
-  "Coast Guard Coast Guard Meritorious Team Commendation ribbon.svg"
- ],
- "m-cg-e": [
-  "Coast Guard \"E\" Ribbon ribbon",
-  "Coast Guard Coast Guard \"E\" Ribbon ribbon.svg"
- ],
- "m-cg-bicent": [
-  "Coast Guard Bicentennial Unit Commendation ribbon",
-  "Coast Guard Coast Guard Bicentennial Unit Commendation ribbon.svg"
- ],
- "m-dot-ouA": [
-  "Department of Transportation Outstanding Unit Award ribbon",
-  "Coast Guard Department of Transportation Outstanding Unit Award ribbon.svg"
- ],
- "m-cg-9": [
-  "DOT 9/11 Medal ribbon",
-  "Coast Guard DOT 9/11 Medal ribbon.svg"
- ],
- "m-cggcm": [
-  "Coast Guard Good Conduct Medal ribbon",
-  "Coast Guard Coast Guard Good Conduct Medal ribbon.svg"
- ],
- "m-cgrgcm": [
-  "Coast Guard Reserve Good Conduct Medal ribbon",
-  "Coast Guard Coast Guard Reserve Good Conduct Medal ribbon.svg"
- ],
- "m-cgepoy": [
-  "Coast Guard Enlisted Person of the Year Ribbon ribbon",
-  "Coast Guard Coast Guard Enlisted Person of the Year Ribbon ribbon.svg"
- ],
- "m-cg-arctic": [
-  "Coast Guard Arctic Service Medal ribbon",
-  "Coast Guard Coast Guard Arctic Service Medal ribbon.svg"
- ],
- "m-cgsos": [
-  "Coast Guard Special Operations Service Ribbon ribbon",
-  "Coast Guard Coast Guard Special Operations Service Ribbon ribbon.svg"
- ],
- "m-cgssr": [
-  "Coast Guard Sea Service Ribbon ribbon",
-  "Coast Guard Coast Guard Sea Service Ribbon ribbon.svg"
- ],
- "m-cgrdr": [
-  "Coast Guard Restricted Duty Ribbon ribbon",
-  "Coast Guard Coast Guard Restricted Duty Ribbon ribbon.svg"
- ],
- "m-cgbthgr": [
-  "Coast Guard Basic Training Honor Graduate Ribbon ribbon",
-  "Coast Guard Coast Guard Basic Training Honor Graduate Ribbon ribbon.svg"
- ],
- "m-cgrecr": [
-  "Coast Guard Recruiting Service Ribbon ribbon",
-  "Coast Guard Coast Guard Recruiting Service Ribbon ribbon.svg"
+ "u-woodland-bdu": [
+  "Woodland BDU uniform",
+  "Battle Dress Uniform woodland soldier"
+ ],
+ "u-pinks-greens": [
+  "Army pinks and greens uniform",
+  "Army officer pinks and greens"
+ ],
+ "u-acu-ocp": [
+  "Operational Camouflage Pattern uniform soldier",
+  "Army Combat Uniform OCP"
+ ],
+ "u-agsu": [
+  "Army Green Service Uniform",
+  "Army greens uniform soldier"
+ ],
+ "u-asu": [
+  "Army Service Uniform blue Class A",
+  "Army blue dress uniform soldier"
+ ],
+ "u-mess-blue": [
+  "Army Blue Mess uniform",
+  "Army mess dress uniform"
+ ],
+ "u-mess-white": [
+  "Army White Mess uniform",
+  "Army mess dress white"
+ ],
+ "u-apfu": [
+  "Army Physical Fitness Uniform",
+  "Army PT uniform soldiers"
+ ],
+ "nu-sdb-enl": [
+  "Navy Service Dress Blue sailor",
+  "Navy enlisted service dress blue uniform"
+ ],
+ "nu-khaki-off": [
+  "Navy Service Khaki officer uniform",
+  "Navy khaki uniform officer"
+ ],
+ "nu-sdw-off": [
+  "Navy Service Dress White officer",
+  "Navy officer white uniform"
+ ],
+ "nu-nwu3": [
+  "Navy Working Uniform Type III",
+  "Navy NWU Type III aqua camouflage"
  ]
 }
