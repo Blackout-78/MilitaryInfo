@@ -1,3 +1,6 @@
+## 0.18.1
+- 33 pictures for the new badge entries (public domain, credited): Coast Guard insignia (14), Air Force and Space Force duty badges (15), Marine Presidential, Vice-Presidential, OSD and JCS badges (4). Still no picture: Coast Guard aviator, air crew, astronaut, aviation mission specialist, boat forces, divers, honor guard, command devices; several Air Force duty badges. Auxiliary-only look-alikes were rejected.
+
 ## 0.18.0
 - Badges phase 1: 62 new Official entries, all text-backed. Coast Guard: 24 qualification insignia and 4 command devices (COMDTINST M1020.6K 4.B). Air Force and Space Force: 30 duty badges, wear rules (DAFI 36-2903 ch. 12). Marine Corps: PSB, VPSB, OSD and JCS ID badges with design text (MCO 1020.34H 4007). Pictures for these are not added yet; each page says so.
 

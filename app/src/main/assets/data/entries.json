@@ -16314,8 +16314,7 @@
    "summary": "Air Force and Space Force duty badge. Worn while performing duties in authorized IG billets; continue to wear while attending PME; may be worn upon retirement per para 14.3.",
    "facts": [
     "Wear rule: Worn while performing duties in authorized IG billets; continue to wear while attending PME; may be worn upon retirement per para 14.3. (para 12.4.24)",
-    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
-    "Design is not described in DAFI 36-2903; picture not yet added"
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)"
    ],
    "remember": "Inspector General (IG) badge",
    "swatches": [],
@@ -16324,9 +16323,10 @@
    "proof": "official",
    "sources": [
     "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.24",
-    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force",
+    "Picture: USAF IG Badge Rev.png, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-af-ig.png"
   },
   {
    "id": "b-af-iaafa",
@@ -16469,8 +16469,7 @@
    "summary": "Air Force and Space Force duty badge. Authorized under 10 U.S.C.",
    "facts": [
     "Wear rule: Authorized under 10 U.S.C. 1126 for issued Airmen on Air Force dress uniform coats; centered below the U.S. insignia on the widest part of the left lapel of the service coat, and centered on the left lapel of the mess dress coat even with the top row of medals. (para 12.4.30)",
-    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
-    "Design is not described in DAFI 36-2903; picture not yet added"
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)"
    ],
    "remember": "Gold Star Lapel Button",
    "swatches": [],
@@ -16479,9 +16478,11 @@
    "proof": "official",
    "sources": [
     "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.30",
-    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force",
+    "Picture: Gold Star Lapel Pins.jpg, Wikimedia Commons, Public domain",
+    "Picture shows both the Gold Star and Next of Kin lapel buttons"
    ],
-   "image": null
+   "image": "badges/b-af-gold.png"
   },
   {
    "id": "b-af-nok",
@@ -16500,8 +16501,7 @@
    "summary": "Air Force and Space Force duty badge. Authorized under 10 U.S.C.",
    "facts": [
     "Wear rule: Authorized under 10 U.S.C. 1126 for issued Airmen on Air Force dress uniform coats; worn in the same place as the Gold Star Lapel Button, side by side with it if both are authorized, with no order of precedence between them. (para 12.4.31)",
-    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
-    "Design is not described in DAFI 36-2903; picture not yet added"
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)"
    ],
    "remember": "Next of Kin Lapel Button",
    "swatches": [],
@@ -16510,9 +16510,11 @@
    "proof": "official",
    "sources": [
     "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.31",
-    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force",
+    "Picture: Gold Star Lapel Pins.jpg, Wikimedia Commons, Public domain",
+    "Picture shows both the Gold Star and Next of Kin lapel buttons"
    ],
-   "image": null
+   "image": "badges/b-af-nok.png"
   },
   {
    "id": "b-mc-psb",
@@ -16571,9 +16573,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "MCO 1020.34H, Marine Corps Uniform Regulations (1 May 2018), para 4007.2a(2)"
+    "MCO 1020.34H, Marine Corps Uniform Regulations (1 May 2018), para 4007.2a(2)",
+    "Picture: US - Vice Presidential Service Badge.png, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-mc-vpsb.png"
   },
   {
    "id": "b-mc-osd",

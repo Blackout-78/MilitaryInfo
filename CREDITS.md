@@ -240,3 +240,7 @@ All from Wikimedia Commons, tagged public domain. The EOD Basic and Senior pictu
 | b-mc-psb | US - Presidential Service Badge.png | Public domain (Willie Kendrick) | https://commons.wikimedia.org/wiki/File:US_-_Presidential_Service_Badge.png |
 | b-mc-osd | Office of the Secretary of Defense identification badge.svg | CC0 (Original: United States Department of Defense Vector:  Designism) | https://commons.wikimedia.org/wiki/File:Office_of_the_Secretary_of_Defense_identification_badge.svg |
 | b-mc-jcs | Joint Chiefs of Staff seal (2).svg | Public domain (United States government) | https://commons.wikimedia.org/wiki/File:Joint_Chiefs_of_Staff_seal_(2).svg |
+| b-af-ig | USAF IG Badge Rev.png | Public domain (US Air Force) | https://commons.wikimedia.org/wiki/File:USAF_IG_Badge_Rev.png |
+| b-af-gold | Gold Star Lapel Pins.jpg | Public domain (Photo Credit: U.S. Army) | https://commons.wikimedia.org/wiki/File:Gold_Star_Lapel_Pins.jpg |
+| b-af-nok | Gold Star Lapel Pins.jpg | Public domain (Photo Credit: U.S. Army) | https://commons.wikimedia.org/wiki/File:Gold_Star_Lapel_Pins.jpg |
+| b-mc-vpsb | US - Vice Presidential Service Badge.png | Public domain (United States Government) | https://commons.wikimedia.org/wiki/File:US_-_Vice_Presidential_Service_Badge.png |
