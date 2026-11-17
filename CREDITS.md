@@ -287,3 +287,14 @@ All from Wikimedia Commons, tagged public domain. The EOD Basic and Senior pictu
 | b-af-mps | Military Postal Service Agency.jpg | Public domain | https://commons.wikimedia.org/wiki/File:Military_Postal_Service_Agency.jpg |
 | b-af-epme | USAF Professional Military Education Badge.png | Public domain | https://commons.wikimedia.org/wiki/File:USAF_Professional_Military_Education_Badge.png |
 | mu-evening | USMC Evening Dress (Officers).jpg | Public domain | https://commons.wikimedia.org/wiki/File:USMC_Evening_Dress_(Officers).jpg |
+| b-esb | U.S. Army Expert Soldier Badge.png | Public domain | https://commons.wikimedia.org/wiki/File:U.S._Army_Expert_Soldier_Badge.png |
+| b-vice-presidential | US - Vice Presidential Service Badge.png | Public domain | https://commons.wikimedia.org/wiki/File:US_-_Vice_Presidential_Service_Badge.png |
+| n-e2 | Collar rate insignia of a United States Navy seaman apprentice (garrison).svg | Public domain | https://commons.wikimedia.org/wiki/File:Collar_rate_insignia_of_a_United_States_Navy_seaman_apprentice_(garrison).svg |
+| n-e3 | Usn e3 collar device right collar orientation.png | Public domain | https://commons.wikimedia.org/wiki/File:Usn_e3_collar_device_right_collar_orientation.png |
+| n-e8 | BMCS GC.svg | Public domain | https://commons.wikimedia.org/wiki/File:BMCS_GC.svg |
+| n-cpo-badge | US Navy Cap Devices.png | Public domain | https://commons.wikimedia.org/wiki/File:US_Navy_Cap_Devices.png |
+| m-nmccm | Navy and Marine Corps Commendation Medal ribbon.svg | Public domain | https://commons.wikimedia.org/wiki/File:Navy_and_Marine_Corps_Commendation_Medal_ribbon.svg |
+| m-nmcosr | Navy and Marine Corps Overseas Service Ribbon.svg | Public domain | https://commons.wikimedia.org/wiki/File:Navy_and_Marine_Corps_Overseas_Service_Ribbon.svg |
+| m-asor | AirForceOSribbon.jpg | Public domain | https://commons.wikimedia.org/wiki/File:AirForceOSribbon.jpg |
+| au-mess | USAF Mess Dress.jpg | Public domain | https://commons.wikimedia.org/wiki/File:USAF_Mess_Dress.jpg |
+| b-instructor | Basic Army Instructor Badge (5326843).jpg | Public domain | https://commons.wikimedia.org/wiki/File:Basic_Army_Instructor_Badge_(5326843).jpg |

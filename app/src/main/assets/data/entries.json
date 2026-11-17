@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "0.18.4-more-pictures",
+  "dataVersion": "0.18.5-more-pictures",
   "entries": [
     {
       "id": "u-woodland-bdu",
@@ -3723,7 +3723,7 @@
         "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
         "Text read from the copy hosted at home.army.mil/jackson"
       ],
-      "image": null
+      "image": "badges/b-esb.png"
     },
     {
       "id": "b-aviator",
@@ -4334,7 +4334,7 @@
         "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-24",
         "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
       ],
-      "image": null
+      "image": "badges/b-instructor.png"
     },
     {
       "id": "b-presidential",
@@ -4400,7 +4400,7 @@
         "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-27",
         "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
       ],
-      "image": null
+      "image": "badges/b-vice-presidential.png"
     },
     {
       "id": "b-osd-id",
@@ -7071,7 +7071,7 @@
       "sources": [
         "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4221 E-1 to E-6 Rate Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4221/)"
       ],
-      "image": null
+      "image": "badges/n-e2.png"
     },
     {
       "id": "n-e3",
@@ -7100,7 +7100,7 @@
       "sources": [
         "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4221 E-1 to E-6 Rate Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4221/)"
       ],
-      "image": null
+      "image": "badges/n-e3.png"
     },
     {
       "id": "n-cpo-badge",
@@ -7133,7 +7133,7 @@
         "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4211 CPO Rating Badges (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4211/)",
         "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4212 CPO Collar Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4212/)"
       ],
-      "image": null
+      "image": "badges/n-cpo-badge.png"
     },
     {
       "id": "n-service-stripes",
@@ -7541,7 +7541,7 @@
       "sources": [
         "U.S. Navy Uniform Regulations (NAVPERS 15665 series), Chapter 4, mynavyhr.navy.mil, article 4211 (web page read 17 Nov 2026; the page does not state its edition)"
       ],
-      "image": null
+      "image": "badges/n-e8.png"
     },
     {
       "id": "n-e9",
@@ -11705,7 +11705,7 @@
       "sources": [
         "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.12 (PDF supplied by the app owner)"
       ],
-      "image": null
+      "image": "badges/m-asor.png"
     },
     {
       "id": "m-asesr",
@@ -12311,7 +12311,7 @@
         "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 2 Section 3 item 12 (PDF supplied by the app owner; 2006 edition, later changes not checked)",
         "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.15 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
       ],
-      "image": null
+      "image": "badges/m-nmccm.png"
     },
     {
       "id": "m-nmcam",
@@ -12777,7 +12777,7 @@
       "sources": [
         "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 23 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
       ],
-      "image": null
+      "image": "badges/m-nmcosr.png"
     },
     {
       "id": "m-nrecr",
@@ -14243,7 +14243,7 @@
       "sources": [
         "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel, 29 Feb 2024 (corrective actions 13 Mar 2024), para 4.1 (PDF supplied by the app owner)"
       ],
-      "image": null
+      "image": "badges/au-mess.png"
     },
     {
       "id": "au-semi",

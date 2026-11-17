@@ -1,3 +1,7 @@
+## 0.18.5
+- 11 more pictures, each checked against its title (public domain, credited): Expert Soldier Badge, Army Instructor Badge, Vice Presidential Service Badge, Navy E-2 and E-3 sleeve stripes, Senior Chief Petty Officer insignia (shown with the Boatswain's Mate rating), Navy chief cap devices, Navy and Marine Corps Commendation and Overseas Service ribbons, Air Force overseas tour ribbons, Air Force mess dress.
+- Still blank where no exact free picture exists. Nothing is filled with a near match.
+
 ## 0.18.4
 - 21 more pictures, each checked against its title (public domain, credited): Army of Occupation ribbon and clasps, Army Aviator and Astronaut badges, Pathfinder badge, Army overseas service bar, Navy service stripes, Chief Master Sergeant of the Space Force, Air Force Longevity, Outstanding Unit and Organizational Excellence ribbons, Navy and Marine Corps Achievement ribbon, Marine Corps Good Conduct ribbon, Navy Recruit Training ribbon, DOT Guardian Medal, Coast Guard E ribbon, Coast Guard Honor Guard badge and Command Afloat device, Military Postal Service and Air Force PME badges, Marine evening dress (1983 plate).
 - Candidates rejected as not matching: photos instead of badges, foreign badges, wrong ribbons, wrong ranks. Those pages stay blank.
