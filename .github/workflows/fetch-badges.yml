@@ -1,0 +1,15 @@
+name: Fetch badge images
+on: workflow_dispatch
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install pillow
+      - run: python3 tools/fetch_badges.py
+      - name: Publish to scratch branch
+        run: |
+          cd out && git init -q -b badge-final && git config user.email a@b.c && git config user.name bot
+          git add -A && git commit -q -m "badge images" && git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" badge-final
