@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.16.0-coast-guard",
+ "dataVersion": "0.16.1-medical-badges",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -3463,20 +3463,32 @@
    ],
    "yearFrom": 1941,
    "yearTo": null,
-   "summary": "Awarded to medical personnel assigned or attached to an infantry unit while it is in actual ground combat.",
+   "summary": "Awarded to Army, Navy and Air Force medical personnel assigned or attached to an infantry unit while it is in actual ground combat; later widened to other ground combat units.",
    "facts": [
-    "Originally the Medical Badge; created by the War Department, 1 Mar 1945 (para 8-7a)",
-    "The infantry unit must have been in contact with the enemy (para 8-7b)",
-    "Second and third awards are shown by one and two stars superimposed on the badge (para 8-7d)",
+    "Originally the Medical Badge; created by the War Department, 1 Mar 1945; may be awarded retroactive to 7 Dec 1941 (para 8-10a)",
+    "Medical personnel of the AMEDD, Naval Medical Department and USAF Medical Service may qualify (para 8-10b)",
+    "Battle participation credit alone is not enough; the infantry unit must have been in contact with the enemy (para 8-10b)",
+    "Not awarded to general or flag officers (para 8-10b)",
+    "Widened to Special Forces medical sergeants from 19 Dec 1989, armor and cavalry units from 16 Jan 1991, and combat arms and combat aviation units from 11 Sep 2001 (para 8-10c)",
+    "Soldiers with MOS 18D are no longer eligible from 3 Jun 2005 (para 8-10c)",
+    "Second and third awards are shown by one and two stars centered at the top of the badge, between the points of the oak wreath (para 8-10d)",
+    "No second award for the same qualifying period in table 8-2 (para 8-10e)",
     "Badge group 1 for order of wear (DA Pam 670-1, para 22-16a)"
    ],
    "remember": "Medics with the infantry in combat. Created 1 Mar 1945.",
    "swatches": [],
    "variants": [],
-   "attachments": [],
+   "attachments": [
+    {
+     "name": "Master Combat Medical Badge",
+     "note": "Added 2024: CMB plus an expert badge (para 8-7).",
+     "variants": [],
+     "link": "b-mcmb"
+    }
+   ],
    "proof": "official",
    "sources": [
-    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-7",
+    "AR 600-8-22, Military Awards, 30 Jul 2025 (effective 30 Aug 2025), para 8-10 (text read from a copy hosted at armywriter.com; the 19 Jan 2024 edition numbered the CMB 8-7 and the EFMB 8-10)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "Text read from the copy hosted at home.army.mil/jackson",
@@ -3563,10 +3575,11 @@
    "yearTo": null,
    "summary": "Earned by passing the Army medical field test.",
    "facts": [
-    "Open to Soldiers on active duty, or assigned to a troop program unit in a Reserve Component unit or an AMEDD mobilization augmentation agency (para 8-10)",
-    "Officers must be assigned or detailed to an AMEDD corps (para 8-10)",
-    "Commanders of grade LTC/O-5 or above conduct the test and award the badge (para 8-10)",
-    "Badge group 2 for order of wear (DA Pam 670-1, para 22-16a)"
+    "Officers must be assigned or detailed to an AMEDD corps (para 8-13a)",
+    "Enlisted Soldiers need a primary MOS in the medical career management field (para 8-13a)",
+    "Commanders of grade LTC/O-5 or above conduct the test and award the badge (para 8-13b)",
+    "Badge group 2 for order of wear (DA Pam 670-1, para 22-16a)",
+    "UNVERIFIED, from a screenshot an Army friend sent, not in the regulation: established 1965; same stretcher and caduceus as the CMB but no wreath"
    ],
    "remember": "Medical field test: EFMB.",
    "swatches": [],
@@ -3574,7 +3587,7 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-10",
+    "AR 600-8-22, Military Awards, 30 Jul 2025 (effective 30 Aug 2025), para 8-13 (text read from a copy hosted at armywriter.com; the 19 Jan 2024 edition numbered the CMB 8-7 and the EFMB 8-10)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "Text read from the copy hosted at home.army.mil/jackson",
@@ -13706,6 +13719,73 @@
    "proof": "official",
    "sources": [
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.24 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-mcmb",
+   "tab": "badges",
+   "group": "Special skill badges",
+   "name": "Master Combat Medical Badge (MCMB)",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": 2024,
+   "yearTo": null,
+   "summary": "Combat Medical Badge holders who also hold an expert badge.",
+   "facts": [
+    "Established by the Department of the Army, 9 Oct 2024; retroactive to 11 Nov 1943",
+    "Open to AMEDD officers, warrant officers and enlisted Servicemembers",
+    "Needs the Combat Medical Badge plus the Expert Field Medical Badge, Expert Infantryman Badge or Expert Soldier Badge",
+    "Commanders of LTC/O-5 or above certify eligibility, with the original CMB orders and the expert badge orders",
+    "The text read does not describe the badge design or repeat awards"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 30 Jul 2025 (effective 30 Aug 2025), para 8-7 (text read from a copy hosted at armywriter.com; the 19 Jan 2024 edition numbered the CMB 8-7 and the EFMB 8-10)"
+   ],
+   "image": null
+  },
+  {
+   "id": "b-mcib",
+   "tab": "badges",
+   "group": "Special skill badges",
+   "name": "Master Combat Infantryman Badge (MCIB)",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "ww2",
+    "korea",
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1943,
+   "yearTo": null,
+   "summary": "Combat Infantryman Badge holders who also hold an expert badge.",
+   "facts": [
+    "Establishment date not read from the text",
+    "Retroactive to 11 Nov 1943",
+    "Needs the Combat Infantryman Badge plus the Expert Infantryman Badge, Expert Field Medical Badge or Expert Soldier Badge",
+    "Commanders of LTC/O-5 or above certify eligibility",
+    "The text read does not describe the badge design or repeat awards"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "AR 600-8-22, Military Awards, 30 Jul 2025 (effective 30 Aug 2025), para 8-6 (text read from a copy hosted at armywriter.com; the 19 Jan 2024 edition numbered the CMB 8-7 and the EFMB 8-10)"
    ],
    "image": null
   }

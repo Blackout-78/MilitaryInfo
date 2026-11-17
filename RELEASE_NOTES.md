@@ -1,3 +1,8 @@
+## 0.16.1
+- Combat Medical Badge rewritten from AR 600-8-22 (30 Jul 2025): later unit extensions, star placement, exclusions.
+- Added Master Combat Medical Badge and Master Combat Infantryman Badge.
+- Expert Field Medical Badge facts re-sourced; the 1965 date and no-wreath design are marked Unverified.
+
 ## 0.16.0
 - Coast Guard awards added from COMDTINST M1650.25D (May 2008 edition): Coast Guard decorations, lifesaving medals, unit awards, service medals and ribbons.
 - 27 awards tagged Coast Guard with source (DoD and Navy awards the manual lists).
