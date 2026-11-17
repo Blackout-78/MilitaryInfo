@@ -1,4 +1,5 @@
 ## 0.18.2
+- Fix: variant pages no longer show the parent's picture by mistake. The Desert BDU (six-color) page showed a Marine woodland jacket; it now shows a blank until a correct picture is found. Also fixed: Army Green Service Uniform, silver service star, oak leaf clusters, Army Service Uniform female.
 - 28 drawn illustrations where no free official picture exists: 14 Coast Guard insignia and command devices, and 14 ribbon devices (stars, numeral, C, R, M, A, N, O, hourglass, arrowhead). Each is labeled ILLUSTRATION - NOT OFFICIAL, drawn only from the manual's wording. Air Force duty badges and uniform schematics are still without pictures because their designs are not described in the sources.
 
 ## 0.18.1

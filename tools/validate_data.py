@@ -47,7 +47,7 @@ def main() -> int:
                 bad(where, f"unknown gender {v['gender']!r}")
             if v.get("era") and v["era"] not in ERAS:
                 bad(where, f"unknown era {v['era']!r}")
-            if v.get("image") and not (IMAGES / v["image"]).exists():
+            if v.get("image") and v["image"] != "none" and not (IMAGES / v["image"]).exists():
                 bad(where, f"image file missing: {v['image']}")
             check_swatches(where, v.get("swatches"))
 

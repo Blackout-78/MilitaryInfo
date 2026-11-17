@@ -130,6 +130,7 @@ D['b-cg-oicashore']=oakwreath(200,130,78,PEW,PEWD,open_top=True)+shield(200,132,
 D['m-dev-star']=star(200,125,70,BRONZE,BRONZED)
 D['m-dev-campaign-star']=star(200,125,70,BRONZE,BRONZED)
 D['m-dev-star516']=star(200,125,70,GOLD,GOLDD)
+D['m-dev-star-silver']=star(200,125,70,SILV,SILVD)
 D['m-dev-gold-star']=star(200,125,70,GOLD,GOLDD)
 D['m-dev-numeral']=letter('2',200,125,150,SILV)
 D['m-dev-c']=letter('C',200,125,150,BRONZE)
@@ -141,7 +142,7 @@ D['m-dev-cg-o']=letter('O',200,125,150,GOLD)
 D['m-dev-cg-m']=letter('M',200,125,150,GOLD)
 D['m-dev-hourglass']=hourglass(200,125,70,BRONZE,BRONZED)
 D['m-dev-arrowhead']=arrowhead(200,125,75,BRONZE,BRONZED)
-CAP={'m-dev-numeral':'numeral 2 (shape only; metal not shown)','m-dev-hourglass':'bronze hourglass (silver, gold also)','m-dev-campaign-star':'bronze star (also silver)','m-dev-star':'bronze star (also silver)','m-dev-star516':'gold star (also silver)'}
+CAP={'m-dev-numeral':'numeral 2 (shape only; metal not shown)','m-dev-hourglass':'bronze hourglass (silver, gold also)','m-dev-campaign-star':'bronze star (also silver)','m-dev-star':'bronze star (also silver)','m-dev-star-silver':'silver star','m-dev-star516':'gold star (also silver)'}
 if __name__=='__main__':
     for k,body in D.items():
         svg=card(body,(CAP.get(k)+' - ' if k in CAP else '')+ILL) if k in CAP else card(body,ILL)

@@ -272,3 +272,4 @@ All from Wikimedia Commons, tagged public domain. The EOD Basic and Senior pictu
 | m-dev-cg-m | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
 | m-dev-hourglass | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
 | m-dev-arrowhead | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| m-dev-star-silver | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |

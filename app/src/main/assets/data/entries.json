@@ -21,7 +21,8 @@
    "facts": [
     "Adopted in 1981 as the Battle Dress Uniform (BDU)",
     "Replaced by the ACU, fielded starting in 2005",
-    "A six-color desert version was issued for desert operations"
+    "A six-color desert version was issued for desert operations",
+    "UNVERIFIED: the Desert BDU (six-color) variant has no source and no picture yet; the page shows a blank rather than the woodland photo"
    ],
    "remember": "Woodland 1981, ACU 2005.",
    "swatches": [],
@@ -29,12 +30,14 @@
     {
      "label": "Woodland BDU (four-color)",
      "era": "coldwar",
-     "note": "The standard green, brown, and black pattern."
+     "note": "The standard green, brown, and black pattern.",
+     "image": "badges/u-woodland-bdu.png"
     },
     {
      "label": "Desert BDU (six-color)",
      "era": "gulf",
-     "note": "Nicknamed the chocolate chip."
+     "note": "Nicknamed the chocolate chip.",
+     "image": "none"
     }
    ],
    "attachments": [],
@@ -67,12 +70,14 @@
    "variants": [
     {
      "label": "WWII officer service combination",
-     "era": "ww2"
+     "era": "ww2",
+     "image": "badges/u-pinks-greens.png"
     },
     {
      "label": "Army Green Service Uniform",
      "era": "modern",
-     "note": "The modern revival of the look."
+     "note": "The modern revival of the look.",
+     "image": "badges/u-agsu.png"
     }
    ],
    "attachments": [],
@@ -2940,7 +2945,8 @@
        "name": "Bronze",
        "hex": "#CD7F32"
       }
-     ]
+     ],
+     "image": "none"
     },
     {
      "label": "Silver oak leaf cluster",
@@ -2951,7 +2957,8 @@
        "name": "Silver",
        "hex": "#C0C0C0"
       }
-     ]
+     ],
+     "image": "none"
     }
    ],
    "attachments": [],
@@ -3218,7 +3225,8 @@
        "name": "Bronze",
        "hex": "#CD7F32"
       }
-     ]
+     ],
+     "image": "badges/m-dev-star.png"
     },
     {
      "label": "Silver service star",
@@ -3229,7 +3237,8 @@
        "name": "Silver",
        "hex": "#C0C0C0"
       }
-     ]
+     ],
+     "image": "badges/m-dev-star-silver.png"
     }
    ],
    "attachments": [],
@@ -6378,13 +6387,15 @@
      "label": "Male",
      "era": "modern",
      "gender": "male",
-     "note": "Chapter 11."
+     "note": "Chapter 11.",
+     "image": "badges/u-asu.png"
     },
     {
      "label": "Female",
      "era": "modern",
      "gender": "female",
-     "note": "Chapter 12."
+     "note": "Chapter 12.",
+     "image": "none"
     }
    ],
    "attachments": [],
