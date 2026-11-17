@@ -1,3 +1,6 @@
+## 0.17.2
+- Eight more uniform pictures (Marine service A and PT, Air Force service, flight duty and PT, Coast Guard dinner dress blue, tropical blue, full dress white). Coast Guard dinner dress and tropical blue are Auxiliary illustrations of the same patterns. Marine evening, blue-white, Air Force mess and semi-formal, Coast Guard formal and white dinner jacket: no suitable free picture found.
+
 ## 0.17.1
 - 12 pictures for the new uniforms (public domain, credited). Coast Guard pictures marked when they are Auxiliary illustrations.
 

@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.17.1-uniform-pictures",
+ "dataVersion": "0.17.2-uniform-pictures-b",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -14076,7 +14076,7 @@
    "sources": [
     "MCO 1020.34H, Marine Corps Uniform Regulations, 1 May 2018, para 2004 (PDF supplied by the app owner; later changes not checked)"
    ],
-   "image": null
+   "image": "badges/mu-service.png"
   },
   {
    "id": "mu-mccuu",
@@ -14133,7 +14133,7 @@
    "sources": [
     "MCO 1020.34H, Marine Corps Uniform Regulations, 1 May 2018, para 2006 (PDF supplied by the app owner; later changes not checked)"
    ],
-   "image": null
+   "image": "badges/mu-pt.png"
   },
   {
    "id": "au-mess",
@@ -14226,7 +14226,7 @@
    "sources": [
     "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel, 29 Feb 2024 (corrective actions 13 Mar 2024), para 4.5 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/au-service.png"
   },
   {
    "id": "au-ocp",
@@ -14287,7 +14287,7 @@
    "sources": [
     "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel, 29 Feb 2024 (corrective actions 13 Mar 2024), para 8.1 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/au-ptg.png"
   },
   {
    "id": "au-fdu",
@@ -14317,7 +14317,7 @@
    "sources": [
     "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel, 29 Feb 2024 (corrective actions 13 Mar 2024), para 9.1 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/au-fdu.png"
   },
   {
    "id": "cu-formal",
@@ -14373,7 +14373,7 @@
    "sources": [
     "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.2 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/cu-ddbj.png"
   },
   {
    "id": "cu-ddwj",
@@ -14515,7 +14515,7 @@
    "sources": [
     "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.7 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/cu-fdw.png"
   },
   {
    "id": "cu-sdba",
@@ -14629,7 +14629,7 @@
    "sources": [
     "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.11 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/cu-tb.png"
   },
   {
    "id": "cu-tbls",
