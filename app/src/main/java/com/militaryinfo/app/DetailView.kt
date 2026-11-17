@@ -10,6 +10,8 @@ import android.widget.ScrollView
 class DetailView(
     context: Context,
     private val entry: Entry,
+    private val allEntries: List<Entry>,
+    private val onOpen: (Entry) -> Unit,
     onBack: () -> Unit
 ) : LinearLayout(context) {
 
@@ -88,6 +90,13 @@ class DetailView(
 
         entry.attachments.forEach { a ->
             heading(body, if (entry.tab == Tab.BADGES.key) "Hangs underneath: ${a.name}" else "Worn with: ${a.name}")
+            val target = a.link?.let { id -> allEntries.firstOrNull { it.id == id } }
+            if (target != null) {
+                val open = c.label("Open ${target.name}  \u203A", 14f, Night.accent, medium = true)
+                open.setPadding(0, c.dp(8), 0, c.dp(8))
+                open.setOnClickListener { onOpen(target) }
+                body.addView(open, lp().margins(t = c.dp(4)))
+            }
             a.note?.let { body.addView(c.label(it, 13f, Night.muted), lp().margins(t = c.dp(4))) }
             a.variants.forEach { body.addView(variantCard(it), lp().margins(t = c.dp(8))) }
         }

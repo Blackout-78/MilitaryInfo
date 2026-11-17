@@ -62,7 +62,8 @@ data class Variant(
 data class Attachment(
     val name: String,
     val note: String?,
-    val variants: List<Variant>
+    val variants: List<Variant>,
+    val link: String? = null
 )
 
 data class Entry(

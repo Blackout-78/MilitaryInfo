@@ -17,6 +17,7 @@ class MainActivity : Activity() {
     private lateinit var host: FrameLayout
     private var current = Tab.UNIFORMS
     private var detailOpen = false
+    private val trail = ArrayList<Entry>()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -71,20 +72,35 @@ class MainActivity : Activity() {
     private fun showTab(tab: Tab) {
         current = tab
         detailOpen = false
+        trail.clear()
         Tab.entries.forEach { buttons[it]?.setActive(it == tab) }
         host.removeAllViews()
         host.addView(screenFor(tab), FrameLayout.LayoutParams(MATCH, MATCH))
     }
 
-    private fun openDetail(entry: Entry) {
+    private fun openDetail(entry: Entry, push: Boolean = true) {
+        if (push) trail.add(entry)
         detailOpen = true
         host.removeAllViews()
-        host.addView(DetailView(this, entry) { showTab(current) }, FrameLayout.LayoutParams(MATCH, MATCH))
+        host.addView(
+            DetailView(this, entry, entries, { openDetail(it) }) { goBack() },
+            FrameLayout.LayoutParams(MATCH, MATCH)
+        )
+    }
+
+    private fun goBack() {
+        if (trail.size > 1) {
+            trail.removeAt(trail.size - 1)
+            openDetail(trail.last(), push = false)
+        } else {
+            trail.clear()
+            showTab(current)
+        }
     }
 
     @Suppress("DEPRECATION", "OVERRIDE_DEPRECATION")
     override fun onBackPressed() {
-        if (detailOpen) showTab(current) else super.onBackPressed()
+        if (detailOpen) goBack() else super.onBackPressed()
     }
 
     private inner class TabButton(private val tab: Tab) : LinearLayout(this@MainActivity) {

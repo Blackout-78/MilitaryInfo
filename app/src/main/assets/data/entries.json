@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.13.0-more-ranks",
+ "dataVersion": "0.13.1-links",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -193,12 +193,14 @@
     {
      "name": "C device",
      "note": "Meritorious service or achievement under combat conditions, on or after 7 Jan 2016 (para 6-6).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-c"
     },
     {
      "name": "Oak leaf cluster",
      "note": "Second and later awards (para 1-22, 6-3).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-olc"
     }
    ],
    "proof": "official",
@@ -284,17 +286,20 @@
     {
      "name": "C device",
      "note": "Meritorious service or achievement under combat conditions, on or after 7 Jan 2016 (para 6-6).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-c"
     },
     {
      "name": "R device",
      "note": "Specific meritorious achievement, on or after 7 Jan 2016 (para 6-7).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-r"
     },
     {
      "name": "Oak leaf cluster",
      "note": "Second and later awards (para 1-22, 6-3).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-olc"
     }
    ],
    "proof": "official",
@@ -340,17 +345,20 @@
     {
      "name": "V device",
      "note": "Valor: acts of heroism involving conflict with an armed enemy (para 6-5).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-v"
     },
     {
      "name": "C device",
      "note": "Meritorious service or achievement under combat conditions, on or after 7 Jan 2016 (para 6-6).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-c"
     },
     {
      "name": "Oak leaf cluster",
      "note": "Second and later awards (para 1-22, 6-3).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-olc"
     }
    ],
    "proof": "official",
@@ -394,7 +402,8 @@
     {
      "name": "Oak leaf cluster",
      "note": "Second and later awards (para 1-22, 6-3).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-olc"
     }
    ],
    "proof": "official",
@@ -439,12 +448,14 @@
     {
      "name": "V device",
      "note": "Valor: acts of heroism involving conflict with an armed enemy (para 6-5).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-v"
     },
     {
      "name": "Oak leaf cluster",
      "note": "Second and later awards (para 1-22, 6-3).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-olc"
     }
    ],
    "proof": "official",
@@ -487,12 +498,14 @@
     {
      "name": "R device",
      "note": "Specific meritorious achievement, on or after 7 Jan 2016 (para 6-7).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-r"
     },
     {
      "name": "Oak leaf cluster",
      "note": "Second and later awards (para 1-22, 6-3).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-olc"
     }
    ],
    "proof": "official",
@@ -538,17 +551,20 @@
     {
      "name": "V device",
      "note": "Valor: acts of heroism involving conflict with an armed enemy (para 6-5).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-v"
     },
     {
      "name": "C device",
      "note": "Meritorious service or achievement under combat conditions, on or after 7 Jan 2016 (para 6-6).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-c"
     },
     {
      "name": "Numeral",
      "note": "Second and later awards (para 6-4).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-numeral"
     }
    ],
    "proof": "official",
@@ -594,22 +610,26 @@
     {
      "name": "V device",
      "note": "Valor: acts of heroism involving conflict with an armed enemy (para 6-5).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-v"
     },
     {
      "name": "C device",
      "note": "Meritorious service or achievement under combat conditions, on or after 7 Jan 2016 (para 6-6).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-c"
     },
     {
      "name": "R device",
      "note": "Specific meritorious achievement, on or after 7 Jan 2016 (para 6-7).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-r"
     },
     {
      "name": "Oak leaf cluster",
      "note": "Second and later awards (para 1-22, 6-3).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-olc"
     }
    ],
    "proof": "official",
@@ -652,17 +672,20 @@
     {
      "name": "C device",
      "note": "Meritorious service or achievement under combat conditions, on or after 7 Jan 2016 (para 6-6).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-c"
     },
     {
      "name": "R device",
      "note": "Specific meritorious achievement, on or after 7 Jan 2016 (para 6-7).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-r"
     },
     {
      "name": "Oak leaf cluster",
      "note": "Second and later awards (para 1-22, 6-3).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-olc"
     }
    ],
    "proof": "official",
@@ -709,7 +732,8 @@
     {
      "name": "Oak leaf cluster",
      "note": "Second and later awards (para 1-22, 6-3).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-olc"
     }
    ],
    "proof": "official",
@@ -963,7 +987,8 @@
     {
      "name": "Oak leaf cluster",
      "note": "Second and later awards (para 1-22, 6-3).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-olc"
     }
    ],
    "proof": "official",
@@ -1049,7 +1074,8 @@
     {
      "name": "Bronze service star",
      "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-star"
     }
    ],
    "proof": "official",
@@ -1133,7 +1159,8 @@
     {
      "name": "Bronze service star",
      "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-star"
     }
    ],
    "proof": "official",
@@ -1174,7 +1201,8 @@
     {
      "name": "Bronze service star",
      "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-star"
     }
    ],
    "proof": "official",
@@ -1216,7 +1244,8 @@
     {
      "name": "Bronze service star",
      "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-star"
     }
    ],
    "proof": "official",
@@ -1256,7 +1285,8 @@
     {
      "name": "Bronze service star",
      "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-star"
     }
    ],
    "proof": "official",
@@ -1295,7 +1325,8 @@
     {
      "name": "Bronze service star",
      "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-star"
     }
    ],
    "proof": "official",
@@ -1335,7 +1366,8 @@
     {
      "name": "Bronze service star",
      "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-star"
     }
    ],
    "proof": "official",
@@ -1375,7 +1407,8 @@
     {
      "name": "Bronze service star",
      "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-star"
     }
    ],
    "proof": "official",
@@ -1413,7 +1446,8 @@
     {
      "name": "Bronze service star",
      "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-star"
     }
    ],
    "proof": "official",
@@ -1520,7 +1554,8 @@
     {
      "name": "Bronze service star",
      "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-star"
     }
    ],
    "proof": "official",
@@ -1595,7 +1630,8 @@
     {
      "name": "Bronze service star",
      "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-star"
     }
    ],
    "proof": "official",
@@ -1643,7 +1679,8 @@
     {
      "name": "M device",
      "note": "Active duty for designated operations; numbering begins with the second award (para 6-9).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-m"
     }
    ],
    "proof": "official",
@@ -1683,12 +1720,14 @@
     {
      "name": "Bronze service star",
      "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-star"
     },
     {
      "name": "Arrowhead",
      "note": "Assault landing by parachute, helicopter, glider, or amphibious assault (para 6-12).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-arrowhead"
     }
    ],
    "proof": "official",
@@ -1728,7 +1767,8 @@
     {
      "name": "Berlin Airlift device",
      "note": "Gold-colored C-54 miniature (para 6-13).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-berlin"
     }
    ],
    "proof": "official",
@@ -1799,12 +1839,14 @@
     {
      "name": "Bronze service star",
      "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-star"
     },
     {
      "name": "Arrowhead",
      "note": "Assault landing by parachute, helicopter, glider, or amphibious assault (para 6-12).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-arrowhead"
     }
    ],
    "proof": "official",
@@ -1845,12 +1887,14 @@
     {
      "name": "Bronze service star",
      "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-star"
     },
     {
      "name": "Arrowhead",
      "note": "Assault landing by parachute, helicopter, glider, or amphibious assault (para 6-12).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-arrowhead"
     }
    ],
    "proof": "official",
@@ -1891,7 +1935,8 @@
     {
      "name": "Bronze service star",
      "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-star"
     }
    ],
    "proof": "official",
@@ -2016,7 +2061,8 @@
     {
      "name": "Berlin Airlift device",
      "note": "Gold-colored C-54 miniature (para 6-13).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-berlin"
     }
    ],
    "proof": "official",
@@ -2084,7 +2130,8 @@
     {
      "name": "Battle and service clasps",
      "note": "Authorized on this medal (para 5-10; details in chapter 6).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-clasps"
     }
    ],
    "proof": "official",
@@ -2122,7 +2169,8 @@
     {
      "name": "Numeral",
      "note": "Second and later awards (para 6-4).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-numeral"
     }
    ],
    "proof": "official",
@@ -2198,7 +2246,8 @@
     {
      "name": "Numeral",
      "note": "2 to 6 shows the highest level completed (para 5-6).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-numeral"
     }
    ],
    "proof": "official",
@@ -2239,7 +2288,8 @@
     {
      "name": "Numeral",
      "note": "Second and later awards (para 6-4).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-numeral"
     }
    ],
    "proof": "official",
@@ -2278,12 +2328,14 @@
     {
      "name": "Bronze service star",
      "note": "Marks each campaign or additional award; a silver star replaces five bronze (para 6-11).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-star"
     },
     {
      "name": "Gold star",
      "note": "Tenth and final award, 20 years of sea service (para 6-15).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-gold-star"
     }
    ],
    "proof": "official",
@@ -2320,7 +2372,8 @@
     {
      "name": "Numeral",
      "note": "Additional awards, up to four (para 2-25).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-numeral"
     }
    ],
    "proof": "official",
@@ -2362,7 +2415,8 @@
     {
      "name": "Oak leaf cluster",
      "note": "Second and later awards (para 1-22, 6-3).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-olc"
     }
    ],
    "proof": "official",
@@ -2403,7 +2457,8 @@
     {
      "name": "Oak leaf cluster",
      "note": "Second and later awards (para 1-22, 6-3).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-olc"
     }
    ],
    "proof": "official",
@@ -2448,7 +2503,8 @@
     {
      "name": "Oak leaf cluster",
      "note": "Second and later awards (para 1-22, 6-3).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-olc"
     }
    ],
    "proof": "official",
@@ -2489,7 +2545,8 @@
     {
      "name": "Oak leaf cluster",
      "note": "Second and later awards (para 1-22, 6-3).",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-olc"
     }
    ],
    "proof": "official",
@@ -3391,12 +3448,14 @@
     {
      "name": "Bronze service star",
      "note": "Combat parachute jump (para 8-16)",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-star"
     },
     {
      "name": "Airborne background trimming",
      "note": "Oval worn beneath the badge (DA Pam 670-1, para 21-32b)",
-     "variants": []
+     "variants": [],
+     "link": "b-airborne-trim"
     }
    ],
    "proof": "official",
@@ -3443,7 +3502,8 @@
     {
      "name": "Bronze service star",
      "note": "Military freefall combat jump (para 8-17)",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-star"
     }
    ],
    "proof": "official",
@@ -3509,7 +3569,8 @@
     {
      "name": "Airborne background trimming",
      "note": "Oval worn beneath the badge (DA Pam 670-1, para 21-32b)",
-     "variants": []
+     "variants": [],
+     "link": "b-airborne-trim"
     }
    ],
    "proof": "official",
@@ -4024,7 +4085,8 @@
     {
      "name": "Qualification clasps",
      "note": "No more than three per badge (para 22-15c)",
-     "variants": []
+     "variants": [],
+     "link": "m-dev-clasps"
     }
    ],
    "proof": "official",

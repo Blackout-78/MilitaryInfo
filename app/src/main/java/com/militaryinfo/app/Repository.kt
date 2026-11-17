@@ -54,7 +54,7 @@ object Repository {
         if (a == null) return emptyList()
         return List(a.length()) {
             val o = a.getJSONObject(it)
-            Attachment(o.getString("name"), o.str("note"), variants(o.optJSONArray("variants")))
+            Attachment(o.getString("name"), o.str("note"), variants(o.optJSONArray("variants")), o.str("link"))
         }
     }
 
