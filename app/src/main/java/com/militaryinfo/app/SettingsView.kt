@@ -33,7 +33,7 @@ class SettingsView(
             card(
                 context, "Version",
                 context.label("${AppInfo.NAME} ${BuildConfig.VERSION_NAME} (build ${BuildConfig.VERSION_CODE})", 15f, medium = true),
-                context.label("Army, Navy, and ranks for Marines, Air Force, Space Force, and Coast Guard loaded. Two older uniforms are unverified samples.", 13f, Night.muted)
+                context.label("Uniforms now cover Army, Navy, Marine Corps, Air Force, Space Force and Coast Guard (modern era). Two older uniforms are unverified samples.", 13f, Night.muted)
             ),
             lp().margins(b = context.dp(10))
         )

@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.16.6-pictures-4",
+ "dataVersion": "0.17.0-uniforms",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -13957,6 +13957,759 @@
     "AR 600-8-22, Military Awards, 30 Jul 2025 (effective 30 Aug 2025), para 8-8 (text read from a copy hosted at armywriter.com)"
    ],
    "image": "badges/b-mcab.png"
+  },
+  {
+   "id": "mu-evening",
+   "tab": "uniforms",
+   "group": "Formal",
+   "name": "Evening Dress \"A\" and \"B\"",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Officer evening dress: \"A\" is white tie, \"B\" is black tie. SNCOs may wear a SNCO evening dress in place of blue dress.",
+   "facts": [
+    "\"A\" with white waistcoat (male) or long skirt (female) is for white tie occasions such as state occasions and formal dinners (2001.1)",
+    "\"B\" with scarlet cummerbund, or scarlet waistcoat for general officers, is for black tie occasions such as club affairs and the Marine Corps Birthday (2001.2)",
+    "Officers without evening dress wear blue dress \"A\" or blue-white dress \"A\" instead (2001.3)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "MCO 1020.34H, Marine Corps Uniform Regulations, 1 May 2018, para 2001 (PDF supplied by the app owner; later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "mu-blue-dress",
+   "tab": "uniforms",
+   "group": "Dress",
+   "name": "Blue Dress \"A\", \"B\", \"C\" and \"D\"",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "The Marine blue dress uniform family.",
+   "facts": [
+    "\"A\": blue coat with large medals; not worn on leave or liberty (2002.3a)",
+    "\"B\": same as \"A\" with ribbons instead of medals; authorized for leave and liberty (2002.3b)",
+    "\"C\": blue dress with long-sleeve khaki shirt, no coat (2002.3c)",
+    "\"D\": blue dress with short-sleeve khaki shirt, no coat (2002.3d)",
+    "Used for parades, ceremonies and formal or semiformal functions; NCOs and below year-round, officers and SNCOs by season (2002.1)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "MCO 1020.34H, Marine Corps Uniform Regulations, 1 May 2018, para 2002 (PDF supplied by the app owner; later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "mu-blue-white",
+   "tab": "uniforms",
+   "group": "Dress",
+   "name": "Blue-White Dress \"A\" and \"B\"",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Blue dress coat with white trousers, skirt or slacks, for officers and SNCOs in the warm season.",
+   "facts": [
+    "\"A\" is the blue dress \"A\" with white trousers, skirt or slacks; not worn on leave or liberty (2003.1-2)",
+    "\"B\" is the same with ribbons in place of medals; can be worn on leave and liberty (2003.4)",
+    "Officers wear the scarlet necktab; SNCOs wear the black necktab (2003.2)",
+    "Not worn in ceremonies with enlisted Marines who are not authorized white trousers (2003.1)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "MCO 1020.34H, Marine Corps Uniform Regulations, 1 May 2018, para 2003 (PDF supplied by the app owner; later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "mu-service",
+   "tab": "uniforms",
+   "group": "Service",
+   "name": "Service \"A\", \"B\" and \"C\"",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Green service coat and khaki shirt uniform, the Marine daily dress.",
+   "facts": [
+    "\"A\": service coat; may be worn on leave and liberty (2004.2a)",
+    "\"B\": service \"A\" without the coat, long-sleeve khaki shirt with tie (2004.2b)",
+    "\"C\": short-sleeve khaki shirt with service trousers or skirt (2004.2c)",
+    "Service \"A\" is normally worn when reporting for duty and at courts-martial or visits to civil officials (2004.1)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "MCO 1020.34H, Marine Corps Uniform Regulations, 1 May 2018, para 2004 (PDF supplied by the app owner; later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "mu-mccuu",
+   "tab": "uniforms",
+   "group": "Field",
+   "name": "Marine Corps Combat Utility Uniform (MCCUU)",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "The MARPAT camouflage working uniform.",
+   "facts": [
+    "Woodland MARPAT; sleeves rolled up in summer and down in winter (2005.1)",
+    "A working uniform, not for civilian settings; commuting is allowed but off-base stops are not, except emergencies and drive-through services (2005.2)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "MCO 1020.34H, Marine Corps Uniform Regulations, 1 May 2018, para 2005 (PDF supplied by the app owner; later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "mu-pt",
+   "tab": "uniforms",
+   "group": "Fitness",
+   "name": "Marine Corps Physical Training Uniforms",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Green trunks and olive green undershirt, with cold weather and running suit options.",
+   "facts": [
+    "Standard: green general purpose trunks and olive green undershirt (2006.1)",
+    "Cold weather: olive green sweat shirt and pants lettered \"USMC\" with the Marine Corps emblem (2006.2)",
+    "Running suit: green jacket and trousers with reflective piping (2006.3)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "MCO 1020.34H, Marine Corps Uniform Regulations, 1 May 2018, para 2006 (PDF supplied by the app owner; later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "au-mess",
+   "tab": "uniforms",
+   "group": "Formal",
+   "name": "Formal and Mess Dress",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Evening functions where a black or white tie tuxedo or gown is the civilian match.",
+   "facts": [
+    "Formal dress is worn by officers only; mess dress is mandatory for officers and optional for enlisted (4.1)",
+    "Enlisted without mess dress may wear the semi-formal service dress (4.1)",
+    "No name tag on either; saluting is not required (4.1)",
+    "The instruction covers Airmen and Guardians; references to Airmen also apply to Guardians unless it says otherwise (scope)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel, 29 Feb 2024 (corrective actions 13 Mar 2024), para 4.1 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "au-semi",
+   "tab": "uniforms",
+   "group": "Formal",
+   "name": "Semi-Formal Dress (enlisted)",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Enlisted semi-formal uniform: the service dress coat without a name tag.",
+   "facts": [
+    "Worn for semi-formal or official social functions as the commander prescribes (4.3)",
+    "White long-sleeve shirt and service dress trousers; ties mandatory (4.3.1)",
+    "Saluting is not required (4.3)",
+    "The instruction covers Airmen and Guardians; references to Airmen also apply to Guardians unless it says otherwise (scope)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel, 29 Feb 2024 (corrective actions 13 Mar 2024), para 4.3 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "au-service",
+   "tab": "uniforms",
+   "group": "Service",
+   "name": "Service Dress (Class A and Class B)",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Blue service dress: Class A with the coat, Class B without it.",
+   "facts": [
+    "Class A: service dress coat, three buttons, single-breasted (4.5.1.1)",
+    "Class B: the service blue uniform without the coat (4.5.1)",
+    "Officer coats have epaulets; enlisted coats do not (4.5.1.1)",
+    "The instruction covers Airmen and Guardians; references to Airmen also apply to Guardians unless it says otherwise (scope)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel, 29 Feb 2024 (corrective actions 13 Mar 2024), para 4.5 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "au-ocp",
+   "tab": "uniforms",
+   "group": "Field",
+   "name": "Operational Camouflage Pattern (OCP)",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "The Air Force and Space Force duty and field uniform.",
+   "facts": [
+    "May be worn off base for short convenience stops and at restaurants where comparable casual wear is common (5.1)",
+    "Not worn off base at restaurants where most diners wear business attire or at places that mainly serve alcohol (5.1)",
+    "Do not starch or hot press; light ironing only (5.1)",
+    "The instruction covers Airmen and Guardians; references to Airmen also apply to Guardians unless it says otherwise (scope)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel, 29 Feb 2024 (corrective actions 13 Mar 2024), para 5.1 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "au-ptg",
+   "tab": "uniforms",
+   "group": "Fitness",
+   "name": "Physical Training Gear (PTG)",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Required for fitness assessments and organized PT.",
+   "facts": [
+    "Worn during physical fitness assessments and organized PT events (8.1.2)",
+    "Authorized for retired personnel as well (8.1)",
+    "The instruction covers Airmen and Guardians; references to Airmen also apply to Guardians unless it says otherwise (scope)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel, 29 Feb 2024 (corrective actions 13 Mar 2024), para 8.1 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "au-fdu",
+   "tab": "uniforms",
+   "group": "Field",
+   "name": "Flight Duty Uniform (FDU) and Desert FDU",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Flight duty uniforms for aircrew and other flight roles.",
+   "facts": [
+    "Both meet unique organizational and functional work requirements (9.1)",
+    "Members sew Velcro on the uniform and equipment so patches can be removed in contingencies (9.1)",
+    "The instruction covers Airmen and Guardians; references to Airmen also apply to Guardians unless it says otherwise (scope)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel, 29 Feb 2024 (corrective actions 13 Mar 2024), para 9.1 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "cu-formal",
+   "tab": "uniforms",
+   "group": "Formal",
+   "name": "Formal Dress Blue (Evening Dress or White Tie)",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "The most formal Coast Guard evening uniform.",
+   "facts": [
+    "Worn year-round for official evening functions with white tie and tails, such as diplomatic service, ceremonial events and formal weddings",
+    "Prescribed for flag officers, captains, the MCPOCG, gold badge CMCs and those assigned where protocol requires it"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.1 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "cu-ddbj",
+   "tab": "uniforms",
+   "group": "Formal",
+   "name": "Dinner Dress Blue Jacket (DDBJ)",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Cold weather black tie jacket uniform.",
+   "facts": [
+    "Cold weather; official evening functions with black tie",
+    "Prescribed for O-4 and above, the MCPOCG and gold badge CMCs; optional for O-3 and below"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.2 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "cu-ddwj",
+   "tab": "uniforms",
+   "group": "Formal",
+   "name": "Dinner Dress White Jacket (DDWJ)",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Warm weather black tie jacket uniform.",
+   "facts": [
+    "Warm weather; official evening functions with black tie",
+    "Prescribed for O-4 and above, the MCPOCG and gold badge CMCs; optional for O-3 and below"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.3 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "cu-ddb",
+   "tab": "uniforms",
+   "group": "Formal",
+   "name": "Dinner Dress Blue (DDB)",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Cold weather black tie uniform, less formal than the dinner jackets.",
+   "facts": [
+    "Cold weather; dinners, dances, receptions, weddings and ceremonies",
+    "Worn by all personnel"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.4 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "cu-ddw",
+   "tab": "uniforms",
+   "group": "Formal",
+   "name": "Dinner Dress White (DDW)",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Warm weather black tie uniform for officers.",
+   "facts": [
+    "Warm weather; same functions as Dinner Dress Blue",
+    "Prescribed for O-3 and below (officers only)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.5 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "cu-fdb",
+   "tab": "uniforms",
+   "group": "Dress",
+   "name": "Full Dress Blue (FDB)",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Ceremonial dress with large medals.",
+   "facts": [
+    "Year-round: assuming or relinquishing command, change of command ceremonies, official visits with honors, occasions of state, weddings",
+    "All personnel; large medals over the left pocket"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.6 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "cu-fdw",
+   "tab": "uniforms",
+   "group": "Dress",
+   "name": "Full Dress White (FDW)",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Warm weather full dress for officers.",
+   "facts": [
+    "Same occasions as Full Dress Blue, in warm weather",
+    "Officers only"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.7 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "cu-sdba",
+   "tab": "uniforms",
+   "group": "Service",
+   "name": "Service Dress Blue \"Alpha\" (SDB \"A\")",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Blue service dress with the coat for functions needing more formality than Bravo.",
+   "facts": [
+    "Worn year-round by all personnel when prescribed",
+    "More formal than SDB \"Bravo\", less than full dress or dinner dress",
+    "Ribbons over the left pocket"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.8 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "cu-sdbb",
+   "tab": "uniforms",
+   "group": "Service",
+   "name": "Service Dress Blue \"Bravo\" (SDB)",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "The everyday coat-and-tie blue service dress.",
+   "facts": [
+    "Worn year-round by all personnel for business and social occasions where civilians would wear a coat and tie",
+    "Light blue shirt; enlisted collar insignia and shoulder boards are worn on the shirt"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.9 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "cu-sdw",
+   "tab": "uniforms",
+   "group": "Service",
+   "name": "Service Dress White (SDW)",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Warm weather white service dress for officers.",
+   "facts": [
+    "Warm weather: official and business functions, ceremonies, parades, reviews and evening socials",
+    "Officers only"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.10 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "cu-tb",
+   "tab": "uniforms",
+   "group": "Service",
+   "name": "Tropical Blue (short sleeve)",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Short-sleeve blue shirt uniform.",
+   "facts": [
+    "Worn year-round where a coat and tie are not required or expected"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.11 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "cu-tbls",
+   "tab": "uniforms",
+   "group": "Service",
+   "name": "Tropical Blue (long sleeve)",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Long-sleeve blue shirt uniform.",
+   "facts": [
+    "Worn year-round where the SDB coat is relaxed"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.11.a (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "cu-wdb",
+   "tab": "uniforms",
+   "group": "Service",
+   "name": "Winter Dress Blue (WDB)",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Optional cold weather blue uniform.",
+   "facts": [
+    "Optional, worn in place of SDB, authorized 1 Nov to 31 Mar",
+    "Not worn to functions where civilians would wear a coat and tie"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.12 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "cu-odu",
+   "tab": "uniforms",
+   "group": "Field",
+   "name": "Operational Dress Uniform (ODU)",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "The Coast Guard working uniform.",
+   "facts": [
+    "Worn year-round; appropriate when visiting other DoD agencies where the ODU is the comparable uniform",
+    "Allowed when traveling on TDY with the ball cap",
+    "Not a liberty uniform"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.13 (PDF supplied by the app owner)"
+   ],
+   "image": null
   }
  ]
 }
