@@ -1,0 +1,3 @@
+pdfs/f1.pdf: HTML document, ASCII text
+pdfs/f2.pdf: PDF document, version 1.7 (zip deflate encoded)
+pdfs/f3.pdf: PDF document, version 1.5, 149 page(s)
