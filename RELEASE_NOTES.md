@@ -1,3 +1,6 @@
+## 0.17.1
+- 12 pictures for the new uniforms (public domain, credited). Coast Guard pictures marked when they are Auxiliary illustrations.
+
 ## 0.17.0
 - 26 uniform entries added from the three uniform regulations: Marine Corps (MCO 1020.34H, 2018), Air Force and Space Force (DAFI 36-2903, 2024), Coast Guard (M1020.6K, 2020).
 - Each entry names the edition and paragraph. Modern era only; older eras not yet covered.

@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.17.0-uniforms",
+ "dataVersion": "0.17.1-uniform-pictures",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -14016,7 +14016,7 @@
    "sources": [
     "MCO 1020.34H, Marine Corps Uniform Regulations, 1 May 2018, para 2002 (PDF supplied by the app owner; later changes not checked)"
    ],
-   "image": null
+   "image": "badges/mu-blue-dress.png"
   },
   {
    "id": "mu-blue-white",
@@ -14104,7 +14104,7 @@
    "sources": [
     "MCO 1020.34H, Marine Corps Uniform Regulations, 1 May 2018, para 2005 (PDF supplied by the app owner; later changes not checked)"
    ],
-   "image": null
+   "image": "badges/mu-mccuu.png"
   },
   {
    "id": "mu-pt",
@@ -14257,7 +14257,7 @@
    "sources": [
     "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel, 29 Feb 2024 (corrective actions 13 Mar 2024), para 5.1 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/au-ocp.png"
   },
   {
    "id": "au-ptg",
@@ -14419,7 +14419,8 @@
    "summary": "Cold weather black tie uniform, less formal than the dinner jackets.",
    "facts": [
     "Cold weather; dinners, dances, receptions, weddings and ceremonies",
-    "Worn by all personnel"
+    "Worn by all personnel",
+    "Picture is a Coast Guard Auxiliary illustration of the same uniform"
    ],
    "remember": null,
    "swatches": [],
@@ -14429,7 +14430,7 @@
    "sources": [
     "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.4 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/cu-ddb.png"
   },
   {
    "id": "cu-ddw",
@@ -14447,7 +14448,8 @@
    "summary": "Warm weather black tie uniform for officers.",
    "facts": [
     "Warm weather; same functions as Dinner Dress Blue",
-    "Prescribed for O-3 and below (officers only)"
+    "Prescribed for O-3 and below (officers only)",
+    "Picture is a Coast Guard Auxiliary illustration of the same uniform"
    ],
    "remember": null,
    "swatches": [],
@@ -14457,7 +14459,7 @@
    "sources": [
     "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.5 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/cu-ddw.png"
   },
   {
    "id": "cu-fdb",
@@ -14485,7 +14487,7 @@
    "sources": [
     "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.6 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/cu-fdb.png"
   },
   {
    "id": "cu-fdw",
@@ -14532,7 +14534,8 @@
    "facts": [
     "Worn year-round by all personnel when prescribed",
     "More formal than SDB \"Bravo\", less than full dress or dinner dress",
-    "Ribbons over the left pocket"
+    "Ribbons over the left pocket",
+    "Picture is a Coast Guard Auxiliary illustration of the same uniform"
    ],
    "remember": null,
    "swatches": [],
@@ -14542,7 +14545,7 @@
    "sources": [
     "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.8 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/cu-sdba.png"
   },
   {
    "id": "cu-sdbb",
@@ -14560,7 +14563,8 @@
    "summary": "The everyday coat-and-tie blue service dress.",
    "facts": [
     "Worn year-round by all personnel for business and social occasions where civilians would wear a coat and tie",
-    "Light blue shirt; enlisted collar insignia and shoulder boards are worn on the shirt"
+    "Light blue shirt; enlisted collar insignia and shoulder boards are worn on the shirt",
+    "Picture is a Coast Guard Auxiliary illustration of the same uniform"
    ],
    "remember": null,
    "swatches": [],
@@ -14570,7 +14574,7 @@
    "sources": [
     "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.9 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/cu-sdbb.png"
   },
   {
    "id": "cu-sdw",
@@ -14598,7 +14602,7 @@
    "sources": [
     "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.10 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/cu-sdw.png"
   },
   {
    "id": "cu-tb",
@@ -14642,7 +14646,8 @@
    "yearTo": null,
    "summary": "Long-sleeve blue shirt uniform.",
    "facts": [
-    "Worn year-round where the SDB coat is relaxed"
+    "Worn year-round where the SDB coat is relaxed",
+    "Picture is a Coast Guard Auxiliary illustration of the same uniform"
    ],
    "remember": null,
    "swatches": [],
@@ -14652,7 +14657,7 @@
    "sources": [
     "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.11.a (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/cu-tbls.png"
   },
   {
    "id": "cu-wdb",
@@ -14670,7 +14675,8 @@
    "summary": "Optional cold weather blue uniform.",
    "facts": [
     "Optional, worn in place of SDB, authorized 1 Nov to 31 Mar",
-    "Not worn to functions where civilians would wear a coat and tie"
+    "Not worn to functions where civilians would wear a coat and tie",
+    "Picture is a Coast Guard Auxiliary illustration of the same uniform"
    ],
    "remember": null,
    "swatches": [],
@@ -14680,7 +14686,7 @@
    "sources": [
     "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.12 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/cu-wdb.png"
   },
   {
    "id": "cu-odu",
@@ -14699,7 +14705,8 @@
    "facts": [
     "Worn year-round; appropriate when visiting other DoD agencies where the ODU is the comparable uniform",
     "Allowed when traveling on TDY with the ball cap",
-    "Not a liberty uniform"
+    "Not a liberty uniform",
+    "Picture is a Coast Guard Auxiliary illustration of the same uniform"
    ],
    "remember": null,
    "swatches": [],
@@ -14709,7 +14716,7 @@
    "sources": [
     "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.13 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/cu-odu.png"
   }
  ]
 }
