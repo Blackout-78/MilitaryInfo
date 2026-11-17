@@ -1,3 +1,7 @@
+## 0.18.6
+- 9 more pictures, each checked against its title (public domain, credited): Army Diver, Parachute Rigger and Space badges, Army Recruiting ribbon, Developmental Special Duty ribbon, Navy and Marine Corps Medal ribbon, Navy Chief and Master Chief cap devices, Army Blue Mess uniform.
+- Rejected after viewing: a female model for the male-officer NWU Type III page, an unconfirmed Air Force Academy badge, an unconfirmed Navy Good Conduct ribbon.
+
 ## 0.18.5
 - 11 more pictures, each checked against its title (public domain, credited): Expert Soldier Badge, Army Instructor Badge, Vice Presidential Service Badge, Navy E-2 and E-3 sleeve stripes, Senior Chief Petty Officer insignia (shown with the Boatswain's Mate rating), Navy chief cap devices, Navy and Marine Corps Commendation and Overseas Service ribbons, Air Force overseas tour ribbons, Air Force mess dress.
 - Still blank where no exact free picture exists. Nothing is filled with a near match.

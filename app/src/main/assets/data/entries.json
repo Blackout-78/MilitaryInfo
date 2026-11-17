@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "0.18.5-more-pictures",
+  "dataVersion": "0.18.6-more-pictures",
   "entries": [
     {
       "id": "u-woodland-bdu",
@@ -2720,7 +2720,7 @@
         "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-25",
         "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
       ],
-      "image": null
+      "image": "badges/m-recruiting.png"
     },
     {
       "id": "m-puc",
@@ -4138,7 +4138,7 @@
         "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
         "Text read from the copy hosted at home.army.mil/jackson"
       ],
-      "image": null
+      "image": "badges/b-space.png"
     },
     {
       "id": "b-driver-tech",
@@ -4261,7 +4261,7 @@
         "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
         "Text read from the copy hosted at home.army.mil/jackson"
       ],
-      "image": null
+      "image": "badges/b-diver.png"
     },
     {
       "id": "b-rigger",
@@ -4291,7 +4291,7 @@
         "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
         "Text read from the copy hosted at home.army.mil/jackson"
       ],
-      "image": null
+      "image": "badges/b-rigger.png"
     },
     {
       "id": "b-instructor",
@@ -6447,7 +6447,7 @@
         "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021 (read from the copy hosted at home.army.mil/jackson)",
         "Paras 16-6a, 17-1, 17-2"
       ],
-      "image": null
+      "image": "badges/u-mess-blue.png"
     },
     {
       "id": "u-mess-white",
@@ -7510,7 +7510,7 @@
       "sources": [
         "U.S. Navy Uniform Regulations (NAVPERS 15665 series), Chapter 4, mynavyhr.navy.mil, article 4211 (web page read 17 Nov 2026; the page does not state its edition)"
       ],
-      "image": null
+      "image": "badges/n-e7.png"
     },
     {
       "id": "n-e8",
@@ -7572,7 +7572,7 @@
       "sources": [
         "U.S. Navy Uniform Regulations (NAVPERS 15665 series), Chapter 4, mynavyhr.navy.mil, article 4211 (web page read 17 Nov 2026; the page does not state its edition)"
       ],
-      "image": null
+      "image": "badges/n-e9.png"
     },
     {
       "id": "n-e4",
@@ -11817,7 +11817,7 @@
       "sources": [
         "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.15 (PDF supplied by the app owner)"
       ],
-      "image": null
+      "image": "badges/m-dsdr.png"
     },
     {
       "id": "m-epmeg",
@@ -12271,7 +12271,7 @@
       "sources": [
         "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 2 Section 3 item 7 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
       ],
-      "image": null
+      "image": "badges/m-nmcm.png"
     },
     {
       "id": "m-nmccm",

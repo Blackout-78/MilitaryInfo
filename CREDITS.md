@@ -298,3 +298,12 @@ All from Wikimedia Commons, tagged public domain. The EOD Basic and Senior pictu
 | m-asor | AirForceOSribbon.jpg | Public domain | https://commons.wikimedia.org/wiki/File:AirForceOSribbon.jpg |
 | au-mess | USAF Mess Dress.jpg | Public domain | https://commons.wikimedia.org/wiki/File:USAF_Mess_Dress.jpg |
 | b-instructor | Basic Army Instructor Badge (5326843).jpg | Public domain | https://commons.wikimedia.org/wiki/File:Basic_Army_Instructor_Badge_(5326843).jpg |
+| b-diver | US Military 2nd Class Diver Badge.jpg | Public domain | https://commons.wikimedia.org/wiki/File:US_Military_2nd_Class_Diver_Badge.jpg |
+| b-rigger | US Army Parachute Rigger Badge.png | Public domain | https://commons.wikimedia.org/wiki/File:US_Army_Parachute_Rigger_Badge.png |
+| b-space | Basic Space Badge.jpg | Public domain | https://commons.wikimedia.org/wiki/File:Basic_Space_Badge.jpg |
+| m-dsdr | Developmental Special Duty Ribbon.png | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Developmental_Special_Duty_Ribbon.png |
+| m-nmcm | Navy and Marine Corps Medal ribbon.svg | Public domain | https://commons.wikimedia.org/wiki/File:Navy_and_Marine_Corps_Medal_ribbon.svg |
+| m-recruiting | USA Army Recruiting Ribbon.svg | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:USA_Army_Recruiting_Ribbon.svg |
+| n-e7 | Cap device of a United States Navy chief petty officer (subdued).png | Public domain | https://commons.wikimedia.org/wiki/File:Cap_device_of_a_United_States_Navy_chief_petty_officer_(subdued).png |
+| n-e9 | Cap device of a United States Navy master chief petty officer (subdued).png | Public domain | https://commons.wikimedia.org/wiki/File:Cap_device_of_a_United_States_Navy_master_chief_petty_officer_(subdued).png |
+| u-mess-blue | US Army mess blue uniform (PSYOP officer branch color).jpg | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:US_Army_mess_blue_uniform_(PSYOP_officer_branch_color).jpg |
