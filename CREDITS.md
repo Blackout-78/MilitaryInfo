@@ -315,3 +315,27 @@ All from Wikimedia Commons, tagged public domain. The EOD Basic and Senior pictu
 | mc-pvt | Own illustration (tools/make_illustrations.py) | CC0 | |
 | af-ab | Own illustration (tools/make_illustrations.py) | CC0 | |
 | r-service-stripes | Own illustration (tools/make_illustrations.py) | CC0 | |
+| b-tomb-guard-id | Own text card (tools/make_cards.py) | CC0 | |
+| u-mess-white | Own text card (tools/make_cards.py) | CC0 | |
+| n-e1 | Own text card (tools/make_cards.py) | CC0 | |
+| nu-nwu3 | Own text card (tools/make_cards.py) | CC0 | |
+| nb-dws | Own text card (tools/make_cards.py) | CC0 | |
+| m-epmeg | Own text card (tools/make_cards.py) | CC0 | |
+| m-ngcm | Own text card (tools/make_cards.py) | CC0 | |
+| mu-blue-white | Own text card (tools/make_cards.py) | CC0 | |
+| au-semi | Own text card (tools/make_cards.py) | CC0 | |
+| cu-formal | Own text card (tools/make_cards.py) | CC0 | |
+| cu-ddwj | Own text card (tools/make_cards.py) | CC0 | |
+| b-af-dli | Own text card (tools/make_cards.py) | CC0 | |
+| b-af-uc | Own text card (tools/make_cards.py) | CC0 | |
+| b-af-nato | Own text card (tools/make_cards.py) | CC0 | |
+| b-af-un | Own text card (tools/make_cards.py) | CC0 | |
+| b-af-deca | Own text card (tools/make_cards.py) | CC0 | |
+| b-af-disa | Own text card (tools/make_cards.py) | CC0 | |
+| b-af-dfas | Own text card (tools/make_cards.py) | CC0 | |
+| b-af-ndu | Own text card (tools/make_cards.py) | CC0 | |
+| b-af-usafa | Own text card (tools/make_cards.py) | CC0 | |
+| b-af-iaafa | Own text card (tools/make_cards.py) | CC0 | |
+| b-af-dcma | Own text card (tools/make_cards.py) | CC0 | |
+| b-af-nro | Own text card (tools/make_cards.py) | CC0 | |
+| b-af-dla | Own text card (tools/make_cards.py) | CC0 | |

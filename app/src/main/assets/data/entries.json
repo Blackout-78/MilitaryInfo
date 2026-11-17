@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "0.18.7-blank-fill",
+  "dataVersion": "0.18.8-text-cards",
   "entries": [
     {
       "id": "u-woodland-bdu",
@@ -4532,7 +4532,7 @@
         "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-31",
         "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
       ],
-      "image": null
+      "image": "badges/b-tomb-guard-id.png"
     },
     {
       "id": "b-horseman-id",
@@ -6492,7 +6492,7 @@
         "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021 (read from the copy hosted at home.army.mil/jackson)",
         "Paras 18-1, 18-2, 18-6a, 19-1, 19-2"
       ],
-      "image": null
+      "image": "badges/u-mess-white.png"
     },
     {
       "id": "u-apfu",
@@ -7043,7 +7043,7 @@
       "sources": [
         "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4221 E-1 to E-6 Rate Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4221/)"
       ],
-      "image": null
+      "image": "badges/n-e1.png"
     },
     {
       "id": "n-e2",
@@ -7280,7 +7280,7 @@
       "sources": [
         "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, chapter 3 page: Male-Officer/Working/NWU-III (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-3/Male-Officer/Working/NWU-III)"
       ],
-      "image": null
+      "image": "badges/nu-nwu3.png"
     },
     {
       "id": "nm-navy-cross",
@@ -7893,7 +7893,7 @@
       "sources": [
         "MILPERSMAN 1220-080, mynavyhr.navy.mil (https://www.mynavyhr.navy.mil/Portals/55/Reference/MILPERSMAN/1000/1200Classification/1220-080.pdf)"
       ],
-      "image": null
+      "image": "badges/nb-dws.png"
     },
     {
       "id": "mc-pvt",
@@ -11859,7 +11859,7 @@
       "sources": [
         "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.16 (PDF supplied by the app owner)"
       ],
-      "image": null
+      "image": "badges/m-epmeg.png"
     },
     {
       "id": "m-bmthgr",
@@ -12507,7 +12507,7 @@
       "sources": [
         "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 2 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
       ],
-      "image": null
+      "image": "badges/m-ngcm.png"
     },
     {
       "id": "m-mcgcm",
@@ -14128,7 +14128,7 @@
       "sources": [
         "MCO 1020.34H, Marine Corps Uniform Regulations, 1 May 2018, para 2003 (PDF supplied by the app owner; later changes not checked)"
       ],
-      "image": null
+      "image": "badges/mu-blue-white.png"
     },
     {
       "id": "mu-service",
@@ -14277,7 +14277,7 @@
       "sources": [
         "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel, 29 Feb 2024 (corrective actions 13 Mar 2024), para 4.3 (PDF supplied by the app owner)"
       ],
-      "image": null
+      "image": "badges/au-semi.png"
     },
     {
       "id": "au-service",
@@ -14427,7 +14427,7 @@
       "sources": [
         "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.1 (PDF supplied by the app owner)"
       ],
-      "image": null
+      "image": "badges/cu-formal.png"
     },
     {
       "id": "cu-ddbj",
@@ -14483,7 +14483,7 @@
       "sources": [
         "COMDTINST M1020.6K, Coast Guard Uniform Regulations, 7 Jul 2020, para 3.B.3 (PDF supplied by the app owner)"
       ],
-      "image": null
+      "image": "badges/cu-ddwj.png"
     },
     {
       "id": "cu-ddb",
@@ -15869,7 +15869,7 @@
         "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.5.3",
         "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
       ],
-      "image": null
+      "image": "badges/b-af-dli.png"
     },
     {
       "id": "b-af-recruit",
@@ -15931,7 +15931,7 @@
         "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.9",
         "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
       ],
-      "image": null
+      "image": "badges/b-af-uc.png"
     },
     {
       "id": "b-af-army",
@@ -15993,7 +15993,7 @@
         "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.11",
         "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
       ],
-      "image": null
+      "image": "badges/b-af-nato.png"
     },
     {
       "id": "b-af-un",
@@ -16024,7 +16024,7 @@
         "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.12",
         "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
       ],
-      "image": null
+      "image": "badges/b-af-un.png"
     },
     {
       "id": "b-af-sf",
@@ -16179,7 +16179,7 @@
         "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.17",
         "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
       ],
-      "image": null
+      "image": "badges/b-af-deca.png"
     },
     {
       "id": "b-af-disa",
@@ -16210,7 +16210,7 @@
         "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.18",
         "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
       ],
-      "image": null
+      "image": "badges/b-af-disa.png"
     },
     {
       "id": "b-af-dfas",
@@ -16241,7 +16241,7 @@
         "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.19",
         "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
       ],
-      "image": null
+      "image": "badges/b-af-dfas.png"
     },
     {
       "id": "b-af-mps",
@@ -16334,7 +16334,7 @@
         "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.22",
         "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
       ],
-      "image": null
+      "image": "badges/b-af-ndu.png"
     },
     {
       "id": "b-af-usafa",
@@ -16365,7 +16365,7 @@
         "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.23",
         "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
       ],
-      "image": null
+      "image": "badges/b-af-usafa.png"
     },
     {
       "id": "b-af-ig",
@@ -16427,7 +16427,7 @@
         "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.26",
         "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
       ],
-      "image": null
+      "image": "badges/b-af-iaafa.png"
     },
     {
       "id": "b-af-dcma",
@@ -16458,7 +16458,7 @@
         "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.27",
         "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
       ],
-      "image": null
+      "image": "badges/b-af-dcma.png"
     },
     {
       "id": "b-af-nro",
@@ -16489,7 +16489,7 @@
         "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.28",
         "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
       ],
-      "image": null
+      "image": "badges/b-af-nro.png"
     },
     {
       "id": "b-af-dla",
@@ -16520,7 +16520,7 @@
         "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.29",
         "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
       ],
-      "image": null
+      "image": "badges/b-af-dla.png"
     },
     {
       "id": "b-af-gold",

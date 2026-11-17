@@ -1,3 +1,7 @@
+## 0.18.8
+- No more empty picture boxes. The 24 pages with no accurate free picture now show a text card (name, branch, one-line rule) labeled NO PICTURE AVAILABLE. Nothing is guessed or drawn wrong.
+- A real picture replaces a card when one is found.
+
 ## 0.18.7
 - Blank pictures: 8 drawn illustrations from the manuals' wording, each labeled ILLUSTRATION - NOT OFFICIAL: Coast Guard Second Class, First Class and Master Diver, Diving Medical Technician, Command Ashore device; Marine Private and Airman Basic (empty sleeve, E-1 wears no insignia); Army service stripes (example).
 - The earlier bad diver drawings were redrawn as a proper diving helmet and breastplate.
