@@ -1,10 +1,11 @@
-MilitaryInfo 0.12.0 - Marines, Air Force, Coast Guard Enlisted
+MilitaryInfo 0.13.0 - Officers and Space Force
 
 Added
-- Marine Corps enlisted ranks (E-1 to Sergeant Major of the Marine Corps), Air Force enlisted ranks (Airman Basic to CMSAF, with first sergeant and command chief), and Coast Guard enlisted rates (Seaman Recruit to MCPO of the Coast Guard)
-- A picture for each rank except the ones with no insignia
+- Officer and general officer ranks (O-1 to O-10) for the Marine Corps, Air Force, Space Force, and Coast Guard, with pictures
+- Marine Corps warrant officers (W-1 to W-5), Coast Guard warrant officers (W-2 to W-4), and Space Force enlisted ranks (Specialist 1 to CMSSF)
 
 Known limits
-- These entries are Unverified. Names and grades are cross-checked. Insignia descriptions are not from an official text
-- Pictures are cropped from an enlisted chart whose author and license are unknown, and they are small and soft. Replace them when official pictures are available
-- Officers, warrant officers, and the Space Force are not loaded for these branches
+- All of these are Unverified: names and grades are cross-checked, insignia text is from a commercial site
+- Officer pictures reuse the Army's army.mil pictures, since the bar, leaf, eagle, and star designs are the same. Coast Guard dress sleeve stripes are not pictured
+- No pictures for warrant officers or Space Force enlisted
+- Air Force warrant officers are not loaded. The General of the Air Force and other five-star ranks are not loaded

@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.12.0-chart-ranks",
+ "dataVersion": "0.13.0-more-ranks",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -8441,6 +8441,1829 @@
     "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
    ],
    "image": "coastguard/cg-mcpocg.png"
+  },
+  {
+   "id": "mo-2lt",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Second Lieutenant",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps O-1. One gold bar.",
+   "facts": [
+    "Grade: O-1",
+    "Insignia: One gold bar.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Gold bar.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-2lt.png"
+  },
+  {
+   "id": "mo-1lt",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "First Lieutenant",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps O-2. One silver bar.",
+   "facts": [
+    "Grade: O-2",
+    "Insignia: One silver bar.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Silver bar.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-1lt.png"
+  },
+  {
+   "id": "mo-cpt",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Captain",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps O-3. Two silver bars.",
+   "facts": [
+    "Grade: O-3",
+    "Insignia: Two silver bars.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Silver bars.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-cpt.png"
+  },
+  {
+   "id": "mo-maj",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Major",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps O-4. A gold oak leaf.",
+   "facts": [
+    "Grade: O-4",
+    "Insignia: A gold oak leaf.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Gold oak leaf.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-maj.png"
+  },
+  {
+   "id": "mo-ltc",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Lieutenant Colonel",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps O-5. A silver oak leaf.",
+   "facts": [
+    "Grade: O-5",
+    "Insignia: A silver oak leaf.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Silver oak leaf.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-ltc.png"
+  },
+  {
+   "id": "mo-col",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Colonel",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps O-6. A silver eagle.",
+   "facts": [
+    "Grade: O-6",
+    "Insignia: A silver eagle.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Silver eagle.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-col.png"
+  },
+  {
+   "id": "mo-bg",
+   "tab": "ranks",
+   "group": "General officers",
+   "name": "Brigadier General",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps O-7. One silver star.",
+   "facts": [
+    "Grade: O-7",
+    "Insignia: One silver star.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Silver star.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-bg.png"
+  },
+  {
+   "id": "mo-mg",
+   "tab": "ranks",
+   "group": "General officers",
+   "name": "Major General",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps O-8. Two silver stars.",
+   "facts": [
+    "Grade: O-8",
+    "Insignia: Two silver stars.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Silver stars.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-mg.png"
+  },
+  {
+   "id": "mo-lg",
+   "tab": "ranks",
+   "group": "General officers",
+   "name": "Lieutenant General",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps O-9. Three silver stars.",
+   "facts": [
+    "Grade: O-9",
+    "Insignia: Three silver stars.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Silver stars.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-lg.png"
+  },
+  {
+   "id": "mo-gen",
+   "tab": "ranks",
+   "group": "General officers",
+   "name": "General",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps O-10. Four silver stars.",
+   "facts": [
+    "Grade: O-10",
+    "Insignia: Four silver stars.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Silver stars.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-gen.png"
+  },
+  {
+   "id": "ao-2lt",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Second Lieutenant",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force O-1. One gold bar.",
+   "facts": [
+    "Grade: O-1",
+    "Insignia: One gold bar.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Gold bar.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-2lt.png"
+  },
+  {
+   "id": "ao-1lt",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "First Lieutenant",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force O-2. One silver bar.",
+   "facts": [
+    "Grade: O-2",
+    "Insignia: One silver bar.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Silver bar.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-1lt.png"
+  },
+  {
+   "id": "ao-cpt",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Captain",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force O-3. Two silver bars.",
+   "facts": [
+    "Grade: O-3",
+    "Insignia: Two silver bars.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Silver bars.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-cpt.png"
+  },
+  {
+   "id": "ao-maj",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Major",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force O-4. A gold oak leaf.",
+   "facts": [
+    "Grade: O-4",
+    "Insignia: A gold oak leaf.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Gold oak leaf.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-maj.png"
+  },
+  {
+   "id": "ao-ltc",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Lieutenant Colonel",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force O-5. A silver oak leaf.",
+   "facts": [
+    "Grade: O-5",
+    "Insignia: A silver oak leaf.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Silver oak leaf.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-ltc.png"
+  },
+  {
+   "id": "ao-col",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Colonel",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force O-6. A silver eagle.",
+   "facts": [
+    "Grade: O-6",
+    "Insignia: A silver eagle.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Silver eagle.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-col.png"
+  },
+  {
+   "id": "ao-bg",
+   "tab": "ranks",
+   "group": "General officers",
+   "name": "Brigadier General",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force O-7. One silver star.",
+   "facts": [
+    "Grade: O-7",
+    "Insignia: One silver star.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Silver star.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-bg.png"
+  },
+  {
+   "id": "ao-mg",
+   "tab": "ranks",
+   "group": "General officers",
+   "name": "Major General",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force O-8. Two silver stars.",
+   "facts": [
+    "Grade: O-8",
+    "Insignia: Two silver stars.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Silver stars.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-mg.png"
+  },
+  {
+   "id": "ao-lg",
+   "tab": "ranks",
+   "group": "General officers",
+   "name": "Lieutenant General",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force O-9. Three silver stars.",
+   "facts": [
+    "Grade: O-9",
+    "Insignia: Three silver stars.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Silver stars.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-lg.png"
+  },
+  {
+   "id": "ao-gen",
+   "tab": "ranks",
+   "group": "General officers",
+   "name": "General",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force O-10. Four silver stars.",
+   "facts": [
+    "Grade: O-10",
+    "Insignia: Four silver stars.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Silver stars.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-gen.png"
+  },
+  {
+   "id": "so-2lt",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Second Lieutenant",
+   "branches": [
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Space Force O-1. One gold bar.",
+   "facts": [
+    "Grade: O-1",
+    "Insignia: One gold bar.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Gold bar.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-2lt.png"
+  },
+  {
+   "id": "so-1lt",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "First Lieutenant",
+   "branches": [
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Space Force O-2. One silver bar.",
+   "facts": [
+    "Grade: O-2",
+    "Insignia: One silver bar.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Silver bar.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-1lt.png"
+  },
+  {
+   "id": "so-cpt",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Captain",
+   "branches": [
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Space Force O-3. Two silver bars.",
+   "facts": [
+    "Grade: O-3",
+    "Insignia: Two silver bars.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Silver bars.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-cpt.png"
+  },
+  {
+   "id": "so-maj",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Major",
+   "branches": [
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Space Force O-4. A gold oak leaf.",
+   "facts": [
+    "Grade: O-4",
+    "Insignia: A gold oak leaf.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Gold oak leaf.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-maj.png"
+  },
+  {
+   "id": "so-ltc",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Lieutenant Colonel",
+   "branches": [
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Space Force O-5. A silver oak leaf.",
+   "facts": [
+    "Grade: O-5",
+    "Insignia: A silver oak leaf.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Silver oak leaf.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-ltc.png"
+  },
+  {
+   "id": "so-col",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Colonel",
+   "branches": [
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Space Force O-6. A silver eagle.",
+   "facts": [
+    "Grade: O-6",
+    "Insignia: A silver eagle.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Silver eagle.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-col.png"
+  },
+  {
+   "id": "so-bg",
+   "tab": "ranks",
+   "group": "General officers",
+   "name": "Brigadier General",
+   "branches": [
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Space Force O-7. One silver star.",
+   "facts": [
+    "Grade: O-7",
+    "Insignia: One silver star.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Silver star.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-bg.png"
+  },
+  {
+   "id": "so-mg",
+   "tab": "ranks",
+   "group": "General officers",
+   "name": "Major General",
+   "branches": [
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Space Force O-8. Two silver stars.",
+   "facts": [
+    "Grade: O-8",
+    "Insignia: Two silver stars.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Silver stars.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-mg.png"
+  },
+  {
+   "id": "so-lg",
+   "tab": "ranks",
+   "group": "General officers",
+   "name": "Lieutenant General",
+   "branches": [
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Space Force O-9. Three silver stars.",
+   "facts": [
+    "Grade: O-9",
+    "Insignia: Three silver stars.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Silver stars.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-lg.png"
+  },
+  {
+   "id": "so-gen",
+   "tab": "ranks",
+   "group": "General officers",
+   "name": "General",
+   "branches": [
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Space Force O-10. Four silver stars.",
+   "facts": [
+    "Grade: O-10",
+    "Insignia: Four silver stars.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Silver stars.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-gen.png"
+  },
+  {
+   "id": "co-2lt",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Ensign",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard O-1. One gold bar.",
+   "facts": [
+    "Grade: O-1",
+    "Insignia: One gold bar.",
+    "Unverified: no official insignia text was read for this entry",
+    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards"
+   ],
+   "remember": "Gold bar.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-2lt.png"
+  },
+  {
+   "id": "co-1lt",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Lieutenant Junior Grade",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard O-2. One silver bar.",
+   "facts": [
+    "Grade: O-2",
+    "Insignia: One silver bar.",
+    "Unverified: no official insignia text was read for this entry",
+    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards"
+   ],
+   "remember": "Silver bar.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-1lt.png"
+  },
+  {
+   "id": "co-cpt",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Lieutenant",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard O-3. Two silver bars.",
+   "facts": [
+    "Grade: O-3",
+    "Insignia: Two silver bars.",
+    "Unverified: no official insignia text was read for this entry",
+    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards"
+   ],
+   "remember": "Silver bars.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-cpt.png"
+  },
+  {
+   "id": "co-maj",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Lieutenant Commander",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard O-4. A gold oak leaf.",
+   "facts": [
+    "Grade: O-4",
+    "Insignia: A gold oak leaf.",
+    "Unverified: no official insignia text was read for this entry",
+    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards"
+   ],
+   "remember": "Gold oak leaf.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-maj.png"
+  },
+  {
+   "id": "co-ltc",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Commander",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard O-5. A silver oak leaf.",
+   "facts": [
+    "Grade: O-5",
+    "Insignia: A silver oak leaf.",
+    "Unverified: no official insignia text was read for this entry",
+    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards"
+   ],
+   "remember": "Silver oak leaf.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-ltc.png"
+  },
+  {
+   "id": "co-col",
+   "tab": "ranks",
+   "group": "Officers",
+   "name": "Captain",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard O-6. A silver eagle.",
+   "facts": [
+    "Grade: O-6",
+    "Insignia: A silver eagle.",
+    "Unverified: no official insignia text was read for this entry",
+    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards"
+   ],
+   "remember": "Silver eagle.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-col.png"
+  },
+  {
+   "id": "co-bg",
+   "tab": "ranks",
+   "group": "General officers",
+   "name": "Rear Admiral (Lower Half)",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard O-7. One silver star.",
+   "facts": [
+    "Grade: O-7",
+    "Insignia: One silver star.",
+    "Unverified: no official insignia text was read for this entry",
+    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards"
+   ],
+   "remember": "Silver star.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-bg.png"
+  },
+  {
+   "id": "co-mg",
+   "tab": "ranks",
+   "group": "General officers",
+   "name": "Rear Admiral (Upper Half)",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard O-8. Two silver stars.",
+   "facts": [
+    "Grade: O-8",
+    "Insignia: Two silver stars.",
+    "Unverified: no official insignia text was read for this entry",
+    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards"
+   ],
+   "remember": "Silver stars.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-mg.png"
+  },
+  {
+   "id": "co-lg",
+   "tab": "ranks",
+   "group": "General officers",
+   "name": "Vice Admiral",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard O-9. Three silver stars.",
+   "facts": [
+    "Grade: O-9",
+    "Insignia: Three silver stars.",
+    "Unverified: no official insignia text was read for this entry",
+    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards"
+   ],
+   "remember": "Silver stars.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-lg.png"
+  },
+  {
+   "id": "co-gen",
+   "tab": "ranks",
+   "group": "General officers",
+   "name": "Admiral",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard O-10. Four silver stars.",
+   "facts": [
+    "Grade: O-10",
+    "Insignia: Four silver stars.",
+    "Unverified: no official insignia text was read for this entry",
+    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards"
+   ],
+   "remember": "Silver stars.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+   ],
+   "image": "ranks/r-gen.png"
+  },
+  {
+   "id": "mw-w1",
+   "tab": "ranks",
+   "group": "Warrant officers",
+   "name": "Warrant Officer",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps W-1. A gold bar with scarlet enamel.",
+   "facts": [
+    "Grade: W-1",
+    "Insignia: A gold bar with scarlet enamel.",
+    "Unverified: no official insignia text was read for this entry",
+    "A Marine gunner replaces the chief warrant officer insignia on the left collar with a bursting bomb insignia (marines.mil/Ranks)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
+   ],
+   "image": null
+  },
+  {
+   "id": "mw-w2",
+   "tab": "ranks",
+   "group": "Warrant officers",
+   "name": "Chief Warrant Officer 2",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps W-2. A gold bar with scarlet blocks.",
+   "facts": [
+    "Grade: W-2",
+    "Insignia: A gold bar with scarlet blocks.",
+    "Unverified: no official insignia text was read for this entry",
+    "A Marine gunner replaces the chief warrant officer insignia on the left collar with a bursting bomb insignia (marines.mil/Ranks)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
+   ],
+   "image": null
+  },
+  {
+   "id": "mw-w3",
+   "tab": "ranks",
+   "group": "Warrant officers",
+   "name": "Chief Warrant Officer 3",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps W-3. A silver bar with scarlet blocks.",
+   "facts": [
+    "Grade: W-3",
+    "Insignia: A silver bar with scarlet blocks.",
+    "Unverified: no official insignia text was read for this entry",
+    "A Marine gunner replaces the chief warrant officer insignia on the left collar with a bursting bomb insignia (marines.mil/Ranks)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
+   ],
+   "image": null
+  },
+  {
+   "id": "mw-w4",
+   "tab": "ranks",
+   "group": "Warrant officers",
+   "name": "Chief Warrant Officer 4",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps W-4. A silver bar with scarlet blocks.",
+   "facts": [
+    "Grade: W-4",
+    "Insignia: A silver bar with scarlet blocks.",
+    "Unverified: no official insignia text was read for this entry",
+    "A Marine gunner replaces the chief warrant officer insignia on the left collar with a bursting bomb insignia (marines.mil/Ranks)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
+   ],
+   "image": null
+  },
+  {
+   "id": "mw-w5",
+   "tab": "ranks",
+   "group": "Warrant officers",
+   "name": "Chief Warrant Officer 5",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps W-5. A silver bar with a scarlet stripe.",
+   "facts": [
+    "Grade: W-5",
+    "Insignia: A silver bar with a scarlet stripe.",
+    "Unverified: no official insignia text was read for this entry",
+    "A Marine gunner replaces the chief warrant officer insignia on the left collar with a bursting bomb insignia (marines.mil/Ranks)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
+   ],
+   "image": null
+  },
+  {
+   "id": "cw-w2",
+   "tab": "ranks",
+   "group": "Warrant officers",
+   "name": "Chief Warrant Officer 2",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard W-2. Collar bar and shoulder board.",
+   "facts": [
+    "Grade: W-2",
+    "Insignia: Collar bar and shoulder board.",
+    "Unverified: no official insignia text was read for this entry",
+    "Coast Guard warrant officers run W-2 to W-4 only, per the pages read"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
+   ],
+   "image": null
+  },
+  {
+   "id": "cw-w3",
+   "tab": "ranks",
+   "group": "Warrant officers",
+   "name": "Chief Warrant Officer 3",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard W-3. Collar bar and shoulder board.",
+   "facts": [
+    "Grade: W-3",
+    "Insignia: Collar bar and shoulder board.",
+    "Unverified: no official insignia text was read for this entry",
+    "Coast Guard warrant officers run W-2 to W-4 only, per the pages read"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
+   ],
+   "image": null
+  },
+  {
+   "id": "cw-w4",
+   "tab": "ranks",
+   "group": "Warrant officers",
+   "name": "Chief Warrant Officer 4",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard W-4. Collar bar and shoulder board.",
+   "facts": [
+    "Grade: W-4",
+    "Insignia: Collar bar and shoulder board.",
+    "Unverified: no official insignia text was read for this entry",
+    "Coast Guard warrant officers run W-2 to W-4 only, per the pages read"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
+   ],
+   "image": null
+  },
+  {
+   "id": "se-spc1",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Specialist 1",
+   "branches": [
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Space Force E-1. No insignia.",
+   "facts": [
+    "Grade: E-1",
+    "Insignia: No insignia.",
+    "Unverified: no official insignia text was read for this entry",
+    "Space Force E-5 is Sergeant, not Staff Sergeant. The Space Force has no warrant officers, per the pages read"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
+   ],
+   "image": null
+  },
+  {
+   "id": "se-spc2",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Specialist 2",
+   "branches": [
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Space Force E-2. Space Force Delta above one bar.",
+   "facts": [
+    "Grade: E-2",
+    "Insignia: Space Force Delta above one bar.",
+    "Unverified: no official insignia text was read for this entry",
+    "Space Force E-5 is Sergeant, not Staff Sergeant. The Space Force has no warrant officers, per the pages read"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
+   ],
+   "image": null
+  },
+  {
+   "id": "se-spc3",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Specialist 3",
+   "branches": [
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Space Force E-3. Space Force Delta above two bars.",
+   "facts": [
+    "Grade: E-3",
+    "Insignia: Space Force Delta above two bars.",
+    "Unverified: no official insignia text was read for this entry",
+    "Space Force E-5 is Sergeant, not Staff Sergeant. The Space Force has no warrant officers, per the pages read"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
+   ],
+   "image": null
+  },
+  {
+   "id": "se-spc4",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Specialist 4",
+   "branches": [
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Space Force E-4. Space Force Delta above three bars.",
+   "facts": [
+    "Grade: E-4",
+    "Insignia: Space Force Delta above three bars.",
+    "Unverified: no official insignia text was read for this entry",
+    "Space Force E-5 is Sergeant, not Staff Sergeant. The Space Force has no warrant officers, per the pages read"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
+   ],
+   "image": null
+  },
+  {
+   "id": "se-sgt",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Sergeant",
+   "branches": [
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Space Force E-5. Space Force Delta and globe above chevrons.",
+   "facts": [
+    "Grade: E-5",
+    "Insignia: Space Force Delta and globe above chevrons.",
+    "Unverified: no official insignia text was read for this entry",
+    "Space Force E-5 is Sergeant, not Staff Sergeant. The Space Force has no warrant officers, per the pages read"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
+   ],
+   "image": null
+  },
+  {
+   "id": "se-tsgt",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Technical Sergeant",
+   "branches": [
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Space Force E-6. Space Force Delta and globe above chevrons.",
+   "facts": [
+    "Grade: E-6",
+    "Insignia: Space Force Delta and globe above chevrons.",
+    "Unverified: no official insignia text was read for this entry",
+    "Space Force E-5 is Sergeant, not Staff Sergeant. The Space Force has no warrant officers, per the pages read"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
+   ],
+   "image": null
+  },
+  {
+   "id": "se-msgt",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Master Sergeant",
+   "branches": [
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Space Force E-7. Space Force Delta and globe with chevrons.",
+   "facts": [
+    "Grade: E-7",
+    "Insignia: Space Force Delta and globe with chevrons.",
+    "Unverified: no official insignia text was read for this entry",
+    "Space Force E-5 is Sergeant, not Staff Sergeant. The Space Force has no warrant officers, per the pages read"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
+   ],
+   "image": null
+  },
+  {
+   "id": "se-smsgt",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Senior Master Sergeant",
+   "branches": [
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Space Force E-8. Space Force Delta and globe with chevrons.",
+   "facts": [
+    "Grade: E-8",
+    "Insignia: Space Force Delta and globe with chevrons.",
+    "Unverified: no official insignia text was read for this entry",
+    "Space Force E-5 is Sergeant, not Staff Sergeant. The Space Force has no warrant officers, per the pages read"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
+   ],
+   "image": null
+  },
+  {
+   "id": "se-cmsgt",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Chief Master Sergeant",
+   "branches": [
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Space Force E-9. Space Force Delta and globe with chevrons.",
+   "facts": [
+    "Grade: E-9",
+    "Insignia: Space Force Delta and globe with chevrons.",
+    "Unverified: no official insignia text was read for this entry",
+    "Space Force E-5 is Sergeant, not Staff Sergeant. The Space Force has no warrant officers, per the pages read"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
+   ],
+   "image": null
+  },
+  {
+   "id": "se-cmssf",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Chief Master Sergeant of the Space Force",
+   "branches": [
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Space Force E-9. Space Force Delta and globe with chevrons.",
+   "facts": [
+    "Grade: E-9",
+    "Insignia: Space Force Delta and globe with chevrons.",
+    "Unverified: no official insignia text was read for this entry",
+    "Space Force E-5 is Sergeant, not Staff Sergeant. The Space Force has no warrant officers, per the pages read"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
+   ],
+   "image": null
   }
  ]
 }
