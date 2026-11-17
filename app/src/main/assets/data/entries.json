@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.14.1-tier-pictures",
+ "dataVersion": "0.15.0-navy-marine",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -7116,7 +7116,8 @@
    "facts": [
     "Awarded to those who distinguish themselves by extraordinary heroism, not justifying the award of the Medal of Honor (art 230, para 2.b.(1))",
     "Citation opens: 'For extraordinary heroism . . .' (para 220.3.a)",
-    "Order of precedence among U.S. military personal decorations: number 2 of 19 (SECNAVINST 1650.1H, Appendix B to Chapter 1)"
+    "Order of precedence among U.S. military personal decorations: number 2 of 19 (SECNAVINST 1650.1H, Appendix B to Chapter 1)",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
    ],
    "remember": "Second only to the Medal of Honor in precedence.",
    "swatches": [],
@@ -7142,7 +7143,8 @@
    "summary": "Award for exceptionally meritorious service in a duty of great responsibility.",
    "facts": [
     "Awarded to those who distinguish themselves by exceptionally meritorious service to the United States, in a duty of great responsibility (art 230, para 3.b)",
-    "Order of precedence among U.S. military personal decorations: number 4 of 19 (SECNAVINST 1650.1H, Appendix B to Chapter 1)"
+    "Order of precedence among U.S. military personal decorations: number 4 of 19 (SECNAVINST 1650.1H, Appendix B to Chapter 1)",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
    ],
    "remember": null,
    "swatches": [],
@@ -7168,7 +7170,8 @@
    "summary": "Award for heroism not involving actual conflict with the enemy.",
    "facts": [
     "Awarded to those who distinguish themselves by heroism not involving actual conflict with the enemy (art 230, para 7.b.(1))",
-    "Order of precedence among U.S. military personal decorations: number 9 of 19 (SECNAVINST 1650.1H, Appendix B to Chapter 1)"
+    "Order of precedence among U.S. military personal decorations: number 9 of 19 (SECNAVINST 1650.1H, Appendix B to Chapter 1)",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
    ],
    "remember": "Heroism, not against the enemy.",
    "swatches": [],
@@ -7201,7 +7204,8 @@
    "summary": "Award for heroic or meritorious achievement or service.",
    "facts": [
     "Awarded to individuals, including foreign military personnel, who distinguish themselves on or after 7 December 1941 by heroic or meritorious achievement or service (art 230, para 12.b)",
-    "Order of precedence among U.S. military personal decorations: number 16 of 19 (SECNAVINST 1650.1H, Appendix B to Chapter 1)"
+    "Order of precedence among U.S. military personal decorations: number 16 of 19 (SECNAVINST 1650.1H, Appendix B to Chapter 1)",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
    ],
    "remember": null,
    "swatches": [],
@@ -7227,7 +7231,8 @@
    "summary": "Award for professional or heroic achievement in superior performance of duties.",
    "facts": [
     "Awarded to members of the Armed Forces of the grade of lieutenant commander or major and junior thereto (art 230, para 13.b)",
-    "Order of precedence among U.S. military personal decorations: number 18 of 19 (SECNAVINST 1650.1H, Appendix B to Chapter 1)"
+    "Order of precedence among U.S. military personal decorations: number 18 of 19 (SECNAVINST 1650.1H, Appendix B to Chapter 1)",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
    ],
    "remember": "Lieutenant commander and below.",
    "swatches": [],
@@ -7253,7 +7258,8 @@
    "summary": "Ribbon for active participation in ground or surface combat.",
    "facts": [
     "Awarded to members of the Navy, Marine Corps, and Coast Guard in the grade of captain/colonel and junior thereto who have actively participated in ground or surface combat (art 230, para 14.b.(1))",
-    "Order of precedence among U.S. military personal decorations: number 19 of 19 (SECNAVINST 1650.1H, Appendix B to Chapter 1)"
+    "Order of precedence among U.S. military personal decorations: number 19 of 19 (SECNAVINST 1650.1H, Appendix B to Chapter 1)",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
    ],
    "remember": "Captain and below, in ground or surface combat.",
    "swatches": [],
@@ -7283,7 +7289,8 @@
    "summary": "Ribbon for permanent duty on ships or in squadrons that won Battle Efficiency competitions.",
    "facts": [
     "Denotes permanent duty on ships or in squadrons that won Battle Efficiency competitions after 1 July 1974 (art 330, para 4.b)",
-    "Navy personnel permanently attached to and serving with cited ships and units during the competitive cycle (para 4.b.(1)(a))"
+    "Navy personnel permanently attached to and serving with cited ships and units during the competitive cycle (para 4.b.(1)(a))",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
    ],
    "remember": "E for efficiency, after 1 July 1974.",
    "swatches": [],
@@ -11939,6 +11946,764 @@
    "proof": "official",
    "sources": [
     "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.11 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-navy-cross",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Navy Cross",
+   "branches": [
+    "Navy",
+    "Marine Corps"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Extraordinary heroism, not enough for the Medal of Honor, for Navy and Marine Corps members.",
+   "facts": [
+    "Authorized by 10 USC 6242",
+    "Must be in the presence of great danger or at great personal risk, setting the person apart from shipmates or fellow Marines",
+    "An accumulation of minor acts does not justify the award",
+    "Worn right after the Medal of Honor",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 2 Section 3 item 2 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-navy-dsm",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Navy Distinguished Service Medal",
+   "branches": [
+    "Navy",
+    "Marine Corps"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Exceptionally meritorious service in a duty of great responsibility.",
+   "facts": [
+    "Authorized by 10 USC 6243",
+    "In general for officers in principal commands at sea or in the field",
+    "Worn after the Defense Distinguished Service Medal and before the Silver Star",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 2 Section 3 item 3 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-nmcm",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Navy and Marine Corps Medal",
+   "branches": [
+    "Navy",
+    "Marine Corps"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Heroism not involving actual conflict with the enemy; the senior peacetime heroism award.",
+   "facts": [
+    "Authorized by 10 USC 6246",
+    "Lifesaving acts must be at the risk of one's own life",
+    "Not a lifesaving medal: it depends on the actual life-threatening risk",
+    "Worn after the Distinguished Flying Cross and before the Bronze Star",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 2 Section 3 item 7 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-nmccm",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Navy and Marine Corps Commendation Medal",
+   "branches": [
+    "Navy",
+    "Marine Corps"
+   ],
+   "eras": [
+    "ww2",
+    "korea",
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1941,
+   "yearTo": null,
+   "summary": "Heroic or meritorious achievement or service on or after 7 Dec 1941, below the Bronze Star.",
+   "facts": [
+    "Navy Commendation Ribbon authorized by ALNAV 11, 11 Jan 1944; medal pendant 22 Mar 1950; renamed 19 Aug 1994",
+    "Open to foreign military personnel",
+    "Combat Distinguishing Device may be authorized",
+    "Worn after the Joint Service Commendation Medal",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 2 Section 3 item 12 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-nmcam",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Navy and Marine Corps Achievement Medal",
+   "branches": [
+    "Navy",
+    "Marine Corps"
+   ],
+   "eras": [
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1961,
+   "yearTo": null,
+   "summary": "Meritorious service or achievement for lieutenant commander or major and below, below the Commendation Medal.",
+   "facts": [
+    "Service on or after 1 May 1961",
+    "Not for aerial flight service after 1 Jan 1969 (the Air Medal fits that)",
+    "Combat Distinguishing Device authorized for service after 17 Jul 1967, discontinued Apr 1974, reauthorized 17 Jan 1991",
+    "Renamed 19 Aug 1994",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 2 Section 3 item 13 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-car",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Combat Action Ribbon",
+   "branches": [
+    "Navy",
+    "Marine Corps",
+    "Coast Guard"
+   ],
+   "eras": [
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1969,
+   "yearTo": null,
+   "summary": "Active participation in ground or surface combat under enemy fire.",
+   "facts": [
+    "Authorized by SECNAVNOTE 1650, 17 Feb 1969",
+    "Navy, Marine Corps and Coast Guard (when under Navy control), captain or colonel and below",
+    "Not automatic from a combat area or a Purple Heart",
+    "Not for aerial combat; the Strike/Flight Air Medal covers that",
+    "Direct exposure to an enemy IED counts, retroactive to 7 Oct 2001",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 2 Section 3 item 14 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-nuc",
+   "tab": "medals",
+   "group": "Unit awards",
+   "name": "Navy Unit Commendation",
+   "branches": [
+    "Navy",
+    "Marine Corps"
+   ],
+   "eras": [
+    "ww2",
+    "korea",
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1944,
+   "yearTo": null,
+   "summary": "Units with outstanding heroism in action, below the Presidential Unit Citation, or extremely meritorious service in support of operations.",
+   "facts": [
+    "Authorized by ALNAV 224, 18 Dec 1944",
+    "Awarded by the Secretary of the Navy",
+    "Level of service compares to a Silver Star or Legion of Merit for an individual",
+    "May go to units of other branches and friendly foreign forces",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 3 Section 3 item 2 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-nmuc",
+   "tab": "medals",
+   "group": "Unit awards",
+   "name": "Meritorious Unit Commendation (Navy and Marine Corps)",
+   "branches": [
+    "Navy",
+    "Marine Corps"
+   ],
+   "eras": [
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1967,
+   "yearTo": null,
+   "summary": "Valorous or meritorious unit achievement, below the Navy Unit Commendation.",
+   "facts": [
+    "Authorized by SECNAV Notice 1650, 17 Jul 1967",
+    "Awarded by the Secretary of the Navy, CNO or Commandant",
+    "Level of service compares to a Bronze Star for an individual",
+    "May go to units of other branches and friendly foreign forces",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 3 Section 3 item 3 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-ngcm",
+   "tab": "medals",
+   "group": "Service medals",
+   "name": "Navy Good Conduct Medal",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "ww1",
+    "interwar",
+    "ww2",
+    "korea",
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1869,
+   "yearTo": null,
+   "summary": "The all-around good enlisted sailor.",
+   "facts": [
+    "Established by the Secretary of the Navy, 26 Apr 1869",
+    "Three years of continuous active service as an enlisted person after 1 Jan 1996",
+    "Four years for 1 Nov 1963 through 31 Dec 1995",
+    "Commanding officers award it since 1 Feb 1971",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 2 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-mcgcm",
+   "tab": "medals",
+   "group": "Service medals",
+   "name": "Marine Corps Good Conduct Medal",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "ww1",
+    "interwar",
+    "ww2",
+    "korea",
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1896,
+   "yearTo": null,
+   "summary": "Good behavior and faithful service in the Marine Corps.",
+   "facts": [
+    "Established by Special Order No. 49, 20 Jul 1896",
+    "Any three years of continuous active service after 10 Dec 1945",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 3 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-nrmsm",
+   "tab": "medals",
+   "group": "Service medals",
+   "name": "Naval Reserve Meritorious Service Medal",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1958,
+   "yearTo": null,
+   "summary": "Navy Reservists on inactive duty who serve with distinction; the Reserve counterpart to the Good Conduct Medal.",
+   "facts": [
+    "Authorized by the Secretary of the Navy, 22 Jun 1964",
+    "Service counted from 1 Jul 1958",
+    "Four years through 31 Dec 1995",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 4 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-smcrm",
+   "tab": "medals",
+   "group": "Service medals",
+   "name": "Selected Marine Corps Reserve Medal",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "interwar",
+    "ww2",
+    "korea",
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1925,
+   "yearTo": null,
+   "summary": "Service in the Selected Marine Corps Reserve.",
+   "facts": [
+    "Three-year period from 1 Jan 1996; four years from 1 Jul 1925 through 31 Dec 1995",
+    "Requires attendance at annual field training with an SMCR unit",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 5 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-nem",
+   "tab": "medals",
+   "group": "Service medals",
+   "name": "Navy Expeditionary Medal",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "interwar",
+    "ww2",
+    "korea",
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1936,
+   "yearTo": null,
+   "summary": "Landing on foreign territory against armed opposition, where no other campaign or service medal was awarded.",
+   "facts": [
+    "Authorized by Navy Department General Order 84, 5 Aug 1936",
+    "Only personnel attached to an approved ship or unit who took part",
+    "The CNO keeps the list of eligible ships and units",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 6 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-mcem",
+   "tab": "medals",
+   "group": "Service medals",
+   "name": "Marine Corps Expeditionary Medal",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "interwar",
+    "ww2",
+    "korea",
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1919,
+   "yearTo": null,
+   "summary": "Marine Corps counterpart to the Navy Expeditionary Medal.",
+   "facts": [
+    "Authorized by M.C.G.O. 33, 8 May 1919",
+    "Only when Navy and Marine Corps units were the sole participants",
+    "If other branches took part, the Armed Forces Expeditionary Medal is the right award",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 7 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-nasr",
+   "tab": "medals",
+   "group": "Ribbons",
+   "name": "Navy Arctic Service Ribbon",
+   "branches": [
+    "Navy",
+    "Marine Corps"
+   ],
+   "eras": [
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1982,
+   "yearTo": null,
+   "summary": "28 days above the Arctic Circle after 1 Jan 1982.",
+   "facts": [
+    "Authorized by OPNAVNOTE 1650, 3 Jun 1987",
+    "Days need not be consecutive; remote ice camp and under-ice dive days count double",
+    "No subsequent award",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 21 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-nrssr",
+   "tab": "medals",
+   "group": "Ribbons",
+   "name": "Naval Reserve Sea Service Ribbon",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1974,
+   "yearTo": null,
+   "summary": "24 months of service aboard a Navy Reserve ship or unit after 15 Aug 1974.",
+   "facts": [
+    "Authorized by SECNAV Note 5420, 28 May 1986",
+    "Any mix of active and Selected Reserve service",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 22 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-nmcosr",
+   "tab": "medals",
+   "group": "Ribbons",
+   "name": "Navy and Marine Corps Overseas Service Ribbon",
+   "branches": [
+    "Navy",
+    "Marine Corps"
+   ],
+   "eras": [
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1986,
+   "yearTo": null,
+   "summary": "Overseas shore duty: 12 months for active duty, 30 consecutive or 45 cumulative days for Reserve.",
+   "facts": [
+    "Authorized by SECNAV letter 1650, 17 Sep 1986",
+    "Navy members with Marine units follow Marine Corps policy, and the reverse",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 23 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-nrecr",
+   "tab": "medals",
+   "group": "Ribbons",
+   "name": "Navy Recruiting Service Ribbon",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1973,
+   "yearTo": null,
+   "summary": "Support of recruiting in listed Navy recruiting activities.",
+   "facts": [
+    "Established 2 Feb 1989; made retroactive to 1 Jul 1973",
+    "Second and later awards use a 3/16 inch bronze star",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 24 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-mcrecr",
+   "tab": "medals",
+   "group": "Ribbons",
+   "name": "Marine Corps Recruiting Ribbon",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1995,
+   "yearTo": null,
+   "summary": "Marines with recruiter MOS 8411 or 8412 who complete a successful recruiting tour.",
+   "facts": [
+    "Authorized by SECNAV letter 1650, 7 Jun 1995",
+    "Subsequent awards for each later tour",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 25 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-mcdir",
+   "tab": "medals",
+   "group": "Ribbons",
+   "name": "Marine Corps Drill Instructor Ribbon",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": 1997,
+   "yearTo": null,
+   "summary": "Marines with MOS 8511 who served in a drill instructor billet, and listed recruit training staff.",
+   "facts": [
+    "Authorized by SECNAV letter 1650, 15 Jul 1997",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 26 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-mcsgr",
+   "tab": "medals",
+   "group": "Ribbons",
+   "name": "Marine Corps Security Guard Ribbon",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": 1997,
+   "yearTo": null,
+   "summary": "Marines with MOS 8151 serving with the Marine Security Guard Battalion at embassies.",
+   "facts": [
+    "Authorized by SECNAV letter 1650, 15 Jul 1997",
+    "Headquarters, MSG Battalion personnel are not eligible",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 27 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-nrtsr",
+   "tab": "medals",
+   "group": "Ribbons",
+   "name": "Navy Recruit Training Service Ribbon",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": 1998,
+   "yearTo": null,
+   "summary": "Recruit Division Commanders at Recruit Training Command, Great Lakes, after a successful tour.",
+   "facts": [
+    "Established by the Secretary of the Navy, 13 Mar 1998",
+    "Support staff, instructors and others at the command are not eligible",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 28 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-ncgr",
+   "tab": "medals",
+   "group": "Ribbons",
+   "name": "Navy Ceremonial Guard Ribbon",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": 2001,
+   "yearTo": null,
+   "summary": "Service in the Navy Ceremonial Guard, Washington, DC, on or after 1 May 2001.",
+   "facts": [
+    "Authorized by SECNAV letter 0750, 12 Dec 2003",
+    "A successful tour of at least two years, with at least 18 months in drilling status",
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 29 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
    ],
    "image": null
   }

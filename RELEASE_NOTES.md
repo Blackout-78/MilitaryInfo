@@ -1,3 +1,3 @@
-## 0.14.1
-- Basic, Senior and Master badges now show their own pictures (Parachutist, Aviator, Aviation, Flight Surgeon, EOD, Instructor, Freefall Jumpmaster).
-- Tiers without a picture show none instead of repeating the basic one.
+## 0.15.0
+- Navy and Marine Corps awards added from SECNAVINST 1650.1H (2006 edition): 8 decorations and unit awards, 14 medals and ribbons.
+- Each entry names the edition and says device rules are in the uniform regulations.
