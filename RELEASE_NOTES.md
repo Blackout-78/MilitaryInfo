@@ -1,3 +1,8 @@
+## 0.19.0
+- New tab: Patches (unit patches), between Ranks and Settings. Same search, branch and era filters.
+- Ranks tab is now titled Ranks only.
+- The Patches tab is empty until unit entries are added; it shows a short notice.
+
 ## 0.18.8
 - No more empty picture boxes. The 24 pages with no accurate free picture now show a text card (name, branch, one-line rule) labeled NO PICTURE AVAILABLE. Nothing is guessed or drawn wrong.
 - A real picture replaces a card when one is found.

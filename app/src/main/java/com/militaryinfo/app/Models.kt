@@ -21,7 +21,8 @@ enum class Tab(
     UNIFORMS("uniforms", "Uniforms", "Uniforms", "Search BDU, Woodland, pinks and greens", R.drawable.ic_shirt),
     MEDALS("medals", "Medals", "Medals and ribbons", "Search medal, ribbon, device", R.drawable.ic_medal),
     BADGES("badges", "Badges", "Badges and devices", "Search sharpshooter, airborne, bar", R.drawable.ic_shield),
-    RANKS("ranks", "Ranks", "Patches and ranks", "Search sergeant, stripes, tab, patch", R.drawable.ic_chevrons_up),
+    RANKS("ranks", "Ranks", "Ranks", "Search sergeant, stripes, captain, admiral", R.drawable.ic_chevrons_up),
+    PATCHES("patches", "Patches", "Unit patches", "Search division, airborne, tab, 1st Cavalry", R.drawable.ic_patch),
     SETTINGS("settings", "Settings", "Settings", "", R.drawable.ic_settings)
 }
 

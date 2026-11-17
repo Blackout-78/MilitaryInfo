@@ -66,7 +66,8 @@ class MainActivity : Activity() {
 
     private fun screenFor(tab: Tab): View = screens.getOrPut(tab) {
         if (tab == Tab.SETTINGS) SettingsView(this, entries, loadError)
-        else CatalogView(this, tab, entries, emptyText()) { openDetail(it) }
+        else CatalogView(this, tab, entries,
+            if (tab == Tab.PATCHES && entries.none { it.tab == tab.key } && loadError == null) "Unit patches are being added. Check Releases for updates." else emptyText()) { openDetail(it) }
     }
 
     private fun showTab(tab: Tab) {

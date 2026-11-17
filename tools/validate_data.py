@@ -13,7 +13,7 @@ from pathlib import Path
 DATA = Path(__file__).resolve().parent.parent / "app/src/main/assets/data/entries.json"
 IMAGES = DATA.parent.parent / "images"
 
-TABS = {"uniforms", "medals", "badges", "ranks"}
+TABS = {"uniforms", "medals", "badges", "ranks", "patches"}
 BRANCHES = {"Army", "Navy", "Marine Corps", "Air Force", "Coast Guard", "Space Force"}
 ERAS = {"ww1", "interwar", "ww2", "korea", "vietnam", "coldwar", "gulf", "modern"}
 PROOFS = {"official", "historical", "unverified"}
