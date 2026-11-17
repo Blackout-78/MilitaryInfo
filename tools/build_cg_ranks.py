@@ -46,11 +46,11 @@ for i,leaf,txt in [('co-maj','gold','A gold oak leaf; the stem faces outboard (p
     g='O-4' if i=='co-maj' else 'O-5'
     setx(i,f'Coast Guard {g}. Collar: {leaf} oak leaf, stem outboard.',[f'Grade: {g}','Collar insignia: '+txt]+common,[S('4.A.1'),S('4.A.3')],'official',f'{leaf.capitalize()} oak leaf')
 for i,g,txt in [('co-2lt','O-1','Collar bar'),('co-1lt','O-2','Collar bar'),('co-cpt','O-3','Collar bars')]:
-    e=by[i]; e['facts']=[f for f in e['facts'] if 'Unverified: no official' not in f]+[UNV+'color and number of collar bars (the manual shows them only as pictures)']+common
+    e=by[i]; e['facts']=[f for f in e['facts'] if f.startswith(('Grade','Insignia','Coast Guard collar'))]+[UNV+'color and number of collar bars (the manual shows them only as pictures)']+common
     e['sources']=[S('4.A.1')]+[s for s in e['sources'] if 'Picture' in s]
 setx('co-col','Coast Guard O-6. Collar: silver eagle, always facing forward.',['Grade: O-6','Collar insignia: an eagle; always faces forward, or to the wearer\'s right where there is no fore/aft (para 4.A.1 note)',UNV+'eagle color']+common,[S('4.A.1')]+[s for s in by['co-col']['sources'] if 'Picture' in s],'unverified','Eagle, faces forward')
 for i,g in [('co-bg','O-7'),('co-mg','O-8'),('co-lg','O-9'),('co-gen','O-10')]:
-    e=by[i]; e['facts']=[f for f in e['facts'] if 'Unverified: no official' not in f]+['Flag officer collar stars are metal, 9/16 inch circumference, attached point to point (para 4.A.1)','Flag officer shoulder boards: 1 1/2-inch gold lace on blue, with a silver fouled anchor and silver shield (para 4.A.1)',UNV+'number of stars (figure only)']+common
+    e=by[i]; e['facts']=[f for f in e['facts'] if f.startswith(('Grade','Insignia','Coast Guard collar'))]+['Flag officer collar stars are metal, 9/16 inch circumference, attached point to point (para 4.A.1)','Flag officer shoulder boards: 1 1/2-inch gold lace on blue, with a silver fouled anchor and silver shield (para 4.A.1)',UNV+'number of stars (figure only)']+common
     e['sources']=[S('4.A.1')]+[s for s in e['sources'] if 'Picture' in s]
 # warrants
 for i,g,col in [('cw-w2','W-2','gold'),('cw-w3','W-3','silver'),('cw-w4','W-4','silver')]:

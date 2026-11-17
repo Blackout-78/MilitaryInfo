@@ -1,3 +1,6 @@
+## 0.17.4
+- Fix: Coast Guard officer pages showed duplicated lines from 0.17.3. Cleaned.
+
 ## 0.17.3
 - Coast Guard ranks checked line by line against COMDTINST M1020.6K (7 Jul 2020): enlisted non-rate stripes (E-1 to E-3), petty officer collar chevrons and rating badge, chief anchor and stars, officer sleeve stripes, oak leaf colors, warrant sleeve stripe. 10 entries now Official; anything the manual shows only in pictures stays marked UNVERIFIED inside the entry.
 
