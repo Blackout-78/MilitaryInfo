@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.13.4-dod-wide",
+ "dataVersion": "0.14.0-air-space",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -709,57 +709,40 @@
    "id": "m-aam",
    "tab": "medals",
    "group": "Decorations",
-   "name": "Army Achievement Medal",
+   "name": "Aerial Achievement Medal",
    "branches": [
-    "Army"
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "coldwar",
     "gulf",
     "modern"
    ],
-   "yearFrom": 1981,
+   "yearFrom": 1988,
    "yearTo": null,
-   "summary": "Meritorious service or achievement of a lesser degree than required for the Army Commendation Medal.",
+   "summary": "Sustained meritorious achievement while taking part in aerial flight.",
    "facts": [
-    "Established by the Secretary of the Army, 10 April 1981 (AGO 1990-15)",
-    "C device: on or after 7 Jan 2016 (para 3-20e)",
-    "R device: specific achievement, on or after 7 Jan 2016 (para 3-20f)",
-    "No V device rule is stated for this medal",
-    "Order of wear: No. 28 in the Army table for decorations. Lower numbers are worn first (higher)."
+    "Established by the Secretary of the Air Force, 5 Feb 1988",
+    "Not for single-event flights",
+    "Since 9 Jan 2003 includes remotely piloted aircraft operators"
    ],
-   "remember": "1981. One step below the ARCOM.",
+   "remember": null,
    "swatches": [],
    "variants": [],
    "attachments": [
     {
-     "name": "C device",
-     "note": "Meritorious service or achievement under combat conditions, on or after 7 Jan 2016 (para 6-6).",
-     "variants": [],
-     "link": "m-dev-c"
-    },
-    {
-     "name": "R device",
-     "note": "Specific meritorious achievement, on or after 7 Jan 2016 (para 6-7).",
-     "variants": [],
-     "link": "m-dev-r"
-    },
-    {
      "name": "Oak leaf cluster",
-     "note": "Second and later awards (para 1-22, 6-3).",
+     "note": "Second and later awards: bronze oak leaf cluster, silver for the sixth, eleventh and so on, or instead of five bronze (para A16.13).",
      "variants": [],
      "link": "m-dev-olc"
     }
    ],
    "proof": "official",
    "sources": [
-    "AR 600-8-22, Military Awards, 19 Jan 2024, para 3-20",
-    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
-    "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
-    "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
-    "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches"
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A2.13 (PDF supplied by the app owner)"
    ],
-   "image": "ribbons/m-aam.png"
+   "image": null
   },
   {
    "id": "m-purple-heart",
@@ -2862,7 +2845,9 @@
    "group": "Devices",
    "name": "Oak leaf cluster",
    "branches": [
-    "Army"
+    "Army",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "modern"
@@ -2875,7 +2860,8 @@
     "Used on second and later awards of decorations (except the Air Medal), the ARCAM, and unit awards",
     "Size: 13/32 inch on the suspension ribbon, 5/16 inch on the ribbon bar and unit award",
     "Silver equals five bronze; wear no more than four per ribbon, then add a second ribbon",
-    "Posthumous awards: the device is attached to the medal (para 1-24h)"
+    "Posthumous awards: the device is attached to the medal (para 1-24h)",
+    "Department of the Air Force: Three sizes and two colors; bronze for the 2nd to 5th award, silver for the 6th or instead of five bronze"
    ],
    "remember": "Bronze is one. Silver is five. Max four per ribbon.",
    "swatches": [],
@@ -2907,7 +2893,8 @@
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 1-22, 6-3",
-    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.13 (PDF supplied by the app owner)"
    ],
    "image": null
   },
@@ -2946,7 +2933,9 @@
    "group": "Devices",
    "name": "V device",
    "branches": [
-    "Army"
+    "Army",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "modern"
@@ -2958,7 +2947,9 @@
     "Serifs at the top of either side of the V",
     "Only one V is worn on the service ribbon, even for multiple valor awards",
     "Use for any other purpose is prohibited",
-    "Not authorized on the Medal of Honor, DSC, Silver Star, or Soldier's Medal"
+    "Not authorized on the Medal of Honor, DSC, Silver Star, or Soldier's Medal",
+    "Department of the Air Force: Since 7 Jan 2016 only on the DFC, BSM, Air Medal and ASCOM",
+    "Department of the Air Force: No longer on unit awards since 1 Jan 2014"
    ],
    "remember": "V is for valor. One per ribbon.",
    "swatches": [],
@@ -2979,7 +2970,8 @@
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-5, table 3-1",
-    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.16 (PDF supplied by the app owner)"
    ],
    "image": null
   },
@@ -2989,7 +2981,9 @@
    "group": "Devices",
    "name": "C device",
    "branches": [
-    "Army"
+    "Army",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "modern"
@@ -3000,7 +2994,9 @@
    "facts": [
     "Authorized on the DSM, LM, DFC, Air Medal, ARCOM, and AAM on or after 7 January 2016",
     "Not authorized on the Bronze Star Medal or the Meritorious Service Medal",
-    "Only one C is worn on the service ribbon"
+    "Only one C is worn on the service ribbon",
+    "Department of the Air Force: Started 7 Jan 2016 and is not retroactive",
+    "Department of the Air Force: Not authorized on the Bronze Star Medal"
    ],
    "remember": "C is for combat, since 7 Jan 2016.",
    "swatches": [],
@@ -3009,7 +3005,8 @@
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-6",
-    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.8 (PDF supplied by the app owner)"
    ],
    "image": null
   },
@@ -3019,7 +3016,9 @@
    "group": "Devices",
    "name": "R device",
    "branches": [
-    "Army"
+    "Army",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "modern"
@@ -3030,7 +3029,9 @@
    "facts": [
     "Authorized on the LM, MSM, ARCOM, and AAM on or after 7 January 2016",
     "Not used on sustained-service medals",
-    "Only one R is worn on the service ribbon"
+    "Only one R is worn on the service ribbon",
+    "Department of the Air Force: Started 7 Jan 2016 and is not retroactive; for remotely piloted aircraft, cyber, space and ISR career fields",
+    "Department of the Air Force: Only on decorations for specific meritorious achievement, not end-of-tour awards"
    ],
    "remember": "R is for a specific achievement.",
    "swatches": [],
@@ -3039,7 +3040,8 @@
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-7",
-    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.14 (PDF supplied by the app owner)"
    ],
    "image": null
   },
@@ -3049,7 +3051,9 @@
    "group": "Devices",
    "name": "M device",
    "branches": [
-    "Army"
+    "Army",
+    "Air Force",
+    "Space Force"
    ],
    "eras": [
     "modern"
@@ -3059,7 +3063,8 @@
    "summary": "Letter M for Reserve Component members who volunteer for or serve on active duty in designated operations.",
    "facts": [
     "Worn on the Armed Forces Reserve Medal",
-    "One per operation; numbering begins with the second award"
+    "One per operation; numbering begins with the second award",
+    "Department of the Air Force: Bronze M for Reserve mobilization on or after 1 Aug 1990, worn on the Armed Forces Reserve Medal"
    ],
    "remember": "M is for mobilized.",
    "swatches": [],
@@ -3068,7 +3073,8 @@
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-9",
-    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.10 (PDF supplied by the app owner)"
    ],
    "image": null
   },
@@ -3123,7 +3129,8 @@
     "On medals it marks a campaign; on ribbons it marks an additional award",
     "A silver star is worn instead of five bronze stars",
     "Also authorized on the Army Sea Duty Ribbon",
-    "DoD manual: Service stars are bronze or silver, 3/16 inch; campaign medals use the campaign star instead"
+    "DoD manual: Service stars are bronze or silver, 3/16 inch; campaign medals use the campaign star instead",
+    "Department of the Air Force: Also called a campaign star; also shows both rifle and handgun Expert on the Small Arms Expert Marksmanship Ribbon"
    ],
    "remember": "Bronze is one. Silver is five.",
    "swatches": [],
@@ -3156,7 +3163,8 @@
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-11",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
-    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.3 to 4.15 (PDF supplied by the app owner)"
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.3 to 4.15 (PDF supplied by the app owner)",
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.15 (PDF supplied by the app owner)"
    ],
    "image": null
   },
@@ -3179,7 +3187,8 @@
    "facts": [
     "The Soldier must exit the aircraft or watercraft",
     "One per ribbon",
-    "DoD manual: Authorized for the Afghanistan, Iraq and Inherent Resolve Campaign Medals and the Armed Forces Expeditionary and Global War on Terrorism Expeditionary Medals, as authorized by the Secretary of the Army or the Secretary of the Air Force"
+    "DoD manual: Authorized for the Afghanistan, Iraq and Inherent Resolve Campaign Medals and the Armed Forces Expeditionary and Global War on Terrorism Expeditionary Medals, as authorized by the Secretary of the Army or the Secretary of the Air Force",
+    "Department of the Air Force: Bronze, 1/4 inch high and 1/8 inch wide; worn point up, to the wearer's right of all service stars; only one per ribbon"
    ],
    "remember": "Arrowhead means you made the assault.",
    "swatches": [],
@@ -3201,7 +3210,8 @@
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-12",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
-    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.1, 4.3, 4.6, 4.9, 4.10 (PDF supplied by the app owner)"
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.1, 4.3, 4.6, 4.9, 4.10 (PDF supplied by the app owner)",
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.5 (PDF supplied by the app owner)"
    ],
    "image": null
   },
@@ -3211,7 +3221,8 @@
    "group": "Devices",
    "name": "Berlin Airlift device",
    "branches": [
-    "Army"
+    "Army",
+    "Air Force"
    ],
    "eras": [
     "modern"
@@ -3222,7 +3233,8 @@
    "facts": [
     "92 consecutive days with a Berlin Airlift unit, or on an individual field-authority award",
     "Period: 26 June 1948 to 30 September 1949",
-    "Worn on the Army of Occupation Medal"
+    "Worn on the Army of Occupation Medal",
+    "Department of the Air Force: For 90 or more consecutive days between 26 Jun 1948 and 30 Sep 1949 in a unit named for the Berlin Airlift; worn with the aircraft nose up at 30 degrees toward the wearer's right shoulder"
    ],
    "remember": "C-54, 1948 to 1949.",
    "swatches": [],
@@ -3243,7 +3255,8 @@
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-13",
-    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.6 (PDF supplied by the app owner)"
    ],
    "image": null
   },
@@ -10705,8 +10718,8 @@
     "Navy",
     "Marine Corps",
     "Air Force",
-    "Space Force",
-    "Coast Guard"
+    "Coast Guard",
+    "Space Force"
    ],
    "eras": [
     "modern"
@@ -10717,7 +10730,8 @@
    "facts": [
     "Bronze is 10 years, silver 20 years, gold 30 years",
     "A gold and a bronze together mean 40 years",
-    "Shown first (the wearer's right), then the M device, when both are worn"
+    "Shown first (the wearer's right), then the M device, when both are worn",
+    "Department of the Air Force: 5/16 inch hourglass with a Roman numeral X; bronze, silver and gold for each 10 years"
    ],
    "remember": null,
    "swatches": [],
@@ -10725,7 +10739,8 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.5.j (PDF supplied by the app owner)"
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.5.j (PDF supplied by the app owner)",
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.9 (PDF supplied by the app owner)"
    ],
    "image": null
   },
@@ -10758,6 +10773,1154 @@
    "proof": "official",
    "sources": [
     "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.1 to 3.9 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-af-cross",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Air Force Cross",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1960,
+   "yearTo": null,
+   "summary": "Extraordinary heroism in action, not enough for the Medal of Honor, for Air Force and Space Force members.",
+   "facts": [
+    "Established by PL 88-593 (1965), effective 6 Jul 1960",
+    "Awarded to members of the Air Force or Space Force",
+    "Second highest decoration after the Medal of Honor in the military service crosses"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Oak leaf cluster",
+     "note": "Second and later awards: bronze oak leaf cluster, silver for the sixth, eleventh and so on, or instead of five bronze (para A16.13).",
+     "variants": [],
+     "link": "m-dev-olc"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A2.3 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-af-dsm",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Air Force Distinguished Service Medal",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "ww1",
+    "interwar",
+    "ww2",
+    "korea",
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1918,
+   "yearTo": null,
+   "summary": "Exceptionally meritorious service in a duty of great responsibility; limited mostly to general officers.",
+   "facts": [
+    "Established by act of Congress, 9 Jul 1918",
+    "Restricted to a minimum 18 months in a general officer position and 36 months as a general officer, and to the CMSAF and CMSSF",
+    "Authorized devices: C device and oak leaf cluster"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "C device",
+     "note": "Combat: exceptionally meritorious service in combat on or after 7 Jan 2016 (para A16.8).",
+     "variants": [],
+     "link": "m-dev-c"
+    },
+    {
+     "name": "Oak leaf cluster",
+     "note": "Second and later awards: bronze oak leaf cluster, silver for the sixth, eleventh and so on, or instead of five bronze (para A16.13).",
+     "variants": [],
+     "link": "m-dev-olc"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A2.4 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-airmans",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Airman's Medal",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1960,
+   "yearTo": null,
+   "summary": "Heroism with voluntary risk of life not involving conflict with an armed enemy.",
+   "facts": [
+    "Established 1960 (10 USC 9280)",
+    "Saving a life is not required; the act must involve personal hazard",
+    "Not awarded for normal performance of duty"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Oak leaf cluster",
+     "note": "Second and later awards: bronze oak leaf cluster, silver for the sixth, eleventh and so on, or instead of five bronze (para A16.13).",
+     "variants": [],
+     "link": "m-dev-olc"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A2.8 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-ascom",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Air and Space Commendation Medal",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1958,
+   "yearTo": null,
+   "summary": "Meritorious achievement or service, valor or heroism, for O-6 and below.",
+   "facts": [
+    "Established 24 Mar 1958; renamed from Air Force Commendation Medal on 16 Nov 2020",
+    "Not awarded to general or flag officers",
+    "Authorized devices: V, C, R and oak leaf cluster"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "V device",
+     "note": "Valor. Since 7 Jan 2016 only on the DFC, BSM, Air Medal and ASCOM (para A16.16.3).",
+     "variants": [],
+     "link": "m-dev-v"
+    },
+    {
+     "name": "C device",
+     "note": "Combat: exceptionally meritorious service in combat on or after 7 Jan 2016 (para A16.8).",
+     "variants": [],
+     "link": "m-dev-c"
+    },
+    {
+     "name": "R device",
+     "note": "Remote: hands-on weapon system employment, on or after 7 Jan 2016 (para A16.14).",
+     "variants": [],
+     "link": "m-dev-r"
+    },
+    {
+     "name": "Oak leaf cluster",
+     "note": "Second and later awards: bronze oak leaf cluster, silver for the sixth, eleventh and so on, or instead of five bronze (para A16.13).",
+     "variants": [],
+     "link": "m-dev-olc"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A2.14 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-asam",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Air and Space Achievement Medal",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1980,
+   "yearTo": null,
+   "summary": "Outstanding achievement or meritorious service, for O-5 and below.",
+   "facts": [
+    "Established 12 Oct 1980; renamed from Air Force Achievement Medal on 16 Nov 2020",
+    "Not for aerial achievement or retirement",
+    "The V device was authorized only for acts from 11 Jan 1996 to 6 Jan 2016",
+    "Authorized devices: C, R and oak leaf cluster"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "C device",
+     "note": "Combat: exceptionally meritorious service in combat on or after 7 Jan 2016 (para A16.8).",
+     "variants": [],
+     "link": "m-dev-c"
+    },
+    {
+     "name": "R device",
+     "note": "Remote: hands-on weapon system employment, on or after 7 Jan 2016 (para A16.14).",
+     "variants": [],
+     "link": "m-dev-r"
+    },
+    {
+     "name": "Oak leaf cluster",
+     "note": "Second and later awards: bronze oak leaf cluster, silver for the sixth, eleventh and so on, or instead of five bronze (para A16.13).",
+     "variants": [],
+     "link": "m-dev-olc"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A2.15 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-cam",
+   "tab": "medals",
+   "group": "Service medals",
+   "name": "Combat Action Medal",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": 2001,
+   "yearTo": null,
+   "summary": "Actively taking part in ground or air combat, outside the wire and under enemy fire.",
+   "facts": [
+    "Established by the Secretary of the Air Force, 15 Mar 2007 (renamed from Air Force Combat Action Medal 16 Nov 2020)",
+    "For members E-1 through O-6 on or after 11 Sep 2001",
+    "May be awarded to members of other military departments",
+    "Authorized device: gold star"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Gold star",
+     "note": "Authorized device (para A14.2.8; see Attachment 16).",
+     "variants": []
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.2 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-crm",
+   "tab": "medals",
+   "group": "Service medals",
+   "name": "Combat Readiness Medal",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1960,
+   "yearTo": null,
+   "summary": "Sustained individual combat mission readiness after 1 Aug 1960.",
+   "facts": [
+    "Authorized by the Secretary of the Air Force, 9 Mar 1964",
+    "Oak leaf cluster for each additional 24 months of qualifying service",
+    "From 18 Apr 2018, must be a crew member in a designated weapon system in an operational combat or combat support unit"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Oak leaf cluster",
+     "note": "Second and later awards: bronze oak leaf cluster, silver for the sixth, eleventh and so on, or instead of five bronze (para A16.13).",
+     "variants": [],
+     "link": "m-dev-olc"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.3 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-afgcm",
+   "tab": "medals",
+   "group": "Service medals",
+   "name": "Air Force Good Conduct Medal",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1963,
+   "yearTo": null,
+   "summary": "Exemplary conduct, efficiency and fidelity for enlisted Air Force members.",
+   "facts": [
+    "Established by EO 8809; service on or after 1 Jun 1963",
+    "Terminated 6 Feb 2006, reinstated 22 Nov 2008, retroactive to 6 Feb 2006",
+    "Service in a sister service is not counted"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Oak leaf cluster",
+     "note": "Second and later awards: bronze oak leaf cluster, silver for the sixth, eleventh and so on, or instead of five bronze (para A16.13).",
+     "variants": [],
+     "link": "m-dev-olc"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.4 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-sfgcm",
+   "tab": "medals",
+   "group": "Service medals",
+   "name": "Space Force Good Conduct Medal",
+   "branches": [
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": 2019,
+   "yearTo": null,
+   "summary": "Exemplary conduct for enlisted Space Force members.",
+   "facts": [
+    "Established by the Secretary of the Air Force, 30 Aug 2023, under the 3 Oct 2022 amendment to EO 8809",
+    "Service on active duty with the Space Force on or after 20 Dec 2019",
+    "Service in a sister service is not counted"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Oak leaf cluster",
+     "note": "Second and later awards: bronze oak leaf cluster, silver for the sixth, eleventh and so on, or instead of five bronze (para A16.13).",
+     "variants": [],
+     "link": "m-dev-olc"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.5 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-arfmsm",
+   "tab": "medals",
+   "group": "Service medals",
+   "name": "Air Reserve Forces Meritorious Service Medal",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1964,
+   "yearTo": null,
+   "summary": "Enlisted Air National Guard and Air Force Reserve service of good behavior, efficiency and fidelity.",
+   "facts": [
+    "Established 7 Apr 1964",
+    "4 continuous years from 1 Apr 1965, or 3 continuous years from 1 Jul 1975",
+    "Creditable service ends when called to active duty"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Oak leaf cluster",
+     "note": "Second and later awards: bronze oak leaf cluster, silver for the sixth, eleventh and so on, or instead of five bronze (para A16.13).",
+     "variants": [],
+     "link": "m-dev-olc"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.6 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-oayr",
+   "tab": "medals",
+   "group": "Ribbons",
+   "name": "Outstanding Airman of the Year Ribbon",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1968,
+   "yearTo": null,
+   "summary": "Competitors and selectees in the Outstanding Airmen of the Year program.",
+   "facts": [
+    "Established 21 Feb 1968",
+    "Authorized devices: oak leaf cluster and bronze service star"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Oak leaf cluster",
+     "note": "Second and later awards: bronze oak leaf cluster, silver for the sixth, eleventh and so on, or instead of five bronze (para A16.13).",
+     "variants": [],
+     "link": "m-dev-olc"
+    },
+    {
+     "name": "Service star",
+     "note": "Bronze or silver five-pointed star; silver replaces five bronze (para A16.15).",
+     "variants": [],
+     "link": "m-dev-star"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.7 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-asrr",
+   "tab": "medals",
+   "group": "Ribbons",
+   "name": "Air and Space Recognition Ribbon",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1980,
+   "yearTo": null,
+   "summary": "Overall winners of a headquarters or functional community award.",
+   "facts": [
+    "Established 10 Oct 1980; renamed from Air Force Recognition Ribbon on 16 Nov 2020",
+    "Not for organizations, units or activities"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Oak leaf cluster",
+     "note": "Second and later awards: bronze oak leaf cluster, silver for the sixth, eleventh and so on, or instead of five bronze (para A16.13).",
+     "variants": [],
+     "link": "m-dev-olc"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.8 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-rcecm",
+   "tab": "medals",
+   "group": "Service medals",
+   "name": "Remote Combat Effects Campaign Medal",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": 2001,
+   "yearTo": null,
+   "summary": "Direct participation in a DoD combat operation, mainly by remotely piloted aircraft, cyber and similar crews.",
+   "facts": [
+    "Established by the Secretary of the Air Force, 22 May 2019",
+    "For service on or after 11 Sep 2001",
+    "Worn after the MOVSM and before the Air and Space Campaign Medal",
+    "Authorized device: bronze service star"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Service star",
+     "note": "Bronze or silver five-pointed star; silver replaces five bronze (para A16.15).",
+     "variants": [],
+     "link": "m-dev-star"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.9 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-ascm",
+   "tab": "medals",
+   "group": "Service medals",
+   "name": "Air and Space Campaign Medal",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": 1999,
+   "yearTo": null,
+   "summary": "Direct support of a designated significant operation from home station or outside DoD campaign areas.",
+   "facts": [
+    "Established 24 Apr 2002, for service after 24 Mar 1999",
+    "30 consecutive or 60 non-consecutive days of direct support",
+    "Authorized device: service star"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Service star",
+     "note": "Bronze or silver five-pointed star; silver replaces five bronze (para A16.15).",
+     "variants": [],
+     "link": "m-dev-star"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.10 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-ndosm",
+   "tab": "medals",
+   "group": "Service medals",
+   "name": "Nuclear Deterrence Operations Service Medal",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1991,
+   "yearTo": null,
+   "summary": "Direct support of nuclear deterrence operations on or after 27 Dec 1991.",
+   "facts": [
+    "Established by the Secretary of the Air Force, 27 May 2014",
+    "Basic medal: 120 consecutive or 179 non-consecutive days in a unit supporting the nuclear enterprise",
+    "Worn right after the Air and Space Campaign Medal",
+    "Devices: oak leaf cluster and Nuclear N device"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Oak leaf cluster",
+     "note": "Second and later awards: bronze oak leaf cluster, silver for the sixth, eleventh and so on, or instead of five bronze (para A16.13).",
+     "variants": [],
+     "link": "m-dev-olc"
+    },
+    {
+     "name": "Nuclear N device",
+     "note": "Bronze N for duty in an ICBM missile complex or with nuclear-laden aircraft (para A16.11).",
+     "variants": [],
+     "link": "m-dev-nuclear-n"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.11 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-asor",
+   "tab": "medals",
+   "group": "Ribbons",
+   "name": "Air and Space Overseas Ribbon (Short and Long Tour)",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1980,
+   "yearTo": null,
+   "summary": "Completion of an overseas tour; one ribbon for short tours, one for long tours.",
+   "facts": [
+    "Established 12 Oct 1980; renamed from Air Force Overseas Ribbon on 16 Nov 2020",
+    "Devices: oak leaf cluster and Arctic A device (short tour ribbon)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Oak leaf cluster",
+     "note": "Second and later awards: bronze oak leaf cluster, silver for the sixth, eleventh and so on, or instead of five bronze (para A16.13).",
+     "variants": [],
+     "link": "m-dev-olc"
+    },
+    {
+     "name": "Arctic A device",
+     "note": "Bronze A on the short tour ribbon for an Arctic Circle tour or Pituffik Space Base (Thule) service (para A16.3).",
+     "variants": [],
+     "link": "m-dev-arctic-a"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.12 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-asesr",
+   "tab": "medals",
+   "group": "Ribbons",
+   "name": "Air and Space Expeditionary Service Ribbon",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": 1999,
+   "yearTo": null,
+   "summary": "Completion of a contingency deployment after 1 Oct 1999.",
+   "facts": [
+    "Established by the Secretary of the Air Force, 18 Jun 2003; gold border added April 2004 for combat operations",
+    "Renamed from Air Force Expeditionary Service Ribbon on 16 Nov 2020",
+    "Devices: oak leaf cluster and gold border"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Oak leaf cluster",
+     "note": "Second and later awards: bronze oak leaf cluster, silver for the sixth, eleventh and so on, or instead of five bronze (para A16.13).",
+     "variants": [],
+     "link": "m-dev-olc"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.13 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-aslsa",
+   "tab": "medals",
+   "group": "Ribbons",
+   "name": "Air and Space Longevity Service Award",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1957,
+   "yearTo": null,
+   "summary": "Each 4 years of honorable federal military service.",
+   "facts": [
+    "Established 25 Nov 1957; renamed from Air Force Longevity Service Award on 16 Nov 2020",
+    "Authorized device: oak leaf cluster"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Oak leaf cluster",
+     "note": "Second and later awards: bronze oak leaf cluster, silver for the sixth, eleventh and so on, or instead of five bronze (para A16.13).",
+     "variants": [],
+     "link": "m-dev-olc"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.14 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-dsdr",
+   "tab": "medals",
+   "group": "Ribbons",
+   "name": "Developmental Special Duty Ribbon",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": 2014,
+   "yearTo": null,
+   "summary": "Completion of a developmental special duty.",
+   "facts": [
+    "Established by the Secretary of the Air Force, 4 Sep 2014; not retroactive",
+    "Worn right after the Air and Space Longevity Service Award"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Oak leaf cluster",
+     "note": "Second and later awards: bronze oak leaf cluster, silver for the sixth, eleventh and so on, or instead of five bronze (para A16.13).",
+     "variants": [],
+     "link": "m-dev-olc"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.15 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-epmeg",
+   "tab": "medals",
+   "group": "Ribbons",
+   "name": "Air and Space Forces Enlisted Professional Military Education Graduate Ribbon",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1962,
+   "yearTo": null,
+   "summary": "In-residence graduates of certified enlisted professional military education schools.",
+   "facts": [
+    "Established 28 Aug 1962",
+    "Oak leaf cluster for each higher level completed"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Oak leaf cluster",
+     "note": "Second and later awards: bronze oak leaf cluster, silver for the sixth, eleventh and so on, or instead of five bronze (para A16.13).",
+     "variants": [],
+     "link": "m-dev-olc"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.16 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-bmthgr",
+   "tab": "medals",
+   "group": "Ribbons",
+   "name": "Basic Military Training Honor Graduate Ribbon",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1976,
+   "yearTo": null,
+   "summary": "Honor graduates of basic military training.",
+   "facts": [
+    "Established 3 Apr 1976, effective 30 Jul 1976",
+    "No devices"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.17 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-saemr",
+   "tab": "medals",
+   "group": "Ribbons",
+   "name": "Small Arms Expert Marksmanship Ribbon",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1963,
+   "yearTo": null,
+   "summary": "Qualifying Expert with the rifle or an issued handgun.",
+   "facts": [
+    "Established 28 Aug 1962, effective 1 Jan 1963",
+    "A bronze service star shows Expert with both rifle and handgun (after 22 Jun 1972)",
+    "Open to Space Force members from 20 Dec 2019"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Service star",
+     "note": "Bronze or silver five-pointed star; silver replaces five bronze (para A16.15).",
+     "variants": [],
+     "link": "m-dev-star"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.18 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-astr",
+   "tab": "medals",
+   "group": "Ribbons",
+   "name": "Air and Space Training Ribbon",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1974,
+   "yearTo": null,
+   "summary": "Completion of initial accession training after 14 Aug 1974.",
+   "facts": [
+    "Authorized 12 Oct 1980; renamed from Air Force Training Ribbon on 16 Nov 2020",
+    "Open to Space Force members from 20 Dec 2019"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Oak leaf cluster",
+     "note": "Second and later awards: bronze oak leaf cluster, silver for the sixth, eleventh and so on, or instead of five bronze (para A16.13).",
+     "variants": [],
+     "link": "m-dev-olc"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.19 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-guc",
+   "tab": "medals",
+   "group": "Unit awards",
+   "name": "Gallant Unit Citation",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": 2001,
+   "yearTo": null,
+   "summary": "Units showing extraordinary heroism against an armed enemy on or after 11 Sep 2001, below the Presidential Unit Citation.",
+   "facts": [
+    "Established by the Secretary of the Air Force, March 2004"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Oak leaf cluster",
+     "note": "Second and later awards: bronze oak leaf cluster, silver for the sixth, eleventh and so on, or instead of five bronze (para A16.13).",
+     "variants": [],
+     "link": "m-dev-olc"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A9.2 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-mua",
+   "tab": "medals",
+   "group": "Unit awards",
+   "name": "Meritorious Unit Award",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": 2001,
+   "yearTo": null,
+   "summary": "Exceptionally meritorious service in direct support of combat operations for at least 90 continuous days.",
+   "facts": [
+    "Established by the Secretary of the Air Force, March 2004",
+    "Awarded to squadrons, groups, deltas and wings"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Oak leaf cluster",
+     "note": "Second and later awards: bronze oak leaf cluster, silver for the sixth, eleventh and so on, or instead of five bronze (para A16.13).",
+     "variants": [],
+     "link": "m-dev-olc"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A9.3 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-asoua",
+   "tab": "medals",
+   "group": "Unit awards",
+   "name": "Air and Space Outstanding Unit Award",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "korea",
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1954,
+   "yearTo": null,
+   "summary": "Numbered units with exceptionally meritorious service or outstanding achievement.",
+   "facts": [
+    "Established 6 Jan 1954; renamed from Air Force Outstanding Unit Award on 16 Nov 2020",
+    "V device no longer authorized on unit awards since 1 Jan 2014"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Oak leaf cluster",
+     "note": "Second and later awards: bronze oak leaf cluster, silver for the sixth, eleventh and so on, or instead of five bronze (para A16.13).",
+     "variants": [],
+     "link": "m-dev-olc"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A9.4 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-asoea",
+   "tab": "medals",
+   "group": "Unit awards",
+   "name": "Air and Space Organizational Excellence Award",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1969,
+   "yearTo": null,
+   "summary": "Unnumbered Department of the Air Force organizations and activities.",
+   "facts": [
+    "Established August 1969; renamed from Air Force Organizational Excellence Award on 16 Nov 2020"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Oak leaf cluster",
+     "note": "Second and later awards: bronze oak leaf cluster, silver for the sixth, eleventh and so on, or instead of five bronze (para A16.13).",
+     "variants": [],
+     "link": "m-dev-olc"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A9.5 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-dev-arctic-a",
+   "tab": "medals",
+   "group": "Devices",
+   "name": "Arctic A device",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Bronze letter A on the Air and Space Overseas Ribbon (short tour).",
+   "facts": [
+    "For a short tour above the Arctic Circle and service at Pituffik Space Base (formerly Thule), Greenland",
+    "Only one A device, however many tours",
+    "Worn to the right of any oak leaf clusters"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.3 (PDF supplied by the app owner)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-dev-nuclear-n",
+   "tab": "medals",
+   "group": "Devices",
+   "name": "Nuclear N device",
+   "branches": [
+    "Air Force",
+    "Space Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Bronze letter N on the Nuclear Deterrence Operations Service Medal.",
+   "facts": [
+    "For duty in a missile complex supporting ICBM operations or with nuclear-laden aircraft",
+    "Only one N device, however many assignments",
+    "Worn to the wearer's right of oak leaf clusters"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.11 (PDF supplied by the app owner)"
    ],
    "image": null
   }
