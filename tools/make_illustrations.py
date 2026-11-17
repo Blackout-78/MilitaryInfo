@@ -117,13 +117,6 @@ D['b-cg-aircrew']=wing_badge(anchor(200,128,42,GOLD2,GOLDD)+letter('AC',200,150,
 D['b-cg-astronaut']=wing_badge(anchor(185,125,40,GOLD2,GOLDD,-30)+anchor(215,125,40,GOLD2,GOLDD,30)+shield(200,128,40,46)+star(238,98,13,'#ffffff',GOLDD))
 D['b-cg-aviationms']=wing_badge(f'<circle cx="200" cy="125" r="42" fill="{GOLD}" stroke="{SIL}" stroke-width="7"/>'+anchor(200,125,30,SIL,PEWD))
 D['b-cg-boatforce']=oar_hook(200,140,130,PEW,PEWD)+waves(200,210,220,PEW)+compass(200,128,58,PEWL,PEWD)
-D['b-cg-diver2']=helmet(200,135,120,PEW,PEWD)
-D['b-cg-diver1']=helmet(200,135,110,PEW,PEWD)+waves(200,75,130,PEW).replace('stroke-width="5"','stroke-width="4"')+waves(200,215,130,PEW)
-D['b-cg-masterdiver']=seahorses(200,130,60,PEW,PEWD)+helmet(200,140,100,PEW,PEWD,knot=True)
-D['b-cg-dmt']=seahorses(200,130,60,PEW,PEWD)+helmet(200,140,100,PEW,PEWD)+caduceus(200,172,30,PEWD,PEWD)
-D['b-cg-honorguard']=f'<ellipse cx="200" cy="130" rx="110" ry="80" fill="{GOLD}" stroke="{GOLDD}" stroke-width="6"/>'
-D['b-cg-cmdafloat']=pennant(200,150,260,GOLD,GOLDD)+eagle(200,110,70,SIL,PEWD)
-D['b-cg-cmdashore']=oakwreath(200,130,78,GOLD,GOLDD)+eagle(200,118,60,SIL,PEWD)
 D['b-cg-oicafloat']=rope(200,130,72,PEW,PEWD)+anchor(200,128,44,PEWD,PEWD)+shield(200,128,34,40)
 D['b-cg-oicashore']=oakwreath(200,130,78,PEW,PEWD,open_top=True)+shield(200,132,50,60)
 # Army/Air Force/Coast Guard devices (shape and metal as named in the entries)

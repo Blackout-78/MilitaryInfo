@@ -1,3 +1,7 @@
+## 0.18.3
+- Picture audit: all 484 pictures checked against their titles. 7 of my own drawn illustrations did not look like what the title says (4 Coast Guard diver insignia and the diving medical technician drew a locomotive-like shape, the 2 command devices looked like a bat, the honor guard was a blank oval). Removed; those pages say "Image to add" until an accurate picture exists.
+- Everything else matched its title. Known gaps stay blank, never filled with an unrelated picture.
+
 ## 0.18.2
 - Fix: variant pages no longer show the parent's picture by mistake. The Desert BDU (six-color) page showed a Marine woodland jacket; it now shows a blank until a correct picture is found. Also fixed: Army Green Service Uniform, silver service star, oak leaf clusters, Army Service Uniform female.
 - 28 drawn illustrations where no free official picture exists: 14 Coast Guard insignia and command devices, and 14 ribbon devices (stars, numeral, C, R, M, A, N, O, hourglass, arrowhead). Each is labeled ILLUSTRATION - NOT OFFICIAL, drawn only from the manual's wording. Air Force duty badges and uniform schematics are still without pictures because their designs are not described in the sources.

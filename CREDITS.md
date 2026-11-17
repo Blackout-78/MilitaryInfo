@@ -249,13 +249,6 @@ All from Wikimedia Commons, tagged public domain. The EOD Basic and Senior pictu
 | b-cg-astronaut | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
 | b-cg-aviationms | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
 | b-cg-boatforce | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
-| b-cg-diver2 | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
-| b-cg-diver1 | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
-| b-cg-masterdiver | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
-| b-cg-dmt | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
-| b-cg-honorguard | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
-| b-cg-cmdafloat | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
-| b-cg-cmdashore | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
 | b-cg-oicafloat | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
 | b-cg-oicashore | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
 | m-dev-star | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
