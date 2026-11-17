@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.8.0-navy-ranks",
+ "dataVersion": "0.9.0-navy-uniforms-medals",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -6609,6 +6609,400 @@
    "proof": "official",
    "sources": [
     "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4231 Service Stripes (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4231/)"
+   ],
+   "image": null
+  },
+  {
+   "id": "nu-sdb-enl",
+   "tab": "uniforms",
+   "group": "Dress",
+   "name": "Service Dress Blue (male enlisted E-1 to E-6)",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Blue dress jumper uniform for male E-1 to E-6.",
+   "facts": [
+    "Basic components: Jumper, Blue Dress; Trousers, Blue, Broadfall; Hat, White; Shoes, Dress, Black; Socks, Black; Undershirt, White Crew Neck; Neckerchief; Rating Badge/Service Stripes; Ribbons",
+    "When worn: May be prescribed for wear year-round to all official functions when Dinner Dress or Full Dress uniforms are not prescribed",
+    "Prescribable items: All Weather Parka, Black Leather Gloves, Mockneck"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, chapter 3 page: Male-Enlisted/Service-Dress/Service-Dress-Blue/ (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-3/Male-Enlisted/Service-Dress/Service-Dress-Blue/)"
+   ],
+   "image": null
+  },
+  {
+   "id": "nu-khaki-off",
+   "tab": "uniforms",
+   "group": "Service",
+   "name": "Service Khaki (male officer)",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Khaki shirt and trousers service uniform for male officers.",
+   "facts": [
+    "Basic components: Shirt, Khaki; Trousers, Khaki, Service; Cap, Combination, Khaki; Shoes, Dress, Black; Socks, Black; Undershirt, White; Belt, Khaki, w/Gold Clip; Buckle, Gold; Collar Insignia; Ribbons",
+    "When worn: Summer/Winter for office work, watchstanding, liberty, or business ashore when prescribed as uniform of the day"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, chapter 3 page: Male-Officer/Service/Service-Khaki/ (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-3/Male-Officer/Service/Service-Khaki/)"
+   ],
+   "image": null
+  },
+  {
+   "id": "nu-sdw-off",
+   "tab": "uniforms",
+   "group": "Dress",
+   "name": "Service Dress White (male officer)",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "White dress coat uniform for male officers.",
+   "facts": [
+    "Basic components: Coat, Service Dress White; Trousers, White; Cap, Combination, White; Shoes, Dress, White; Socks, White; Undershirt, White; Belt, White, w/Gold Clip; Buckle, Gold; Shoulder Boards (Hard); Ribbons",
+    "When worn: May be prescribed for Summer wear when Formal Dress, Dinner Dress, or Full Dress"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, chapter 3 page: Male-Officer/Service-Dress/-Service-Dress-White (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-3/Male-Officer/Service-Dress/-Service-Dress-White)"
+   ],
+   "image": null
+  },
+  {
+   "id": "nu-nwu3",
+   "tab": "uniforms",
+   "group": "Field",
+   "name": "Navy Working Uniform Type III (male officer)",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Working uniform worn at all locations, before, during, and after the workday.",
+   "facts": [
+    "Basic components: Shirt, NWU III; Trousers, NWU III; Cap, Eight Point, with ACE Logo; Boot, Black, Leather 9 inch; Socks, Black, Boot; Undershirt, Coyote Brown, Crewneck; Belt, Khaki, Cotton or Nylon w/Gold Clip; Buckle, Gold; Insignia, Chest (Embroidered); Name/U.S. NAVY Service Tapes; Straps, Blousing",
+    "When worn: Authorized for wear at all locations, commuting and all normal task associated stops",
+    "Not a liberty uniform. Alcohol consumption in NWUs off-base is prohibited",
+    "Prescribable items: Cap Knit Watch 8, NWU Type III Parka, black leather gloves, black mockneck"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, chapter 3 page: Male-Officer/Working/NWU-III (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-3/Male-Officer/Working/NWU-III)"
+   ],
+   "image": null
+  },
+  {
+   "id": "nm-navy-cross",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Navy Cross",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy award for extraordinary heroism not justifying the Medal of Honor.",
+   "facts": [
+    "Awarded to those who distinguish themselves by extraordinary heroism, not justifying the award of the Medal of Honor (art 230, para 2.b.(1))",
+    "Citation opens: 'For extraordinary heroism . . .' (para 220.3.a)",
+    "Order of precedence among U.S. military personal decorations: number 2 of 19 (SECNAVINST 1650.1H, Appendix B to Chapter 1)"
+   ],
+   "remember": "Second only to the Medal of Honor in precedence.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, Navy and Marine Corps Awards Manual (read from the copy hosted at trngcmd.marines.mil), Art 230 para 2; para 220.3.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "nm-dsm",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Distinguished Service Medal (Navy)",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Award for exceptionally meritorious service in a duty of great responsibility.",
+   "facts": [
+    "Awarded to those who distinguish themselves by exceptionally meritorious service to the United States, in a duty of great responsibility (art 230, para 3.b)",
+    "Order of precedence among U.S. military personal decorations: number 4 of 19 (SECNAVINST 1650.1H, Appendix B to Chapter 1)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, Navy and Marine Corps Awards Manual (read from the copy hosted at trngcmd.marines.mil), Art 230 para 3; para 220.3.a"
+   ],
+   "image": null
+  },
+  {
+   "id": "nm-nmcm",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Navy and Marine Corps Medal",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Award for heroism not involving actual conflict with the enemy.",
+   "facts": [
+    "Awarded to those who distinguish themselves by heroism not involving actual conflict with the enemy (art 230, para 7.b.(1))",
+    "Order of precedence among U.S. military personal decorations: number 9 of 19 (SECNAVINST 1650.1H, Appendix B to Chapter 1)"
+   ],
+   "remember": "Heroism, not against the enemy.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, Navy and Marine Corps Awards Manual (read from the copy hosted at trngcmd.marines.mil), Art 230 para 7"
+   ],
+   "image": null
+  },
+  {
+   "id": "nm-ncm",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Navy and Marine Corps Commendation Medal",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "ww2",
+    "korea",
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1941,
+   "yearTo": null,
+   "summary": "Award for heroic or meritorious achievement or service.",
+   "facts": [
+    "Awarded to individuals, including foreign military personnel, who distinguish themselves on or after 7 December 1941 by heroic or meritorious achievement or service (art 230, para 12.b)",
+    "Order of precedence among U.S. military personal decorations: number 16 of 19 (SECNAVINST 1650.1H, Appendix B to Chapter 1)"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, Navy and Marine Corps Awards Manual (read from the copy hosted at trngcmd.marines.mil), Art 230 para 12"
+   ],
+   "image": null
+  },
+  {
+   "id": "nm-nam",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Navy and Marine Corps Achievement Medal",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Award for professional or heroic achievement in superior performance of duties.",
+   "facts": [
+    "Awarded to members of the Armed Forces of the grade of lieutenant commander or major and junior thereto (art 230, para 13.b)",
+    "Order of precedence among U.S. military personal decorations: number 18 of 19 (SECNAVINST 1650.1H, Appendix B to Chapter 1)"
+   ],
+   "remember": "Lieutenant commander and below.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, Navy and Marine Corps Awards Manual (read from the copy hosted at trngcmd.marines.mil), Art 230 para 13"
+   ],
+   "image": null
+  },
+  {
+   "id": "nm-car",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Combat Action Ribbon",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Ribbon for active participation in ground or surface combat.",
+   "facts": [
+    "Awarded to members of the Navy, Marine Corps, and Coast Guard in the grade of captain/colonel and junior thereto who have actively participated in ground or surface combat (art 230, para 14.b.(1))",
+    "Order of precedence among U.S. military personal decorations: number 19 of 19 (SECNAVINST 1650.1H, Appendix B to Chapter 1)"
+   ],
+   "remember": "Captain and below, in ground or surface combat.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, Navy and Marine Corps Awards Manual (read from the copy hosted at trngcmd.marines.mil), Art 230 para 14"
+   ],
+   "image": null
+  },
+  {
+   "id": "nm-e-ribbon",
+   "tab": "medals",
+   "group": "Unit awards",
+   "name": "Navy \"E\" Ribbon",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1974,
+   "yearTo": null,
+   "summary": "Ribbon for permanent duty on ships or in squadrons that won Battle Efficiency competitions.",
+   "facts": [
+    "Denotes permanent duty on ships or in squadrons that won Battle Efficiency competitions after 1 July 1974 (art 330, para 4.b)",
+    "Navy personnel permanently attached to and serving with cited ships and units during the competitive cycle (para 4.b.(1)(a))"
+   ],
+   "remember": "E for efficiency, after 1 July 1974.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "SECNAVINST 1650.1H, Navy and Marine Corps Awards Manual (read from the copy hosted at trngcmd.marines.mil), Art 330 para 4"
+   ],
+   "image": null
+  },
+  {
+   "id": "n-e7",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Chief Petty Officer",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy E-7. Dress blue rating badge: three chevrons and one rocker above the rating mark.",
+   "facts": [
+    "Dress blue insignia has three chevrons and one rocker above the rating mark",
+    "Secondary source: the official Navy text read did not state this insignia. Verify before relying on it"
+   ],
+   "remember": "Three chevrons and a rocker.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Wikipedia, 'List of United States Navy enlisted rates' (secondary source, not official)"
+   ],
+   "image": null
+  },
+  {
+   "id": "n-e8",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Senior Chief Petty Officer",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy E-8. One inverted star above the eagle.",
+   "facts": [
+    "One inverted five-point star denotes senior chief",
+    "Secondary source: the official Navy text read did not state this insignia. Verify before relying on it"
+   ],
+   "remember": "One star.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Wikipedia, 'List of United States Navy enlisted rates' (secondary source, not official)"
+   ],
+   "image": null
+  },
+  {
+   "id": "n-e9",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Master Chief Petty Officer",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy E-9. Two inverted stars above the eagle.",
+   "facts": [
+    "Two inverted five-point stars denote master chief",
+    "The Master Chief Petty Officer of the Navy wears a third star above the eagle (per an undated copy of NAVPERS 15665 chapter 4: three gold stars above the eagle and one gold star in place of the specialty mark)",
+    "Secondary source: the official Navy text read did not state this insignia. Verify before relying on it"
+   ],
+   "remember": "Two stars.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Wikipedia, 'List of United States Navy enlisted rates' (secondary source, not official)"
    ],
    "image": null
   }
