@@ -1,2 +1,3 @@
-## 0.13.2
-- Marine Corps rank pictures replaced (E-2 to E-9, O-1 to O-10) from the supplied NJROTC chart.
+## 0.13.3
+- Tap any variation (sew-on, pin-on, subdued, Senior, Master and so on) to open its own page.
+- Back returns to the parent entry.

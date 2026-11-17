@@ -116,6 +116,23 @@ class DetailView(
         body.addView(context.label(text, 13f, Night.accent, medium = true), lp().margins(t = context.dp(20)))
     }
 
+    private fun variantEntry(v: Variant): Entry {
+        val meta = listOfNotNull(finishLabel(v.finish), genderLabel(v.gender), v.uniform, v.era?.let { Eras.label(it) })
+        return entry.copy(
+            id = entry.id + ":" + v.label,
+            name = v.label,
+            group = entry.name,
+            eras = v.era?.let { listOf(it) } ?: entry.eras,
+            summary = v.note ?: entry.summary,
+            facts = meta,
+            remember = null,
+            swatches = v.swatches,
+            variants = emptyList(),
+            attachments = emptyList(),
+            image = v.image ?: entry.image
+        )
+    }
+
     private fun variantCard(v: Variant): View {
         val c = context
         val card = LinearLayout(c).apply {
@@ -138,6 +155,8 @@ class DetailView(
         v.note?.let { col.addView(c.label(it, 13f), lp().margins(t = c.dp(4))) }
         v.swatches.forEach { col.addView(c.swatchLine(it), lp().margins(t = c.dp(4))) }
         card.addView(col, lp(0, WRAP, 1f))
+        card.addView(c.label("\u203A", 22f, Night.accent), lp(WRAP, WRAP).apply { gravity = Gravity.CENTER_VERTICAL })
+        card.setOnClickListener { onOpen(variantEntry(v)) }
         return card
     }
 
