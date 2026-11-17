@@ -1,58 +1,42 @@
 {
  "mu-evening": [
-  "deepcategory:\"Uniforms of the United States Marine Corps\" evening dress",
-  "deepcategory:\"Uniforms of the United States Marine Corps\" dress"
+  "Marine officer evening dress uniform photo",
+  "Marine Corps Birthday Ball evening dress"
  ],
  "mu-blue-white": [
-  "deepcategory:\"Uniforms of the United States Marine Corps\" blue-white dress",
-  "deepcategory:\"Uniforms of the United States Marine Corps\" white trousers dress uniform"
- ],
- "mu-service": [
-  "deepcategory:\"Uniforms of the United States Marine Corps\" service uniform",
-  "deepcategory:\"Uniforms of the United States Marine Corps\" green service coat"
+  "Marine blue white dress uniform white trousers",
+  "Marine officer white trousers dress uniform"
  ],
  "mu-pt": [
-  "deepcategory:\"Uniforms of the United States Marine Corps\" physical training",
-  "deepcategory:\"Uniforms of the United States Marine Corps\" PT"
- ],
- "au-mess": [
-  "deepcategory:\"Uniforms of the United States Air Force\" mess dress",
-  "deepcategory:\"Uniforms of the United States Air Force\" dress"
+  "Marines physical training uniform running",
+  "Marine recruits physical training green shirt shorts"
  ],
  "au-semi": [
-  "deepcategory:\"Uniforms of the United States Air Force\" service dress",
-  "deepcategory:\"Uniforms of the United States Air Force\" blues"
- ],
- "au-service": [
-  "deepcategory:\"Uniforms of the United States Air Force\" service dress blue",
-  "deepcategory:\"Uniforms of the United States Air Force\" blues uniform"
+  "Air Force semi-formal dress uniform",
+  "Airman service dress coat no name tag ball"
  ],
  "au-ptg": [
-  "deepcategory:\"Uniforms of the United States Air Force\" physical training",
-  "deepcategory:\"Uniforms of the United States Air Force\" PT gear"
- ],
- "au-fdu": [
-  "deepcategory:\"Uniforms of the United States Air Force\" flight suit",
-  "deepcategory:\"Uniforms of the United States Air Force\" flight duty"
+  "Airmen physical training gear PT uniform run",
+  "Air Force physical fitness assessment airmen PT"
  ],
  "cu-formal": [
-  "deepcategory:\"Uniforms of the United States Coast Guard\" dress blue",
-  "deepcategory:\"Uniforms of the United States Coast Guard\" formal"
+  "Coast Guard admiral formal dress blue white tie",
+  "Coast Guard evening dress white tie"
  ],
  "cu-ddbj": [
-  "deepcategory:\"Uniforms of the United States Coast Guard\" dinner dress",
-  "deepcategory:\"Uniforms of the United States Coast Guard\" dinner dress blue jacket"
+  "Coast Guard dinner dress blue jacket officer bow tie",
+  "Coast Guard black tie dinner dress"
  ],
  "cu-ddwj": [
-  "deepcategory:\"Uniforms of the United States Coast Guard\" dinner dress white",
-  "deepcategory:\"Uniforms of the United States Coast Guard\" white jacket"
+  "Coast Guard white dinner jacket officers",
+  "Coast Guard dinner dress white jacket"
  ],
  "cu-fdw": [
-  "deepcategory:\"Uniforms of the United States Coast Guard\" full dress white",
-  "deepcategory:\"Uniforms of the United States Coast Guard\" dress white"
+  "Coast Guard full dress white uniform sword",
+  "Coast Guard officer dress white change of command"
  ],
  "cu-tb": [
-  "deepcategory:\"Uniforms of the United States Coast Guard\" tropical blue",
-  "deepcategory:\"Uniforms of the United States Coast Guard\" short sleeve blue shirt"
+  "Coast Guard tropical blue uniform",
+  "Coast Guard light blue short sleeve shirt dark blue trousers"
  ]
 }
