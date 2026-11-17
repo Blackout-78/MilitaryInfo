@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.16.3-pictures-1",
+ "dataVersion": "0.16.4-pictures-2",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -6866,7 +6866,7 @@
     "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4101 Sleeve Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4101/)",
     "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4104 Collar Grade Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4104/)"
    ],
-   "image": null
+   "image": "badges/n-w5.png"
   },
   {
    "id": "n-w4",
@@ -6897,7 +6897,7 @@
     "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4101 Sleeve Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4101/)",
     "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4104 Collar Grade Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4104/)"
    ],
-   "image": null
+   "image": "badges/n-w4.png"
   },
   {
    "id": "n-w3",
@@ -6928,7 +6928,7 @@
     "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4101 Sleeve Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4101/)",
     "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4104 Collar Grade Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4104/)"
    ],
-   "image": null
+   "image": "badges/n-w3.png"
   },
   {
    "id": "n-w2",
@@ -6959,7 +6959,7 @@
     "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4101 Sleeve Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4101/)",
     "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4104 Collar Grade Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4104/)"
    ],
-   "image": null
+   "image": "badges/n-w2.png"
   },
   {
    "id": "n-w1",
@@ -6990,7 +6990,7 @@
     "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4101 Sleeve Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4101/)",
     "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4104 Collar Grade Insignia (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4104/)"
    ],
-   "image": null
+   "image": "badges/n-w1.png"
   },
   {
    "id": "n-e1",
@@ -10294,7 +10294,7 @@
     "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
     "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
    ],
-   "image": null
+   "image": "badges/mw-w1.png"
   },
   {
    "id": "mw-w2",
@@ -10326,7 +10326,7 @@
     "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
     "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
    ],
-   "image": null
+   "image": "badges/mw-w2.png"
   },
   {
    "id": "mw-w3",
@@ -10358,7 +10358,7 @@
     "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
     "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
    ],
-   "image": null
+   "image": "badges/mw-w3.png"
   },
   {
    "id": "mw-w4",
@@ -10390,7 +10390,7 @@
     "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
     "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
    ],
-   "image": null
+   "image": "badges/mw-w4.png"
   },
   {
    "id": "mw-w5",
@@ -10422,7 +10422,7 @@
     "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
     "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
    ],
-   "image": null
+   "image": "badges/mw-w5.png"
   },
   {
    "id": "cw-w2",
@@ -10515,7 +10515,7 @@
     "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
     "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
    ],
-   "image": null
+   "image": "badges/cw-w4.png"
   },
   {
    "id": "se-spc1",
@@ -10546,7 +10546,7 @@
     "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
     "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
    ],
-   "image": null
+   "image": "badges/se-spc1.png"
   },
   {
    "id": "se-spc2",
@@ -10577,7 +10577,7 @@
     "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
     "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
    ],
-   "image": null
+   "image": "badges/se-spc2.png"
   },
   {
    "id": "se-spc3",
@@ -10608,7 +10608,7 @@
     "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
     "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
    ],
-   "image": null
+   "image": "badges/se-spc3.png"
   },
   {
    "id": "se-spc4",
@@ -10639,7 +10639,7 @@
     "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
     "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
    ],
-   "image": null
+   "image": "badges/se-spc4.png"
   },
   {
    "id": "se-sgt",
@@ -10670,7 +10670,7 @@
     "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
     "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
    ],
-   "image": null
+   "image": "badges/se-sgt.png"
   },
   {
    "id": "se-tsgt",
@@ -10732,7 +10732,7 @@
     "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
     "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
    ],
-   "image": null
+   "image": "badges/se-msgt.png"
   },
   {
    "id": "se-smsgt",
@@ -10794,7 +10794,7 @@
     "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
     "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
    ],
-   "image": null
+   "image": "badges/se-cmsgt.png"
   },
   {
    "id": "se-cmssf",

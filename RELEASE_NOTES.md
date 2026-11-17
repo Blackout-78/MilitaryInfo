@@ -1,3 +1,6 @@
+## 0.16.4
+- 18 more rank pictures (public domain, credited): Navy, Marine Corps and Coast Guard warrant officers; Space Force enlisted ranks.
+
 ## 0.16.3
 - 25 new pictures (public domain, credited): Air Force and Space Force medals, Navy and Marine Corps medals, Coast Guard warrant officer boards, Space Force rank marks, devices.
 

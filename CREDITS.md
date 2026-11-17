@@ -108,3 +108,21 @@ All from Wikimedia Commons, tagged public domain. The EOD Basic and Senior pictu
 | se-tsgt | USSF-E-6.svg | Public domain (U.S. Space Force.) | https://commons.wikimedia.org/wiki/File:USSF-E-6.svg |
 | se-smsgt | USSF-E-8.svg | Public domain (U.S. Space Force.) | https://commons.wikimedia.org/wiki/File:USSF-E-8.svg |
 | m-dev-fmf | Fleet Marine Force Combat Insignia.svg | Public domain (U.S. Defense Logistics Agency) | https://commons.wikimedia.org/wiki/File:Fleet_Marine_Force_Combat_Insignia.svg |
+| se-spc1 | USSF Enlisted Rank Insignia (6966661).jpeg | Public domain (U.S. Space Force image by [null Courtesy) | https://commons.wikimedia.org/wiki/File:USSF_Enlisted_Rank_Insignia_(6966661).jpeg |
+| se-spc2 | USSF Enlisted Rank Insignia (6966662).jpeg | Public domain (U.S. Space Force image by [null Courtesy) | https://commons.wikimedia.org/wiki/File:USSF_Enlisted_Rank_Insignia_(6966662).jpeg |
+| se-spc3 | USSF Enlisted Rank Insignia (6966663).jpeg | Public domain (U.S. Space Force image by [null Courtesy) | https://commons.wikimedia.org/wiki/File:USSF_Enlisted_Rank_Insignia_(6966663).jpeg |
+| se-spc4 | USSF Enlisted Rank Insignia (6966664).jpeg | Public domain (U.S. Space Force image by [null Courtesy) | https://commons.wikimedia.org/wiki/File:USSF_Enlisted_Rank_Insignia_(6966664).jpeg |
+| se-sgt | USSF-E-5.svg | Public domain (U.S. Space Force.) | https://commons.wikimedia.org/wiki/File:USSF-E-5.svg |
+| se-msgt | USSF-E-7.svg | Public domain (U.S. Space Force.) | https://commons.wikimedia.org/wiki/File:USSF-E-7.svg |
+| se-cmsgt | USSF-E-9.svg | Public domain (U.S. Space Force.) | https://commons.wikimedia.org/wiki/File:USSF-E-9.svg |
+| n-w1 | US Navy W1 insignia.svg | Public domain (United States Navy) | https://commons.wikimedia.org/wiki/File:US_Navy_W1_insignia.svg |
+| n-w2 | US Navy W2 insignia.svg | Public domain (United States Navy) | https://commons.wikimedia.org/wiki/File:US_Navy_W2_insignia.svg |
+| n-w3 | US Navy W3 insignia.svg | Public domain (United States Navy) | https://commons.wikimedia.org/wiki/File:US_Navy_W3_insignia.svg |
+| n-w4 | US Navy W4 insignia.svg | Public domain (United States Navy) | https://commons.wikimedia.org/wiki/File:US_Navy_W4_insignia.svg |
+| n-w5 | US Navy W5 insignia.svg | Public domain (United States Navy) | https://commons.wikimedia.org/wiki/File:US_Navy_W5_insignia.svg |
+| mw-w1 | USMC WO1.svg | Public domain (US Marine Corps) | https://commons.wikimedia.org/wiki/File:USMC_WO1.svg |
+| mw-w2 | USMC CWO2.svg | Public domain (US Marine Corps) | https://commons.wikimedia.org/wiki/File:USMC_CWO2.svg |
+| mw-w3 | USMC CWO3.svg | Public domain (US Marine Corps) | https://commons.wikimedia.org/wiki/File:USMC_CWO3.svg |
+| mw-w4 | USMC CWO4.svg | Public domain (US Marine Corps) | https://commons.wikimedia.org/wiki/File:USMC_CWO4.svg |
+| mw-w5 | USMC CWO5.svg | Public domain (US Marine Corps) | https://commons.wikimedia.org/wiki/File:USMC_CWO5.svg |
+| cw-w4 | USCG W-4 insignia.svg | Public domain (United States Coast Guard) | https://commons.wikimedia.org/wiki/File:USCG_W-4_insignia.svg |
