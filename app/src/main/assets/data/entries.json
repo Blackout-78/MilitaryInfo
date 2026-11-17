@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.16.4-pictures-2",
+ "dataVersion": "0.16.5-pictures-3",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -117,7 +117,7 @@
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)"
    ],
-   "image": null
+   "image": "badges/m-moh.png"
   },
   {
    "id": "m-dsc",
@@ -760,7 +760,7 @@
    "sources": [
     "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A2.13 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/m-aam.png"
   },
   {
    "id": "m-purple-heart",
@@ -2473,7 +2473,7 @@
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 5-10",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
    ],
-   "image": null
+   "image": "badges/m-wwi-victory.png"
   },
   {
    "id": "m-osr",
@@ -7309,7 +7309,7 @@
    "sources": [
     "SECNAVINST 1650.1H, Navy and Marine Corps Awards Manual (read from the copy hosted at trngcmd.marines.mil), Art 230 para 3; para 220.3.a"
    ],
-   "image": null
+   "image": "badges/nm-dsm.png"
   },
   {
    "id": "nm-nmcm",
@@ -7424,7 +7424,7 @@
    "sources": [
     "SECNAVINST 1650.1H, Navy and Marine Corps Awards Manual (read from the copy hosted at trngcmd.marines.mil), Art 230 para 14"
    ],
-   "image": null
+   "image": "badges/nm-car.png"
   },
   {
    "id": "nm-e-ribbon",
@@ -7455,7 +7455,7 @@
    "sources": [
     "SECNAVINST 1650.1H, Navy and Marine Corps Awards Manual (read from the copy hosted at trngcmd.marines.mil), Art 330 para 4"
    ],
-   "image": null
+   "image": "badges/nm-e-ribbon.png"
   },
   {
    "id": "n-e7",
@@ -11195,7 +11195,7 @@
    "sources": [
     "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A2.15 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/m-asam.png"
   },
   {
    "id": "m-cam",
@@ -11386,7 +11386,7 @@
    "sources": [
     "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.6 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/m-arfmsm.png"
   },
   {
    "id": "m-oayr",
@@ -11431,7 +11431,7 @@
    "sources": [
     "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.7 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/m-oayr.png"
   },
   {
    "id": "m-asrr",
@@ -11469,7 +11469,7 @@
    "sources": [
     "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.8 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/m-asrr.png"
   },
   {
    "id": "m-rcecm",
@@ -11590,7 +11590,7 @@
    "sources": [
     "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.11 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/m-ndosm.png"
   },
   {
    "id": "m-asor",
@@ -11671,7 +11671,7 @@
    "sources": [
     "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.13 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/m-asesr.png"
   },
   {
    "id": "m-aslsa",
@@ -11816,7 +11816,7 @@
    "sources": [
     "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.17 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/m-bmthgr.png"
   },
   {
    "id": "m-saemr",
@@ -11856,7 +11856,7 @@
    "sources": [
     "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.18 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/m-saemr.png"
   },
   {
    "id": "m-astr",
@@ -11895,7 +11895,7 @@
    "sources": [
     "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.19 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/m-astr.png"
   },
   {
    "id": "m-guc",
@@ -11930,7 +11930,7 @@
    "sources": [
     "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A9.2 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/m-guc.png"
   },
   {
    "id": "m-mua",
@@ -11966,7 +11966,7 @@
    "sources": [
     "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A9.3 (PDF supplied by the app owner)"
    ],
-   "image": null
+   "image": "badges/m-mua.png"
   },
   {
    "id": "m-asoua",
@@ -12137,7 +12137,7 @@
     "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 2 Section 3 item 2 (PDF supplied by the app owner; 2006 edition, later changes not checked)",
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.2 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-navy-cross.png"
   },
   {
    "id": "m-navy-dsm",
@@ -12166,7 +12166,7 @@
    "sources": [
     "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 2 Section 3 item 3 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-navy-dsm.png"
   },
   {
    "id": "m-nmcm",
@@ -12313,7 +12313,7 @@
     "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 2 Section 3 item 14 (PDF supplied by the app owner; 2006 edition, later changes not checked)",
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.19 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-car.png"
   },
   {
    "id": "m-nuc",
@@ -12353,7 +12353,7 @@
     "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 3 Section 3 item 2 (PDF supplied by the app owner; 2006 edition, later changes not checked)",
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 3.B.4 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-nuc.png"
   },
   {
    "id": "m-nmuc",
@@ -12391,7 +12391,7 @@
     "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 3 Section 3 item 3 (PDF supplied by the app owner; 2006 edition, later changes not checked)",
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 3.B.6 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-nmuc.png"
   },
   {
    "id": "m-ngcm",
@@ -12498,7 +12498,7 @@
    "sources": [
     "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 4 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-nrmsm.png"
   },
   {
    "id": "m-smcrm",
@@ -12533,7 +12533,7 @@
    "sources": [
     "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 5 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-smcrm.png"
   },
   {
    "id": "m-nem",
@@ -12569,7 +12569,7 @@
    "sources": [
     "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 6 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-nem.png"
   },
   {
    "id": "m-mcem",
@@ -12605,7 +12605,7 @@
    "sources": [
     "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 7 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-mcem.png"
   },
   {
    "id": "m-nasr",
@@ -12638,7 +12638,7 @@
    "sources": [
     "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 21 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-nasr.png"
   },
   {
    "id": "m-nrssr",
@@ -12670,7 +12670,7 @@
    "sources": [
     "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 22 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-nrssr.png"
   },
   {
    "id": "m-nmcosr",
@@ -12734,7 +12734,7 @@
    "sources": [
     "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 24 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-nrecr.png"
   },
   {
    "id": "m-mcrecr",
@@ -12764,7 +12764,7 @@
    "sources": [
     "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 25 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-mcrecr.png"
   },
   {
    "id": "m-mcdir",
@@ -12792,7 +12792,7 @@
    "sources": [
     "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 26 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-mcdir.png"
   },
   {
    "id": "m-mcsgr",
@@ -12821,7 +12821,7 @@
    "sources": [
     "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 27 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-mcsgr.png"
   },
   {
    "id": "m-nrtsr",
@@ -12879,7 +12879,7 @@
    "sources": [
     "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 29 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-ncgr.png"
   },
   {
    "id": "m-dev-cg-o",
@@ -12967,7 +12967,7 @@
    "sources": [
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.3 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-cg-hsdsm.png"
   },
   {
    "id": "m-cg-dsm",
@@ -13007,7 +13007,7 @@
    "sources": [
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.4 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-cg-dsm.png"
   },
   {
    "id": "m-dot-guardian",
@@ -13071,7 +13071,7 @@
    "sources": [
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.9 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-cg-medal.png"
   },
   {
    "id": "m-cgcm",
@@ -13110,7 +13110,7 @@
    "sources": [
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.14 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-cgcm.png"
   },
   {
    "id": "m-cgam",
@@ -13147,7 +13147,7 @@
    "sources": [
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.16 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-cgam.png"
   },
   {
    "id": "m-cgloc",
@@ -13184,7 +13184,7 @@
    "sources": [
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.18 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-cgloc.png"
   },
   {
    "id": "m-cg-gold-lsm",
@@ -13228,7 +13228,7 @@
    "sources": [
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 4.A.1 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-cg-gold-lsm.png"
   },
   {
    "id": "m-cg-silver-lsm",
@@ -13272,7 +13272,7 @@
    "sources": [
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 4.A.1 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-cg-silver-lsm.png"
   },
   {
    "id": "m-cguc",
@@ -13311,7 +13311,7 @@
    "sources": [
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 3.B.3 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-cguc.png"
   },
   {
    "id": "m-cgmuc",
@@ -13350,7 +13350,7 @@
    "sources": [
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 3.B.5 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-cgmuc.png"
   },
   {
    "id": "m-cgmtc",
@@ -13387,7 +13387,7 @@
    "sources": [
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 3.B.7 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-cgmtc.png"
   },
   {
    "id": "m-cg-e",
@@ -13454,7 +13454,7 @@
    "sources": [
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para Enclosure 1 (Historical and Statutory Notes) (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-cg-bicent.png"
   },
   {
    "id": "m-dot-ouA",
@@ -13489,7 +13489,7 @@
    "sources": [
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para Enclosure 1 (Historical and Statutory Notes) (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-dot-ouA.png"
   },
   {
    "id": "m-cg-9",
@@ -13518,7 +13518,7 @@
    "sources": [
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.1 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-cg-9.png"
   },
   {
    "id": "m-cggcm",
@@ -13553,7 +13553,7 @@
    "sources": [
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.2 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-cggcm.png"
   },
   {
    "id": "m-cgrgcm",
@@ -13584,7 +13584,7 @@
    "sources": [
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.3 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-cgrgcm.png"
   },
   {
    "id": "m-cgepoy",
@@ -13613,7 +13613,7 @@
    "sources": [
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.4 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-cgepoy.png"
   },
   {
    "id": "m-cg-arctic",
@@ -13644,7 +13644,7 @@
    "sources": [
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.7 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-cg-arctic.png"
   },
   {
    "id": "m-cgsos",
@@ -13673,7 +13673,7 @@
    "sources": [
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.20 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-cgsos.png"
   },
   {
    "id": "m-cgssr",
@@ -13704,7 +13704,7 @@
    "sources": [
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.21 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-cgssr.png"
   },
   {
    "id": "m-cgrdr",
@@ -13735,7 +13735,7 @@
    "sources": [
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.22 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-cgrdr.png"
   },
   {
    "id": "m-cgbthgr",
@@ -13766,7 +13766,7 @@
    "sources": [
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.23 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-cgbthgr.png"
   },
   {
    "id": "m-cgrecr",
@@ -13797,7 +13797,7 @@
    "sources": [
     "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.24 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
-   "image": null
+   "image": "badges/m-cgrecr.png"
   },
   {
    "id": "b-mcmb",

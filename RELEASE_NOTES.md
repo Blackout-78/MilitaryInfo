@@ -1,3 +1,6 @@
+## 0.16.5
+- 56 ribbon and medal pictures (public domain, credited): Navy, Marine Corps, Coast Guard, Air Force and Space Force awards.
+
 ## 0.16.4
 - 18 more rank pictures (public domain, credited): Navy, Marine Corps and Coast Guard warrant officers; Space Force enlisted ranks.
 

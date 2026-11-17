@@ -126,3 +126,59 @@ All from Wikimedia Commons, tagged public domain. The EOD Basic and Senior pictu
 | mw-w4 | USMC CWO4.svg | Public domain (US Marine Corps) | https://commons.wikimedia.org/wiki/File:USMC_CWO4.svg |
 | mw-w5 | USMC CWO5.svg | Public domain (US Marine Corps) | https://commons.wikimedia.org/wiki/File:USMC_CWO5.svg |
 | cw-w4 | USCG W-4 insignia.svg | Public domain (United States Coast Guard) | https://commons.wikimedia.org/wiki/File:USCG_W-4_insignia.svg |
+| m-aam | Aerial Achievement Medal ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Aerial_Achievement_Medal_ribbon.svg |
+| m-wwi-victory | World War I Victory Medal ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:World_War_I_Victory_Medal_ribbon.svg |
+| nm-dsm | Navy Distinguished Service Medal ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Navy_Distinguished_Service_Medal_ribbon.svg |
+| nm-car | Combat Action Ribbon.svg | Public domain (U.S. Navy) | https://commons.wikimedia.org/wiki/File:Combat_Action_Ribbon.svg |
+| m-car | Combat Action Ribbon.svg | Public domain (U.S. Navy) | https://commons.wikimedia.org/wiki/File:Combat_Action_Ribbon.svg |
+| nm-e-ribbon | Battle Effectiveness Award ribbon, 1st award.svg | Public domain (U.S. Navy) | https://commons.wikimedia.org/wiki/File:Battle_Effectiveness_Award_ribbon,_1st_award.svg |
+| m-asam | Air and Space Achievement Medal ribbon.svg | Public domain (USAF) | https://commons.wikimedia.org/wiki/File:Air_and_Space_Achievement_Medal_ribbon.svg |
+| m-arfmsm | AIR RESERVE FORCES MERITORIOUS SERVICE MEDAL Ribbion.JPG | Public domain (Unknown authorUnknown author) | https://commons.wikimedia.org/wiki/File:AIR_RESERVE_FORCES_MERITORIOUS_SERVICE_MEDAL_Ribbion.JPG |
+| m-oayr | Outstanding Airman of the Year Ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Outstanding_Airman_of_the_Year_Ribbon.svg |
+| m-asrr | Air Force Recognition Ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Air_Force_Recognition_Ribbon.svg |
+| m-ndosm | USAF Nuclear Deterrence Operations Service Medal obverse.jpg | Public domain (US Air Force) | https://commons.wikimedia.org/wiki/File:USAF_Nuclear_Deterrence_Operations_Service_Medal_obverse.jpg |
+| m-asesr | Air and Space Expeditionary Service Ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Air_and_Space_Expeditionary_Service_Ribbon.svg |
+| m-bmthgr | USAF Basic Military Training Honor Graduate Ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:USAF_Basic_Military_Training_Honor_Graduate_Ribbon.svg |
+| m-saemr | Small Arms Expert Marksmanship Ribbon.png | Public domain (author on file page) | https://commons.wikimedia.org/wiki/File:Small_Arms_Expert_Marksmanship_Ribbon.png |
+| m-astr | Air and Space Training Ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Air_and_Space_Training_Ribbon.svg |
+| m-guc | Gallant Unit Citation ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Gallant_Unit_Citation_ribbon.svg |
+| m-mua | Air Force Meritorious Unit ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Air_Force_Meritorious_Unit_ribbon.svg |
+| m-navy-cross | Navy Cross ribbon.svg | Public domain (James Earle Fraser) | https://commons.wikimedia.org/wiki/File:Navy_Cross_ribbon.svg |
+| m-navy-dsm | Navy Distinguished Service Medal ribbon.png | Public domain (author on file page) | https://commons.wikimedia.org/wiki/File:Navy_Distinguished_Service_Medal_ribbon.png |
+| m-nuc | U.S. Navy Unit Commendation ribbon.svg | Public domain (Ipankonin (talk)) | https://commons.wikimedia.org/wiki/File:U.S._Navy_Unit_Commendation_ribbon.svg |
+| m-nmuc | Navy Meritorious Unit Commendation ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Navy_Meritorious_Unit_Commendation_ribbon.svg |
+| m-nrmsm | Naval Reserve Meritorious Service Medal ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Naval_Reserve_Meritorious_Service_Medal_ribbon.svg |
+| m-smcrm | Selected Marine Corps Reserve Medal ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Selected_Marine_Corps_Reserve_Medal_ribbon.svg |
+| m-nem | Navy Expeditionary Medal ribbon.svg | Public domain (Defense Logistics Agency) | https://commons.wikimedia.org/wiki/File:Navy_Expeditionary_Medal_ribbon.svg |
+| m-mcem | Marine Corps Expeditionary Medal ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Marine_Corps_Expeditionary_Medal_ribbon.svg |
+| m-nasr | Navy Arctic Service Ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Navy_Arctic_Service_Ribbon.svg |
+| m-nrssr | Naval Reserve Sea Service Ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Naval_Reserve_Sea_Service_Ribbon.svg |
+| m-nrecr | U.S. Navy Recruiting Service Ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:U.S._Navy_Recruiting_Service_Ribbon.svg |
+| m-mcrecr | Marine Corps Recruiting Ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Marine_Corps_Recruiting_Ribbon.svg |
+| m-mcdir | Mcdir.svg | Public domain (The original uploader was Byrneb at Engl) | https://commons.wikimedia.org/wiki/File:Mcdir.svg |
+| m-mcsgr | Marine Security Guard Ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Marine_Security_Guard_Ribbon.svg |
+| m-ncgr | Navy Ceremonial Duty Ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Navy_Ceremonial_Duty_Ribbon.svg |
+| m-cg-hsdsm | Homeland Security Distinguished Service Medal.jpg | Public domain (Mike Subritzky (talk)) | https://commons.wikimedia.org/wiki/File:Homeland_Security_Distinguished_Service_Medal.jpg |
+| m-cg-dsm | Coast Guard Distinguished Service ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Coast_Guard_Distinguished_Service_ribbon.svg |
+| m-cg-medal | Coast Guard Medal ribbon.svg | Public domain (Original:  GifTagger Vector:  Magasjukur) | https://commons.wikimedia.org/wiki/File:Coast_Guard_Medal_ribbon.svg |
+| m-cgcm | U.S. Coast Guard Commendation Medal ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:U.S._Coast_Guard_Commendation_Medal_ribbon.svg |
+| m-cgam | U.S. Coast Guard Achievement Medal ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:U.S._Coast_Guard_Achievement_Medal_ribbon.svg |
+| m-cgloc | Commandant's Letter of Commendation Ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Commandant%27s_Letter_of_Commendation_Ribbon.svg |
+| m-cg-gold-lsm | Gold Lifesaving Medal ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Gold_Lifesaving_Medal_ribbon.svg |
+| m-cg-silver-lsm | Silver Lifesaving Medal ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Silver_Lifesaving_Medal_ribbon.svg |
+| m-cguc | Coast Guard Unit Commendation ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Coast_Guard_Unit_Commendation_ribbon.svg |
+| m-cgmuc | Coast Guard Meritorious Unit Commendation ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Coast_Guard_Meritorious_Unit_Commendation_ribbon.svg |
+| m-cgmtc | Meritorious Team Commendation ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Meritorious_Team_Commendation_ribbon.svg |
+| m-cg-bicent | Bicentennial Unit Commendation ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Bicentennial_Unit_Commendation_ribbon.svg |
+| m-dot-ouA | Secretary of Transportation Outstanding Unit ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Secretary_of_Transportation_Outstanding_Unit_ribbon.svg |
+| m-cg-9 | Department of Transportation 9-11 Medal ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Department_of_Transportation_9-11_Medal_ribbon.svg |
+| m-cggcm | U.S. Coast Guard Good Conduct Medal ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:U.S._Coast_Guard_Good_Conduct_Medal_ribbon.svg |
+| m-cgrgcm | Coast Guard Reserve Good Conduct Ribbon.svg | Public domain (Original:  McChizzle Vector:  Ipankonin) | https://commons.wikimedia.org/wiki/File:Coast_Guard_Reserve_Good_Conduct_Ribbon.svg |
+| m-cgepoy | Enlisted Person of the Year Ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Enlisted_Person_of_the_Year_Ribbon.svg |
+| m-cg-arctic | Coast Guard Arctic Service ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Coast_Guard_Arctic_Service_ribbon.svg |
+| m-cgsos | U.S. Coast Guard Special Operations Service Ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:U.S._Coast_Guard_Special_Operations_Service_Ribbon.svg |
+| m-cgssr | U.S. Coast Guard Sea Service Ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:U.S._Coast_Guard_Sea_Service_Ribbon.svg |
+| m-cgrdr | Restricted Duty Ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Restricted_Duty_Ribbon.svg |
+| m-cgbthgr | Coast Guard Honor Graduate Ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Coast_Guard_Honor_Graduate_Ribbon.svg |
+| m-cgrecr | Coast Guard Recruiting Service Ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Coast_Guard_Recruiting_Service_Ribbon.svg |
+| m-moh | Medal of Honor ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Medal_of_Honor_ribbon.svg |
