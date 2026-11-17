@@ -53,3 +53,7 @@ Rank insignia pictures for the Army ranks are from the U.S. Army, https://www.ar
 ## Marine Corps, Air Force, and Coast Guard enlisted pictures
 
 Cropped from an enlisted insignia chart supplied by the app owner (https://i.pinimg.com style repost; the chart's author and license are unknown). These pictures and their entries are tagged Unverified. Replace them with official pictures when an official source is available.
+
+## Marine Corps rank pictures (enlisted E-2 to E-9, officers O-1 to O-10)
+
+Taken from the "NJROTC Marine Corps Ranks" PDF supplied by the app owner (original author and license not stated). Cropped and enlarged. Entries stay Unverified until an official marines.mil source is available.

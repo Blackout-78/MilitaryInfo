@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.13.1-links",
+ "dataVersion": "0.13.2-marine-pics",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -8534,7 +8534,7 @@
     "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
     "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
    ],
-   "image": "ranks/r-2lt.png"
+   "image": "marines/mo-2lt.png"
   },
   {
    "id": "mo-1lt",
@@ -8566,7 +8566,7 @@
     "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
     "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
    ],
-   "image": "ranks/r-1lt.png"
+   "image": "marines/mo-1lt.png"
   },
   {
    "id": "mo-cpt",
@@ -8598,7 +8598,7 @@
     "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
     "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
    ],
-   "image": "ranks/r-cpt.png"
+   "image": "marines/mo-cpt.png"
   },
   {
    "id": "mo-maj",
@@ -8630,7 +8630,7 @@
     "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
     "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
    ],
-   "image": "ranks/r-maj.png"
+   "image": "marines/mo-maj.png"
   },
   {
    "id": "mo-ltc",
@@ -8662,7 +8662,7 @@
     "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
     "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
    ],
-   "image": "ranks/r-ltc.png"
+   "image": "marines/mo-ltc.png"
   },
   {
    "id": "mo-col",
@@ -8694,7 +8694,7 @@
     "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
     "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
    ],
-   "image": "ranks/r-col.png"
+   "image": "marines/mo-col.png"
   },
   {
    "id": "mo-bg",
@@ -8726,7 +8726,7 @@
     "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
     "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
    ],
-   "image": "ranks/r-bg.png"
+   "image": "marines/mo-bg.png"
   },
   {
    "id": "mo-mg",
@@ -8758,7 +8758,7 @@
     "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
     "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
    ],
-   "image": "ranks/r-mg.png"
+   "image": "marines/mo-mg.png"
   },
   {
    "id": "mo-lg",
@@ -8790,7 +8790,7 @@
     "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
     "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
    ],
-   "image": "ranks/r-lg.png"
+   "image": "marines/mo-lg.png"
   },
   {
    "id": "mo-gen",
@@ -8822,7 +8822,7 @@
     "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
     "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
    ],
-   "image": "ranks/r-gen.png"
+   "image": "marines/mo-gen.png"
   },
   {
    "id": "ao-2lt",

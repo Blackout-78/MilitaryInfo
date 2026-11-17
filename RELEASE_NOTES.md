@@ -1,3 +1,2 @@
-## 0.13.1
-- Tap an attachment (device, star, trimming, clasp) on a detail page to open its own entry.
-- Back returns to the previous entry, then to the list.
+## 0.13.2
+- Marine Corps rank pictures replaced (E-2 to E-9, O-1 to O-10) from the supplied NJROTC chart.
