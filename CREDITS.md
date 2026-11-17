@@ -49,3 +49,7 @@ Bundled badge pictures, all public domain or CC0 per their Wikimedia Commons fil
 ## Army rank insignia pictures
 
 Rank insignia pictures for the Army ranks are from the U.S. Army, https://www.army.mil/ranks/. Army.mil states that text and images on it are public information that may be distributed or copied unless otherwise specified, and asks for credit.
+
+## Marine Corps, Air Force, and Coast Guard enlisted pictures
+
+Cropped from an enlisted insignia chart supplied by the app owner (https://i.pinimg.com style repost; the chart's author and license are unknown). These pictures and their entries are tagged Unverified. Replace them with official pictures when an official source is available.

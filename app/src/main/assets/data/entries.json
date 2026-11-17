@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.11.0-army-rank-pictures",
+ "dataVersion": "0.12.0-chart-ranks",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -7305,6 +7305,1142 @@
     "MILPERSMAN 1220-080, mynavyhr.navy.mil (https://www.mynavyhr.navy.mil/Portals/55/Reference/MILPERSMAN/1000/1200Classification/1220-080.pdf)"
    ],
    "image": null
+  },
+  {
+   "id": "mc-pvt",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Private",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps E-1. No insignia.",
+   "facts": [
+    "Grade: E-1",
+    "Insignia: No insignia.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "None.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+   ],
+   "image": null
+  },
+  {
+   "id": "mc-pfc",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Private First Class",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps E-2. One chevron.",
+   "facts": [
+    "Grade: E-2",
+    "Insignia: One chevron.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "One chevron.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+   ],
+   "image": "marines/mc-pfc.png"
+  },
+  {
+   "id": "mc-lcpl",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Lance Corporal",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps E-3. One chevron with crossed rifles.",
+   "facts": [
+    "Grade: E-3",
+    "Insignia: One chevron with crossed rifles.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Chevron plus rifles.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+   ],
+   "image": "marines/mc-lcpl.png"
+  },
+  {
+   "id": "mc-cpl",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Corporal",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps E-4. Two chevrons with crossed rifles.",
+   "facts": [
+    "Grade: E-4",
+    "Insignia: Two chevrons with crossed rifles.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Two chevrons.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+   ],
+   "image": "marines/mc-cpl.png"
+  },
+  {
+   "id": "mc-sgt",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Sergeant",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps E-5. Three chevrons with crossed rifles.",
+   "facts": [
+    "Grade: E-5",
+    "Insignia: Three chevrons with crossed rifles.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Three chevrons.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+   ],
+   "image": "marines/mc-sgt.png"
+  },
+  {
+   "id": "mc-ssgt",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Staff Sergeant",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps E-6. Three chevrons, one rocker, crossed rifles.",
+   "facts": [
+    "Grade: E-6",
+    "Insignia: Three chevrons, one rocker, crossed rifles.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Three over one.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+   ],
+   "image": "marines/mc-ssgt.png"
+  },
+  {
+   "id": "mc-gysgt",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Gunnery Sergeant",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps E-7. Three chevrons, two rockers, crossed rifles.",
+   "facts": [
+    "Grade: E-7",
+    "Insignia: Three chevrons, two rockers, crossed rifles.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Three over two.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+   ],
+   "image": "marines/mc-gysgt.png"
+  },
+  {
+   "id": "mc-msgt",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Master Sergeant",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps E-8. Three chevrons, three rockers, crossed rifles.",
+   "facts": [
+    "Grade: E-8",
+    "Insignia: Three chevrons, three rockers, crossed rifles.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Three over three.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+   ],
+   "image": "marines/mc-msgt.png"
+  },
+  {
+   "id": "mc-1stsgt",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "First Sergeant",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps E-8. Three chevrons, three rockers, and a diamond.",
+   "facts": [
+    "Grade: E-8",
+    "Insignia: Three chevrons, three rockers, and a diamond.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Diamond in the middle.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+   ],
+   "image": "marines/mc-1stsgt.png"
+  },
+  {
+   "id": "mc-mgysgt",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Master Gunnery Sergeant",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps E-9. Chevrons, four rockers, and a bursting bomb.",
+   "facts": [
+    "Grade: E-9",
+    "Insignia: Chevrons, four rockers, and a bursting bomb.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Bursting bomb.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+   ],
+   "image": "marines/mc-mgysgt.png"
+  },
+  {
+   "id": "mc-sgtmaj",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Sergeant Major",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps E-9. Three chevrons, four rockers, and a star.",
+   "facts": [
+    "Grade: E-9",
+    "Insignia: Three chevrons, four rockers, and a star.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Star.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+   ],
+   "image": "marines/mc-sgtmaj.png"
+  },
+  {
+   "id": "mc-smmc",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Sergeant Major of the Marine Corps",
+   "branches": [
+    "Marine Corps"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Marine Corps E-9. Chevrons and rockers with the eagle, globe, and anchor.",
+   "facts": [
+    "Grade: E-9",
+    "Insignia: Chevrons and rockers with the eagle, globe, and anchor.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Eagle, globe, anchor.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: marines.mil/Ranks (official list)",
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+   ],
+   "image": "marines/mc-smmc.png"
+  },
+  {
+   "id": "af-ab",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Airman Basic",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force E-1. No insignia.",
+   "facts": [
+    "Grade: E-1",
+    "Insignia: No insignia.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "No insignia",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source",
+    "Chevron stripe counts E-1 to E-7 agree with the Air Force history paper 'A Chronology of the Enlisted Rank Chevron of the U.S. Air Force' (dafhistory.af.mil, February 1992)"
+   ],
+   "image": null
+  },
+  {
+   "id": "af-amn",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Airman",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force E-2. One chevron with a star in a circle.",
+   "facts": [
+    "Grade: E-2",
+    "Insignia: One chevron with a star in a circle.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "One chevron with a star in a circle",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source",
+    "Chevron stripe counts E-1 to E-7 agree with the Air Force history paper 'A Chronology of the Enlisted Rank Chevron of the U.S. Air Force' (dafhistory.af.mil, February 1992)"
+   ],
+   "image": "airforce/af-amn.png"
+  },
+  {
+   "id": "af-a1c",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Airman First Class",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force E-3. Two chevrons with a star in a circle.",
+   "facts": [
+    "Grade: E-3",
+    "Insignia: Two chevrons with a star in a circle.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Two chevrons with a star in a circle",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source",
+    "Chevron stripe counts E-1 to E-7 agree with the Air Force history paper 'A Chronology of the Enlisted Rank Chevron of the U.S. Air Force' (dafhistory.af.mil, February 1992)"
+   ],
+   "image": "airforce/af-a1c.png"
+  },
+  {
+   "id": "af-sra",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Senior Airman",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force E-4. Three chevrons with a star in a circle.",
+   "facts": [
+    "Grade: E-4",
+    "Insignia: Three chevrons with a star in a circle.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Three chevrons with a star in a circle",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source",
+    "Chevron stripe counts E-1 to E-7 agree with the Air Force history paper 'A Chronology of the Enlisted Rank Chevron of the U.S. Air Force' (dafhistory.af.mil, February 1992)"
+   ],
+   "image": "airforce/af-sra.png"
+  },
+  {
+   "id": "af-ssgt",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Staff Sergeant",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force E-5. Four chevrons with a star in a circle.",
+   "facts": [
+    "Grade: E-5",
+    "Insignia: Four chevrons with a star in a circle.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Four chevrons with a star in a circle",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source",
+    "Chevron stripe counts E-1 to E-7 agree with the Air Force history paper 'A Chronology of the Enlisted Rank Chevron of the U.S. Air Force' (dafhistory.af.mil, February 1992)"
+   ],
+   "image": "airforce/af-ssgt.png"
+  },
+  {
+   "id": "af-tsgt",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Technical Sergeant",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force E-6. Five chevrons with a star in a circle.",
+   "facts": [
+    "Grade: E-6",
+    "Insignia: Five chevrons with a star in a circle.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Five chevrons with a star in a circle",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source",
+    "Chevron stripe counts E-1 to E-7 agree with the Air Force history paper 'A Chronology of the Enlisted Rank Chevron of the U.S. Air Force' (dafhistory.af.mil, February 1992)"
+   ],
+   "image": "airforce/af-tsgt.png"
+  },
+  {
+   "id": "af-msgt",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Master Sergeant",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force E-7. Five chevrons down, one up, star in a circle.",
+   "facts": [
+    "Grade: E-7",
+    "Insignia: Five chevrons down, one up, star in a circle.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Five chevrons down, one up, star in a circle",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source",
+    "Chevron stripe counts E-1 to E-7 agree with the Air Force history paper 'A Chronology of the Enlisted Rank Chevron of the U.S. Air Force' (dafhistory.af.mil, February 1992)"
+   ],
+   "image": "airforce/af-msgt.png"
+  },
+  {
+   "id": "af-1sg-e7",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "First Sergeant (E-7)",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force E-7. Master Sergeant chevrons with a diamond.",
+   "facts": [
+    "Grade: E-7",
+    "Insignia: Master Sergeant chevrons with a diamond.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Master Sergeant chevrons with a diamond",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source",
+    "Chevron stripe counts E-1 to E-7 agree with the Air Force history paper 'A Chronology of the Enlisted Rank Chevron of the U.S. Air Force' (dafhistory.af.mil, February 1992)"
+   ],
+   "image": "airforce/af-1sg-e7.png"
+  },
+  {
+   "id": "af-smsgt",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Senior Master Sergeant",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force E-8. Five chevrons down, two up, star in a circle.",
+   "facts": [
+    "Grade: E-8",
+    "Insignia: Five chevrons down, two up, star in a circle.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Five chevrons down, two up, star in a circle",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source",
+    "Chevron stripe counts E-1 to E-7 agree with the Air Force history paper 'A Chronology of the Enlisted Rank Chevron of the U.S. Air Force' (dafhistory.af.mil, February 1992)"
+   ],
+   "image": "airforce/af-smsgt.png"
+  },
+  {
+   "id": "af-1sg-e8",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "First Sergeant (E-8)",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force E-8. Senior Master Sergeant chevrons with a diamond.",
+   "facts": [
+    "Grade: E-8",
+    "Insignia: Senior Master Sergeant chevrons with a diamond.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Senior Master Sergeant chevrons with a diamond",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source",
+    "Chevron stripe counts E-1 to E-7 agree with the Air Force history paper 'A Chronology of the Enlisted Rank Chevron of the U.S. Air Force' (dafhistory.af.mil, February 1992)"
+   ],
+   "image": "airforce/af-1sg-e8.png"
+  },
+  {
+   "id": "af-cmsgt",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Chief Master Sergeant",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force E-9. Five chevrons down, three up, star in a circle.",
+   "facts": [
+    "Grade: E-9",
+    "Insignia: Five chevrons down, three up, star in a circle.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Five chevrons down, three up, star in a circle",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source",
+    "Chevron stripe counts E-1 to E-7 agree with the Air Force history paper 'A Chronology of the Enlisted Rank Chevron of the U.S. Air Force' (dafhistory.af.mil, February 1992)"
+   ],
+   "image": "airforce/af-cmsgt.png"
+  },
+  {
+   "id": "af-1sg-e9",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "First Sergeant (E-9)",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force E-9. Chief Master Sergeant chevrons with a diamond.",
+   "facts": [
+    "Grade: E-9",
+    "Insignia: Chief Master Sergeant chevrons with a diamond.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Chief Master Sergeant chevrons with a diamond",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source",
+    "Chevron stripe counts E-1 to E-7 agree with the Air Force history paper 'A Chronology of the Enlisted Rank Chevron of the U.S. Air Force' (dafhistory.af.mil, February 1992)"
+   ],
+   "image": "airforce/af-1sg-e9.png"
+  },
+  {
+   "id": "af-ccm",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Command Chief Master Sergeant",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force E-9. Chief chevrons with a star in the upper field.",
+   "facts": [
+    "Grade: E-9",
+    "Insignia: Chief chevrons with a star in the upper field.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Chief chevrons with a star in the upper field",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source",
+    "Chevron stripe counts E-1 to E-7 agree with the Air Force history paper 'A Chronology of the Enlisted Rank Chevron of the U.S. Air Force' (dafhistory.af.mil, February 1992)"
+   ],
+   "image": "airforce/af-ccm.png"
+  },
+  {
+   "id": "af-cmsaf",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Chief Master Sergeant of the Air Force",
+   "branches": [
+    "Air Force"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Air Force E-9. Chevrons with the Great Seal in a wreath.",
+   "facts": [
+    "Grade: E-9",
+    "Insignia: Chevrons with the Great Seal in a wreath.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Chevrons with the Great Seal in a wreath",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source",
+    "Chevron stripe counts E-1 to E-7 agree with the Air Force history paper 'A Chronology of the Enlisted Rank Chevron of the U.S. Air Force' (dafhistory.af.mil, February 1992)"
+   ],
+   "image": "airforce/af-cmsaf.png"
+  },
+  {
+   "id": "cg-sr",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Seaman Recruit",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard E-1. A plain blue field, one stripe per the chart.",
+   "facts": [
+    "Grade: E-1",
+    "Insignia: A plain blue field, one stripe per the chart.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "A plain blue field, one stripe per the chart",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+   ],
+   "image": "coastguard/cg-sr.png"
+  },
+  {
+   "id": "cg-sa",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Seaman Apprentice",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard E-2. Two diagonal stripes.",
+   "facts": [
+    "Grade: E-2",
+    "Insignia: Two diagonal stripes.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Two diagonal stripes",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+   ],
+   "image": "coastguard/cg-sa.png"
+  },
+  {
+   "id": "cg-sn",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Seaman",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard E-3. Three diagonal stripes.",
+   "facts": [
+    "Grade: E-3",
+    "Insignia: Three diagonal stripes.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Three diagonal stripes",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+   ],
+   "image": "coastguard/cg-sn.png"
+  },
+  {
+   "id": "cg-po3",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Petty Officer Third Class",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard E-4. Eagle above one chevron.",
+   "facts": [
+    "Grade: E-4",
+    "Insignia: Eagle above one chevron.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Eagle above one chevron",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+   ],
+   "image": "coastguard/cg-po3.png"
+  },
+  {
+   "id": "cg-po2",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Petty Officer Second Class",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard E-5. Eagle above two chevrons.",
+   "facts": [
+    "Grade: E-5",
+    "Insignia: Eagle above two chevrons.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Eagle above two chevrons",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+   ],
+   "image": "coastguard/cg-po2.png"
+  },
+  {
+   "id": "cg-po1",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Petty Officer First Class",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard E-6. Eagle above three chevrons.",
+   "facts": [
+    "Grade: E-6",
+    "Insignia: Eagle above three chevrons.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Eagle above three chevrons",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+   ],
+   "image": "coastguard/cg-po1.png"
+  },
+  {
+   "id": "cg-cpo",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Chief Petty Officer",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard E-7. Eagle above three chevrons and a rocker.",
+   "facts": [
+    "Grade: E-7",
+    "Insignia: Eagle above three chevrons and a rocker.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Eagle above three chevrons and a rocker",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+   ],
+   "image": "coastguard/cg-cpo.png"
+  },
+  {
+   "id": "cg-scpo",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Senior Chief Petty Officer",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard E-8. One star above the eagle, chevrons, and rocker.",
+   "facts": [
+    "Grade: E-8",
+    "Insignia: One star above the eagle, chevrons, and rocker.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "One star above the eagle, chevrons, and rocker",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+   ],
+   "image": "coastguard/cg-scpo.png"
+  },
+  {
+   "id": "cg-mcpo",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Master Chief Petty Officer",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard E-9. Two stars above the eagle, chevrons, and rocker.",
+   "facts": [
+    "Grade: E-9",
+    "Insignia: Two stars above the eagle, chevrons, and rocker.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Two stars above the eagle, chevrons, and rocker",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+   ],
+   "image": "coastguard/cg-mcpo.png"
+  },
+  {
+   "id": "cg-cmc",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Command Master Chief",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard E-9. Two stars above the eagle with a shield.",
+   "facts": [
+    "Grade: E-9",
+    "Insignia: Two stars above the eagle with a shield.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Two stars above the eagle with a shield",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+   ],
+   "image": "coastguard/cg-cmc.png"
+  },
+  {
+   "id": "cg-mcpocg",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Master Chief Petty Officer of the Coast Guard",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard E-9. Three stars above the eagle and shield.",
+   "facts": [
+    "Grade: E-9",
+    "Insignia: Three stars above the eagle and shield.",
+    "Unverified: no official insignia text was read for this entry"
+   ],
+   "remember": "Three stars above the eagle and shield",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
+    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+   ],
+   "image": "coastguard/cg-mcpocg.png"
   }
  ]
 }

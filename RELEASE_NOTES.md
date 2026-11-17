@@ -1,9 +1,10 @@
-MilitaryInfo 0.11.0 - Official Army Rank Pictures
+MilitaryInfo 0.12.0 - Marines, Air Force, Coast Guard Enlisted
 
-Changed
-- Army rank pictures are now the official insignia from army.mil/ranks (27 ranks, plus Private "No insignia"), replacing the drawn schematics
-- Credit to the U.S. Army in CREDITS.md
+Added
+- Marine Corps enlisted ranks (E-1 to Sergeant Major of the Marine Corps), Air Force enlisted ranks (Airman Basic to CMSAF, with first sergeant and command chief), and Coast Guard enlisted rates (Seaman Recruit to MCPO of the Coast Guard)
+- A picture for each rank except the ones with no insignia
 
 Known limits
-- General of the Army is not loaded: no description in the sources read
-- Pictures are current insignia only. Earlier eras, polished and subdued variants are not pictured
+- These entries are Unverified. Names and grades are cross-checked. Insignia descriptions are not from an official text
+- Pictures are cropped from an enlisted chart whose author and license are unknown, and they are small and soft. Replace them when official pictures are available
+- Officers, warrant officers, and the Space Force are not loaded for these branches
