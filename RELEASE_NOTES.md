@@ -1,3 +1,6 @@
+## 0.17.3
+- Coast Guard ranks checked line by line against COMDTINST M1020.6K (7 Jul 2020): enlisted non-rate stripes (E-1 to E-3), petty officer collar chevrons and rating badge, chief anchor and stars, officer sleeve stripes, oak leaf colors, warrant sleeve stripe. 10 entries now Official; anything the manual shows only in pictures stays marked UNVERIFIED inside the entry.
+
 ## 0.17.2
 - Eight more uniform pictures (Marine service A and PT, Air Force service, flight duty and PT, Coast Guard dinner dress blue, tropical blue, full dress white). Coast Guard dinner dress and tropical blue are Auxiliary illustrations of the same patterns. Marine evening, blue-white, Air Force mess and semi-formal, Coast Guard formal and white dinner jacket: no suitable free picture found.
 

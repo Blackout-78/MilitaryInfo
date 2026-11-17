@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.17.2-uniform-pictures-b",
+ "dataVersion": "0.17.3-cg-ranks",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -8687,20 +8687,21 @@
    ],
    "yearFrom": null,
    "yearTo": null,
-   "summary": "Coast Guard E-1. A plain blue field, one stripe per the chart.",
+   "summary": "Coast Guard E-1. 1 short diagonal stripe on a blue background (non-rate mark).",
    "facts": [
     "Grade: E-1",
-    "Insignia: A plain blue field, one stripe per the chart.",
-    "Unverified: no official insignia text was read for this entry"
+    "Non-rate mark: 1 short diagonal stripe sewn on a blue background (para 4.A.7)",
+    "Stripe color shows the group: white = seaman, red = fireman, green = airman (para 4.A.7)",
+    "Worn on the outer left sleeve of the blue service dress coat, midway between shoulder and elbow and between front and back crease (para 4.A.7)",
+    "Pay grades E-2 and E-3 also wear a rating designator above the mark (para 4.A.7)"
    ],
-   "remember": "A plain blue field, one stripe per the chart",
+   "remember": "1 stripe",
    "swatches": [],
    "variants": [],
    "attachments": [],
-   "proof": "unverified",
+   "proof": "official",
    "sources": [
-    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
-    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.7"
    ],
    "image": "coastguard/cg-sr.png"
   },
@@ -8717,20 +8718,21 @@
    ],
    "yearFrom": null,
    "yearTo": null,
-   "summary": "Coast Guard E-2. Two diagonal stripes.",
+   "summary": "Coast Guard E-2. 2 short diagonal stripes on a blue background (non-rate mark).",
    "facts": [
     "Grade: E-2",
-    "Insignia: Two diagonal stripes.",
-    "Unverified: no official insignia text was read for this entry"
+    "Non-rate mark: 2 short diagonal stripes sewn on a blue background (para 4.A.7)",
+    "Stripe color shows the group: white = seaman, red = fireman, green = airman (para 4.A.7)",
+    "Worn on the outer left sleeve of the blue service dress coat, midway between shoulder and elbow and between front and back crease (para 4.A.7)",
+    "Pay grades E-2 and E-3 also wear a rating designator above the mark (para 4.A.7)"
    ],
-   "remember": "Two diagonal stripes",
+   "remember": "2 stripes",
    "swatches": [],
    "variants": [],
    "attachments": [],
-   "proof": "unverified",
+   "proof": "official",
    "sources": [
-    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
-    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.7"
    ],
    "image": "coastguard/cg-sa.png"
   },
@@ -8747,20 +8749,21 @@
    ],
    "yearFrom": null,
    "yearTo": null,
-   "summary": "Coast Guard E-3. Three diagonal stripes.",
+   "summary": "Coast Guard E-3. 3 short diagonal stripes on a blue background (non-rate mark).",
    "facts": [
     "Grade: E-3",
-    "Insignia: Three diagonal stripes.",
-    "Unverified: no official insignia text was read for this entry"
+    "Non-rate mark: 3 short diagonal stripes sewn on a blue background (para 4.A.7)",
+    "Stripe color shows the group: white = seaman, red = fireman, green = airman (para 4.A.7)",
+    "Worn on the outer left sleeve of the blue service dress coat, midway between shoulder and elbow and between front and back crease (para 4.A.7)",
+    "Pay grades E-2 and E-3 also wear a rating designator above the mark (para 4.A.7)"
    ],
-   "remember": "Three diagonal stripes",
+   "remember": "3 stripes",
    "swatches": [],
    "variants": [],
    "attachments": [],
-   "proof": "unverified",
+   "proof": "official",
    "sources": [
-    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
-    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.7"
    ],
    "image": "coastguard/cg-sn.png"
   },
@@ -8777,20 +8780,22 @@
    ],
    "yearFrom": null,
    "yearTo": null,
-   "summary": "Coast Guard E-4. Eagle above one chevron.",
+   "summary": "Coast Guard E-4. Collar: 1 gold chevron under a silver shield. Sleeve: perched eagle with 1 scarlet chevron.",
    "facts": [
     "Grade: E-4",
-    "Insignia: Eagle above one chevron.",
-    "Unverified: no official insignia text was read for this entry"
+    "Collar insignia: 1 metal gold chevron for third class, mounted under a silver Coast Guard shield (para 4.A.5)",
+    "Rating badge: perched eagle, wings extended upward, head to the eagle's right; chevrons show the pay grade (para 4.A.8)",
+    "Chevron color on the badge for E-4 to E-6 is scarlet, background the same color as the jacket; on the Dinner Dress White Jacket the stripes are navy blue on white (para 4.A.8)",
+    "A rating emblem sits between the eagle and the chevrons (para 4.A.8)"
    ],
-   "remember": "Eagle above one chevron",
+   "remember": "1 chevron under the eagle",
    "swatches": [],
    "variants": [],
    "attachments": [],
-   "proof": "unverified",
+   "proof": "official",
    "sources": [
-    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
-    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.5",
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.8"
    ],
    "image": "coastguard/cg-po3.png"
   },
@@ -8807,20 +8812,22 @@
    ],
    "yearFrom": null,
    "yearTo": null,
-   "summary": "Coast Guard E-5. Eagle above two chevrons.",
+   "summary": "Coast Guard E-5. Collar: 2 gold chevrons under a silver shield. Sleeve: perched eagle with 2 scarlet chevrons.",
    "facts": [
     "Grade: E-5",
-    "Insignia: Eagle above two chevrons.",
-    "Unverified: no official insignia text was read for this entry"
+    "Collar insignia: 2 metal gold chevrons for second class, mounted under a silver Coast Guard shield (para 4.A.5)",
+    "Rating badge: perched eagle, wings extended upward, head to the eagle's right; chevrons show the pay grade (para 4.A.8)",
+    "Chevron color on the badge for E-4 to E-6 is scarlet, background the same color as the jacket; on the Dinner Dress White Jacket the stripes are navy blue on white (para 4.A.8)",
+    "A rating emblem sits between the eagle and the chevrons (para 4.A.8)"
    ],
-   "remember": "Eagle above two chevrons",
+   "remember": "2 chevrons under the eagle",
    "swatches": [],
    "variants": [],
    "attachments": [],
-   "proof": "unverified",
+   "proof": "official",
    "sources": [
-    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
-    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.5",
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.8"
    ],
    "image": "coastguard/cg-po2.png"
   },
@@ -8837,20 +8844,22 @@
    ],
    "yearFrom": null,
    "yearTo": null,
-   "summary": "Coast Guard E-6. Eagle above three chevrons.",
+   "summary": "Coast Guard E-6. Collar: 3 gold chevrons under a silver shield. Sleeve: perched eagle with 3 scarlet chevrons.",
    "facts": [
     "Grade: E-6",
-    "Insignia: Eagle above three chevrons.",
-    "Unverified: no official insignia text was read for this entry"
+    "Collar insignia: 3 metal gold chevrons for first class, mounted under a silver Coast Guard shield (para 4.A.5)",
+    "Rating badge: perched eagle, wings extended upward, head to the eagle's right; chevrons show the pay grade (para 4.A.8)",
+    "Chevron color on the badge for E-4 to E-6 is scarlet, background the same color as the jacket; on the Dinner Dress White Jacket the stripes are navy blue on white (para 4.A.8)",
+    "A rating emblem sits between the eagle and the chevrons (para 4.A.8)"
    ],
-   "remember": "Eagle above three chevrons",
+   "remember": "3 chevrons under the eagle",
    "swatches": [],
    "variants": [],
    "attachments": [],
-   "proof": "unverified",
+   "proof": "official",
    "sources": [
-    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
-    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.5",
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.8"
    ],
    "image": "coastguard/cg-po1.png"
   },
@@ -8867,20 +8876,21 @@
    ],
    "yearFrom": null,
    "yearTo": null,
-   "summary": "Coast Guard E-7. Eagle above three chevrons and a rocker.",
+   "summary": "Coast Guard E-7. Collar: gold fouled anchor with a silver shield. Sleeve: perched eagle with gold chevrons.",
    "facts": [
     "Grade: E-7",
-    "Insignia: Eagle above three chevrons and a rocker.",
-    "Unverified: no official insignia text was read for this entry"
+    "Collar insignia: 15/16-inch gold metal fouled anchor with a silver shield superimposed on the shank (para 4.A.5)",
+    "Rating badge: perched eagle with chevrons; E-7 to E-9 chevrons are gold on a background the same color as the jacket (para 4.A.8)",
+    "UNVERIFIED, not stated in the manual text (shown only in its figures): exact number of chevrons and rocker on the E-7 badge"
    ],
-   "remember": "Eagle above three chevrons and a rocker",
+   "remember": "Gold anchor, silver shield",
    "swatches": [],
    "variants": [],
    "attachments": [],
-   "proof": "unverified",
+   "proof": "official",
    "sources": [
-    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
-    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.5",
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.8"
    ],
    "image": "coastguard/cg-cpo.png"
   },
@@ -8897,20 +8907,22 @@
    ],
    "yearFrom": null,
    "yearTo": null,
-   "summary": "Coast Guard E-8. One star above the eagle, chevrons, and rocker.",
+   "summary": "Coast Guard E-8. Collar: gold fouled anchor with a silver shield and one star on the stock.",
    "facts": [
     "Grade: E-8",
-    "Insignia: One star above the eagle, chevrons, and rocker.",
-    "Unverified: no official insignia text was read for this entry"
+    "Collar insignia: gold fouled anchor with a silver shield on the shank; stars are attached to the stock to show senior and master chiefs (para 4.A.5)",
+    "This grade wears one star on the stock (para 4.A.5)",
+    "Rating badge chevrons are gold (para 4.A.8)",
+    "UNVERIFIED, not stated in the manual text (shown only in its figures): exact chevron and rocker count on the sleeve badge"
    ],
-   "remember": "One star above the eagle, chevrons, and rocker",
+   "remember": "One star on the anchor",
    "swatches": [],
    "variants": [],
    "attachments": [],
-   "proof": "unverified",
+   "proof": "official",
    "sources": [
-    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
-    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.5",
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.8"
    ],
    "image": "coastguard/cg-scpo.png"
   },
@@ -8927,20 +8939,22 @@
    ],
    "yearFrom": null,
    "yearTo": null,
-   "summary": "Coast Guard E-9. Two stars above the eagle, chevrons, and rocker.",
+   "summary": "Coast Guard E-9. Collar: gold fouled anchor with a silver shield and two stars on the stock.",
    "facts": [
     "Grade: E-9",
-    "Insignia: Two stars above the eagle, chevrons, and rocker.",
-    "Unverified: no official insignia text was read for this entry"
+    "Collar insignia: gold fouled anchor with a silver shield on the shank; stars are attached to the stock to show senior and master chiefs (para 4.A.5)",
+    "This grade wears two stars on the stock (para 4.A.5)",
+    "Rating badge chevrons are gold (para 4.A.8)",
+    "UNVERIFIED, not stated in the manual text (shown only in its figures): exact chevron and rocker count on the sleeve badge"
    ],
-   "remember": "Two stars above the eagle, chevrons, and rocker",
+   "remember": "Two stars on the anchor",
    "swatches": [],
    "variants": [],
    "attachments": [],
-   "proof": "unverified",
+   "proof": "official",
    "sources": [
-    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
-    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.5",
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.8"
    ],
    "image": "coastguard/cg-mcpo.png"
   },
@@ -8957,20 +8971,19 @@
    ],
    "yearFrom": null,
    "yearTo": null,
-   "summary": "Coast Guard E-9. Two stars above the eagle with a shield.",
+   "summary": "Coast Guard E-9. Command Master Chief badge: shield with stars (silver badge; gold at Area level).",
    "facts": [
     "Grade: E-9",
-    "Insignia: Two stars above the eagle with a shield.",
-    "Unverified: no official insignia text was read for this entry"
+    "Command Master Chiefs wear a silver shield with silver stars as the rating badge; MCPOCG and Area-level Gold Badge CMCs, including the CGRF-MC, wear a gold shield with gold stars (para 4.A.8)",
+    "UNVERIFIED, not stated in the manual text (shown only in its figures): star count and collar insignia for the CMC"
    ],
-   "remember": "Two stars above the eagle with a shield",
+   "remember": "Silver shield, silver stars",
    "swatches": [],
    "variants": [],
    "attachments": [],
    "proof": "unverified",
    "sources": [
-    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
-    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.8"
    ],
    "image": "coastguard/cg-cmc.png"
   },
@@ -8987,20 +9000,20 @@
    ],
    "yearFrom": null,
    "yearTo": null,
-   "summary": "Coast Guard E-9. Three stars above the eagle and shield.",
+   "summary": "Coast Guard E-9. Collar: gold fouled anchor, silver shield, three stars. Gold badge with a gold shield and gold stars.",
    "facts": [
-    "Grade: E-9",
-    "Insignia: Three stars above the eagle and shield.",
-    "Unverified: no official insignia text was read for this entry"
+    "Grade: E-9, Master Chief Petty Officer of the Coast Guard",
+    "Collar insignia: gold fouled anchor with a silver shield and three stars on the stock (para 4.A.5)",
+    "Rating badge: a gold shield with gold stars replaces the rating emblem; chevrons are gold (para 4.A.8)"
    ],
-   "remember": "Three stars above the eagle and shield",
+   "remember": "Three stars on the anchor",
    "swatches": [],
    "variants": [],
    "attachments": [],
-   "proof": "unverified",
+   "proof": "official",
    "sources": [
-    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
-    "Insignia read from a user-supplied enlisted insignia chart (author and license unknown). Not an official source"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.5",
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.8"
    ],
    "image": "coastguard/cg-mcpocg.png"
   },
@@ -9961,8 +9974,15 @@
    "facts": [
     "Grade: O-1",
     "Insignia: One gold bar.",
-    "Unverified: no official insignia text was read for this entry",
-    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards"
+    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards",
+    "UNVERIFIED, not stated in the manual text (shown only in its figures): color and number of collar bars (the manual shows them only as pictures)",
+    "Sleeve stripes: O-1 to O-6 use 1/2-inch and 1/4-inch gold stripes; O-7 to O-10 use a 2-inch and 1/2-inch gold stripes (para 4.A.1)",
+    "Gold shield 1/4 inch above the top stripe on the sleeve; not used on dinner dress white jacket, dinner dress white, full dress white or service dress white (para 4.A.1)",
+    "Shoulder boards, sleeve stripes and collar insignia all show officer grade (para 4.A.1)",
+    "UNVERIFIED, not stated in the manual text (shown only in its figures): color and number of collar bars (the manual shows them only as pictures)",
+    "Sleeve stripes: O-1 to O-6 use 1/2-inch and 1/4-inch gold stripes; O-7 to O-10 use 2-inch and 1/2-inch gold stripes (para 4.A.1)",
+    "Gold shield 1/4 inch above the top stripe on the sleeve; not used on dinner dress white jacket, dinner dress white, full dress white or service dress white (para 4.A.1)",
+    "Shoulder boards, sleeve stripes and collar insignia all show officer grade (para 4.A.1)"
    ],
    "remember": "Gold bar.",
    "swatches": [],
@@ -9970,8 +9990,7 @@
    "attachments": [],
    "proof": "unverified",
    "sources": [
-    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
-    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.1",
     "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
    ],
    "image": "ranks/r-2lt.png"
@@ -9993,8 +10012,15 @@
    "facts": [
     "Grade: O-2",
     "Insignia: One silver bar.",
-    "Unverified: no official insignia text was read for this entry",
-    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards"
+    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards",
+    "UNVERIFIED, not stated in the manual text (shown only in its figures): color and number of collar bars (the manual shows them only as pictures)",
+    "Sleeve stripes: O-1 to O-6 use 1/2-inch and 1/4-inch gold stripes; O-7 to O-10 use a 2-inch and 1/2-inch gold stripes (para 4.A.1)",
+    "Gold shield 1/4 inch above the top stripe on the sleeve; not used on dinner dress white jacket, dinner dress white, full dress white or service dress white (para 4.A.1)",
+    "Shoulder boards, sleeve stripes and collar insignia all show officer grade (para 4.A.1)",
+    "UNVERIFIED, not stated in the manual text (shown only in its figures): color and number of collar bars (the manual shows them only as pictures)",
+    "Sleeve stripes: O-1 to O-6 use 1/2-inch and 1/4-inch gold stripes; O-7 to O-10 use 2-inch and 1/2-inch gold stripes (para 4.A.1)",
+    "Gold shield 1/4 inch above the top stripe on the sleeve; not used on dinner dress white jacket, dinner dress white, full dress white or service dress white (para 4.A.1)",
+    "Shoulder boards, sleeve stripes and collar insignia all show officer grade (para 4.A.1)"
    ],
    "remember": "Silver bar.",
    "swatches": [],
@@ -10002,8 +10028,7 @@
    "attachments": [],
    "proof": "unverified",
    "sources": [
-    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
-    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.1",
     "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
    ],
    "image": "ranks/r-1lt.png"
@@ -10025,8 +10050,15 @@
    "facts": [
     "Grade: O-3",
     "Insignia: Two silver bars.",
-    "Unverified: no official insignia text was read for this entry",
-    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards"
+    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards",
+    "UNVERIFIED, not stated in the manual text (shown only in its figures): color and number of collar bars (the manual shows them only as pictures)",
+    "Sleeve stripes: O-1 to O-6 use 1/2-inch and 1/4-inch gold stripes; O-7 to O-10 use a 2-inch and 1/2-inch gold stripes (para 4.A.1)",
+    "Gold shield 1/4 inch above the top stripe on the sleeve; not used on dinner dress white jacket, dinner dress white, full dress white or service dress white (para 4.A.1)",
+    "Shoulder boards, sleeve stripes and collar insignia all show officer grade (para 4.A.1)",
+    "UNVERIFIED, not stated in the manual text (shown only in its figures): color and number of collar bars (the manual shows them only as pictures)",
+    "Sleeve stripes: O-1 to O-6 use 1/2-inch and 1/4-inch gold stripes; O-7 to O-10 use 2-inch and 1/2-inch gold stripes (para 4.A.1)",
+    "Gold shield 1/4 inch above the top stripe on the sleeve; not used on dinner dress white jacket, dinner dress white, full dress white or service dress white (para 4.A.1)",
+    "Shoulder boards, sleeve stripes and collar insignia all show officer grade (para 4.A.1)"
    ],
    "remember": "Silver bars.",
    "swatches": [],
@@ -10034,8 +10066,7 @@
    "attachments": [],
    "proof": "unverified",
    "sources": [
-    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
-    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.1",
     "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
    ],
    "image": "ranks/r-cpt.png"
@@ -10053,22 +10084,22 @@
    ],
    "yearFrom": null,
    "yearTo": null,
-   "summary": "Coast Guard O-4. A gold oak leaf.",
+   "summary": "Coast Guard O-4. Collar: gold oak leaf, stem outboard.",
    "facts": [
     "Grade: O-4",
-    "Insignia: A gold oak leaf.",
-    "Unverified: no official insignia text was read for this entry",
-    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards"
+    "Collar insignia: A gold oak leaf; the stem faces outboard (para 4.A.1 note).",
+    "Sleeve stripes: O-1 to O-6 use 1/2-inch and 1/4-inch gold stripes; O-7 to O-10 use 2-inch and 1/2-inch gold stripes (para 4.A.1)",
+    "Gold shield 1/4 inch above the top stripe on the sleeve; not used on dinner dress white jacket, dinner dress white, full dress white or service dress white (para 4.A.1)",
+    "Shoulder boards, sleeve stripes and collar insignia all show officer grade (para 4.A.1)"
    ],
-   "remember": "Gold oak leaf.",
+   "remember": "Gold oak leaf",
    "swatches": [],
    "variants": [],
    "attachments": [],
-   "proof": "unverified",
+   "proof": "official",
    "sources": [
-    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
-    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
-    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.1",
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.3"
    ],
    "image": "ranks/r-maj.png"
   },
@@ -10085,22 +10116,22 @@
    ],
    "yearFrom": null,
    "yearTo": null,
-   "summary": "Coast Guard O-5. A silver oak leaf.",
+   "summary": "Coast Guard O-5. Collar: silver oak leaf, stem outboard.",
    "facts": [
     "Grade: O-5",
-    "Insignia: A silver oak leaf.",
-    "Unverified: no official insignia text was read for this entry",
-    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards"
+    "Collar insignia: A silver oak leaf; the stem faces outboard (para 4.A.1 note).",
+    "Sleeve stripes: O-1 to O-6 use 1/2-inch and 1/4-inch gold stripes; O-7 to O-10 use 2-inch and 1/2-inch gold stripes (para 4.A.1)",
+    "Gold shield 1/4 inch above the top stripe on the sleeve; not used on dinner dress white jacket, dinner dress white, full dress white or service dress white (para 4.A.1)",
+    "Shoulder boards, sleeve stripes and collar insignia all show officer grade (para 4.A.1)"
    ],
-   "remember": "Silver oak leaf.",
+   "remember": "Silver oak leaf",
    "swatches": [],
    "variants": [],
    "attachments": [],
-   "proof": "unverified",
+   "proof": "official",
    "sources": [
-    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
-    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
-    "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.1",
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.3"
    ],
    "image": "ranks/r-ltc.png"
   },
@@ -10117,21 +10148,22 @@
    ],
    "yearFrom": null,
    "yearTo": null,
-   "summary": "Coast Guard O-6. A silver eagle.",
+   "summary": "Coast Guard O-6. Collar: silver eagle, always facing forward.",
    "facts": [
     "Grade: O-6",
-    "Insignia: A silver eagle.",
-    "Unverified: no official insignia text was read for this entry",
-    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards"
+    "Collar insignia: an eagle; always faces forward, or to the wearer's right where there is no fore/aft (para 4.A.1 note)",
+    "UNVERIFIED, not stated in the manual text (shown only in its figures): eagle color",
+    "Sleeve stripes: O-1 to O-6 use 1/2-inch and 1/4-inch gold stripes; O-7 to O-10 use 2-inch and 1/2-inch gold stripes (para 4.A.1)",
+    "Gold shield 1/4 inch above the top stripe on the sleeve; not used on dinner dress white jacket, dinner dress white, full dress white or service dress white (para 4.A.1)",
+    "Shoulder boards, sleeve stripes and collar insignia all show officer grade (para 4.A.1)"
    ],
-   "remember": "Silver eagle.",
+   "remember": "Eagle, faces forward",
    "swatches": [],
    "variants": [],
    "attachments": [],
    "proof": "unverified",
    "sources": [
-    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
-    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.1",
     "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
    ],
    "image": "ranks/r-col.png"
@@ -10153,8 +10185,19 @@
    "facts": [
     "Grade: O-7",
     "Insignia: One silver star.",
-    "Unverified: no official insignia text was read for this entry",
-    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards"
+    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards",
+    "Flag officer collar stars are metal, 9/16 inch circumference, attached point to point (para 4.A.1)",
+    "Flag officer shoulder boards: 1 1/2-inch gold lace on blue, with a silver fouled anchor and silver shield (para 4.A.1)",
+    "UNVERIFIED, not stated in the manual text (shown only in its figures): number of stars (figure only)",
+    "Sleeve stripes: O-1 to O-6 use 1/2-inch and 1/4-inch gold stripes; O-7 to O-10 use a 2-inch and 1/2-inch gold stripes (para 4.A.1)",
+    "Gold shield 1/4 inch above the top stripe on the sleeve; not used on dinner dress white jacket, dinner dress white, full dress white or service dress white (para 4.A.1)",
+    "Shoulder boards, sleeve stripes and collar insignia all show officer grade (para 4.A.1)",
+    "Flag officer collar stars are metal, 9/16 inch circumference, attached point to point (para 4.A.1)",
+    "Flag officer shoulder boards: 1 1/2-inch gold lace on blue, with a silver fouled anchor and silver shield (para 4.A.1)",
+    "UNVERIFIED, not stated in the manual text (shown only in its figures): number of stars (figure only)",
+    "Sleeve stripes: O-1 to O-6 use 1/2-inch and 1/4-inch gold stripes; O-7 to O-10 use 2-inch and 1/2-inch gold stripes (para 4.A.1)",
+    "Gold shield 1/4 inch above the top stripe on the sleeve; not used on dinner dress white jacket, dinner dress white, full dress white or service dress white (para 4.A.1)",
+    "Shoulder boards, sleeve stripes and collar insignia all show officer grade (para 4.A.1)"
    ],
    "remember": "Silver star.",
    "swatches": [],
@@ -10162,8 +10205,7 @@
    "attachments": [],
    "proof": "unverified",
    "sources": [
-    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
-    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.1",
     "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
    ],
    "image": "ranks/r-bg.png"
@@ -10185,8 +10227,19 @@
    "facts": [
     "Grade: O-8",
     "Insignia: Two silver stars.",
-    "Unverified: no official insignia text was read for this entry",
-    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards"
+    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards",
+    "Flag officer collar stars are metal, 9/16 inch circumference, attached point to point (para 4.A.1)",
+    "Flag officer shoulder boards: 1 1/2-inch gold lace on blue, with a silver fouled anchor and silver shield (para 4.A.1)",
+    "UNVERIFIED, not stated in the manual text (shown only in its figures): number of stars (figure only)",
+    "Sleeve stripes: O-1 to O-6 use 1/2-inch and 1/4-inch gold stripes; O-7 to O-10 use a 2-inch and 1/2-inch gold stripes (para 4.A.1)",
+    "Gold shield 1/4 inch above the top stripe on the sleeve; not used on dinner dress white jacket, dinner dress white, full dress white or service dress white (para 4.A.1)",
+    "Shoulder boards, sleeve stripes and collar insignia all show officer grade (para 4.A.1)",
+    "Flag officer collar stars are metal, 9/16 inch circumference, attached point to point (para 4.A.1)",
+    "Flag officer shoulder boards: 1 1/2-inch gold lace on blue, with a silver fouled anchor and silver shield (para 4.A.1)",
+    "UNVERIFIED, not stated in the manual text (shown only in its figures): number of stars (figure only)",
+    "Sleeve stripes: O-1 to O-6 use 1/2-inch and 1/4-inch gold stripes; O-7 to O-10 use 2-inch and 1/2-inch gold stripes (para 4.A.1)",
+    "Gold shield 1/4 inch above the top stripe on the sleeve; not used on dinner dress white jacket, dinner dress white, full dress white or service dress white (para 4.A.1)",
+    "Shoulder boards, sleeve stripes and collar insignia all show officer grade (para 4.A.1)"
    ],
    "remember": "Silver stars.",
    "swatches": [],
@@ -10194,8 +10247,7 @@
    "attachments": [],
    "proof": "unverified",
    "sources": [
-    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
-    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.1",
     "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
    ],
    "image": "ranks/r-mg.png"
@@ -10217,8 +10269,19 @@
    "facts": [
     "Grade: O-9",
     "Insignia: Three silver stars.",
-    "Unverified: no official insignia text was read for this entry",
-    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards"
+    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards",
+    "Flag officer collar stars are metal, 9/16 inch circumference, attached point to point (para 4.A.1)",
+    "Flag officer shoulder boards: 1 1/2-inch gold lace on blue, with a silver fouled anchor and silver shield (para 4.A.1)",
+    "UNVERIFIED, not stated in the manual text (shown only in its figures): number of stars (figure only)",
+    "Sleeve stripes: O-1 to O-6 use 1/2-inch and 1/4-inch gold stripes; O-7 to O-10 use a 2-inch and 1/2-inch gold stripes (para 4.A.1)",
+    "Gold shield 1/4 inch above the top stripe on the sleeve; not used on dinner dress white jacket, dinner dress white, full dress white or service dress white (para 4.A.1)",
+    "Shoulder boards, sleeve stripes and collar insignia all show officer grade (para 4.A.1)",
+    "Flag officer collar stars are metal, 9/16 inch circumference, attached point to point (para 4.A.1)",
+    "Flag officer shoulder boards: 1 1/2-inch gold lace on blue, with a silver fouled anchor and silver shield (para 4.A.1)",
+    "UNVERIFIED, not stated in the manual text (shown only in its figures): number of stars (figure only)",
+    "Sleeve stripes: O-1 to O-6 use 1/2-inch and 1/4-inch gold stripes; O-7 to O-10 use 2-inch and 1/2-inch gold stripes (para 4.A.1)",
+    "Gold shield 1/4 inch above the top stripe on the sleeve; not used on dinner dress white jacket, dinner dress white, full dress white or service dress white (para 4.A.1)",
+    "Shoulder boards, sleeve stripes and collar insignia all show officer grade (para 4.A.1)"
    ],
    "remember": "Silver stars.",
    "swatches": [],
@@ -10226,8 +10289,7 @@
    "attachments": [],
    "proof": "unverified",
    "sources": [
-    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
-    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.1",
     "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
    ],
    "image": "ranks/r-lg.png"
@@ -10249,8 +10311,19 @@
    "facts": [
     "Grade: O-10",
     "Insignia: Four silver stars.",
-    "Unverified: no official insignia text was read for this entry",
-    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards"
+    "Coast Guard collar insignia matches the Navy's; dress uniforms also use sleeve stripes and shoulder boards",
+    "Flag officer collar stars are metal, 9/16 inch circumference, attached point to point (para 4.A.1)",
+    "Flag officer shoulder boards: 1 1/2-inch gold lace on blue, with a silver fouled anchor and silver shield (para 4.A.1)",
+    "UNVERIFIED, not stated in the manual text (shown only in its figures): number of stars (figure only)",
+    "Sleeve stripes: O-1 to O-6 use 1/2-inch and 1/4-inch gold stripes; O-7 to O-10 use a 2-inch and 1/2-inch gold stripes (para 4.A.1)",
+    "Gold shield 1/4 inch above the top stripe on the sleeve; not used on dinner dress white jacket, dinner dress white, full dress white or service dress white (para 4.A.1)",
+    "Shoulder boards, sleeve stripes and collar insignia all show officer grade (para 4.A.1)",
+    "Flag officer collar stars are metal, 9/16 inch circumference, attached point to point (para 4.A.1)",
+    "Flag officer shoulder boards: 1 1/2-inch gold lace on blue, with a silver fouled anchor and silver shield (para 4.A.1)",
+    "UNVERIFIED, not stated in the manual text (shown only in its figures): number of stars (figure only)",
+    "Sleeve stripes: O-1 to O-6 use 1/2-inch and 1/4-inch gold stripes; O-7 to O-10 use 2-inch and 1/2-inch gold stripes (para 4.A.1)",
+    "Gold shield 1/4 inch above the top stripe on the sleeve; not used on dinner dress white jacket, dinner dress white, full dress white or service dress white (para 4.A.1)",
+    "Shoulder boards, sleeve stripes and collar insignia all show officer grade (para 4.A.1)"
    ],
    "remember": "Silver stars.",
    "swatches": [],
@@ -10258,8 +10331,7 @@
    "attachments": [],
    "proof": "unverified",
    "sources": [
-    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
-    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text",
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.1",
     "Picture: the Army's rank picture from army.mil/ranks. The bar, leaf, eagle, and star insignia are the same design"
    ],
    "image": "ranks/r-gen.png"
@@ -10437,21 +10509,22 @@
    ],
    "yearFrom": null,
    "yearTo": null,
-   "summary": "Coast Guard W-2. Collar bar and shoulder board.",
+   "summary": "Coast Guard W-2. 1/2-inch gold sleeve stripe with blue breaks showing the grade.",
    "facts": [
     "Grade: W-2",
-    "Insignia: Collar bar and shoulder board.",
-    "Unverified: no official insignia text was read for this entry",
-    "Coast Guard warrant officers run W-2 to W-4 only, per the pages read"
+    "Sleeve stripe: 1/2-inch gold with blue breaks showing the grade (para 4.A.1)",
+    "Right collar shows the grade; the specialty insignia is on the left collar (para 4.A.1)",
+    "Specialty insignia is not worn on the sleeve of the Dinner Dress Blue Jacket or Formal Dress (para 4.A.1)",
+    "UNVERIFIED, not stated in the manual text (shown only in its figures): collar and shoulder board insignia color and number of breaks per grade"
    ],
-   "remember": null,
+   "remember": "Gold stripe, blue breaks",
    "swatches": [],
    "variants": [],
    "attachments": [],
    "proof": "unverified",
    "sources": [
-    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
-    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.1",
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.2"
    ],
    "image": "badges/cw-w2.png"
   },
@@ -10468,21 +10541,22 @@
    ],
    "yearFrom": null,
    "yearTo": null,
-   "summary": "Coast Guard W-3. Collar bar and shoulder board.",
+   "summary": "Coast Guard W-3. 1/2-inch gold sleeve stripe with blue breaks showing the grade.",
    "facts": [
     "Grade: W-3",
-    "Insignia: Collar bar and shoulder board.",
-    "Unverified: no official insignia text was read for this entry",
-    "Coast Guard warrant officers run W-2 to W-4 only, per the pages read"
+    "Sleeve stripe: 1/2-inch gold with blue breaks showing the grade (para 4.A.1)",
+    "Right collar shows the grade; the specialty insignia is on the left collar (para 4.A.1)",
+    "Specialty insignia is not worn on the sleeve of the Dinner Dress Blue Jacket or Formal Dress (para 4.A.1)",
+    "UNVERIFIED, not stated in the manual text (shown only in its figures): collar and shoulder board insignia color and number of breaks per grade"
    ],
-   "remember": null,
+   "remember": "Gold stripe, blue breaks",
    "swatches": [],
    "variants": [],
    "attachments": [],
    "proof": "unverified",
    "sources": [
-    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
-    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.1",
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.2"
    ],
    "image": "badges/cw-w3.png"
   },
@@ -10499,21 +10573,22 @@
    ],
    "yearFrom": null,
    "yearTo": null,
-   "summary": "Coast Guard W-4. Collar bar and shoulder board.",
+   "summary": "Coast Guard W-4. 1/2-inch gold sleeve stripe with blue breaks showing the grade.",
    "facts": [
     "Grade: W-4",
-    "Insignia: Collar bar and shoulder board.",
-    "Unverified: no official insignia text was read for this entry",
-    "Coast Guard warrant officers run W-2 to W-4 only, per the pages read"
+    "Sleeve stripe: 1/2-inch gold with blue breaks showing the grade (para 4.A.1)",
+    "Right collar shows the grade; the specialty insignia is on the left collar (para 4.A.1)",
+    "Specialty insignia is not worn on the sleeve of the Dinner Dress Blue Jacket or Formal Dress (para 4.A.1)",
+    "UNVERIFIED, not stated in the manual text (shown only in its figures): collar and shoulder board insignia color and number of breaks per grade"
    ],
-   "remember": null,
+   "remember": "Gold stripe, blue breaks",
    "swatches": [],
    "variants": [],
    "attachments": [],
    "proof": "unverified",
    "sources": [
-    "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
-    "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.1",
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.A.2"
    ],
    "image": "badges/cw-w4.png"
   },
