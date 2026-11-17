@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.15.0-navy-marine",
+ "dataVersion": "0.16.0-coast-guard",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -227,7 +227,8 @@
     "Navy",
     "Marine Corps",
     "Air Force",
-    "Space Force"
+    "Space Force",
+    "Coast Guard"
    ],
    "eras": [
     "ww1",
@@ -249,7 +250,8 @@
     "Order of wear: No. 8 in the Army table for decorations. Lower numbers are worn first (higher).",
     "DoD manual: Gallantry in action that does not warrant the Medal of Honor or a service cross",
     "DoD manual: Worn after the department DSM and before the Defense Superior Service Medal",
-    "DoD manual: Devices: oak leaf cluster (bronze or silver) and 5/16 inch star (gold or silver)"
+    "DoD manual: Devices: oak leaf cluster (bronze or silver) and 5/16 inch star (gold or silver)",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": "DSC, DSM, and Silver Star share one birthday: 9 July 1918.",
    "swatches": [],
@@ -275,7 +277,8 @@
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
     "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
-    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.3 (PDF supplied by the app owner)"
+    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.3 (PDF supplied by the app owner)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.5 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": "ribbons/m-silver-star.png"
   },
@@ -289,7 +292,8 @@
     "Navy",
     "Marine Corps",
     "Air Force",
-    "Space Force"
+    "Space Force",
+    "Coast Guard"
    ],
    "eras": [
     "ww2",
@@ -308,7 +312,8 @@
     "R device: specific achievement (para 3-13e)",
     "Order of wear: No. 10 in the Army table for decorations. Lower numbers are worn first (higher).",
     "DoD manual: Exceptionally meritorious conduct or service; worn after the Defense Superior Service Medal and before the DFC",
-    "DoD manual: Devices: C, R, oak leaf cluster (bronze or silver), 5/16 inch star (gold or silver)"
+    "DoD manual: Devices: C, R, oak leaf cluster (bronze or silver), 5/16 inch star (gold or silver)",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": "1942. Takes C or R, never V.",
    "swatches": [],
@@ -340,7 +345,8 @@
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
     "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
-    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.4 (PDF supplied by the app owner)"
+    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.4 (PDF supplied by the app owner)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.7 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": "ribbons/m-lom.png"
   },
@@ -354,7 +360,8 @@
     "Navy",
     "Marine Corps",
     "Air Force",
-    "Space Force"
+    "Space Force",
+    "Coast Guard"
    ],
    "eras": [
     "interwar",
@@ -375,7 +382,8 @@
     "Order of wear: No. 11 in the Army table for decorations. Lower numbers are worn first (higher).",
     "DoD manual: Heroism or extraordinary achievement in aerial flight",
     "DoD manual: Worn after the Legion of Merit; Army before the Soldier's Medal, Navy and Marine Corps before the Navy and Marine Corps Medal, Air Force and Space Force before the Airman's Medal",
-    "DoD manual: Devices: V, C, oak leaf cluster (bronze or silver), 5/16 inch star (gold or silver)"
+    "DoD manual: Devices: V, C, oak leaf cluster (bronze or silver), 5/16 inch star (gold or silver)",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": "DFC and Soldier's Medal share one birthday: 2 July 1926.",
    "swatches": [],
@@ -406,7 +414,8 @@
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/47)",
-    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.5 (PDF supplied by the app owner)"
+    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.5 (PDF supplied by the app owner)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.8 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": "ribbons/m-dfc.png"
   },
@@ -466,7 +475,8 @@
     "Navy",
     "Marine Corps",
     "Air Force",
-    "Space Force"
+    "Space Force",
+    "Coast Guard"
    ],
    "eras": [
     "ww2",
@@ -487,7 +497,8 @@
     "DoD manual: Valor or meritorious service not in aerial flight, after 6 Dec 1941",
     "DoD manual: Worn after the Soldier's Medal (Army), Navy and Marine Corps Medal (Navy, Marine Corps) or Airman's Medal (Air Force, Space Force), and before the Purple Heart",
     "DoD manual: Devices: V, oak leaf cluster (bronze or silver), 5/16 inch star (gold or silver)",
-    "DoD manual: After 30 Oct 2000 requires hostile fire or imminent danger pay or hazardous duty pay (Title 10 USC 1133)"
+    "DoD manual: After 30 Oct 2000 requires hostile fire or imminent danger pay or hazardous duty pay (Title 10 USC 1133)",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": "1944. V for valor, never C.",
    "swatches": [],
@@ -513,7 +524,8 @@
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
     "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
-    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.6 (PDF supplied by the app owner)"
+    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.6 (PDF supplied by the app owner)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.10 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": "ribbons/m-bsm.png"
   },
@@ -527,7 +539,8 @@
     "Navy",
     "Marine Corps",
     "Air Force",
-    "Space Force"
+    "Space Force",
+    "Coast Guard"
    ],
    "eras": [
     "vietnam",
@@ -544,7 +557,8 @@
     "The C device is not authorized (para 3-17d)",
     "Order of wear: No. 19 in the Army table for decorations. Lower numbers are worn first (higher).",
     "DoD manual: Worn after the Defense Meritorious Service Medal and before the Air Medal",
-    "DoD manual: Devices: R, oak leaf cluster (bronze or silver), 5/16 inch star (gold or silver)"
+    "DoD manual: Devices: R, oak leaf cluster (bronze or silver), 5/16 inch star (gold or silver)",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": "1969. R yes, C never.",
    "swatches": [],
@@ -570,7 +584,8 @@
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
     "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
-    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.8 (PDF supplied by the app owner)"
+    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.8 (PDF supplied by the app owner)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.12 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": "ribbons/m-msm.png"
   },
@@ -584,7 +599,8 @@
     "Navy",
     "Marine Corps",
     "Air Force",
-    "Space Force"
+    "Space Force",
+    "Coast Guard"
    ],
    "eras": [
     "ww2",
@@ -604,7 +620,8 @@
     "Second and later awards use numerals, not oak leaf clusters",
     "Order of wear: No. 20 in the Army table for decorations. Lower numbers are worn first (higher).",
     "DoD manual: Aerial flight achievement after 8 Sep 1939; worn after the MSM and before the Joint Service Commendation Medal",
-    "DoD manual: Devices: V, C, oak leaf cluster, 5/16 inch star, numerals (bronze or gold)"
+    "DoD manual: Devices: V, C, oak leaf cluster, 5/16 inch star, numerals (bronze or gold)",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": "1942. Flying. Numerals, not clusters.",
    "swatches": [],
@@ -636,7 +653,8 @@
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
     "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
-    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.9 (PDF supplied by the app owner)"
+    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.9 (PDF supplied by the app owner)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.13 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": "ribbons/m-air-medal.png"
   },
@@ -754,7 +772,8 @@
     "Navy",
     "Marine Corps",
     "Air Force",
-    "Space Force"
+    "Space Force",
+    "Coast Guard"
    ],
    "eras": [
     "ww1",
@@ -775,7 +794,8 @@
     "Multiple wounds from the same instant or source count as one award",
     "Order of wear: No. 17 in the Army table for decorations. Lower numbers are worn first (higher).",
     "DoD manual: Worn after the Bronze Star and before the Defense Meritorious Service Medal",
-    "DoD manual: Devices: oak leaf cluster (bronze or silver) and 5/16 inch star (gold or silver)"
+    "DoD manual: Devices: oak leaf cluster (bronze or silver) and 5/16 inch star (gold or silver)",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": "Washington started it in 1782. One cluster per later award.",
    "swatches": [],
@@ -795,7 +815,8 @@
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
     "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
-    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.7 (PDF supplied by the app owner)"
+    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.7 (PDF supplied by the app owner)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.11 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": "ribbons/m-purple-heart.png"
   },
@@ -1118,7 +1139,8 @@
     "Navy",
     "Marine Corps",
     "Air Force",
-    "Space Force"
+    "Space Force",
+    "Coast Guard"
    ],
    "eras": [
     "korea",
@@ -1140,7 +1162,8 @@
     "Order of wear: No. 11 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
     "DoD manual: Individual service medal for periods the Secretary of Defense names; the list of periods is kept on a DoD website, not in the manual",
     "DoD manual: Worn after: Army, the Army of Occupation Medal; Navy and Marine Corps, the Navy Occupation Service Medal; Air Force and Space Force, the Air Force Recognition Ribbon",
-    "DoD manual: Service star is the only device"
+    "DoD manual: Service star is the only device",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": "Four wars: Korea, Vietnam, Gulf, GWOT.",
    "swatches": [],
@@ -1160,7 +1183,8 @@
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
     "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
-    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.14 (PDF supplied by the app owner)"
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.14 (PDF supplied by the app owner)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.5 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": "ribbons/m-ndsm.png"
   },
@@ -1174,7 +1198,8 @@
     "Navy",
     "Marine Corps",
     "Air Force",
-    "Space Force"
+    "Space Force",
+    "Coast Guard"
    ],
    "eras": [
     "korea",
@@ -1193,7 +1218,8 @@
     "Order of wear: No. 13 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
     "DoD manual: Deployed service medal; period begins 1 Jan 1946; area south of 60 degrees south",
     "DoD manual: Worn after the NDSM and before the AFEM",
-    "DoD manual: Wintered Over clasp (bronze first, gold second, silver third or later; one only) and a matching disk on the ribbon"
+    "DoD manual: Wintered Over clasp (bronze first, gold second, silver third or later; one only) and a matching disk on the ribbon",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": "Bronze, gold, silver: first, second, third winter.",
    "swatches": [],
@@ -1210,7 +1236,8 @@
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 2-11",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
-    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.2 (PDF supplied by the app owner)"
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.2 (PDF supplied by the app owner)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.6 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": null
   },
@@ -1224,7 +1251,8 @@
     "Navy",
     "Marine Corps",
     "Air Force",
-    "Space Force"
+    "Space Force",
+    "Coast Guard"
    ],
    "eras": [
     "vietnam",
@@ -1241,7 +1269,8 @@
     "Order of wear: No. 14 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
     "DoD manual: Expeditionary medal; for operations after 1 Jul 1958 with foreign armed opposition or imminent hostile action",
     "DoD manual: Worn after the Antarctica Service Medal and before the Vietnam Service Medal",
-    "DoD manual: One award per designated operation; a service star marks each later operation"
+    "DoD manual: One award per designated operation; a service star marks each later operation",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": "Eligibility starts 1 July 1958.",
    "swatches": [],
@@ -1273,7 +1302,8 @@
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
     "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
-    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.3 (PDF supplied by the app owner)"
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.3 (PDF supplied by the app owner)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.8 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": "ribbons/m-afem.png"
   },
@@ -1329,7 +1359,8 @@
     "Navy",
     "Marine Corps",
     "Air Force",
-    "Space Force"
+    "Space Force",
+    "Coast Guard"
    ],
    "eras": [
     "coldwar",
@@ -1346,7 +1377,8 @@
     "Order of wear: No. 16 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
     "DoD manual: Campaign medal; period 2 Aug 1990 to 30 Nov 1995",
     "DoD manual: Worn after the Vietnam Service Medal and before the Kosovo Campaign Medal",
-    "DoD manual: Campaign star is bronze only"
+    "DoD manual: Campaign star is bronze only",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": "2 Aug 1990 to 30 Nov 1995.",
    "swatches": [],
@@ -1372,7 +1404,8 @@
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
     "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
-    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.16 (PDF supplied by the app owner)"
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.16 (PDF supplied by the app owner)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.9 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": "ribbons/m-swasm.png"
   },
@@ -1386,7 +1419,8 @@
     "Navy",
     "Marine Corps",
     "Air Force",
-    "Space Force"
+    "Space Force",
+    "Coast Guard"
    ],
    "eras": [
     "modern"
@@ -1401,7 +1435,8 @@
     "Order of wear: No. 17 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
     "DoD manual: Campaign medal; period 24 Mar 1999 to 31 Dec 2013",
     "DoD manual: Worn after the Southwest Asia Service Medal and before the Afghanistan Campaign Medal",
-    "DoD manual: Authorized device: campaign star (no arrowhead is listed)"
+    "DoD manual: Authorized device: campaign star (no arrowhead is listed)",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": "24 Mar 1999 to 31 Dec 2013.",
    "swatches": [],
@@ -1426,7 +1461,8 @@
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/532)",
-    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.12 (PDF supplied by the app owner)"
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.12 (PDF supplied by the app owner)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.10 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": "ribbons/m-kcm.png"
   },
@@ -1440,7 +1476,8 @@
     "Navy",
     "Marine Corps",
     "Air Force",
-    "Space Force"
+    "Space Force",
+    "Coast Guard"
    ],
    "eras": [
     "modern"
@@ -1455,7 +1492,8 @@
     "Order of wear: No. 18 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
     "DoD manual: Campaign medal; period begins 11 Sep 2001, end date to be set by the Secretary of Defense",
     "DoD manual: Worn after the Kosovo Campaign Medal and before the Iraq Campaign Medal",
-    "DoD manual: Awarded once; a campaign star marks each campaign phase"
+    "DoD manual: Awarded once; a campaign star marks each campaign phase",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": "11 Sep 2001 to 31 Aug 2021.",
    "swatches": [],
@@ -1487,7 +1525,8 @@
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
     "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
-    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.1 (PDF supplied by the app owner)"
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.1 (PDF supplied by the app owner)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.11 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": "ribbons/m-acm.png"
   },
@@ -1501,7 +1540,8 @@
     "Navy",
     "Marine Corps",
     "Air Force",
-    "Space Force"
+    "Space Force",
+    "Coast Guard"
    ],
    "eras": [
     "modern"
@@ -1515,7 +1555,8 @@
     "The medal is awarded once; a bronze star marks each designated service",
     "Order of wear: No. 19 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
     "DoD manual: Campaign medal; period 19 Mar 2003 to 31 Dec 2011",
-    "DoD manual: Worn after the Afghanistan Campaign Medal and before the Inherent Resolve Campaign Medal"
+    "DoD manual: Worn after the Afghanistan Campaign Medal and before the Inherent Resolve Campaign Medal",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": "19 Mar 2003 to 31 Dec 2011.",
    "swatches": [],
@@ -1547,7 +1588,8 @@
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
     "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
-    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.10 (PDF supplied by the app owner)"
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.10 (PDF supplied by the app owner)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.12 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": "ribbons/m-icm.png"
   },
@@ -1619,7 +1661,8 @@
     "Navy",
     "Marine Corps",
     "Air Force",
-    "Space Force"
+    "Space Force",
+    "Coast Guard"
    ],
    "eras": [
     "modern"
@@ -1633,7 +1676,8 @@
     "A bronze star marks separate deployments in different named operations",
     "Order of wear: No. 21 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
     "DoD manual: Expeditionary medal; for operations on or after 11 Sep 2001; each operation has its own period of award",
-    "DoD manual: Worn after the Inherent Resolve Campaign Medal and before the GWOT Service Medal"
+    "DoD manual: Worn after the Inherent Resolve Campaign Medal and before the GWOT Service Medal",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": "On or after 11 Sep 2001. Deployed abroad.",
    "swatches": [],
@@ -1664,7 +1708,8 @@
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/579)",
-    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.6 (PDF supplied by the app owner)"
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.6 (PDF supplied by the app owner)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.13 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": "ribbons/m-gwotem.png"
   },
@@ -1678,7 +1723,8 @@
     "Navy",
     "Marine Corps",
     "Air Force",
-    "Space Force"
+    "Space Force",
+    "Coast Guard"
    ],
    "eras": [
     "modern"
@@ -1693,7 +1739,8 @@
     "Order of wear: No. 22 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
     "DoD manual: Individual service medal; non-deployed support on or after 11 Sep 2001",
     "DoD manual: Worn after the GWOT Expeditionary Medal and before the Korea Defense Service Medal",
-    "DoD manual: No devices, no later awards"
+    "DoD manual: No devices, no later awards",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": "11 Sep 2001 to 10 Sep 2022. Service, not deployed.",
    "swatches": [],
@@ -1705,7 +1752,8 @@
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/580)",
-    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.7 (PDF supplied by the app owner)"
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.7 (PDF supplied by the app owner)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.14 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": "ribbons/m-gwotsm.png"
   },
@@ -1719,7 +1767,8 @@
     "Navy",
     "Marine Corps",
     "Air Force",
-    "Space Force"
+    "Space Force",
+    "Coast Guard"
    ],
    "eras": [
     "vietnam",
@@ -1737,7 +1786,8 @@
     "Order of wear: No. 23 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
     "DoD manual: Deployed service medal; period begins 28 Jul 1954",
     "DoD manual: Worn after the GWOT Service Medal and before the Armed Forces Service Medal",
-    "DoD manual: No devices are authorized"
+    "DoD manual: No devices are authorized",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": "Starts 28 Jul 1954, the day after the Korean Service Medal period ends.",
    "swatches": [],
@@ -1749,7 +1799,8 @@
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/585)",
-    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.11 (PDF supplied by the app owner)"
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.11 (PDF supplied by the app owner)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.15 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": "ribbons/m-kdsm.png"
   },
@@ -1763,7 +1814,8 @@
     "Navy",
     "Marine Corps",
     "Air Force",
-    "Space Force"
+    "Space Force",
+    "Coast Guard"
    ],
    "eras": [
     "modern"
@@ -1777,7 +1829,8 @@
     "Order of wear: No. 24 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
     "DoD manual: Deployed service medal; for designated operations on or after 1 Jun 1992 with no foreign armed opposition (the non-combat match to the AFEM)",
     "DoD manual: Worn after the Korea Defense Service Medal and before the Humanitarian Service Medal",
-    "DoD manual: One award per designated operation; service star is the only device"
+    "DoD manual: One award per designated operation; service star is the only device",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": "After 1 June 1992. No armed opposition.",
    "swatches": [],
@@ -1797,7 +1850,8 @@
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes: U.S. Army, 'U.S. Army Service, Campaign Medals and Foreign Awards Information' (veteranmedals.army.mil, text dated 19 Mar 2003). Ribbon drawn by this app; color values are approximations of the named Federal colors",
     "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches",
-    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.4 (PDF supplied by the app owner)"
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.4 (PDF supplied by the app owner)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.16 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": "ribbons/m-afsm.png"
   },
@@ -1811,7 +1865,8 @@
     "Navy",
     "Marine Corps",
     "Air Force",
-    "Space Force"
+    "Space Force",
+    "Coast Guard"
    ],
    "eras": [
     "vietnam",
@@ -1828,7 +1883,8 @@
     "Order of wear: No. 25 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
     "DoD manual: Individual service medal; humanitarian operations after 1 Apr 1975",
     "DoD manual: Worn after the Armed Forces Service Medal and before the Military Outstanding Volunteer Service Medal",
-    "DoD manual: Service star is the only device"
+    "DoD manual: Service star is the only device",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": "Established 1977, counts from 1 Apr 1975.",
    "swatches": [],
@@ -1847,7 +1903,8 @@
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/233)",
-    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.8 (PDF supplied by the app owner)"
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.8 (PDF supplied by the app owner)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.17 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": "ribbons/m-hsm.png"
   },
@@ -1861,7 +1918,8 @@
     "Navy",
     "Marine Corps",
     "Air Force",
-    "Space Force"
+    "Space Force",
+    "Coast Guard"
    ],
    "eras": [
     "modern"
@@ -1876,7 +1934,8 @@
     "Order of wear: No. 26 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
     "DoD manual: Individual service medal; outstanding volunteer service after 31 Dec 1992",
     "DoD manual: Worn after the Humanitarian Service Medal; Army before the Army Sea Duty Ribbon, Navy and Marine Corps before the Sea Service Deployment Ribbon, Air Force and Space Force before the Overseas Service Ribbon (Short Tour)",
-    "DoD manual: Service star is the only device"
+    "DoD manual: Service star is the only device",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": "Starts 1993. Worn right after the HSM.",
    "swatches": [],
@@ -1895,7 +1954,8 @@
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/374)",
-    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.13 (PDF supplied by the app owner)"
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.13 (PDF supplied by the app owner)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.19 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": "ribbons/m-movsm.png"
   },
@@ -1929,7 +1989,8 @@
     "Order of wear: No. 28 in the Army table for service medals and ribbons. Lower numbers are worn first (higher).",
     "DoD manual: Six versions of the medal; the front is the same, the back differs by Reserve component (Army, Navy, Marine Corps, Air Force, National Guard, Coast Guard)",
     "DoD manual: Qualifies: 10 years in 12 consecutive years of Reserve service, or called to active duty on or after 1 Aug 1990, or volunteer service in designated operations",
-    "DoD manual: Hourglass shown first, then M device and numerals (numerals start with 2)"
+    "DoD manual: Hourglass shown first, then M device and numerals (numerals start with 2)",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": "1950. Hourglass per 10 years, M for mobilized.",
    "swatches": [],
@@ -1960,7 +2021,8 @@
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/13)",
-    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.5 (PDF supplied by the app owner)"
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.5 (PDF supplied by the app owner)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.25 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": "ribbons/m-afrm.png"
   },
@@ -2665,7 +2727,8 @@
     "Navy",
     "Marine Corps",
     "Air Force",
-    "Space Force"
+    "Space Force",
+    "Coast Guard"
    ],
    "eras": [
     "ww2",
@@ -2685,7 +2748,8 @@
     "Order of wear: No. 1 in the Army table for unit awards. Lower numbers are worn first (higher).",
     "DoD manual: Established by E.O. 10694 as amended by E.O. 14085; units after 7 Dec 1941",
     "DoD manual: Army: before all other unit citations. Navy and Marine Corps: after the Combat Action Ribbon and before the Joint Meritorious Unit Award. Air Force and Space Force: after the Air Force Combat Action Medal and before the Joint Meritorious Unit Award",
-    "DoD manual: Devices: oak leaf cluster (bronze or silver) and 3/16 inch star (bronze or silver)"
+    "DoD manual: Devices: oak leaf cluster (bronze or silver) and 3/16 inch star (bronze or silver)",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": "Distinguished Unit Citation became the PUC in 1966.",
    "swatches": [],
@@ -2704,7 +2768,8 @@
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)",
     "Ribbon stripes cross-checked or measured against S. G. Haskin, Illustrated Guide - United States Military Specification MIL-DTL-11589 Ribbons, 7 Dec 2018 (private guide to the TIOH spec sheets, not endorsed by TIOH); widths to 1/64 inch, +/-1/64, colors are its Pantone matches (sheet MIL-DTL-11589/54)",
-    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.10 (PDF supplied by the app owner)"
+    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.10 (PDF supplied by the app owner)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 3.B.1 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": "ribbons/m-puc.png"
   },
@@ -10756,7 +10821,8 @@
     "Bronze is 10 years, silver 20 years, gold 30 years",
     "A gold and a bronze together mean 40 years",
     "Shown first (the wearer's right), then the M device, when both are worn",
-    "Department of the Air Force: 5/16 inch hourglass with a Roman numeral X; bronze, silver and gold for each 10 years"
+    "Department of the Air Force: 5/16 inch hourglass with a Roman numeral X; bronze, silver and gold for each 10 years",
+    "Coast Guard manual: on the Armed Forces Reserve Medal the hourglass is bronze, silver, gold, or gold plus bronze for the 1st to 4th 10-year period (5.A.25.b.2)"
    ],
    "remember": null,
    "swatches": [],
@@ -10765,7 +10831,8 @@
    "proof": "official",
    "sources": [
     "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.5.j (PDF supplied by the app owner)",
-    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.9 (PDF supplied by the app owner)"
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.9 (PDF supplied by the app owner)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.25.b (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": null
   },
@@ -11956,7 +12023,8 @@
    "name": "Navy Cross",
    "branches": [
     "Navy",
-    "Marine Corps"
+    "Marine Corps",
+    "Coast Guard"
    ],
    "eras": [],
    "yearFrom": null,
@@ -11967,7 +12035,8 @@
     "Must be in the presence of great danger or at great personal risk, setting the person apart from shipmates or fellow Marines",
     "An accumulation of minor acts does not justify the award",
     "Worn right after the Medal of Honor",
-    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": null,
    "swatches": [],
@@ -11975,7 +12044,8 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 2 Section 3 item 2 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 2 Section 3 item 2 (PDF supplied by the app owner; 2006 edition, later changes not checked)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.2 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": null
   },
@@ -12045,7 +12115,8 @@
    "name": "Navy and Marine Corps Commendation Medal",
    "branches": [
     "Navy",
-    "Marine Corps"
+    "Marine Corps",
+    "Coast Guard"
    ],
    "eras": [
     "ww2",
@@ -12063,7 +12134,8 @@
     "Open to foreign military personnel",
     "Combat Distinguishing Device may be authorized",
     "Worn after the Joint Service Commendation Medal",
-    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": null,
    "swatches": [],
@@ -12071,7 +12143,8 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 2 Section 3 item 12 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 2 Section 3 item 12 (PDF supplied by the app owner; 2006 edition, later changes not checked)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.15 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": null
   },
@@ -12082,7 +12155,8 @@
    "name": "Navy and Marine Corps Achievement Medal",
    "branches": [
     "Navy",
-    "Marine Corps"
+    "Marine Corps",
+    "Coast Guard"
    ],
    "eras": [
     "vietnam",
@@ -12098,7 +12172,8 @@
     "Not for aerial flight service after 1 Jan 1969 (the Air Medal fits that)",
     "Combat Distinguishing Device authorized for service after 17 Jul 1967, discontinued Apr 1974, reauthorized 17 Jan 1991",
     "Renamed 19 Aug 1994",
-    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": null,
    "swatches": [],
@@ -12106,7 +12181,8 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 2 Section 3 item 13 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 2 Section 3 item 13 (PDF supplied by the app owner; 2006 edition, later changes not checked)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.17 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": null
   },
@@ -12135,7 +12211,8 @@
     "Not automatic from a combat area or a Purple Heart",
     "Not for aerial combat; the Strike/Flight Air Medal covers that",
     "Direct exposure to an enemy IED counts, retroactive to 7 Oct 2001",
-    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": null,
    "swatches": [],
@@ -12143,7 +12220,8 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 2 Section 3 item 14 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 2 Section 3 item 14 (PDF supplied by the app owner; 2006 edition, later changes not checked)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.19 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": null
   },
@@ -12154,7 +12232,8 @@
    "name": "Navy Unit Commendation",
    "branches": [
     "Navy",
-    "Marine Corps"
+    "Marine Corps",
+    "Coast Guard"
    ],
    "eras": [
     "ww2",
@@ -12172,7 +12251,8 @@
     "Awarded by the Secretary of the Navy",
     "Level of service compares to a Silver Star or Legion of Merit for an individual",
     "May go to units of other branches and friendly foreign forces",
-    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": null,
    "swatches": [],
@@ -12180,7 +12260,8 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 3 Section 3 item 2 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 3 Section 3 item 2 (PDF supplied by the app owner; 2006 edition, later changes not checked)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 3.B.4 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": null
   },
@@ -12191,7 +12272,8 @@
    "name": "Meritorious Unit Commendation (Navy and Marine Corps)",
    "branches": [
     "Navy",
-    "Marine Corps"
+    "Marine Corps",
+    "Coast Guard"
    ],
    "eras": [
     "vietnam",
@@ -12207,7 +12289,8 @@
     "Awarded by the Secretary of the Navy, CNO or Commandant",
     "Level of service compares to a Bronze Star for an individual",
     "May go to units of other branches and friendly foreign forces",
-    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual"
+    "Device and wear rules are in the Navy and Marine Corps uniform regulations, not in this manual",
+    "Coast Guard manual: listed as an award Coast Guard members may be given"
    ],
    "remember": null,
    "swatches": [],
@@ -12215,7 +12298,8 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 3 Section 3 item 3 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+    "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 3 Section 3 item 3 (PDF supplied by the app owner; 2006 edition, later changes not checked)",
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 3.B.6 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": null
   },
@@ -12704,6 +12788,924 @@
    "proof": "official",
    "sources": [
     "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 29 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-dev-cg-o",
+   "tab": "medals",
+   "group": "Devices",
+   "name": "Operational Distinguishing Device (\"O\")",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Coast Guard \"O\" device for operational personal and unit awards.",
+   "facts": [
+    "For use on personal and unit awards",
+    "The citation must specifically authorize it",
+    "Needs direct operational \"hands on\" work: search and rescue, firefighting, law enforcement, disaster relief, pollution response, aids to navigation",
+    "Staff or administrative service does not qualify"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 1.B (Distinguishing Devices) (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-dev-cg-m",
+   "tab": "medals",
+   "group": "Devices",
+   "name": "Mobilization (\"M\") device (Coast Guard Reserve)",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "\"M\" device on the Armed Forces Reserve Medal for call-up or contingency service.",
+   "facts": [
+    "For members who qualify under 5.A.25.a(2) or (3): called to active duty on or after 1 Aug 1990, or volunteering for a designated contingency",
+    "Centered on the ribbon with the hourglass on the wearer's right and the award number on the left",
+    "No number for the first award"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.25.b (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-cg-hsdsm",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Homeland Security Distinguished Service Medal",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": 2003,
+   "yearTo": null,
+   "summary": "Extraordinarily meritorious service in a duty of great responsibility while assigned to the Department of Homeland Security.",
+   "facts": [
+    "Authorized by Executive Order 12824, 7 Dec 1992, for the Department of Transportation",
+    "Moved to the Department of Homeland Security by Executive Order 13286, 1 Mar 2003",
+    "Service must have contributed materially to a major command or project of national significance"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.3 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-cg-dsm",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Coast Guard Distinguished Service Medal",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "korea",
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1949,
+   "yearTo": null,
+   "summary": "Exceptionally meritorious service in a duty of great responsibility.",
+   "facts": [
+    "Authorized by 14 USC 492, 4 Aug 1949",
+    "Generally awarded to flag officers in principal commands",
+    "Duty must be clearly above normal and contribute materially to a major command or project"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "\"O\" device",
+     "note": "May be authorized by the citation for operational awards (Chapter 1).",
+     "variants": [],
+     "link": "m-dev-cg-o"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.4 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-dot-guardian",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Department of Transportation Guardian Medal",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Senior transportation officials who strengthened the protection and security of the nation.",
+   "facts": [
+    "For senior government transportation officials",
+    "New recommendations are not authorized"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.6 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-cg-medal",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Coast Guard Medal",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "korea",
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1949,
+   "yearTo": null,
+   "summary": "Heroism not involving actual conflict with an enemy.",
+   "facts": [
+    "Authorized by 14 USC 493, 4 Aug 1949"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "\"O\" device",
+     "note": "May be authorized by the citation for operational awards (Chapter 1).",
+     "variants": [],
+     "link": "m-dev-cg-o"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.9 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-cgcm",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Coast Guard Commendation Medal",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "korea",
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1947,
+   "yearTo": null,
+   "summary": "Meritorious service or achievement, below the Bronze Star and Meritorious Service Medal.",
+   "facts": [
+    "Began as the Commendation Ribbon with Metal Pendant, authorized by the Secretary of the Treasury, 26 Aug 1947",
+    "Renamed Coast Guard Commendation Medal by the Commandant, 2 Oct 1959"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "\"O\" device",
+     "note": "May be authorized by the citation for operational awards (Chapter 1).",
+     "variants": [],
+     "link": "m-dev-cg-o"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.14 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-cgam",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Coast Guard Achievement Medal",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1968,
+   "yearTo": null,
+   "summary": "Meritorious service or achievement below the Commendation Medal.",
+   "facts": [
+    "Authorized by the Commandant, 11 Jun 1968"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "\"O\" device",
+     "note": "May be authorized by the citation for operational awards (Chapter 1).",
+     "variants": [],
+     "link": "m-dev-cg-o"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.16 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-cgloc",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Commandant's Letter of Commendation Ribbon",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1979,
+   "yearTo": null,
+   "summary": "Ribbon bar for a Commandant's Letter of Commendation.",
+   "facts": [
+    "Authorized by the Commandant",
+    "Ribbon bar established 17 Mar 1979"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "\"O\" device",
+     "note": "May be authorized by the citation for operational awards (Chapter 1).",
+     "variants": [],
+     "link": "m-dev-cg-o"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.18 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-cg-gold-lsm",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Gold Lifesaving Medal",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "ww1",
+    "interwar",
+    "ww2",
+    "korea",
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1874,
+   "yearTo": null,
+   "summary": "Rescue or attempted rescue at the risk of one's own life, showing extreme and heroic daring.",
+   "facts": [
+    "Created by Congress in 1874; authorized now by 14 USC 500, 4 Aug 1949",
+    "Awarded by the Commandant",
+    "Not classed as a military decoration but authorized for wear by Coast Guard personnel",
+    "Military personnel on duty normally get a military award instead; leave or liberty status can qualify"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "\"O\" device",
+     "note": "May be authorized by the citation for operational awards (Chapter 1).",
+     "variants": [],
+     "link": "m-dev-cg-o"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 4.A.1 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-cg-silver-lsm",
+   "tab": "medals",
+   "group": "Decorations",
+   "name": "Silver Lifesaving Medal",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "ww1",
+    "interwar",
+    "ww2",
+    "korea",
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1874,
+   "yearTo": null,
+   "summary": "Rescue or attempted rescue with extraordinary effort that falls short of the Gold medal.",
+   "facts": [
+    "Created by Congress in 1874; authorized now by 14 USC 500, 4 Aug 1949",
+    "Awarded by the Commandant",
+    "Not classed as a military decoration but authorized for wear by Coast Guard personnel",
+    "No time limit on recommending or awarding"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "\"O\" device",
+     "note": "May be authorized by the citation for operational awards (Chapter 1).",
+     "variants": [],
+     "link": "m-dev-cg-o"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 4.A.1 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-cguc",
+   "tab": "medals",
+   "group": "Unit awards",
+   "name": "Coast Guard Unit Commendation",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1963,
+   "yearTo": null,
+   "summary": "Units with valorous or extremely meritorious service in support of operations, not in combat.",
+   "facts": [
+    "Authorized by the Commandant, 1 Jan 1963",
+    "Unit service must compare to an MSM for an individual",
+    "May go to units of other branches"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "\"O\" device",
+     "note": "May be authorized by the citation for operational awards (Chapter 1).",
+     "variants": [],
+     "link": "m-dev-cg-o"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 3.B.3 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-cgmuc",
+   "tab": "medals",
+   "group": "Unit awards",
+   "name": "Coast Guard Meritorious Unit Commendation",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1973,
+   "yearTo": null,
+   "summary": "Units with valorous or meritorious service in support of operations, not in combat.",
+   "facts": [
+    "Authorized by the Commandant, 13 Nov 1973",
+    "Unit service must compare to a Coast Guard Achievement Medal for an individual",
+    "May go to units of other branches"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "\"O\" device",
+     "note": "May be authorized by the citation for operational awards (Chapter 1).",
+     "variants": [],
+     "link": "m-dev-cg-o"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 3.B.5 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-cgmtc",
+   "tab": "medals",
+   "group": "Unit awards",
+   "name": "Coast Guard Meritorious Team Commendation",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1993,
+   "yearTo": null,
+   "summary": "Groups or teams not identified as a Coast Guard unit.",
+   "facts": [
+    "Authorized by the Commandant, 22 Dec 1993",
+    "Team service must compare to a Commandant's Letter of Commendation or higher for an individual",
+    "Does not block personal awards for the same action"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "\"O\" device",
+     "note": "May be authorized by the citation for operational awards (Chapter 1).",
+     "variants": [],
+     "link": "m-dev-cg-o"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 3.B.7 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-cg-e",
+   "tab": "medals",
+   "group": "Unit awards",
+   "name": "Coast Guard \"E\" Ribbon",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1990,
+   "yearTo": null,
+   "summary": "Cutter crews that earn the overall operational readiness \"E\" during Tailored Annual Cutter Training.",
+   "facts": [
+    "Authorized by the Commandant, 25 Sep 1990",
+    "Awarded by area commanders; no citation",
+    "Serving aboard more than 50 percent of the training period qualifies"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "\"O\" device",
+     "note": "May be authorized by the citation for operational awards (Chapter 1).",
+     "variants": [],
+     "link": "m-dev-cg-o"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 3.B.8 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-cg-bicent",
+   "tab": "medals",
+   "group": "Unit awards",
+   "name": "Coast Guard Bicentennial Unit Commendation",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1990,
+   "yearTo": null,
+   "summary": "Unit award for the Coast Guard's 200th anniversary.",
+   "facts": [
+    "Authorized by the Commandant, 2 Jan 1990"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para Enclosure 1 (Historical and Statutory Notes) (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-dot-ouA",
+   "tab": "medals",
+   "group": "Unit awards",
+   "name": "Department of Transportation Outstanding Unit Award",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1994,
+   "yearTo": null,
+   "summary": "Department of Transportation unit award, listed in the Coast Guard manual.",
+   "facts": [
+    "Authorized by the Secretary of Transportation, 3 Nov 1994"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "\"O\" device",
+     "note": "May be authorized by the citation for operational awards (Chapter 1).",
+     "variants": [],
+     "link": "m-dev-cg-o"
+    }
+   ],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para Enclosure 1 (Historical and Statutory Notes) (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-cg-9",
+   "tab": "medals",
+   "group": "Service medals",
+   "name": "DOT 9/11 Medal",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": 2003,
+   "yearTo": null,
+   "summary": "Department of Transportation employees and citizens who responded to the attacks of 11 Sep 2001.",
+   "facts": [
+    "Authorized by the Secretary of Transportation, 11 Feb 2003",
+    "New recommendations are not authorized",
+    "The ribbon is also covered under 5.A.18"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.1 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-cggcm",
+   "tab": "medals",
+   "group": "Service medals",
+   "name": "Coast Guard Good Conduct Medal",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "interwar",
+    "ww2",
+    "korea",
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1921,
+   "yearTo": null,
+   "summary": "Satisfactory enlisted service: proficiency in rating, sobriety, obedience, industry, courage and neatness.",
+   "facts": [
+    "Authorized by the Commandant, 18 May 1921",
+    "Since 1 Jul 1983, three consecutive years of satisfactory service",
+    "Only enlisted service counts"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.2 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-cgrgcm",
+   "tab": "medals",
+   "group": "Service medals",
+   "name": "Coast Guard Reserve Good Conduct Medal",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "vietnam",
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1963,
+   "yearTo": null,
+   "summary": "Reserve enlisted members with satisfactory service over three consecutive years.",
+   "facts": [
+    "Authorized by the Commandant, 1 Feb 1963",
+    "Needs at least 70 retirement points in each of three consecutive anniversary years"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.3 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-cgepoy",
+   "tab": "medals",
+   "group": "Ribbons",
+   "name": "Coast Guard Enlisted Person of the Year Ribbon",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": 1999,
+   "yearTo": null,
+   "summary": "The most outstanding active duty and reserve enlisted person.",
+   "facts": [
+    "Authorized by the Commandant (COMDTINST 1650.36), 16 Feb 1999",
+    "Open to pay grades E-2 through E-6",
+    "Ribbon bar only, no medal"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.4 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-cg-arctic",
+   "tab": "medals",
+   "group": "Service medals",
+   "name": "Coast Guard Arctic Service Medal",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1976,
+   "yearTo": null,
+   "summary": "Service in Arctic waters or flights north of the Arctic Circle.",
+   "facts": [
+    "Authorized by the Commandant, 20 May 1976",
+    "Summer (1 May-31 Oct) service north of 66 33 N, or winter service on a cutter in the Bering Sea, Davis Strait or Denmark Strait",
+    "Minimum 21 consecutive days; one award per deployment"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.7 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-cgsos",
+   "tab": "medals",
+   "group": "Ribbons",
+   "name": "Coast Guard Special Operations Service Ribbon",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1987,
+   "yearTo": null,
+   "summary": "Service in designated Coast Guard special operations.",
+   "facts": [
+    "Authorized by the Commandant, 1 Jul 1987"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.20 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-cgssr",
+   "tab": "medals",
+   "group": "Ribbons",
+   "name": "Coast Guard Sea Service Ribbon",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1984,
+   "yearTo": null,
+   "summary": "12 months of cumulative sea duty.",
+   "facts": [
+    "Authorized by the Commandant, 3 Mar 1984",
+    "Duty aboard a commissioned cutter 65 feet or more, with an Afloat Training Group, or aboard certain listed vessels",
+    "Open to active and inactive Coast Guard members, Reserve and some non-Coast Guard personnel"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.21 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-cgrdr",
+   "tab": "medals",
+   "group": "Ribbons",
+   "name": "Coast Guard Restricted Duty Ribbon",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1984,
+   "yearTo": null,
+   "summary": "A permanent change of station tour at a listed restricted shore unit.",
+   "facts": [
+    "Authorized by the Commandant, 3 Mar 1984",
+    "TDY, TAD, ADT and similar assignments do not count",
+    "Units where dependents may accompany the member do not qualify"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.22 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-cgbthgr",
+   "tab": "medals",
+   "group": "Ribbons",
+   "name": "Coast Guard Basic Training Honor Graduate Ribbon",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1984,
+   "yearTo": null,
+   "summary": "Highest graduate of each recruit company.",
+   "facts": [
+    "Authorized by the Commandant, 3 Mar 1984",
+    "Effective 1 Apr 1984",
+    "Prior-service members who graduated from other than Coast Guard recruit training are not eligible"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.23 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+   ],
+   "image": null
+  },
+  {
+   "id": "m-cgrecr",
+   "tab": "medals",
+   "group": "Ribbons",
+   "name": "Coast Guard Recruiting Service Ribbon",
+   "branches": [
+    "Coast Guard"
+   ],
+   "eras": [
+    "coldwar",
+    "gulf",
+    "modern"
+   ],
+   "yearFrom": 1980,
+   "yearTo": null,
+   "summary": "A successful tour of two consecutive years in recruiting.",
+   "facts": [
+    "Authorized by the Commandant 2 Nov 1995, amended 1 Jan 1996",
+    "Retroactive to tours completed on or after 1 Jan 1980",
+    "Reserve members need two years drilling at or augmenting a recruiting office"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "official",
+   "sources": [
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.24 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
    ],
    "image": null
   }

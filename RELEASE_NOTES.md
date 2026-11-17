@@ -1,3 +1,9 @@
+## 0.16.0
+- Coast Guard awards added from COMDTINST M1650.25D (May 2008 edition): Coast Guard decorations, lifesaving medals, unit awards, service medals and ribbons.
+- 27 awards tagged Coast Guard with source (DoD and Navy awards the manual lists).
+- Coast Guard "O" and Reserve "M" devices, plus hourglass rule, added.
+- Each entry names the edition; later changes not checked.
+
 ## 0.15.0
 - Navy and Marine Corps awards added from SECNAVINST 1650.1H (2006 edition): 8 decorations and unit awards, 14 medals and ribbons.
 - Each entry names the edition and says device rules are in the uniform regulations.
