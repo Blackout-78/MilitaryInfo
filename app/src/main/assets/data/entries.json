@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.9.0-navy-uniforms-medals",
+ "dataVersion": "0.9.1-navy-e4-e6",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -7005,6 +7005,102 @@
     "Wikipedia, 'List of United States Navy enlisted rates' (secondary source, not official)"
    ],
    "image": null
+  },
+  {
+   "id": "n-e4",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Petty Officer Third Class",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy E-4. Rating badge with a perched eagle and one chevron.",
+   "facts": [
+    "Grade: E-4",
+    "Chevrons: one chevron (read from the picture, not stated in the official text read)",
+    "A specialty mark for the rating goes between the eagle's talons and the upper chevron (para 4226)",
+    "E-4 to E-6 wear pewter or anodized miniature collar devices (para 4227)",
+    "Picture shows the coveralls version: navy background, white eagle, red chevrons. Colors change with the uniform (para 4221)"
+   ],
+   "remember": "One chevron.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Chevron count read from the public-domain Wikimedia Commons drawing: https://commons.wikimedia.org/wiki/File:Rate_insignia_of_a_United_States_Navy_petty_officer_third_class_(coveralls).svg",
+    "Navy Uniform Regulations (NAVPERS 15665) paras 4221, 4226, 4227, mynavyhr.navy.mil"
+   ],
+   "image": "navy/n-e4.png"
+  },
+  {
+   "id": "n-e5",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Petty Officer Second Class",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy E-5. Rating badge with a perched eagle and two chevrons.",
+   "facts": [
+    "Grade: E-5",
+    "Chevrons: two chevrons (read from the picture, not stated in the official text read)",
+    "A specialty mark for the rating goes between the eagle's talons and the upper chevron (para 4226)",
+    "E-4 to E-6 wear pewter or anodized miniature collar devices (para 4227)",
+    "Picture shows the coveralls version: navy background, white eagle, red chevrons. Colors change with the uniform (para 4221)"
+   ],
+   "remember": "Two chevrons.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Chevron count read from the public-domain Wikimedia Commons drawing: https://commons.wikimedia.org/wiki/File:Rate_insignia_of_a_United_States_Navy_petty_officer_second_class_(coveralls).svg",
+    "Navy Uniform Regulations (NAVPERS 15665) paras 4221, 4226, 4227, mynavyhr.navy.mil"
+   ],
+   "image": "navy/n-e5.png"
+  },
+  {
+   "id": "n-e6",
+   "tab": "ranks",
+   "group": "Enlisted",
+   "name": "Petty Officer First Class",
+   "branches": [
+    "Navy"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": null,
+   "yearTo": null,
+   "summary": "Navy E-6. Rating badge with a perched eagle and three chevrons.",
+   "facts": [
+    "Grade: E-6",
+    "Chevrons: three chevrons (read from the picture, not stated in the official text read)",
+    "A specialty mark for the rating goes between the eagle's talons and the upper chevron (para 4226)",
+    "E-4 to E-6 wear pewter or anodized miniature collar devices (para 4227)",
+    "Picture shows the coveralls version: navy background, white eagle, red chevrons. Colors change with the uniform (para 4221)"
+   ],
+   "remember": "Three chevrons.",
+   "swatches": [],
+   "variants": [],
+   "attachments": [],
+   "proof": "unverified",
+   "sources": [
+    "Chevron count read from the public-domain Wikimedia Commons drawing: https://commons.wikimedia.org/wiki/File:Rate_insignia_of_a_United_States_Navy_petty_officer_first_class_(coveralls).svg",
+    "Navy Uniform Regulations (NAVPERS 15665) paras 4221, 4226, 4227, mynavyhr.navy.mil"
+   ],
+   "image": "navy/n-e6.png"
   }
  ]
 }

@@ -25,3 +25,11 @@ Bundled badge pictures, all public domain or CC0 per their Wikimedia Commons fil
 | b-sf-tab | Einzelbild Special Forces (Special Forces Insignia).svg | Public domain | US Army | https://commons.wikimedia.org/wiki/File:Einzelbild_Special_Forces_(Special_Forces_Insignia).svg |
 | b-sapper-tab | Sapper Tab.png | Public domain | Bastruk | https://commons.wikimedia.org/wiki/File:Sapper_Tab.png |
 | b-presidents-hundred-tab | USA - President's Hundred Tab.png | Public domain | United States Army | https://commons.wikimedia.org/wiki/File:USA_-_President%27s_Hundred_Tab.png |
+
+## Navy enlisted pictures
+
+| Entry | File | License | Source page |
+|---|---|---|---|
+| n-e4 | Rate insignia of a United States Navy petty officer third class (coveralls).svg | Public domain | https://commons.wikimedia.org/wiki/File:Rate_insignia_of_a_United_States_Navy_petty_officer_third_class_(coveralls).svg |
+| n-e5 | Rate insignia of a United States Navy petty officer second class (coveralls).svg | Public domain | https://commons.wikimedia.org/wiki/File:Rate_insignia_of_a_United_States_Navy_petty_officer_second_class_(coveralls).svg |
+| n-e6 | Rate insignia of a United States Navy petty officer first class (coveralls).svg | Public domain | https://commons.wikimedia.org/wiki/File:Rate_insignia_of_a_United_States_Navy_petty_officer_first_class_(coveralls).svg |
