@@ -80,3 +80,6 @@ All from Wikimedia Commons, tagged public domain. The EOD Basic and Senior pictu
 | b-instructor Senior | US Army Senior Instructor ID Badge.png | Public domain | https://commons.wikimedia.org/wiki/File:US_Army_Senior_Instructor_ID_Badge.png |
 | b-instructor Master | US Army Master Instructor ID Badge.png | Public domain | https://commons.wikimedia.org/wiki/File:US_Army_Master_Instructor_ID_Badge.png |
 | b-freefall Jumpmaster | Master Military Freefall Parachutist Badge (US Army).png | Public domain | https://commons.wikimedia.org/wiki/File:Master_Military_Freefall_Parachutist_Badge_(US_Army).png |
+| b-mcib | US Army Master Combat Infantryman Badge.png | Public domain | https://commons.wikimedia.org/wiki/File:US_Army_Master_Combat_Infantryman_Badge.png |
+| b-mcmb | US Army Master Combat Medical Badge.png | Public domain | https://commons.wikimedia.org/wiki/File:US_Army_Master_Combat_Medical_Badge.png |
+| b-mcab | US Army Master Combat Action Badge.png | Public domain | https://commons.wikimedia.org/wiki/File:US_Army_Master_Combat_Action_Badge.png |

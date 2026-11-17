@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.16.1-medical-badges",
+ "dataVersion": "0.16.2-infantry-badges",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -3434,7 +3434,20 @@
    "remember": "Infantry plus ground combat. Established 27 Oct 1943.",
    "swatches": [],
    "variants": [],
-   "attachments": [],
+   "attachments": [
+    {
+     "name": "Master Combat Infantryman Badge (MCIB)",
+     "note": "Master badge: needs the CIB plus an expert badge.",
+     "variants": [],
+     "link": "b-mcib"
+    },
+    {
+     "name": "Expert Infantryman Badge (EIB)",
+     "note": "Expert badge that can qualify a CIB holder for the Master CIB.",
+     "variants": [],
+     "link": "b-eib"
+    }
+   ],
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-6",
@@ -3484,6 +3497,12 @@
      "note": "Added 2024: CMB plus an expert badge (para 8-7).",
      "variants": [],
      "link": "b-mcmb"
+    },
+    {
+     "name": "Expert Field Medical Badge (EFMB)",
+     "note": "Expert badge for medical personnel; counts toward the Master CMB.",
+     "variants": [],
+     "link": "b-efmb"
     }
    ],
    "proof": "official",
@@ -3519,7 +3538,14 @@
    "remember": "Any Soldier under fire. Approved 2005, counts back to 18 Sep 2001.",
    "swatches": [],
    "variants": [],
-   "attachments": [],
+   "attachments": [
+    {
+     "name": "Master Combat Action Badge (MCAB)",
+     "note": "Master badge: CAB plus an expert badge.",
+     "variants": [],
+     "link": "b-mcab"
+    }
+   ],
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-8",
@@ -3551,7 +3577,20 @@
    "remember": "Expert tests: infantry EIB, medical EFMB, everyone else ESB.",
    "swatches": [],
    "variants": [],
-   "attachments": [],
+   "attachments": [
+    {
+     "name": "Combat Infantryman Badge (CIB)",
+     "note": "Badge for actual infantry combat; CIB plus EIB can lead to the Master CIB.",
+     "variants": [],
+     "link": "b-cib"
+    },
+    {
+     "name": "Master Combat Infantryman Badge (MCIB)",
+     "note": "Master CIB: CIB plus EIB, EFMB or ESB.",
+     "variants": [],
+     "link": "b-mcib"
+    }
+   ],
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-9",
@@ -3584,7 +3623,26 @@
    "remember": "Medical field test: EFMB.",
    "swatches": [],
    "variants": [],
-   "attachments": [],
+   "attachments": [
+    {
+     "name": "Combat Medical Badge (CMB)",
+     "note": "Combat badge for medical personnel.",
+     "variants": [],
+     "link": "b-cmb"
+    },
+    {
+     "name": "Master Combat Medical Badge (MCMB)",
+     "note": "Master CMB: CMB plus an expert badge.",
+     "variants": [],
+     "link": "b-mcmb"
+    },
+    {
+     "name": "Master Combat Infantryman Badge (MCIB)",
+     "note": "EFMB can count toward the Master CIB.",
+     "variants": [],
+     "link": "b-mcib"
+    }
+   ],
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 30 Jul 2025 (effective 30 Aug 2025), para 8-13 (text read from a copy hosted at armywriter.com; the 19 Jan 2024 edition numbered the CMB 8-7 and the EFMB 8-10)",
@@ -3615,7 +3673,26 @@
    "remember": "ESB is for everyone not covered by EIB or EFMB.",
    "swatches": [],
    "variants": [],
-   "attachments": [],
+   "attachments": [
+    {
+     "name": "Master Combat Infantryman Badge (MCIB)",
+     "note": "ESB is one of the expert badges that can count toward the Master CIB.",
+     "variants": [],
+     "link": "b-mcib"
+    },
+    {
+     "name": "Master Combat Medical Badge (MCMB)",
+     "note": "ESB can count toward the Master CMB.",
+     "variants": [],
+     "link": "b-mcmb"
+    },
+    {
+     "name": "Master Combat Action Badge (MCAB)",
+     "note": "ESB is named for the Master CAB.",
+     "variants": [],
+     "link": "b-mcab"
+    }
+   ],
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-11",
@@ -13746,12 +13823,37 @@
    "remember": null,
    "swatches": [],
    "variants": [],
-   "attachments": [],
+   "attachments": [
+    {
+     "name": "Combat Medical Badge (CMB)",
+     "note": "Required: Combat Medical Badge.",
+     "variants": [],
+     "link": "b-cmb"
+    },
+    {
+     "name": "Expert Field Medical Badge (EFMB)",
+     "note": "Qualifying expert badge.",
+     "variants": [],
+     "link": "b-efmb"
+    },
+    {
+     "name": "Expert Infantryman Badge (EIB)",
+     "note": "Qualifying expert badge.",
+     "variants": [],
+     "link": "b-eib"
+    },
+    {
+     "name": "Expert Soldier Badge (ESB)",
+     "note": "Qualifying expert badge.",
+     "variants": [],
+     "link": "b-esb"
+    }
+   ],
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 30 Jul 2025 (effective 30 Aug 2025), para 8-7 (text read from a copy hosted at armywriter.com; the 19 Jan 2024 edition numbered the CMB 8-7 and the EFMB 8-10)"
    ],
-   "image": null
+   "image": "badges/b-mcmb.png"
   },
   {
    "id": "b-mcib",
@@ -13782,12 +13884,79 @@
    "remember": null,
    "swatches": [],
    "variants": [],
-   "attachments": [],
+   "attachments": [
+    {
+     "name": "Combat Infantryman Badge (CIB)",
+     "note": "Required: Combat Infantryman Badge.",
+     "variants": [],
+     "link": "b-cib"
+    },
+    {
+     "name": "Expert Infantryman Badge (EIB)",
+     "note": "Qualifying expert badge.",
+     "variants": [],
+     "link": "b-eib"
+    },
+    {
+     "name": "Expert Field Medical Badge (EFMB)",
+     "note": "Qualifying expert badge.",
+     "variants": [],
+     "link": "b-efmb"
+    },
+    {
+     "name": "Expert Soldier Badge (ESB)",
+     "note": "Qualifying expert badge.",
+     "variants": [],
+     "link": "b-esb"
+    }
+   ],
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 30 Jul 2025 (effective 30 Aug 2025), para 8-6 (text read from a copy hosted at armywriter.com; the 19 Jan 2024 edition numbered the CMB 8-7 and the EFMB 8-10)"
    ],
-   "image": null
+   "image": "badges/b-mcib.png"
+  },
+  {
+   "id": "b-mcab",
+   "tab": "badges",
+   "group": "Special skill badges",
+   "name": "Master Combat Action Badge (MCAB)",
+   "branches": [
+    "Army"
+   ],
+   "eras": [
+    "modern"
+   ],
+   "yearFrom": 2024,
+   "yearTo": null,
+   "summary": "Combat Action Badge holders who also hold an expert badge.",
+   "facts": [
+    "Listed in AR 600-8-22, 30 Jul 2025, para 8-8",
+    "The Expert Soldier Badge is named as a qualifying expert badge (para 8-8b)",
+    "Other eligibility, date and design details not read"
+   ],
+   "remember": null,
+   "swatches": [],
+   "variants": [],
+   "attachments": [
+    {
+     "name": "Combat Action Badge (CAB)",
+     "note": "Required: Combat Action Badge.",
+     "variants": [],
+     "link": "b-cab"
+    },
+    {
+     "name": "Expert Soldier Badge (ESB)",
+     "note": "Qualifying expert badge (para 8-8b).",
+     "variants": [],
+     "link": "b-esb"
+    }
+   ],
+   "proof": "unverified",
+   "sources": [
+    "AR 600-8-22, Military Awards, 30 Jul 2025 (effective 30 Aug 2025), para 8-8 (text read from a copy hosted at armywriter.com)"
+   ],
+   "image": "badges/b-mcab.png"
   }
  ]
 }

@@ -1,3 +1,8 @@
+## 0.16.2
+- Pictures added for the Master Combat Infantryman, Medical and Action Badges (public domain, credited).
+- New page: Master Combat Action Badge (marked Unverified for details).
+- Infantry and medical badges now link to each other: CIB, EIB, ESB, EFMB, CMB, CAB and the Master badges.
+
 ## 0.16.1
 - Combat Medical Badge rewritten from AR 600-8-22 (30 Jul 2025): later unit extensions, star placement, exclusions.
 - Added Master Combat Medical Badge and Master Combat Infantryman Badge.
