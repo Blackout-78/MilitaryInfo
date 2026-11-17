@@ -1,31 +1,660 @@
 {
- "esb": [
-  "Expert Soldier Badge",
-  "Expert Soldier Badge United States Army"
+ "u-woodland-bdu": [
+  "Woodland BDU uniform Army",
+  "Woodland BDU United States military uniform"
  ],
- "mcib": [
-  "Master Combat Infantryman Badge"
+ "u-pinks-greens": [
+  "Pinks and greens uniform Army",
+  "Pinks and greens United States military uniform"
  ],
- "mcmb": [
-  "Master Combat Medical Badge"
+ "m-moh": [
+  "Medal of Honor",
+  "Medal of Honor ribbon"
  ],
- "mcab": [
-  "Master Combat Action Badge"
+ "m-aam": [
+  "Aerial Achievement Medal",
+  "Aerial Achievement Medal ribbon"
  ],
- "cib-check": [
-  "Combat Infantryman Badge",
-  "Combat Infantryman Badge 2nd award"
+ "m-antarctica": [
+  "Antarctica Service Medal",
+  "Antarctica Service Medal ribbon"
  ],
- "eib-check": [
-  "Expert Infantryman Badge"
+ "m-ircm": [
+  "Inherent Resolve Campaign Medal",
+  "Inherent Resolve Campaign Medal ribbon"
  ],
- "cab-check": [
-  "Combat Action Badge United States Army"
+ "m-wwii-victory": [
+  "World War II Victory Medal",
+  "World War II Victory Medal ribbon"
  ],
- "cmb-check": [
-  "Combat Medical Badge"
+ "m-aom": [
+  "Army of Occupation Medal",
+  "Army of Occupation Medal ribbon"
  ],
- "efmb-check": [
-  "Expert Field Medical Badge"
+ "m-wwi-victory": [
+  "World War I Victory Medal",
+  "World War I Victory Medal ribbon"
+ ],
+ "m-recruiting": [
+  "Army Recruiting Ribbon",
+  "Army Recruiting Ribbon United States"
+ ],
+ "m-dev-olc": [
+  "Oak leaf cluster",
+  "Oak leaf cluster United States"
+ ],
+ "m-dev-numeral": [
+  "Numeral",
+  "Numeral United States"
+ ],
+ "m-dev-v": [
+  "V device",
+  "V device United States"
+ ],
+ "m-dev-c": [
+  "C device",
+  "C device United States"
+ ],
+ "m-dev-r": [
+  "R device",
+  "R device United States"
+ ],
+ "m-dev-m": [
+  "M device",
+  "M device United States"
+ ],
+ "m-dev-clasps": [
+  "Clasps",
+  "Clasps United States"
+ ],
+ "m-dev-star": [
+  "Service star",
+  "Service star United States"
+ ],
+ "m-dev-arrowhead": [
+  "Arrowhead",
+  "Arrowhead United States"
+ ],
+ "m-dev-berlin": [
+  "Berlin Airlift device",
+  "Berlin Airlift device United States"
+ ],
+ "m-dev-astronaut": [
+  "Army Astronaut device",
+  "Army Astronaut device United States"
+ ],
+ "m-dev-gold-star": [
+  "Gold star",
+  "Gold star United States"
+ ],
+ "b-esb": [
+  "Army Expert Soldier Badge"
+ ],
+ "b-pathfinder": [
+  "Army Pathfinder Badge"
+ ],
+ "b-space": [
+  "Army Space Badges"
+ ],
+ "b-diver": [
+  "Army Diver Badges"
+ ],
+ "b-rigger": [
+  "Army Parachute Rigger Badge"
+ ],
+ "b-vice-presidential": [
+  "Army Vice Presidential Service Badge"
+ ],
+ "b-tomb-guard-id": [
+  "Army Guard, Tomb of the Unknown Soldier Identification Badge"
+ ],
+ "b-marksmanship": [
+  "Army Marksmanship qualification badges"
+ ],
+ "b-airborne-trim": [
+  "Army Airborne background trimming"
+ ],
+ "r-service-stripes": [
+  "Service stripes insignia Army",
+  "Service stripes rank insignia United States"
+ ],
+ "r-overseas-bars": [
+  "Overseas service bars insignia Army",
+  "Overseas service bars rank insignia United States"
+ ],
+ "u-acu-ocp": [
+  "Army Combat Uniform uniform Army",
+  "Army Combat Uniform United States military uniform"
+ ],
+ "u-agsu": [
+  "Army Green Service Uniform uniform Army",
+  "Army Green Service Uniform United States military uniform"
+ ],
+ "u-asu": [
+  "Army Service Uniform uniform Army",
+  "Army Service Uniform United States military uniform"
+ ],
+ "u-mess-blue": [
+  "Army Blue Mess uniform uniform Army",
+  "Army Blue Mess uniform United States military uniform"
+ ],
+ "u-mess-white": [
+  "Army White Mess uniform uniform Army",
+  "Army White Mess uniform United States military uniform"
+ ],
+ "u-apfu": [
+  "Army Physical Fitness Uniform uniform Army",
+  "Army Physical Fitness Uniform United States military uniform"
+ ],
+ "n-w5": [
+  "Chief Warrant Officer 5 insignia Navy",
+  "Chief Warrant Officer 5 rank insignia United States"
+ ],
+ "n-w4": [
+  "Chief Warrant Officer 4 insignia Navy",
+  "Chief Warrant Officer 4 rank insignia United States"
+ ],
+ "n-w3": [
+  "Chief Warrant Officer 3 insignia Navy",
+  "Chief Warrant Officer 3 rank insignia United States"
+ ],
+ "n-w2": [
+  "Chief Warrant Officer 2 insignia Navy",
+  "Chief Warrant Officer 2 rank insignia United States"
+ ],
+ "n-w1": [
+  "Warrant Officer 1 insignia Navy",
+  "Warrant Officer 1 rank insignia United States"
+ ],
+ "n-e1": [
+  "Seaman Recruit insignia Navy",
+  "Seaman Recruit rank insignia United States"
+ ],
+ "n-e2": [
+  "Seaman Apprentice insignia Navy",
+  "Seaman Apprentice rank insignia United States"
+ ],
+ "n-e3": [
+  "Seaman insignia Navy",
+  "Seaman rank insignia United States"
+ ],
+ "n-cpo-badge": [
+  "Chief Petty Officer rating badge insignia Navy",
+  "Chief Petty Officer rating badge rank insignia United States"
+ ],
+ "n-service-stripes": [
+  "Service stripes insignia Navy",
+  "Service stripes rank insignia United States"
+ ],
+ "nu-sdb-enl": [
+  "Service Dress Blue uniform Navy",
+  "Service Dress Blue United States military uniform"
+ ],
+ "nu-khaki-off": [
+  "Service Khaki uniform Navy",
+  "Service Khaki United States military uniform"
+ ],
+ "nu-sdw-off": [
+  "Service Dress White uniform Navy",
+  "Service Dress White United States military uniform"
+ ],
+ "nu-nwu3": [
+  "Navy Working Uniform Type III uniform Navy",
+  "Navy Working Uniform Type III United States military uniform"
+ ],
+ "nm-navy-cross": [
+  "Navy Cross",
+  "Navy Cross United States"
+ ],
+ "nm-dsm": [
+  "Distinguished Service Medal",
+  "Distinguished Service Medal ribbon"
+ ],
+ "nm-nmcm": [
+  "Navy and Marine Corps Medal",
+  "Navy and Marine Corps Medal ribbon"
+ ],
+ "nm-ncm": [
+  "Navy and Marine Corps Commendation Medal",
+  "Navy and Marine Corps Commendation Medal ribbon"
+ ],
+ "nm-nam": [
+  "Navy and Marine Corps Achievement Medal",
+  "Navy and Marine Corps Achievement Medal ribbon"
+ ],
+ "nm-car": [
+  "Combat Action Ribbon",
+  "Combat Action Ribbon United States"
+ ],
+ "nm-e-ribbon": [
+  "Navy \"E\" Ribbon",
+  "Navy \"E\" Ribbon United States"
+ ],
+ "n-e7": [
+  "Chief Petty Officer insignia Navy",
+  "Chief Petty Officer rank insignia United States"
+ ],
+ "n-e8": [
+  "Senior Chief Petty Officer insignia Navy",
+  "Senior Chief Petty Officer rank insignia United States"
+ ],
+ "n-e9": [
+  "Master Chief Petty Officer insignia Navy",
+  "Master Chief Petty Officer rank insignia United States"
+ ],
+ "nb-dws": [
+  "Navy Enlisted Diving Warfare Specialist insignia"
+ ],
+ "mc-pvt": [
+  "Private insignia Marine Corps",
+  "Private rank insignia United States"
+ ],
+ "af-ab": [
+  "Airman Basic insignia Air Force",
+  "Airman Basic rank insignia United States"
+ ],
+ "mw-w1": [
+  "Warrant Officer insignia Marine Corps",
+  "Warrant Officer rank insignia United States"
+ ],
+ "mw-w2": [
+  "Chief Warrant Officer 2 insignia Marine Corps",
+  "Chief Warrant Officer 2 rank insignia United States"
+ ],
+ "mw-w3": [
+  "Chief Warrant Officer 3 insignia Marine Corps",
+  "Chief Warrant Officer 3 rank insignia United States"
+ ],
+ "mw-w4": [
+  "Chief Warrant Officer 4 insignia Marine Corps",
+  "Chief Warrant Officer 4 rank insignia United States"
+ ],
+ "mw-w5": [
+  "Chief Warrant Officer 5 insignia Marine Corps",
+  "Chief Warrant Officer 5 rank insignia United States"
+ ],
+ "cw-w2": [
+  "Chief Warrant Officer 2 insignia Coast Guard",
+  "Chief Warrant Officer 2 rank insignia United States"
+ ],
+ "cw-w3": [
+  "Chief Warrant Officer 3 insignia Coast Guard",
+  "Chief Warrant Officer 3 rank insignia United States"
+ ],
+ "cw-w4": [
+  "Chief Warrant Officer 4 insignia Coast Guard",
+  "Chief Warrant Officer 4 rank insignia United States"
+ ],
+ "se-spc1": [
+  "Specialist 1 insignia Space Force",
+  "Specialist 1 rank insignia United States"
+ ],
+ "se-spc2": [
+  "Specialist 2 insignia Space Force",
+  "Specialist 2 rank insignia United States"
+ ],
+ "se-spc3": [
+  "Specialist 3 insignia Space Force",
+  "Specialist 3 rank insignia United States"
+ ],
+ "se-spc4": [
+  "Specialist 4 insignia Space Force",
+  "Specialist 4 rank insignia United States"
+ ],
+ "se-sgt": [
+  "Sergeant insignia Space Force",
+  "Sergeant rank insignia United States"
+ ],
+ "se-tsgt": [
+  "Technical Sergeant insignia Space Force",
+  "Technical Sergeant rank insignia United States"
+ ],
+ "se-msgt": [
+  "Master Sergeant insignia Space Force",
+  "Master Sergeant rank insignia United States"
+ ],
+ "se-smsgt": [
+  "Senior Master Sergeant insignia Space Force",
+  "Senior Master Sergeant rank insignia United States"
+ ],
+ "se-cmsgt": [
+  "Chief Master Sergeant insignia Space Force",
+  "Chief Master Sergeant rank insignia United States"
+ ],
+ "se-cmssf": [
+  "Chief Master Sergeant of the Space Force insignia Space Force",
+  "Chief Master Sergeant of the Space Force rank insignia United States"
+ ],
+ "m-dev-campaign-star": [
+  "Campaign star",
+  "Campaign star United States"
+ ],
+ "m-dev-fmf": [
+  "Fleet Marine Force Combat Operations Insignia",
+  "Fleet Marine Force Combat Operations Insignia United States"
+ ],
+ "m-dev-hourglass": [
+  "Hourglass device",
+  "Hourglass device United States"
+ ],
+ "m-dev-star516": [
+  "5/16 inch star",
+  "5/16 inch star United States"
+ ],
+ "m-af-cross": [
+  "Air Force Cross",
+  "Air Force Cross United States"
+ ],
+ "m-af-dsm": [
+  "Air Force Distinguished Service Medal",
+  "Air Force Distinguished Service Medal ribbon"
+ ],
+ "m-airmans": [
+  "Airman's Medal",
+  "Airman's Medal ribbon"
+ ],
+ "m-ascom": [
+  "Air and Space Commendation Medal",
+  "Air and Space Commendation Medal ribbon"
+ ],
+ "m-asam": [
+  "Air and Space Achievement Medal",
+  "Air and Space Achievement Medal ribbon"
+ ],
+ "m-cam": [
+  "Combat Action Medal",
+  "Combat Action Medal ribbon"
+ ],
+ "m-crm": [
+  "Combat Readiness Medal",
+  "Combat Readiness Medal ribbon"
+ ],
+ "m-afgcm": [
+  "Air Force Good Conduct Medal",
+  "Air Force Good Conduct Medal ribbon"
+ ],
+ "m-sfgcm": [
+  "Space Force Good Conduct Medal",
+  "Space Force Good Conduct Medal ribbon"
+ ],
+ "m-arfmsm": [
+  "Air Reserve Forces Meritorious Service Medal",
+  "Air Reserve Forces Meritorious Service Medal ribbon"
+ ],
+ "m-oayr": [
+  "Outstanding Airman of the Year Ribbon",
+  "Outstanding Airman of the Year Ribbon United States"
+ ],
+ "m-asrr": [
+  "Air and Space Recognition Ribbon",
+  "Air and Space Recognition Ribbon United States"
+ ],
+ "m-rcecm": [
+  "Remote Combat Effects Campaign Medal",
+  "Remote Combat Effects Campaign Medal ribbon"
+ ],
+ "m-ascm": [
+  "Air and Space Campaign Medal",
+  "Air and Space Campaign Medal ribbon"
+ ],
+ "m-ndosm": [
+  "Nuclear Deterrence Operations Service Medal",
+  "Nuclear Deterrence Operations Service Medal ribbon"
+ ],
+ "m-asor": [
+  "Air and Space Overseas Ribbon",
+  "Air and Space Overseas Ribbon United States"
+ ],
+ "m-asesr": [
+  "Air and Space Expeditionary Service Ribbon",
+  "Air and Space Expeditionary Service Ribbon United States"
+ ],
+ "m-aslsa": [
+  "Air and Space Longevity Service Award",
+  "Air and Space Longevity Service Award United States"
+ ],
+ "m-dsdr": [
+  "Developmental Special Duty Ribbon",
+  "Developmental Special Duty Ribbon United States"
+ ],
+ "m-epmeg": [
+  "Air and Space Forces Enlisted Professional Military Education Graduate Ribbon",
+  "Air and Space Forces Enlisted Professional Military Education Graduate Ribbon United States"
+ ],
+ "m-bmthgr": [
+  "Basic Military Training Honor Graduate Ribbon",
+  "Basic Military Training Honor Graduate Ribbon United States"
+ ],
+ "m-saemr": [
+  "Small Arms Expert Marksmanship Ribbon",
+  "Small Arms Expert Marksmanship Ribbon United States"
+ ],
+ "m-astr": [
+  "Air and Space Training Ribbon",
+  "Air and Space Training Ribbon United States"
+ ],
+ "m-guc": [
+  "Gallant Unit Citation",
+  "Gallant Unit Citation United States"
+ ],
+ "m-mua": [
+  "Meritorious Unit Award",
+  "Meritorious Unit Award United States"
+ ],
+ "m-asoua": [
+  "Air and Space Outstanding Unit Award",
+  "Air and Space Outstanding Unit Award United States"
+ ],
+ "m-asoea": [
+  "Air and Space Organizational Excellence Award",
+  "Air and Space Organizational Excellence Award United States"
+ ],
+ "m-dev-arctic-a": [
+  "Arctic A device",
+  "Arctic A device United States"
+ ],
+ "m-dev-nuclear-n": [
+  "Nuclear N device",
+  "Nuclear N device United States"
+ ],
+ "m-navy-cross": [
+  "Navy Cross",
+  "Navy Cross United States"
+ ],
+ "m-navy-dsm": [
+  "Navy Distinguished Service Medal",
+  "Navy Distinguished Service Medal ribbon"
+ ],
+ "m-nmcm": [
+  "Navy and Marine Corps Medal",
+  "Navy and Marine Corps Medal ribbon"
+ ],
+ "m-nmccm": [
+  "Navy and Marine Corps Commendation Medal",
+  "Navy and Marine Corps Commendation Medal ribbon"
+ ],
+ "m-nmcam": [
+  "Navy and Marine Corps Achievement Medal",
+  "Navy and Marine Corps Achievement Medal ribbon"
+ ],
+ "m-car": [
+  "Combat Action Ribbon",
+  "Combat Action Ribbon United States"
+ ],
+ "m-nuc": [
+  "Navy Unit Commendation",
+  "Navy Unit Commendation United States"
+ ],
+ "m-nmuc": [
+  "Meritorious Unit Commendation",
+  "Meritorious Unit Commendation United States"
+ ],
+ "m-ngcm": [
+  "Navy Good Conduct Medal",
+  "Navy Good Conduct Medal ribbon"
+ ],
+ "m-mcgcm": [
+  "Marine Corps Good Conduct Medal",
+  "Marine Corps Good Conduct Medal ribbon"
+ ],
+ "m-nrmsm": [
+  "Naval Reserve Meritorious Service Medal",
+  "Naval Reserve Meritorious Service Medal ribbon"
+ ],
+ "m-smcrm": [
+  "Selected Marine Corps Reserve Medal",
+  "Selected Marine Corps Reserve Medal ribbon"
+ ],
+ "m-nem": [
+  "Navy Expeditionary Medal",
+  "Navy Expeditionary Medal ribbon"
+ ],
+ "m-mcem": [
+  "Marine Corps Expeditionary Medal",
+  "Marine Corps Expeditionary Medal ribbon"
+ ],
+ "m-nasr": [
+  "Navy Arctic Service Ribbon",
+  "Navy Arctic Service Ribbon United States"
+ ],
+ "m-nrssr": [
+  "Naval Reserve Sea Service Ribbon",
+  "Naval Reserve Sea Service Ribbon United States"
+ ],
+ "m-nmcosr": [
+  "Navy and Marine Corps Overseas Service Ribbon",
+  "Navy and Marine Corps Overseas Service Ribbon United States"
+ ],
+ "m-nrecr": [
+  "Navy Recruiting Service Ribbon",
+  "Navy Recruiting Service Ribbon United States"
+ ],
+ "m-mcrecr": [
+  "Marine Corps Recruiting Ribbon",
+  "Marine Corps Recruiting Ribbon United States"
+ ],
+ "m-mcdir": [
+  "Marine Corps Drill Instructor Ribbon",
+  "Marine Corps Drill Instructor Ribbon United States"
+ ],
+ "m-mcsgr": [
+  "Marine Corps Security Guard Ribbon",
+  "Marine Corps Security Guard Ribbon United States"
+ ],
+ "m-nrtsr": [
+  "Navy Recruit Training Service Ribbon",
+  "Navy Recruit Training Service Ribbon United States"
+ ],
+ "m-ncgr": [
+  "Navy Ceremonial Guard Ribbon",
+  "Navy Ceremonial Guard Ribbon United States"
+ ],
+ "m-dev-cg-o": [
+  "Operational Distinguishing Device",
+  "Operational Distinguishing Device United States"
+ ],
+ "m-dev-cg-m": [
+  "Mobilization device",
+  "Mobilization device United States"
+ ],
+ "m-cg-hsdsm": [
+  "Homeland Security Distinguished Service Medal",
+  "Homeland Security Distinguished Service Medal ribbon"
+ ],
+ "m-cg-dsm": [
+  "Coast Guard Distinguished Service Medal",
+  "Coast Guard Distinguished Service Medal ribbon"
+ ],
+ "m-dot-guardian": [
+  "Department of Transportation Guardian Medal",
+  "Department of Transportation Guardian Medal ribbon"
+ ],
+ "m-cg-medal": [
+  "Coast Guard Medal",
+  "Coast Guard Medal ribbon"
+ ],
+ "m-cgcm": [
+  "Coast Guard Commendation Medal",
+  "Coast Guard Commendation Medal ribbon"
+ ],
+ "m-cgam": [
+  "Coast Guard Achievement Medal",
+  "Coast Guard Achievement Medal ribbon"
+ ],
+ "m-cgloc": [
+  "Commandant's Letter of Commendation Ribbon",
+  "Commandant's Letter of Commendation Ribbon United States"
+ ],
+ "m-cg-gold-lsm": [
+  "Gold Lifesaving Medal",
+  "Gold Lifesaving Medal ribbon"
+ ],
+ "m-cg-silver-lsm": [
+  "Silver Lifesaving Medal",
+  "Silver Lifesaving Medal ribbon"
+ ],
+ "m-cguc": [
+  "Coast Guard Unit Commendation",
+  "Coast Guard Unit Commendation United States"
+ ],
+ "m-cgmuc": [
+  "Coast Guard Meritorious Unit Commendation",
+  "Coast Guard Meritorious Unit Commendation United States"
+ ],
+ "m-cgmtc": [
+  "Coast Guard Meritorious Team Commendation",
+  "Coast Guard Meritorious Team Commendation United States"
+ ],
+ "m-cg-e": [
+  "Coast Guard \"E\" Ribbon",
+  "Coast Guard \"E\" Ribbon United States"
+ ],
+ "m-cg-bicent": [
+  "Coast Guard Bicentennial Unit Commendation",
+  "Coast Guard Bicentennial Unit Commendation United States"
+ ],
+ "m-dot-ouA": [
+  "Department of Transportation Outstanding Unit Award",
+  "Department of Transportation Outstanding Unit Award United States"
+ ],
+ "m-cg-9": [
+  "DOT 9/11 Medal",
+  "DOT 9/11 Medal ribbon"
+ ],
+ "m-cggcm": [
+  "Coast Guard Good Conduct Medal",
+  "Coast Guard Good Conduct Medal ribbon"
+ ],
+ "m-cgrgcm": [
+  "Coast Guard Reserve Good Conduct Medal",
+  "Coast Guard Reserve Good Conduct Medal ribbon"
+ ],
+ "m-cgepoy": [
+  "Coast Guard Enlisted Person of the Year Ribbon",
+  "Coast Guard Enlisted Person of the Year Ribbon United States"
+ ],
+ "m-cg-arctic": [
+  "Coast Guard Arctic Service Medal",
+  "Coast Guard Arctic Service Medal ribbon"
+ ],
+ "m-cgsos": [
+  "Coast Guard Special Operations Service Ribbon",
+  "Coast Guard Special Operations Service Ribbon United States"
+ ],
+ "m-cgssr": [
+  "Coast Guard Sea Service Ribbon",
+  "Coast Guard Sea Service Ribbon United States"
+ ],
+ "m-cgrdr": [
+  "Coast Guard Restricted Duty Ribbon",
+  "Coast Guard Restricted Duty Ribbon United States"
+ ],
+ "m-cgbthgr": [
+  "Coast Guard Basic Training Honor Graduate Ribbon",
+  "Coast Guard Basic Training Honor Graduate Ribbon United States"
+ ],
+ "m-cgrecr": [
+  "Coast Guard Recruiting Service Ribbon",
+  "Coast Guard Recruiting Service Ribbon United States"
  ]
 }
