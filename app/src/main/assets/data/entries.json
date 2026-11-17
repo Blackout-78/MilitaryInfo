@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "0.18.3-picture-audit",
+  "dataVersion": "0.18.4-more-pictures",
   "entries": [
     {
       "id": "u-woodland-bdu",
@@ -2410,7 +2410,7 @@
         "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
         "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-5 (read from the copy hosted at home.army.mil/jackson)"
       ],
-      "image": null
+      "image": "badges/m-aom.png"
     },
     {
       "id": "m-aoo-germany",
@@ -3185,7 +3185,7 @@
         "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-10",
         "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
       ],
-      "image": null
+      "image": "badges/m-dev-clasps.png"
     },
     {
       "id": "m-dev-star",
@@ -3385,7 +3385,7 @@
         "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-14",
         "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
       ],
-      "image": null
+      "image": "badges/m-dev-astronaut.png"
     },
     {
       "id": "m-dev-gold-star",
@@ -3865,7 +3865,7 @@
         "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
         "Text read from the copy hosted at home.army.mil/jackson"
       ],
-      "image": null
+      "image": "badges/b-aviation.png"
     },
     {
       "id": "b-eod",
@@ -4057,7 +4057,7 @@
         "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
         "Text read from the copy hosted at home.army.mil/jackson"
       ],
-      "image": null
+      "image": "badges/b-pathfinder.png"
     },
     {
       "id": "b-air-assault",
@@ -6280,7 +6280,7 @@
         "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
         "Para 21-29a to 21-29d. The 6-month rule is from AR 670-1 para 21-29a as quoted at ar670.com (unofficial copy); DA Pam text read did not state it"
       ],
-      "image": null
+      "image": "badges/r-overseas-bars.png"
     },
     {
       "id": "u-acu-ocp",
@@ -7164,7 +7164,7 @@
       "sources": [
         "U.S. Navy Uniform Regulations (NAVPERS 15665), mynavyhr.navy.mil, 4231 Service Stripes (https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Uniform-Regulations/Chapter-4/4231/)"
       ],
-      "image": null
+      "image": "badges/n-service-stripes.png"
     },
     {
       "id": "nu-sdb-enl",
@@ -10890,7 +10890,7 @@
         "Rank names and grades: mymilitarylifestyle.com and militaryfactory.com (commercial sites, cross-checked)",
         "Insignia description: mymilitarylifestyle.com (commercial site). Not an official text"
       ],
-      "image": null
+      "image": "badges/se-cmssf.png"
     },
     {
       "id": "m-dev-campaign-star",
@@ -11781,7 +11781,7 @@
       "sources": [
         "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A14.14 (PDF supplied by the app owner)"
       ],
-      "image": null
+      "image": "badges/m-aslsa.png"
     },
     {
       "id": "m-dsdr",
@@ -12077,7 +12077,7 @@
       "sources": [
         "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A9.4 (PDF supplied by the app owner)"
       ],
-      "image": null
+      "image": "badges/m-asoua.png"
     },
     {
       "id": "m-asoea",
@@ -12115,7 +12115,7 @@
       "sources": [
         "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A9.5 (PDF supplied by the app owner)"
       ],
-      "image": null
+      "image": "badges/m-asoea.png"
     },
     {
       "id": "m-dev-arctic-a",
@@ -12349,7 +12349,7 @@
         "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 2 Section 3 item 13 (PDF supplied by the app owner; 2006 edition, later changes not checked)",
         "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.17 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
       ],
-      "image": null
+      "image": "badges/m-nmcam.png"
     },
     {
       "id": "m-car",
@@ -12540,7 +12540,7 @@
       "sources": [
         "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 3 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
       ],
-      "image": null
+      "image": "badges/m-mcgcm.png"
     },
     {
       "id": "m-nrmsm",
@@ -12925,7 +12925,7 @@
       "sources": [
         "SECNAVINST 1650.1H, 22 Aug 2006, Chapter 4 item 28 (PDF supplied by the app owner; 2006 edition, later changes not checked)"
       ],
-      "image": null
+      "image": "badges/m-nrtsr.png"
     },
     {
       "id": "m-ncgr",
@@ -13112,7 +13112,7 @@
       "sources": [
         "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 2.A.6 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
       ],
-      "image": null
+      "image": "badges/m-dot-guardian.png"
     },
     {
       "id": "m-cg-medal",
@@ -13504,7 +13504,7 @@
       "sources": [
         "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 3.B.8 (PDF supplied by the app owner; 2008 edition, later changes not checked)"
       ],
-      "image": null
+      "image": "badges/m-cg-e.png"
     },
     {
       "id": "m-cg-bicent",
@@ -14064,7 +14064,7 @@
       "sources": [
         "MCO 1020.34H, Marine Corps Uniform Regulations, 1 May 2018, para 2001 (PDF supplied by the app owner; later changes not checked)"
       ],
-      "image": null
+      "image": "badges/mu-evening.png"
     },
     {
       "id": "mu-blue-dress",
@@ -15460,7 +15460,8 @@
       "sources": [
         "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a",
         "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
-      ]
+      ],
+      "image": "badges/b-cg-honorguard.png"
     },
     {
       "id": "b-cg-companycmdr",
@@ -15550,7 +15551,8 @@
       "sources": [
         "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.2",
         "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
-      ]
+      ],
+      "image": "badges/b-cg-cmdafloat.png"
     },
     {
       "id": "b-cg-cmdashore",
@@ -16138,7 +16140,7 @@
         "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.16",
         "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
       ],
-      "image": null
+      "image": "badges/b-af-epme.png"
     },
     {
       "id": "b-af-deca",
@@ -16262,7 +16264,7 @@
         "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.20",
         "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
       ],
-      "image": null
+      "image": "badges/b-af-mps.png"
     },
     {
       "id": "b-af-hg",

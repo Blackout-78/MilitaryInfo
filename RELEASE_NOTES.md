@@ -1,3 +1,7 @@
+## 0.18.4
+- 21 more pictures, each checked against its title (public domain, credited): Army of Occupation ribbon and clasps, Army Aviator and Astronaut badges, Pathfinder badge, Army overseas service bar, Navy service stripes, Chief Master Sergeant of the Space Force, Air Force Longevity, Outstanding Unit and Organizational Excellence ribbons, Navy and Marine Corps Achievement ribbon, Marine Corps Good Conduct ribbon, Navy Recruit Training ribbon, DOT Guardian Medal, Coast Guard E ribbon, Coast Guard Honor Guard badge and Command Afloat device, Military Postal Service and Air Force PME badges, Marine evening dress (1983 plate).
+- Candidates rejected as not matching: photos instead of badges, foreign badges, wrong ribbons, wrong ranks. Those pages stay blank.
+
 ## 0.18.3
 - Picture audit: all 484 pictures checked against their titles. 7 of my own drawn illustrations did not look like what the title says (4 Coast Guard diver insignia and the diving medical technician drew a locomotive-like shape, the 2 command devices looked like a bat, the honor guard was a blank oval). Removed; those pages say "Image to add" until an accurate picture exists.
 - Everything else matched its title. Known gaps stay blank, never filled with an unrelated picture.

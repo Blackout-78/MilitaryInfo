@@ -266,3 +266,24 @@ All from Wikimedia Commons, tagged public domain. The EOD Basic and Senior pictu
 | m-dev-hourglass | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
 | m-dev-arrowhead | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
 | m-dev-star-silver | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| m-aom | Army of Occupation Ribbon.png | CC0 | https://commons.wikimedia.org/wiki/File:Army_of_Occupation_Ribbon.png |
+| m-dev-clasps | Army-of-occupation-medal-clasps.png | Public domain | https://commons.wikimedia.org/wiki/File:Army-of-occupation-medal-clasps.png |
+| m-dev-astronaut | Army Astronaut Badges.png | Public domain | https://commons.wikimedia.org/wiki/File:Army_Astronaut_Badges.png |
+| b-aviation | ArmyAvnBadge.png | Public domain | https://commons.wikimedia.org/wiki/File:ArmyAvnBadge.png |
+| b-pathfinder | Badge Pathfinder.svg | Public domain | https://commons.wikimedia.org/wiki/File:Badge_Pathfinder.svg |
+| r-overseas-bars | ASU overseas service bar.jpg | Public domain | https://commons.wikimedia.org/wiki/File:ASU_overseas_service_bar.jpg |
+| n-service-stripes | NavySS.jpg | Public domain | https://commons.wikimedia.org/wiki/File:NavySS.jpg |
+| se-cmssf | USSF Enlisted Rank Insignia (6966671).jpeg | Public domain | https://commons.wikimedia.org/wiki/File:USSF_Enlisted_Rank_Insignia_(6966671).jpeg |
+| m-aslsa | Air Force Longevity Service ribbon.svg | Public domain | https://commons.wikimedia.org/wiki/File:Air_Force_Longevity_Service_ribbon.svg |
+| m-asoua | Outstanding Unit ribbon.svg | Public domain | https://commons.wikimedia.org/wiki/File:Outstanding_Unit_ribbon.svg |
+| m-asoea | Organizational Excellence ribbon.svg | Public domain | https://commons.wikimedia.org/wiki/File:Organizational_Excellence_ribbon.svg |
+| m-nmcam | Navy and Marine Corps Achievement Medal ribbon.svg | Public domain | https://commons.wikimedia.org/wiki/File:Navy_and_Marine_Corps_Achievement_Medal_ribbon.svg |
+| m-mcgcm | U.S. Marine Corps Good Conduct Medal ribbon.svg | Public domain | https://commons.wikimedia.org/wiki/File:U.S._Marine_Corps_Good_Conduct_Medal_ribbon.svg |
+| m-nrtsr | U.S. Navy Recruiting Training Ribbon.svg | Public domain | https://commons.wikimedia.org/wiki/File:U.S._Navy_Recruiting_Training_Ribbon.svg |
+| m-dot-guardian | DoT Guardian Medal.png | Public domain | https://commons.wikimedia.org/wiki/File:DoT_Guardian_Medal.png |
+| m-cg-e | Coast Guard Excellence Ribbon.svg | Public domain | https://commons.wikimedia.org/wiki/File:Coast_Guard_Excellence_Ribbon.svg |
+| b-cg-honorguard | US Coast Guard Honor Guard Badge.png | Public domain | https://commons.wikimedia.org/wiki/File:US_Coast_Guard_Honor_Guard_Badge.png |
+| b-cg-cmdafloat | USCGCAFLT.jpg | Public domain | https://commons.wikimedia.org/wiki/File:USCGCAFLT.jpg |
+| b-af-mps | Military Postal Service Agency.jpg | Public domain | https://commons.wikimedia.org/wiki/File:Military_Postal_Service_Agency.jpg |
+| b-af-epme | USAF Professional Military Education Badge.png | Public domain | https://commons.wikimedia.org/wiki/File:USAF_Professional_Military_Education_Badge.png |
+| mu-evening | USMC Evening Dress (Officers).jpg | Public domain | https://commons.wikimedia.org/wiki/File:USMC_Evening_Dress_(Officers).jpg |
