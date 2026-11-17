@@ -2,7 +2,7 @@
 import json, os, re, time, urllib.parse, urllib.request, io
 from PIL import Image, ImageChops
 API="https://commons.wikimedia.org/w/api.php"; UA="MilitaryInfo-image-finder/1.0 (https://github.com/Blackout-78/MilitaryInfo)"
-L={"avr-senior":"File:Army Senior Aviator.png"}
+L={"avr-master":"File:US Army Master Aviator Badge.png"}
 for q in ("Army Master Aviator","Master Army Aviator badge","Army Aviator Badge Master"):
     d=json.load(urllib.request.urlopen(urllib.request.Request(API+"?"+urllib.parse.urlencode({"action":"query","format":"json","list":"search","srnamespace":6,"srsearch":q,"srlimit":8}),headers={"User-Agent":UA}),timeout=40))
     print(q,[x["title"] for x in d["query"]["search"]])
