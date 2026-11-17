@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.18.0-badges-phase1",
+ "dataVersion": "0.18.1-badge-pictures",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -14841,9 +14841,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a",
+    "Picture: US Coast Guard Flight Officer Insignia.png, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-cg-flightofficer.png"
   },
   {
    "id": "b-cg-flightsurgeon",
@@ -14870,9 +14871,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a",
+    "Picture: USCG - Flight Surgeon.jpg, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-cg-flightsurgeon.png"
   },
   {
    "id": "b-cg-rescueswimmer",
@@ -14899,9 +14901,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a",
+    "Picture: USCG - Rescue Swimmer.jpg, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-cg-rescueswimmer.png"
   },
   {
    "id": "b-cg-astronaut",
@@ -14986,9 +14989,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a",
+    "Picture: USCGCO.jpg, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-cg-cutterman.png"
   },
   {
    "id": "b-cg-boatforce",
@@ -15044,9 +15048,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a",
+    "Picture: Coxswain.jpeg, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-cg-coxswain.png"
   },
   {
    "id": "b-cg-eews",
@@ -15073,9 +15078,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a",
+    "Picture: EXW Badge.JPG, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-cg-eews.png"
   },
   {
    "id": "b-cg-surfman",
@@ -15102,9 +15108,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a",
+    "Picture: Surfman.jpeg, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-cg-surfman.png"
   },
   {
    "id": "b-cg-scuba",
@@ -15131,9 +15138,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a",
+    "Picture: USCG Scuba Diver-Officer Badge.png, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-cg-scuba.png"
   },
   {
    "id": "b-cg-diver2",
@@ -15247,9 +15255,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a",
+    "Picture: USN-USCG Diving Officer insignia.png, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-cg-divingofficer.png"
   },
   {
    "id": "b-cg-dmt",
@@ -15305,9 +15314,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a",
+    "Picture: USCG - Port Security Officer.png, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-cg-portsec.png"
   },
   {
    "id": "b-cg-marinesafety",
@@ -15334,9 +15344,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a",
+    "Picture: Marinesafety.jpeg, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-cg-marinesafety.png"
   },
   {
    "id": "b-cg-tactleo",
@@ -15363,9 +15374,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a",
+    "Picture: USCG - Tactical Law Enforcement.jpg, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-cg-tactleo.png"
   },
   {
    "id": "b-cg-honorguard",
@@ -15421,9 +15433,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a",
+    "Picture: USCG - COMPANY COMMANDER.jpg, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-cg-companycmdr.png"
   },
   {
    "id": "b-cg-paNP",
@@ -15450,9 +15463,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a",
+    "Picture: USCG - Physician Assistant.jpg, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-cg-paNP.png"
   },
   {
    "id": "b-cg-cmdafloat",
@@ -15587,8 +15601,7 @@
    "summary": "Air Force and Space Force duty badge. Worn during and after an assignment to White House duty.",
    "facts": [
     "Wear rule: Worn during and after an assignment to White House duty. Worn only on the right side; no other badge removes them from the right side of the uniform. OPR: Military Assistant to the President. (para 12.4.1)",
-    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
-    "Design is not described in DAFI 36-2903; picture not yet added"
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)"
    ],
    "remember": "Presidential Service Badge and Vice-Presidential Service Badge",
    "swatches": [],
@@ -15597,9 +15610,10 @@
    "proof": "official",
    "sources": [
     "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.1",
-    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force",
+    "Picture: US - Presidential Service Badge.png, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-af-pres.png"
   },
   {
    "id": "b-af-osd",
@@ -15618,8 +15632,7 @@
    "summary": "Air Force and Space Force duty badge. Worn during and after assignment to specific duty in the OSD.",
    "facts": [
     "Wear rule: Worn during and after assignment to specific duty in the OSD. OPR: OSD Deputy Chief Management Officer. (para 12.4.2)",
-    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
-    "Design is not described in DAFI 36-2903; picture not yet added"
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)"
    ],
    "remember": "Office of the Secretary of Defense (OSD) badge",
    "swatches": [],
@@ -15628,9 +15641,10 @@
    "proof": "official",
    "sources": [
     "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.2",
-    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force",
+    "Picture: Office of the Secretary of Defense identification badge.svg, Wikimedia Commons, CC0"
    ],
-   "image": null
+   "image": "badges/b-af-osd.png"
   },
   {
    "id": "b-af-jcs",
@@ -15649,8 +15663,7 @@
    "summary": "Air Force and Space Force duty badge. Worn during and after assignment to specific duty in the JCS.",
    "facts": [
     "Wear rule: Worn during and after assignment to specific duty in the JCS. OPR: JCS Manpower and Personnel Directorate (J1). (para 12.4.3)",
-    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
-    "Design is not described in DAFI 36-2903; picture not yet added"
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)"
    ],
    "remember": "Joint Chiefs of Staff (JCS) badge",
    "swatches": [],
@@ -15659,9 +15672,10 @@
    "proof": "official",
    "sources": [
     "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.3",
-    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force",
+    "Picture: Joint Chiefs of Staff seal (2).svg, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-af-jcs.png"
   },
   {
    "id": "b-af-haf",
@@ -15680,8 +15694,7 @@
    "summary": "Air Force and Space Force duty badge. Worn during assignment to the HAF or SecAF staff within the National Capital Region; permanent wear after at least 365 consecutive days in a qualifying position.",
    "facts": [
     "Wear rule: Worn during assignment to the HAF or SecAF staff within the National Capital Region; permanent wear after at least 365 consecutive days in a qualifying position. The OSD and JCS badges take priority over it. (para 12.4.4)",
-    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
-    "Design is not described in DAFI 36-2903; picture not yet added"
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)"
    ],
    "remember": "Headquarters Air Force (HAF) badge",
    "swatches": [],
@@ -15690,9 +15703,10 @@
    "proof": "official",
    "sources": [
     "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.4",
-    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force",
+    "Picture: Headquarters US Air Force Badge.png, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-af-haf.png"
   },
   {
    "id": "b-af-aetc",
@@ -15711,8 +15725,7 @@
    "summary": "Air Force and Space Force duty badge. May be worn with any blues combination; the AETC Instructor/Master badge may be worn during and after an assignment as an AETC instructor.",
    "facts": [
     "Wear rule: May be worn with any blues combination; the AETC Instructor/Master badge may be worn during and after an assignment as an AETC instructor. (para 12.4.5.1)",
-    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
-    "Design is not described in DAFI 36-2903; picture not yet added"
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)"
    ],
    "remember": "AETC Instructor badge",
    "swatches": [],
@@ -15721,9 +15734,10 @@
    "proof": "official",
    "sources": [
     "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.5.1",
-    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force",
+    "Picture: AETBadge.jpg, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-af-aetc.png"
   },
   {
    "id": "b-af-jrotc",
@@ -15742,8 +15756,7 @@
    "summary": "Air Force and Space Force duty badge. Worn only while performing assigned duties; continue to wear while attending PME.",
    "facts": [
     "Wear rule: Worn only while performing assigned duties; continue to wear while attending PME. (para 12.4.5.2)",
-    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
-    "Design is not described in DAFI 36-2903; picture not yet added"
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)"
    ],
    "remember": "AFJROTC Instructor badge",
    "swatches": [],
@@ -15752,9 +15765,10 @@
    "proof": "official",
    "sources": [
     "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.5.2",
-    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force",
+    "Picture: AFJROTC Instructor Badge.png, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-af-jrotc.png"
   },
   {
    "id": "b-af-dli",
@@ -15804,8 +15818,7 @@
    "summary": "Air Force and Space Force duty badge. Earned recruiting service badge is authorized for permanent wear by Airmen with an 8R special duty identifier in their records; continue to wear while attending PME.",
    "facts": [
     "Wear rule: Earned recruiting service badge is authorized for permanent wear by Airmen with an 8R special duty identifier in their records; continue to wear while attending PME. Separate badges exist for AETC, AFRC and the Air National Guard. (para 12.4.6-12.4.8)",
-    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
-    "Design is not described in DAFI 36-2903; picture not yet added"
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)"
    ],
    "remember": "Air Force Recruiting Service badge (AETC, AFRC and ANG versions)",
    "swatches": [],
@@ -15814,9 +15827,10 @@
    "proof": "official",
    "sources": [
     "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.6-12.4.8",
-    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force",
+    "Picture: USAFRC Recruiting Service Badge.png, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-af-recruit.png"
   },
   {
    "id": "b-af-uc",
@@ -15866,8 +15880,7 @@
    "summary": "Air Force and Space Force duty badge. Worn only while performing duties for the duration of the assignment.",
    "facts": [
     "Wear rule: Worn only while performing duties for the duration of the assignment. OPR: Army Military Personnel Center. (para 12.4.10)",
-    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
-    "Design is not described in DAFI 36-2903; picture not yet added"
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)"
    ],
    "remember": "Army Staff identification badge",
    "swatches": [],
@@ -15876,9 +15889,10 @@
    "proof": "official",
    "sources": [
     "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.10",
-    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force",
+    "Picture: ASIB.png, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-af-army.png"
   },
   {
    "id": "b-af-nato",
@@ -15959,8 +15973,7 @@
    "summary": "Air Force and Space Force duty badge. Worn while performing duties in control AFSC 31PX or 3P0XX billets only; wear with the beret continues while attending PME and on joint, instructor and recruiter duties.",
    "facts": [
     "Wear rule: Worn while performing duties in control AFSC 31PX or 3P0XX billets only; wear with the beret continues while attending PME and on joint, instructor and recruiter duties. (para 12.4.13)",
-    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
-    "Design is not described in DAFI 36-2903; picture not yet added"
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)"
    ],
    "remember": "Security Forces shield",
    "swatches": [],
@@ -15969,9 +15982,10 @@
    "proof": "official",
    "sources": [
     "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.13",
-    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force",
+    "Picture: USAF Security Force Shield.jpg, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-af-sf.png"
   },
   {
    "id": "b-af-fire",
@@ -15990,8 +16004,7 @@
    "summary": "Air Force and Space Force duty badge. Worn while performing fire protection duties; continues while attending PME or on joint, instructor, recruiter or other developmental special duty assignments.",
    "facts": [
     "Wear rule: Worn while performing fire protection duties; continues while attending PME or on joint, instructor, recruiter or other developmental special duty assignments. (para 12.4.14)",
-    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
-    "Design is not described in DAFI 36-2903; picture not yet added"
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)"
    ],
    "remember": "Fire protection shield",
    "swatches": [],
@@ -16000,9 +16013,10 @@
    "proof": "official",
    "sources": [
     "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.14",
-    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force",
+    "Picture: USAF Fire Protection Asst Fire Chief Badge.png, Wikimedia Commons, CC0"
    ],
-   "image": null
+   "image": "badges/b-af-fire.png"
   },
   {
    "id": "b-af-osi",
@@ -16021,8 +16035,7 @@
    "summary": "Air Force and Space Force duty badge. Worn as directed by the AFOSI commander.",
    "facts": [
     "Wear rule: Worn as directed by the AFOSI commander. (para 12.4.15)",
-    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
-    "Design is not described in DAFI 36-2903; picture not yet added"
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)"
    ],
    "remember": "Air Force Office of Special Investigations (AFOSI) shield",
    "swatches": [],
@@ -16031,9 +16044,10 @@
    "proof": "official",
    "sources": [
     "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.15",
-    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force",
+    "Picture: USA - AF OSI Badge.jpg, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-af-osi.png"
   },
   {
    "id": "b-af-epme",
@@ -16207,8 +16221,7 @@
    "summary": "Air Force and Space Force duty badge. Earned badge is permanent for Airmen with 8G000 (enlisted) or 85G0 (officer) special duty identifiers.",
    "facts": [
     "Wear rule: Earned badge is permanent for Airmen with 8G000 (enlisted) or 85G0 (officer) special duty identifiers. Base Honor Guard badges are worn only while performing honor guard duties. (para 12.4.21)",
-    "Duty badges reflect current and previous positions; wear is optional (para 12.4)",
-    "Design is not described in DAFI 36-2903; picture not yet added"
+    "Duty badges reflect current and previous positions; wear is optional (para 12.4)"
    ],
    "remember": "USAF Honor Guard badge",
    "swatches": [],
@@ -16217,9 +16230,10 @@
    "proof": "official",
    "sources": [
     "DAFI 36-2903, Dress and Personal Appearance of Department of the Air Force Personnel (29 Feb 2024), para 12.4.21",
-    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force"
+    "Scope: the instruction covers Department of the Air Force personnel, Air Force and Space Force",
+    "Picture: New USAF Honor Guard Badge.png, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-af-hg.png"
   },
   {
    "id": "b-af-ndu",
@@ -16526,9 +16540,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "MCO 1020.34H, Marine Corps Uniform Regulations (1 May 2018), para 4007.2a(1)"
+    "MCO 1020.34H, Marine Corps Uniform Regulations (1 May 2018), para 4007.2a(1)",
+    "Picture: US - Presidential Service Badge.png, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-mc-psb.png"
   },
   {
    "id": "b-mc-vpsb",
@@ -16586,9 +16601,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "MCO 1020.34H, Marine Corps Uniform Regulations (1 May 2018), para 4007.2a(3)"
+    "MCO 1020.34H, Marine Corps Uniform Regulations (1 May 2018), para 4007.2a(3)",
+    "Picture: Office of the Secretary of Defense identification badge.svg, Wikimedia Commons, CC0"
    ],
-   "image": null
+   "image": "badges/b-mc-osd.png"
   },
   {
    "id": "b-mc-jcs",
@@ -16616,9 +16632,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "MCO 1020.34H, Marine Corps Uniform Regulations (1 May 2018), para 4007.2a(4)"
+    "MCO 1020.34H, Marine Corps Uniform Regulations (1 May 2018), para 4007.2a(4)",
+    "Picture: Joint Chiefs of Staff seal (2).svg, Wikimedia Commons, Public domain"
    ],
-   "image": null
+   "image": "badges/b-mc-jcs.png"
   }
  ]
 }

@@ -211,3 +211,32 @@ All from Wikimedia Commons, tagged public domain. The EOD Basic and Senior pictu
 | cu-ddbj | USCGAUX Dinner Dress Blue.jpg | Public domain (USCGAUX) | https://commons.wikimedia.org/wiki/File:USCGAUX_Dinner_Dress_Blue.jpg |
 | cu-tb | USCGAUX Tropical Blue Long.jpg | Public domain (USCGAUX) | https://commons.wikimedia.org/wiki/File:USCGAUX_Tropical_Blue_Long.jpg |
 | cu-fdw | 2022 U.S. Coast Guard Atlantic Area Change of Command 01.jpg | Public domain (Petty Officer 1st Class Travis Magee, U.S. Coast Guard) | https://commons.wikimedia.org/wiki/File:2022_U.S._Coast_Guard_Atlantic_Area_Change_of_Command_01.jpg |
+| b-cg-flightofficer | US Coast Guard Flight Officer Insignia.png | Public domain (U.S. Coast Guard) | https://commons.wikimedia.org/wiki/File:US_Coast_Guard_Flight_Officer_Insignia.png |
+| b-cg-flightsurgeon | USCG - Flight Surgeon.jpg | Public domain (United States Coast Guard) | https://commons.wikimedia.org/wiki/File:USCG_-_Flight_Surgeon.jpg |
+| b-cg-rescueswimmer | USCG - Rescue Swimmer.jpg | Public domain (United States Coast Guard) | https://commons.wikimedia.org/wiki/File:USCG_-_Rescue_Swimmer.jpg |
+| b-cg-cutterman | USCGCO.jpg | Public domain () | https://commons.wikimedia.org/wiki/File:USCGCO.jpg |
+| b-cg-coxswain | Coxswain.jpeg | Public domain () | https://commons.wikimedia.org/wiki/File:Coxswain.jpeg |
+| b-cg-eews | EXW Badge.JPG | Public domain (US Navy) | https://commons.wikimedia.org/wiki/File:EXW_Badge.JPG |
+| b-cg-surfman | Surfman.jpeg | Public domain (US gov) | https://commons.wikimedia.org/wiki/File:Surfman.jpeg |
+| b-cg-scuba | USCG Scuba Diver-Officer Badge.png | Public domain (w:United States Coast Guard) | https://commons.wikimedia.org/wiki/File:USCG_Scuba_Diver-Officer_Badge.png |
+| b-cg-divingofficer | USN-USCG Diving Officer insignia.png | Public domain (U.S. Coast Guard and U.S. Navy) | https://commons.wikimedia.org/wiki/File:USN-USCG_Diving_Officer_insignia.png |
+| b-cg-portsec | USCG - Port Security Officer.png | Public domain (United States Coast Guard) | https://commons.wikimedia.org/wiki/File:USCG_-_Port_Security_Officer.png |
+| b-cg-marinesafety | Marinesafety.jpeg | Public domain (DoD) | https://commons.wikimedia.org/wiki/File:Marinesafety.jpeg |
+| b-cg-tactleo | USCG - Tactical Law Enforcement.jpg | Public domain (United States Coast Guard) | https://commons.wikimedia.org/wiki/File:USCG_-_Tactical_Law_Enforcement.jpg |
+| b-cg-companycmdr | USCG - COMPANY COMMANDER.jpg | Public domain (United States Coast Guard) | https://commons.wikimedia.org/wiki/File:USCG_-_COMPANY_COMMANDER.jpg |
+| b-cg-paNP | USCG - Physician Assistant.jpg | Public domain (United States Coast Guard) | https://commons.wikimedia.org/wiki/File:USCG_-_Physician_Assistant.jpg |
+| b-af-pres | US - Presidential Service Badge.png | Public domain (Willie Kendrick) | https://commons.wikimedia.org/wiki/File:US_-_Presidential_Service_Badge.png |
+| b-af-osd | Office of the Secretary of Defense identification badge.svg | CC0 (Original: United States Department of Defense Vector:  Designism) | https://commons.wikimedia.org/wiki/File:Office_of_the_Secretary_of_Defense_identification_badge.svg |
+| b-af-jcs | Joint Chiefs of Staff seal (2).svg | Public domain (United States government) | https://commons.wikimedia.org/wiki/File:Joint_Chiefs_of_Staff_seal_(2).svg |
+| b-af-haf | Headquarters US Air Force Badge.png | Public domain (Dandvsp (talk)) | https://commons.wikimedia.org/wiki/File:Headquarters_US_Air_Force_Badge.png |
+| b-af-aetc | AETBadge.jpg | Public domain () | https://commons.wikimedia.org/wiki/File:AETBadge.jpg |
+| b-af-jrotc | AFJROTC Instructor Badge.png | Public domain (U.S. Air Force) | https://commons.wikimedia.org/wiki/File:AFJROTC_Instructor_Badge.png |
+| b-af-recruit | USAFRC Recruiting Service Badge.png | Public domain (U.S. Air Force Reserve Command) | https://commons.wikimedia.org/wiki/File:USAFRC_Recruiting_Service_Badge.png |
+| b-af-army | ASIB.png | Public domain (https://en.wikipedia.org/wiki/Army_Staff_Identification_Badge) | https://commons.wikimedia.org/wiki/File:ASIB.png |
+| b-af-sf | USAF Security Force Shield.jpg | Public domain (United States Government) | https://commons.wikimedia.org/wiki/File:USAF_Security_Force_Shield.jpg |
+| b-af-fire | USAF Fire Protection Asst Fire Chief Badge.png | CC0 (TexasBob85) | https://commons.wikimedia.org/wiki/File:USAF_Fire_Protection_Asst_Fire_Chief_Badge.png |
+| b-af-osi | USA - AF OSI Badge.jpg | Public domain () | https://commons.wikimedia.org/wiki/File:USA_-_AF_OSI_Badge.jpg |
+| b-af-hg | New USAF Honor Guard Badge.png | Public domain (User:McChizzle) | https://commons.wikimedia.org/wiki/File:New_USAF_Honor_Guard_Badge.png |
+| b-mc-psb | US - Presidential Service Badge.png | Public domain (Willie Kendrick) | https://commons.wikimedia.org/wiki/File:US_-_Presidential_Service_Badge.png |
+| b-mc-osd | Office of the Secretary of Defense identification badge.svg | CC0 (Original: United States Department of Defense Vector:  Designism) | https://commons.wikimedia.org/wiki/File:Office_of_the_Secretary_of_Defense_identification_badge.svg |
+| b-mc-jcs | Joint Chiefs of Staff seal (2).svg | Public domain (United States government) | https://commons.wikimedia.org/wiki/File:Joint_Chiefs_of_Staff_seal_(2).svg |
