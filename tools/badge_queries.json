@@ -1,8 +1,226 @@
 {
- "u-bdu-desert": [
-  "Desert Battle Dress Uniform six-color",
-  "Desert BDU chocolate chip camouflage uniform",
-  "six-color desert camouflage battle dress uniform soldier Gulf War",
-  "Operation Desert Storm soldier desert camouflage uniform"
+ "m-aom": [
+  "Army of Occupation Medal ribbon",
+  "Army of Occupation Medal"
+ ],
+ "m-recruiting": [
+  "Army Recruiter Ribbon",
+  "Army Recruiting Ribbon"
+ ],
+ "b-esb": [
+  "Expert Soldier Badge",
+  "Expert Soldier Badge ESB Army"
+ ],
+ "b-aviation": [
+  "Army Aviator Badge",
+  "Army Aviation badge senior master"
+ ],
+ "b-pathfinder": [
+  "Pathfinder Badge United States Army"
+ ],
+ "b-space": [
+  "Army Space Badge",
+  "Army Astronaut Badge"
+ ],
+ "b-diver": [
+  "Army Diver Badge",
+  "Army master diver badge"
+ ],
+ "b-rigger": [
+  "Parachute Rigger Badge"
+ ],
+ "b-instructor": [
+  "Army Drill Sergeant Identification Badge",
+  "Army Instructor Badge"
+ ],
+ "b-vice-presidential": [
+  "Vice Presidential Service Badge Army"
+ ],
+ "b-tomb-guard-id": [
+  "Tomb of the Unknown Soldier Guard Identification Badge"
+ ],
+ "r-service-stripes": [
+  "Army Service stripes sleeve"
+ ],
+ "r-overseas-bars": [
+  "Army overseas service bars"
+ ],
+ "u-mess-blue": [
+  "Army Blue Mess uniform",
+  "Army mess dress blue"
+ ],
+ "u-mess-white": [
+  "Army White Mess uniform"
+ ],
+ "n-e1": [
+  "US Navy E-1 insignia",
+  "Seaman Recruit insignia"
+ ],
+ "n-e2": [
+  "US Navy E-2 insignia",
+  "Seaman Apprentice stripes"
+ ],
+ "n-e3": [
+  "US Navy E-3 insignia",
+  "Seaman stripes Navy"
+ ],
+ "n-cpo-badge": [
+  "Navy chief petty officer insignia collar",
+  "Chief petty officer anchor insignia"
+ ],
+ "n-service-stripes": [
+  "Navy service stripes hash marks"
+ ],
+ "nu-nwu3": [
+  "Navy Working Uniform Type III",
+  "NWU Type III officer"
+ ],
+ "n-e7": [
+  "US Navy E-7 insignia",
+  "Chief Petty Officer rating badge"
+ ],
+ "n-e8": [
+  "US Navy E-8 insignia"
+ ],
+ "n-e9": [
+  "US Navy E-9 insignia"
+ ],
+ "nb-dws": [
+  "Enlisted Diving Warfare Specialist insignia",
+  "Navy Diver badge"
+ ],
+ "mc-pvt": [
+  "USMC E-1 insignia",
+  "Marine Corps private no insignia"
+ ],
+ "af-ab": [
+  "Airman Basic no insignia",
+  "USAF E-1 insignia"
+ ],
+ "se-cmssf": [
+  "Chief Master Sergeant of the Space Force insignia"
+ ],
+ "m-asor": [
+  "Air Force Overseas Ribbon short tour",
+  "Air Force Overseas Short Tour Service Ribbon"
+ ],
+ "m-aslsa": [
+  "Air Force Longevity Service Award ribbon"
+ ],
+ "m-dsdr": [
+  "Air Force Special Duty Ribbon"
+ ],
+ "m-epmeg": [
+  "Air Force Enlisted Professional Military Education Graduate Ribbon"
+ ],
+ "m-asoua": [
+  "Air Force Outstanding Unit Award ribbon"
+ ],
+ "m-asoea": [
+  "Air Force Organizational Excellence Award ribbon"
+ ],
+ "m-nmcm": [
+  "Navy and Marine Corps Medal ribbon",
+  "Navy and Marine Corps Medal"
+ ],
+ "m-nmccm": [
+  "Navy and Marine Corps Commendation Medal ribbon"
+ ],
+ "m-nmcam": [
+  "Navy and Marine Corps Achievement Medal ribbon"
+ ],
+ "m-ngcm": [
+  "Navy Good Conduct Medal ribbon",
+  "Good Conduct Medal Navy"
+ ],
+ "m-mcgcm": [
+  "Marine Corps Good Conduct Medal ribbon"
+ ],
+ "m-nmcosr": [
+  "Navy and Marine Corps Overseas Service Ribbon"
+ ],
+ "m-nrtsr": [
+  "Navy Recruit Training Service Ribbon"
+ ],
+ "m-dot-guardian": [
+  "Department of Transportation Guardian Medal"
+ ],
+ "m-cg-e": [
+  "Coast Guard E Ribbon"
+ ],
+ "mu-evening": [
+  "Marine Corps evening dress uniform",
+  "USMC Evening Dress"
+ ],
+ "mu-blue-white": [
+  "Marine Corps Blue White dress uniform"
+ ],
+ "au-mess": [
+  "Air Force mess dress uniform"
+ ],
+ "au-semi": [
+  "Air Force semi-formal dress uniform"
+ ],
+ "cu-formal": [
+  "Coast Guard formal dress blue white tie",
+  "Coast Guard dinner dress blue jacket"
+ ],
+ "cu-ddwj": [
+  "Coast Guard dinner dress white jacket"
+ ],
+ "b-cg-diver2": [
+  "Coast Guard diver insignia"
+ ],
+ "b-cg-honorguard": [
+  "Coast Guard Honor Guard badge"
+ ],
+ "b-cg-cmdafloat": [
+  "Coast Guard Command at Sea insignia",
+  "Coast Guard command afloat pin"
+ ],
+ "b-af-dli": [
+  "Defense Language Institute badge"
+ ],
+ "b-af-nato": [
+  "NATO identification badge Air Force"
+ ],
+ "b-af-un": [
+  "United Nations identification badge US military"
+ ],
+ "b-af-deca": [
+  "Defense Commissary Agency badge"
+ ],
+ "b-af-disa": [
+  "Defense Information Systems Agency badge"
+ ],
+ "b-af-dfas": [
+  "Defense Finance and Accounting Service badge"
+ ],
+ "b-af-mps": [
+  "Military Postal Service Agency badge"
+ ],
+ "b-af-ndu": [
+  "National Defense University identification badge"
+ ],
+ "b-af-usafa": [
+  "Air Force Academy Permanent Professor badge"
+ ],
+ "b-af-iaafa": [
+  "Inter-American Air Forces Academy badge"
+ ],
+ "b-af-dcma": [
+  "Defense Contract Management Agency badge"
+ ],
+ "b-af-nro": [
+  "National Reconnaissance Office badge"
+ ],
+ "b-af-dla": [
+  "Defense Logistics Agency badge"
+ ],
+ "b-af-uc": [
+  "Unified Command identification badge"
+ ],
+ "b-af-epme": [
+  "Air Force Professional Military Education badge"
  ]
 }
