@@ -1,50 +1,100 @@
 {
- "u-woodland-bdu": [
-  "Woodland BDU uniform",
-  "Battle Dress Uniform woodland soldier"
+ "mu-evening": [
+  "Marine Corps evening dress uniform",
+  "Marine officer evening dress"
  ],
- "u-pinks-greens": [
-  "Army pinks and greens uniform",
-  "Army officer pinks and greens"
+ "mu-blue-dress": [
+  "Marine Corps dress blue uniform",
+  "Marine dress blues Alpha"
  ],
- "u-acu-ocp": [
-  "Operational Camouflage Pattern uniform soldier",
-  "Army Combat Uniform OCP"
+ "mu-blue-white": [
+  "Marine Corps blue-white dress uniform",
+  "Marine dress blue white trousers officer"
  ],
- "u-agsu": [
-  "Army Green Service Uniform",
-  "Army greens uniform soldier"
+ "mu-service": [
+  "Marine Corps service uniform Alpha",
+  "Marine service A uniform green coat khaki shirt"
  ],
- "u-asu": [
-  "Army Service Uniform blue Class A",
-  "Army blue dress uniform soldier"
+ "mu-mccuu": [
+  "Marine Corps Combat Utility Uniform MARPAT",
+  "Marine MARPAT woodland utility uniform"
  ],
- "u-mess-blue": [
-  "Army Blue Mess uniform",
-  "Army mess dress uniform"
+ "mu-pt": [
+  "Marine Corps physical training uniform",
+  "Marines PT shorts green shirt"
  ],
- "u-mess-white": [
-  "Army White Mess uniform",
-  "Army mess dress white"
+ "au-mess": [
+  "Air Force mess dress uniform",
+  "Air Force mess dress officer"
  ],
- "u-apfu": [
-  "Army Physical Fitness Uniform",
-  "Army PT uniform soldiers"
+ "au-semi": [
+  "Air Force semi-formal dress",
+  "Air Force enlisted service dress coat"
  ],
- "nu-sdb-enl": [
-  "Navy Service Dress Blue sailor",
-  "Navy enlisted service dress blue uniform"
+ "au-service": [
+  "Air Force service dress uniform",
+  "Air Force blues uniform airman"
  ],
- "nu-khaki-off": [
-  "Navy Service Khaki officer uniform",
-  "Navy khaki uniform officer"
+ "au-ocp": [
+  "Air Force OCP uniform airman",
+  "Operational Camouflage Pattern airman"
  ],
- "nu-sdw-off": [
-  "Navy Service Dress White officer",
-  "Navy officer white uniform"
+ "au-ptg": [
+  "Air Force physical training gear",
+  "Air Force PT uniform airmen"
  ],
- "nu-nwu3": [
-  "Navy Working Uniform Type III",
-  "Navy NWU Type III aqua camouflage"
+ "au-fdu": [
+  "Air Force flight duty uniform",
+  "Air Force flight suit aircrew"
+ ],
+ "cu-formal": [
+  "Coast Guard formal dress blue uniform",
+  "Coast Guard evening dress"
+ ],
+ "cu-ddbj": [
+  "Coast Guard dinner dress blue jacket",
+  "Coast Guard dinner dress jacket"
+ ],
+ "cu-ddwj": [
+  "Coast Guard dinner dress white jacket"
+ ],
+ "cu-ddb": [
+  "Coast Guard dinner dress blue"
+ ],
+ "cu-ddw": [
+  "Coast Guard dinner dress white"
+ ],
+ "cu-fdb": [
+  "Coast Guard full dress blue",
+  "Coast Guard change of command uniform"
+ ],
+ "cu-fdw": [
+  "Coast Guard full dress white"
+ ],
+ "cu-sdba": [
+  "Coast Guard service dress blue",
+  "Coast Guard service dress blue Alpha"
+ ],
+ "cu-sdbb": [
+  "Coast Guard service dress blue Bravo",
+  "Coast Guard officer light blue shirt tie uniform"
+ ],
+ "cu-sdw": [
+  "Coast Guard service dress white",
+  "Coast Guard officer white uniform"
+ ],
+ "cu-tb": [
+  "Coast Guard tropical blue uniform",
+  "Coast Guard tropical blue short sleeve"
+ ],
+ "cu-tbls": [
+  "Coast Guard tropical blue long sleeve"
+ ],
+ "cu-wdb": [
+  "Coast Guard winter dress blue sweater"
+ ],
+ "cu-odu": [
+  "Coast Guard operational dress uniform",
+  "Coast Guard ODU"
  ]
 }
