@@ -1,11 +1,9 @@
-MilitaryInfo 0.10.0 - Navy Warfare Insignia
+MilitaryInfo 0.11.0 - Official Army Rank Pictures
 
-Added
-- Navy warfare insignia in Badges: Surface Warfare Officer, Submarine Dolphins, Naval Aviator and Flight Officer wings, Naval Special Warfare (SEAL), and the enlisted ESWS, EAWS, EOD (EWS), and Diving (DWS) insignia
-- Qualification rules and designators from MILPERSMAN articles. Dolphins history from the Naval History and Heritage Command
-- Pictures for 7 of the 8, public domain from Wikimedia Commons (CREDITS.md)
+Changed
+- Army rank pictures are now the official insignia from army.mil/ranks (27 ranks, plus Private "No insignia"), replacing the drawn schematics
+- Credit to the U.S. Army in CREDITS.md
 
 Known limits
-- No picture for the Diving (DWS) insignia or the Naval Flight Officer wings
-- Official text does not describe insignia designs, so entries state qualification rules, not looks
-- Navy Good Conduct Medal, female uniforms, and earlier eras are not loaded
+- General of the Army is not loaded: no description in the sources read
+- Pictures are current insignia only. Earlier eras, polished and subdued variants are not pictured

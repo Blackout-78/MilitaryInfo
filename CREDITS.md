@@ -45,3 +45,7 @@ Bundled badge pictures, all public domain or CC0 per their Wikimedia Commons fil
 | nb-esws | Enlisted Surface Warfare Specialist Insignia.png | Public domain | United States Navy (USN) | https://commons.wikimedia.org/wiki/File:Enlisted_Surface_Warfare_Specialist_Insignia.png |
 | nb-eaws | U.S. Navy Enlisted Aviation Warfare Specialist Insignia.png | Public domain | US Navy | https://commons.wikimedia.org/wiki/File:U.S._Navy_Enlisted_Aviation_Warfare_Specialist_Insignia.png |
 | nb-ews | USN - EOD Basic.png | Public domain | United States Navy | https://commons.wikimedia.org/wiki/File:USN_-_EOD_Basic.png |
+
+## Army rank insignia pictures
+
+Rank insignia pictures for the Army ranks are from the U.S. Army, https://www.army.mil/ranks/. Army.mil states that text and images on it are public information that may be distributed or copied unless otherwise specified, and asks for credit.
