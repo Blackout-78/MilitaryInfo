@@ -1,3 +1,6 @@
+## 0.18.2
+- 28 drawn illustrations where no free official picture exists: 14 Coast Guard insignia and command devices, and 14 ribbon devices (stars, numeral, C, R, M, A, N, O, hourglass, arrowhead). Each is labeled ILLUSTRATION - NOT OFFICIAL, drawn only from the manual's wording. Air Force duty badges and uniform schematics are still without pictures because their designs are not described in the sources.
+
 ## 0.18.1
 - 33 pictures for the new badge entries (public domain, credited): Coast Guard insignia (14), Air Force and Space Force duty badges (15), Marine Presidential, Vice-Presidential, OSD and JCS badges (4). Still no picture: Coast Guard aviator, air crew, astronaut, aviation mission specialist, boat forces, divers, honor guard, command devices; several Air Force duty badges. Auxiliary-only look-alikes were rejected.
 

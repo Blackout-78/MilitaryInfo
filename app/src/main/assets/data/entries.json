@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.18.1-badge-pictures",
+ "dataVersion": "0.18.2-illustrations",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -2979,7 +2979,8 @@
    "summary": "Arabic numeral, 3/16 inch, starting with 2, showing second and later awards of certain medals and ribbons.",
    "facts": [
     "Used on the Air Medal, Overseas Service Ribbon, NCO Professional Development Ribbon, Armed Forces Reserve Medal, Reserve Components Overseas Training Ribbon, and the MFO Medal",
-    "Size: 3/16 inch; numbering begins with 2"
+    "Size: 3/16 inch; numbering begins with 2",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": "Starts at 2. The Air Medal uses numerals, not clusters.",
    "swatches": [],
@@ -2988,9 +2989,10 @@
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-4",
-    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/m-dev-numeral.png"
   },
   {
    "id": "m-dev-v",
@@ -3061,7 +3063,8 @@
     "Not authorized on the Bronze Star Medal or the Meritorious Service Medal",
     "Only one C is worn on the service ribbon",
     "Department of the Air Force: Started 7 Jan 2016 and is not retroactive",
-    "Department of the Air Force: Not authorized on the Bronze Star Medal"
+    "Department of the Air Force: Not authorized on the Bronze Star Medal",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": "C is for combat, since 7 Jan 2016.",
    "swatches": [],
@@ -3071,9 +3074,10 @@
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-6",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
-    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.8 (PDF supplied by the app owner)"
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.8 (PDF supplied by the app owner)",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/m-dev-c.png"
   },
   {
    "id": "m-dev-r",
@@ -3096,7 +3100,8 @@
     "Not used on sustained-service medals",
     "Only one R is worn on the service ribbon",
     "Department of the Air Force: Started 7 Jan 2016 and is not retroactive; for remotely piloted aircraft, cyber, space and ISR career fields",
-    "Department of the Air Force: Only on decorations for specific meritorious achievement, not end-of-tour awards"
+    "Department of the Air Force: Only on decorations for specific meritorious achievement, not end-of-tour awards",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": "R is for a specific achievement.",
    "swatches": [],
@@ -3106,9 +3111,10 @@
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-7",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
-    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.14 (PDF supplied by the app owner)"
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.14 (PDF supplied by the app owner)",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/m-dev-r.png"
   },
   {
    "id": "m-dev-m",
@@ -3129,7 +3135,8 @@
    "facts": [
     "Worn on the Armed Forces Reserve Medal",
     "One per operation; numbering begins with the second award",
-    "Department of the Air Force: Bronze M for Reserve mobilization on or after 1 Aug 1990, worn on the Armed Forces Reserve Medal"
+    "Department of the Air Force: Bronze M for Reserve mobilization on or after 1 Aug 1990, worn on the Armed Forces Reserve Medal",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": "M is for mobilized.",
    "swatches": [],
@@ -3139,9 +3146,10 @@
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-9",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
-    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.10 (PDF supplied by the app owner)"
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.10 (PDF supplied by the app owner)",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/m-dev-m.png"
   },
   {
    "id": "m-dev-clasps",
@@ -3195,7 +3203,8 @@
     "A silver star is worn instead of five bronze stars",
     "Also authorized on the Army Sea Duty Ribbon",
     "DoD manual: Service stars are bronze or silver, 3/16 inch; campaign medals use the campaign star instead",
-    "Department of the Air Force: Also called a campaign star; also shows both rifle and handgun Expert on the Small Arms Expert Marksmanship Ribbon"
+    "Department of the Air Force: Also called a campaign star; also shows both rifle and handgun Expert on the Small Arms Expert Marksmanship Ribbon",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": "Bronze is one. Silver is five.",
    "swatches": [],
@@ -3229,9 +3238,10 @@
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-11",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.3 to 4.15 (PDF supplied by the app owner)",
-    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.15 (PDF supplied by the app owner)"
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.15 (PDF supplied by the app owner)",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/m-dev-star.png"
   },
   {
    "id": "m-dev-arrowhead",
@@ -3253,7 +3263,8 @@
     "The Soldier must exit the aircraft or watercraft",
     "One per ribbon",
     "DoD manual: Authorized for the Afghanistan, Iraq and Inherent Resolve Campaign Medals and the Armed Forces Expeditionary and Global War on Terrorism Expeditionary Medals, as authorized by the Secretary of the Army or the Secretary of the Air Force",
-    "Department of the Air Force: Bronze, 1/4 inch high and 1/8 inch wide; worn point up, to the wearer's right of all service stars; only one per ribbon"
+    "Department of the Air Force: Bronze, 1/4 inch high and 1/8 inch wide; worn point up, to the wearer's right of all service stars; only one per ribbon",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": "Arrowhead means you made the assault.",
    "swatches": [],
@@ -3276,9 +3287,10 @@
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-12",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
     "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.1, 4.3, 4.6, 4.9, 4.10 (PDF supplied by the app owner)",
-    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.5 (PDF supplied by the app owner)"
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.5 (PDF supplied by the app owner)",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/m-dev-arrowhead.png"
   },
   {
    "id": "m-dev-berlin",
@@ -3381,7 +3393,8 @@
    "yearTo": null,
    "summary": "Gold, 5/16 inch, marking the tenth and final Army Sea Duty Ribbon award.",
    "facts": [
-    "Equals 20 years of sea service"
+    "Equals 20 years of sea service",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": "Gold star, tenth award.",
    "swatches": [],
@@ -3402,9 +3415,10 @@
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 6-15",
-    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/m-dev-gold-star.png"
   },
   {
    "id": "b-cib",
@@ -10888,7 +10902,8 @@
    "facts": [
     "Worn on the suspension and campaign ribbon of the Afghanistan, Iraq, Inherent Resolve, Southwest Asia Service and Kosovo Campaign Medals",
     "A silver campaign star is worn in place of five bronze ones",
-    "The Southwest Asia Service Medal uses the bronze star only"
+    "The Southwest Asia Service Medal uses the bronze star only",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": null,
    "swatches": [],
@@ -10896,9 +10911,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.1, 4.9, 4.10, 4.12, 4.16 (PDF supplied by the app owner)"
+    "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.1, 4.9, 4.10, 4.12, 4.16 (PDF supplied by the app owner)",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/m-dev-campaign-star.png"
   },
   {
    "id": "m-dev-fmf",
@@ -10952,7 +10968,8 @@
     "A gold and a bronze together mean 40 years",
     "Shown first (the wearer's right), then the M device, when both are worn",
     "Department of the Air Force: 5/16 inch hourglass with a Roman numeral X; bronze, silver and gold for each 10 years",
-    "Coast Guard manual: on the Armed Forces Reserve Medal the hourglass is bronze, silver, gold, or gold plus bronze for the 1st to 4th 10-year period (5.A.25.b.2)"
+    "Coast Guard manual: on the Armed Forces Reserve Medal the hourglass is bronze, silver, gold, or gold plus bronze for the 1st to 4th 10-year period (5.A.25.b.2)",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": null,
    "swatches": [],
@@ -10962,9 +10979,10 @@
    "sources": [
     "DoDM 1348.33, Volume 2, Change 4, 7 May 2021, para 4.5.j (PDF supplied by the app owner)",
     "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.9 (PDF supplied by the app owner)",
-    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.25.b (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.25.b (PDF supplied by the app owner; 2008 edition, later changes not checked)",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/m-dev-hourglass.png"
   },
   {
    "id": "m-dev-star516",
@@ -10986,7 +11004,8 @@
    "summary": "Gold or silver 5/16 inch star worn for later awards of several DoD-wide decorations.",
    "facts": [
     "Listed for the Military Service Crosses, Department DSMs, Silver Star, Legion of Merit, DFC, Bronze Star, Purple Heart, Meritorious Service Medal and Air Medal",
-    "Each military department sets the wear rules (Army uses oak leaf clusters; see the department regulation)"
+    "Each military department sets the wear rules (Army uses oak leaf clusters; see the department regulation)",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": null,
    "swatches": [],
@@ -10994,9 +11013,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.1 to 3.9 (PDF supplied by the app owner)"
+    "DoWM 1348.33, Volume 3, Change 6, 14 Jul 2026, para 3.1 to 3.9 (PDF supplied by the app owner)",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/m-dev-star516.png"
   },
   {
    "id": "m-af-cross",
@@ -12104,7 +12124,8 @@
    "facts": [
     "For a short tour above the Arctic Circle and service at Pituffik Space Base (formerly Thule), Greenland",
     "Only one A device, however many tours",
-    "Worn to the right of any oak leaf clusters"
+    "Worn to the right of any oak leaf clusters",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": null,
    "swatches": [],
@@ -12112,9 +12133,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.3 (PDF supplied by the app owner)"
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.3 (PDF supplied by the app owner)",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/m-dev-arctic-a.png"
   },
   {
    "id": "m-dev-nuclear-n",
@@ -12134,7 +12156,8 @@
    "facts": [
     "For duty in a missile complex supporting ICBM operations or with nuclear-laden aircraft",
     "Only one N device, however many assignments",
-    "Worn to the wearer's right of oak leaf clusters"
+    "Worn to the wearer's right of oak leaf clusters",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": null,
    "swatches": [],
@@ -12142,9 +12165,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.11 (PDF supplied by the app owner)"
+    "DAFMAN 36-2806, 27 Oct 2022, Change 3, 13 Aug 2025, para A16.11 (PDF supplied by the app owner)",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/m-dev-nuclear-n.png"
   },
   {
    "id": "m-navy-cross",
@@ -12939,7 +12963,8 @@
     "For use on personal and unit awards",
     "The citation must specifically authorize it",
     "Needs direct operational \"hands on\" work: search and rescue, firefighting, law enforcement, disaster relief, pollution response, aids to navigation",
-    "Staff or administrative service does not qualify"
+    "Staff or administrative service does not qualify",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": null,
    "swatches": [],
@@ -12947,9 +12972,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 1.B (Distinguishing Devices) (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 1.B (Distinguishing Devices) (PDF supplied by the app owner; 2008 edition, later changes not checked)",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/m-dev-cg-o.png"
   },
   {
    "id": "m-dev-cg-m",
@@ -12968,7 +12994,8 @@
    "facts": [
     "For members who qualify under 5.A.25.a(2) or (3): called to active duty on or after 1 Aug 1990, or volunteering for a designated contingency",
     "Centered on the ribbon with the hourglass on the wearer's right and the award number on the left",
-    "No number for the first award"
+    "No number for the first award",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": null,
    "swatches": [],
@@ -12976,9 +13003,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.25.b (PDF supplied by the app owner; 2008 edition, later changes not checked)"
+    "COMDTINST M1650.25D, Coast Guard Medals and Awards Manual, May 2008, para 5.A.25.b (PDF supplied by the app owner; 2008 edition, later changes not checked)",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/m-dev-cg-m.png"
   },
   {
    "id": "m-cg-hsdsm",
@@ -14775,7 +14803,8 @@
    "facts": [
     "Description: A gold-toned, winged insignia with a fouled anchor behind a shield in the center. (4.B.1.a)",
     "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
-    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": "Aviator",
    "swatches": [],
@@ -14783,9 +14812,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/b-cg-aviator.png"
   },
   {
    "id": "b-cg-aircrew",
@@ -14804,7 +14834,8 @@
    "facts": [
     "Description: A gold-toned, winged insignia with an anchor and the letters \"AC\" inscribed. Enlisted members qualified for aircrew duties who advance to officer status may continue to wear it. (4.B.1.a)",
     "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
-    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": "Air Crew",
    "swatches": [],
@@ -14812,9 +14843,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/b-cg-aircrew.png"
   },
   {
    "id": "b-cg-flightofficer",
@@ -14923,7 +14955,8 @@
    "facts": [
     "Description: A gold-toned, winged insignia with crossed anchors overlaid with a shield and shooting star. (4.B.1.a)",
     "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
-    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": "Astronaut",
    "swatches": [],
@@ -14931,9 +14964,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/b-cg-astronaut.png"
   },
   {
    "id": "b-cg-aviationms",
@@ -14952,7 +14986,8 @@
    "facts": [
     "Description: A gold-toned, winged insignia with a silver anchor on a gold background encircled in a silver ring. (4.B.1.a)",
     "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
-    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": "Aviation Mission Specialist",
    "swatches": [],
@@ -14960,9 +14995,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/b-cg-aviationms.png"
   },
   {
    "id": "b-cg-cutterman",
@@ -15011,7 +15047,8 @@
    "facts": [
     "Description: Pewter-toned insignia with an eight-point compass rose over a crossed boat hook and oar centered over stylized waves. Advanced qualification: the compass rose is polished gold and the waves and oars are pewter. (4.B.1.a)",
     "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
-    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": "Boat Force Operations",
    "swatches": [],
@@ -15019,9 +15056,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/b-cg-boatforce.png"
   },
   {
    "id": "b-cg-coxswain",
@@ -15160,7 +15198,8 @@
    "facts": [
     "Description: A pewter-toned insignia with a diving helmet and breastplate. (4.B.1.a)",
     "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
-    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": "Second Class Diver",
    "swatches": [],
@@ -15168,9 +15207,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/b-cg-diver2.png"
   },
   {
    "id": "b-cg-diver1",
@@ -15189,7 +15229,8 @@
    "facts": [
     "Description: A pewter-toned insignia with a diving helmet and breastplate surrounded by sea serpents. (4.B.1.a)",
     "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
-    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": "First Class Diver",
    "swatches": [],
@@ -15197,9 +15238,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/b-cg-diver1.png"
   },
   {
    "id": "b-cg-masterdiver",
@@ -15218,7 +15260,8 @@
    "facts": [
     "Description: A pewter insignia with the same design as the Diving Officer insignia. (4.B.1.a)",
     "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
-    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": "Master Diver",
    "swatches": [],
@@ -15226,9 +15269,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/b-cg-masterdiver.png"
   },
   {
    "id": "b-cg-divingofficer",
@@ -15277,7 +15321,8 @@
    "facts": [
     "Description: A pewter-toned insignia with two upright sea horses facing a diving helmet and two tridents projecting upward from the helmet. A caduceus is superimposed on the breastplate. (4.B.1.a)",
     "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
-    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": "Diving Medical Technician",
    "swatches": [],
@@ -15285,9 +15330,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/b-cg-dmt.png"
   },
   {
    "id": "b-cg-portsec",
@@ -15396,7 +15442,8 @@
    "facts": [
     "Description: A gold-toned metal oval insignia, authorized for past and present members assigned to the Ceremonial Honor Guard. (4.B.1.a)",
     "Full-size insignia on all uniforms except miniature on Dinner Dress and formal uniforms; up to two insignia may be worn with ribbons or medals (para 4.B.1)",
-    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a"
+    "Qualification standards and awarding authority: COMDTINST M1200.1 (series), per para 4.B.1.a",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": "Coast Guard Ceremonial Honor Guard",
    "swatches": [],
@@ -15404,9 +15451,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.1.a",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/b-cg-honorguard.png"
   },
   {
    "id": "b-cg-companycmdr",
@@ -15485,7 +15533,8 @@
    "facts": [
     "Description: A gold and silver device with a miniature officer eagle superimposed on a partially unfurled commission pennant. (4.B.2)",
     "Devices denote command afloat and ashore experience; the afloat and ashore devices are equivalent (para 4.B.2)",
-    "Full-size on full dress, miniature on other uniforms (para 4.B.2)"
+    "Full-size on full dress, miniature on other uniforms (para 4.B.2)",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": "Command Afloat device",
    "swatches": [],
@@ -15493,9 +15542,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.2"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.2",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/b-cg-cmdafloat.png"
   },
   {
    "id": "b-cg-cmdashore",
@@ -15514,7 +15564,8 @@
    "facts": [
     "Description: A gold and silver device with a miniature officer eagle superimposed on a wreath of gold oak leaves. (4.B.2)",
     "Devices denote command afloat and ashore experience; the afloat and ashore devices are equivalent (para 4.B.2)",
-    "Full-size on full dress, miniature on other uniforms (para 4.B.2)"
+    "Full-size on full dress, miniature on other uniforms (para 4.B.2)",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": "Command Ashore device",
    "swatches": [],
@@ -15522,9 +15573,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.2"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.2",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/b-cg-cmdashore.png"
   },
   {
    "id": "b-cg-oicafloat",
@@ -15543,7 +15595,8 @@
    "facts": [
     "Description: A pewter-toned device with a Coast Guard shield and anchor superimposed on a rope grommet. (4.B.2)",
     "Devices denote command afloat and ashore experience; the afloat and ashore devices are equivalent (para 4.B.2)",
-    "Full-size on full dress, miniature on other uniforms (para 4.B.2)"
+    "Full-size on full dress, miniature on other uniforms (para 4.B.2)",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": "Officer in Charge Afloat device",
    "swatches": [],
@@ -15551,9 +15604,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.2"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.2",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/b-cg-oicafloat.png"
   },
   {
    "id": "b-cg-oicashore",
@@ -15572,7 +15626,8 @@
    "facts": [
     "Description: A pewter-toned device with a wreath of oak leaves open at the top with a Coast Guard shield in its center. (4.B.2)",
     "Devices denote command afloat and ashore experience; the afloat and ashore devices are equivalent (para 4.B.2)",
-    "Full-size on full dress, miniature on other uniforms (para 4.B.2)"
+    "Full-size on full dress, miniature on other uniforms (para 4.B.2)",
+    "ILLUSTRATION, not official artwork: the picture is a drawing from the written description"
    ],
    "remember": "Officer in Charge Ashore device",
    "swatches": [],
@@ -15580,9 +15635,10 @@
    "attachments": [],
    "proof": "official",
    "sources": [
-    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.2"
+    "COMDTINST M1020.6K, Coast Guard Uniform Manual (7 Jul 2020), para 4.B.2",
+    "Picture: schematic illustration drawn for this app from the manual wording; it shows only the elements the text names and is not the official artwork"
    ],
-   "image": null
+   "image": "badges/b-cg-oicashore.png"
   },
   {
    "id": "b-af-pres",

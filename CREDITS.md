@@ -244,3 +244,31 @@ All from Wikimedia Commons, tagged public domain. The EOD Basic and Senior pictu
 | b-af-gold | Gold Star Lapel Pins.jpg | Public domain (Photo Credit: U.S. Army) | https://commons.wikimedia.org/wiki/File:Gold_Star_Lapel_Pins.jpg |
 | b-af-nok | Gold Star Lapel Pins.jpg | Public domain (Photo Credit: U.S. Army) | https://commons.wikimedia.org/wiki/File:Gold_Star_Lapel_Pins.jpg |
 | b-mc-vpsb | US - Vice Presidential Service Badge.png | Public domain (United States Government) | https://commons.wikimedia.org/wiki/File:US_-_Vice_Presidential_Service_Badge.png |
+| b-cg-aviator | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| b-cg-aircrew | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| b-cg-astronaut | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| b-cg-aviationms | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| b-cg-boatforce | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| b-cg-diver2 | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| b-cg-diver1 | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| b-cg-masterdiver | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| b-cg-dmt | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| b-cg-honorguard | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| b-cg-cmdafloat | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| b-cg-cmdashore | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| b-cg-oicafloat | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| b-cg-oicashore | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| m-dev-star | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| m-dev-campaign-star | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| m-dev-star516 | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| m-dev-gold-star | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| m-dev-numeral | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| m-dev-c | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| m-dev-r | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| m-dev-m | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| m-dev-arctic-a | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| m-dev-nuclear-n | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| m-dev-cg-o | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| m-dev-cg-m | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| m-dev-hourglass | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
+| m-dev-arrowhead | Own illustration (tools/make_illustrations.py) | CC0 (drawn for this app) | n/a |
