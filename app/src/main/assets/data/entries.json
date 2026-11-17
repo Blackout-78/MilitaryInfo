@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.6.0-army-uniforms",
+ "dataVersion": "0.7.0-army-rank-pictures",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -4267,7 +4267,8 @@
    "facts": [
     "Grade: E-2",
     "Insignia: One chevron.",
-    "Enlisted personnel wear subdued grade insignia on utility uniforms"
+    "Enlisted personnel wear subdued grade insignia on utility uniforms",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "One chevron.",
    "swatches": [],
@@ -4312,9 +4313,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-7a(13)"
+    "Para 21-7a(13)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-pv2.png"
   },
   {
    "id": "r-pfc",
@@ -4333,7 +4335,8 @@
    "facts": [
     "Grade: E-3",
     "Insignia: One chevron above one arc.",
-    "Enlisted personnel wear subdued grade insignia on utility uniforms"
+    "Enlisted personnel wear subdued grade insignia on utility uniforms",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "Chevron over one arc.",
    "swatches": [],
@@ -4378,9 +4381,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-7a(12)"
+    "Para 21-7a(12)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-pfc.png"
   },
   {
    "id": "r-spc",
@@ -4399,7 +4403,8 @@
    "facts": [
     "Grade: E-4",
     "Insignia: Shaped like an inverted chevron at the bottom with an eagle device in the center.",
-    "Enlisted personnel wear subdued grade insignia on utility uniforms"
+    "Enlisted personnel wear subdued grade insignia on utility uniforms",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "Eagle in the middle.",
    "swatches": [],
@@ -4444,9 +4449,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-7a(11)"
+    "Para 21-7a(11)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-spc.png"
   },
   {
    "id": "r-cpl",
@@ -4465,7 +4471,8 @@
    "facts": [
     "Grade: E-4",
     "Insignia: Two chevrons.",
-    "Enlisted personnel wear subdued grade insignia on utility uniforms"
+    "Enlisted personnel wear subdued grade insignia on utility uniforms",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "Two chevrons, no arc.",
    "swatches": [],
@@ -4510,9 +4517,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-7a(10)"
+    "Para 21-7a(10)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-cpl.png"
   },
   {
    "id": "r-sgt",
@@ -4531,7 +4539,8 @@
    "facts": [
     "Grade: E-5",
     "Insignia: Three chevrons.",
-    "Enlisted personnel wear subdued grade insignia on utility uniforms"
+    "Enlisted personnel wear subdued grade insignia on utility uniforms",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "Three chevrons, no arc.",
    "swatches": [],
@@ -4576,9 +4585,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-7a(9)"
+    "Para 21-7a(9)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-sgt.png"
   },
   {
    "id": "r-ssg",
@@ -4597,7 +4607,8 @@
    "facts": [
     "Grade: E-6",
     "Insignia: Three chevrons above one arc.",
-    "Enlisted personnel wear subdued grade insignia on utility uniforms"
+    "Enlisted personnel wear subdued grade insignia on utility uniforms",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "Three over one.",
    "swatches": [],
@@ -4642,9 +4653,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-7a(8)"
+    "Para 21-7a(8)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-ssg.png"
   },
   {
    "id": "r-sfc",
@@ -4663,7 +4675,8 @@
    "facts": [
     "Grade: E-7",
     "Insignia: Three chevrons above two arcs.",
-    "Enlisted personnel wear subdued grade insignia on utility uniforms"
+    "Enlisted personnel wear subdued grade insignia on utility uniforms",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "Three over two.",
    "swatches": [],
@@ -4708,9 +4721,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-7a(7)"
+    "Para 21-7a(7)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-sfc.png"
   },
   {
    "id": "r-msg",
@@ -4729,7 +4743,8 @@
    "facts": [
     "Grade: E-8",
     "Insignia: Three chevrons above three arcs.",
-    "Enlisted personnel wear subdued grade insignia on utility uniforms"
+    "Enlisted personnel wear subdued grade insignia on utility uniforms",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "Three over three.",
    "swatches": [],
@@ -4774,9 +4789,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-7a(6)"
+    "Para 21-7a(6)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-msg.png"
   },
   {
    "id": "r-1sg",
@@ -4795,7 +4811,8 @@
    "facts": [
     "Grade: E-8",
     "Insignia: Three chevrons above three arcs with a pierced lozenge.",
-    "Enlisted personnel wear subdued grade insignia on utility uniforms"
+    "Enlisted personnel wear subdued grade insignia on utility uniforms",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "Three over three, lozenge in the middle.",
    "swatches": [],
@@ -4840,9 +4857,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-7a(5)"
+    "Para 21-7a(5)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-1sg.png"
   },
   {
    "id": "r-sgm",
@@ -4861,7 +4879,8 @@
    "facts": [
     "Grade: E-9",
     "Insignia: Three chevrons above three arcs with a five-pointed star.",
-    "Enlisted personnel wear subdued grade insignia on utility uniforms"
+    "Enlisted personnel wear subdued grade insignia on utility uniforms",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "Three over three, star.",
    "swatches": [],
@@ -4906,9 +4925,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-7a(4)"
+    "Para 21-7a(4)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-sgm.png"
   },
   {
    "id": "r-csm",
@@ -4927,7 +4947,8 @@
    "facts": [
     "Grade: E-9",
     "Insignia: A five-pointed star within a wreath.",
-    "Enlisted personnel wear subdued grade insignia on utility uniforms"
+    "Enlisted personnel wear subdued grade insignia on utility uniforms",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "Star inside a wreath.",
    "swatches": [],
@@ -4972,9 +4993,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-7a(3)"
+    "Para 21-7a(3)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-csm.png"
   },
   {
    "id": "r-sma",
@@ -4993,7 +5015,8 @@
    "facts": [
     "Grade: E-9",
     "Insignia: The eagle from the Great Seal of the United States between two stars.",
-    "Enlisted personnel wear subdued grade insignia on utility uniforms"
+    "Enlisted personnel wear subdued grade insignia on utility uniforms",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "Eagle between two stars.",
    "swatches": [],
@@ -5038,9 +5061,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-7a(2)"
+    "Para 21-7a(2)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-sma.png"
   },
   {
    "id": "r-wo1",
@@ -5059,7 +5083,8 @@
    "facts": [
     "Grade: WO1",
     "Insignia: One black enamel square on a silver bar.",
-    "Subdued officer insignia is generally black (para 21-6)"
+    "Subdued officer insignia is generally black (para 21-6)",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "One square.",
    "swatches": [],
@@ -5076,9 +5101,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-6a(11)"
+    "Para 21-6a(11)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-wo1.png"
   },
   {
    "id": "r-cw2",
@@ -5097,7 +5123,8 @@
    "facts": [
     "Grade: CW2",
     "Insignia: Two black enamel squares on a silver bar.",
-    "Subdued officer insignia is generally black (para 21-6)"
+    "Subdued officer insignia is generally black (para 21-6)",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "Two squares.",
    "swatches": [],
@@ -5114,9 +5141,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-6a(10)"
+    "Para 21-6a(10)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-cw2.png"
   },
   {
    "id": "r-cw3",
@@ -5135,7 +5163,8 @@
    "facts": [
     "Grade: CW3",
     "Insignia: Three black enamel squares on a silver bar.",
-    "Subdued officer insignia is generally black (para 21-6)"
+    "Subdued officer insignia is generally black (para 21-6)",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "Three squares.",
    "swatches": [],
@@ -5152,9 +5181,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-6a(9)"
+    "Para 21-6a(9)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-cw3.png"
   },
   {
    "id": "r-cw4",
@@ -5173,7 +5203,8 @@
    "facts": [
     "Grade: CW4",
     "Insignia: Four black enamel squares on a silver bar.",
-    "Subdued officer insignia is generally black (para 21-6)"
+    "Subdued officer insignia is generally black (para 21-6)",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "Four squares.",
    "swatches": [],
@@ -5190,9 +5221,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-6a(8)"
+    "Para 21-6a(8)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-cw4.png"
   },
   {
    "id": "r-cw5",
@@ -5211,7 +5243,8 @@
    "facts": [
     "Grade: CW5",
     "Insignia: A black line in the center of the bar.",
-    "Subdued officer insignia is generally black (para 21-6)"
+    "Subdued officer insignia is generally black (para 21-6)",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "One line down the middle.",
    "swatches": [],
@@ -5228,9 +5261,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-6a(7)"
+    "Para 21-6a(7)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-cw5.png"
   },
   {
    "id": "r-2lt",
@@ -5249,7 +5283,8 @@
    "facts": [
     "Grade: O-1",
     "Insignia: One gold-colored bar.",
-    "Subdued officer insignia is generally black (para 21-6)"
+    "Subdued officer insignia is generally black (para 21-6)",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "One gold bar.",
    "swatches": [],
@@ -5266,9 +5301,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-6a(6)"
+    "Para 21-6a(6)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-2lt.png"
   },
   {
    "id": "r-1lt",
@@ -5287,7 +5323,8 @@
    "facts": [
     "Grade: O-2",
     "Insignia: One silver-colored bar.",
-    "Subdued officer insignia is generally black (para 21-6)"
+    "Subdued officer insignia is generally black (para 21-6)",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "One silver bar.",
    "swatches": [],
@@ -5304,9 +5341,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-6a(5)"
+    "Para 21-6a(5)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-1lt.png"
   },
   {
    "id": "r-cpt",
@@ -5325,7 +5363,8 @@
    "facts": [
     "Grade: O-3",
     "Insignia: Two silver-colored bars.",
-    "Subdued officer insignia is generally black (para 21-6)"
+    "Subdued officer insignia is generally black (para 21-6)",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "Two silver bars.",
    "swatches": [],
@@ -5342,9 +5381,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-6a(4)"
+    "Para 21-6a(4)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-cpt.png"
   },
   {
    "id": "r-maj",
@@ -5363,7 +5403,8 @@
    "facts": [
     "Grade: O-4",
     "Insignia: Gold-colored oak leaf.",
-    "Subdued officer insignia is generally black (para 21-6)"
+    "Subdued officer insignia is generally black (para 21-6)",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "Gold leaf.",
    "swatches": [],
@@ -5380,9 +5421,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-6a(3)"
+    "Para 21-6a(3)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-maj.png"
   },
   {
    "id": "r-ltc",
@@ -5401,7 +5443,8 @@
    "facts": [
     "Grade: O-5",
     "Insignia: Silver-colored oak leaf.",
-    "Subdued officer insignia is generally black (para 21-6)"
+    "Subdued officer insignia is generally black (para 21-6)",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "Silver leaf.",
    "swatches": [],
@@ -5418,9 +5461,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-6a(2)"
+    "Para 21-6a(2)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-ltc.png"
   },
   {
    "id": "r-col",
@@ -5439,7 +5483,8 @@
    "facts": [
     "Grade: O-6",
     "Insignia: Silver-colored spread eagle.",
-    "Subdued officer insignia is generally black (para 21-6)"
+    "Subdued officer insignia is generally black (para 21-6)",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "Silver eagle.",
    "swatches": [],
@@ -5456,9 +5501,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-6a(1)"
+    "Para 21-6a(1)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-col.png"
   },
   {
    "id": "r-bg",
@@ -5477,7 +5523,8 @@
    "facts": [
     "Grade: O-7",
     "Insignia: One silver-colored, five-pointed star.",
-    "Subdued general officer insignia has hook-and-loop backing (para 21-5a)"
+    "Subdued general officer insignia has hook-and-loop backing (para 21-5a)",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "One star.",
    "swatches": [],
@@ -5494,9 +5541,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-5a(4)"
+    "Para 21-5a(4)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-bg.png"
   },
   {
    "id": "r-mg",
@@ -5515,7 +5563,8 @@
    "facts": [
     "Grade: O-8",
     "Insignia: Two silver-colored, five-pointed stars.",
-    "Subdued general officer insignia has hook-and-loop backing (para 21-5a)"
+    "Subdued general officer insignia has hook-and-loop backing (para 21-5a)",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "Two stars.",
    "swatches": [],
@@ -5532,9 +5581,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-5a(3)"
+    "Para 21-5a(3)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-mg.png"
   },
   {
    "id": "r-lg",
@@ -5553,7 +5603,8 @@
    "facts": [
     "Grade: O-9",
     "Insignia: Three silver-colored, five-pointed stars.",
-    "Subdued general officer insignia has hook-and-loop backing (para 21-5a)"
+    "Subdued general officer insignia has hook-and-loop backing (para 21-5a)",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "Three stars.",
    "swatches": [],
@@ -5570,9 +5621,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-5a(2)"
+    "Para 21-5a(2)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-lg.png"
   },
   {
    "id": "r-gen",
@@ -5591,7 +5643,8 @@
    "facts": [
     "Grade: O-10",
     "Insignia: Four silver-colored, five-pointed stars.",
-    "Subdued general officer insignia has hook-and-loop backing (para 21-5a)"
+    "Subdued general officer insignia has hook-and-loop backing (para 21-5a)",
+    "Picture is a schematic drawn by this app from the written description. It is not to scale and not the exact insignia"
    ],
    "remember": "Four stars.",
    "swatches": [],
@@ -5608,9 +5661,10 @@
    "proof": "official",
    "sources": [
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, ch 21 (read from the copy hosted at home.army.mil/jackson)",
-    "Para 21-5a(1)"
+    "Para 21-5a(1)",
+    "Picture: schematic drawn by this app (tools/make_ranks.py), not an official image"
    ],
-   "image": null
+   "image": "ranks/r-gen.png"
   },
   {
    "id": "r-service-stripes",
