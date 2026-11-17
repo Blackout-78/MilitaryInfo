@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "dataVersion": "0.4.0-army-badges",
+ "dataVersion": "0.4.1-badge-pictures",
  "entries": [
   {
    "id": "u-woodland-bdu",
@@ -3115,9 +3115,10 @@
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-6",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
-    "Text read from the copy hosted at home.army.mil/jackson"
+    "Text read from the copy hosted at home.army.mil/jackson",
+    "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
    ],
-   "image": null
+   "image": "badges/b-cib.png"
   },
   {
    "id": "b-cmb",
@@ -3153,9 +3154,10 @@
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-7",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
-    "Text read from the copy hosted at home.army.mil/jackson"
+    "Text read from the copy hosted at home.army.mil/jackson",
+    "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
    ],
-   "image": null
+   "image": "badges/b-cmb.png"
   },
   {
    "id": "b-cab",
@@ -3186,9 +3188,10 @@
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-8",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
-    "Text read from the copy hosted at home.army.mil/jackson"
+    "Text read from the copy hosted at home.army.mil/jackson",
+    "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
    ],
-   "image": null
+   "image": "badges/b-cab.png"
   },
   {
    "id": "b-eib",
@@ -3217,9 +3220,10 @@
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-9",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
-    "Text read from the copy hosted at home.army.mil/jackson"
+    "Text read from the copy hosted at home.army.mil/jackson",
+    "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
    ],
-   "image": null
+   "image": "badges/b-eib.png"
   },
   {
    "id": "b-efmb",
@@ -3248,9 +3252,10 @@
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-10",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
-    "Text read from the copy hosted at home.army.mil/jackson"
+    "Text read from the copy hosted at home.army.mil/jackson",
+    "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
    ],
-   "image": null
+   "image": "badges/b-efmb.png"
   },
   {
    "id": "b-esb",
@@ -3321,9 +3326,10 @@
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-12",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
-    "Text read from the copy hosted at home.army.mil/jackson"
+    "Text read from the copy hosted at home.army.mil/jackson",
+    "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
    ],
-   "image": null
+   "image": "badges/b-aviator.png"
   },
   {
    "id": "b-flight-surgeon",
@@ -3365,9 +3371,10 @@
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-13",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
-    "Text read from the copy hosted at home.army.mil/jackson"
+    "Text read from the copy hosted at home.army.mil/jackson",
+    "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
    ],
-   "image": null
+   "image": "badges/b-flight-surgeon.png"
   },
   {
    "id": "b-aviation",
@@ -3455,9 +3462,10 @@
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-15",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
-    "Text read from the copy hosted at home.army.mil/jackson"
+    "Text read from the copy hosted at home.army.mil/jackson",
+    "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
    ],
-   "image": null
+   "image": "badges/b-eod.png"
   },
   {
    "id": "b-parachutist",
@@ -3513,9 +3521,10 @@
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-16",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, paras 21-32b, 22-16a",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
-    "Text read from the copy hosted at home.army.mil/jackson"
+    "Text read from the copy hosted at home.army.mil/jackson",
+    "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
    ],
-   "image": null
+   "image": "badges/b-parachutist.png"
   },
   {
    "id": "b-freefall",
@@ -3559,9 +3568,10 @@
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-17",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16a",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
-    "Text read from the copy hosted at home.army.mil/jackson"
+    "Text read from the copy hosted at home.army.mil/jackson",
+    "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
    ],
-   "image": null
+   "image": "badges/b-freefall.png"
   },
   {
    "id": "b-pathfinder",
@@ -3624,9 +3634,10 @@
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-19",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, paras 21-32b, 22-16a",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
-    "Text read from the copy hosted at home.army.mil/jackson"
+    "Text read from the copy hosted at home.army.mil/jackson",
+    "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
    ],
-   "image": null
+   "image": "badges/b-air-assault.png"
   },
   {
    "id": "b-space",
@@ -3734,9 +3745,10 @@
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-21",
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
-    "Text read from the copy hosted at home.army.mil/jackson"
+    "Text read from the copy hosted at home.army.mil/jackson",
+    "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
    ],
-   "image": null
+   "image": "badges/b-driver-tech.png"
   },
   {
    "id": "b-diver",
@@ -3893,9 +3905,10 @@
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-26",
-    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
    ],
-   "image": null
+   "image": "badges/b-presidential.png"
   },
   {
    "id": "b-vice-presidential",
@@ -3952,9 +3965,10 @@
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-28",
-    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
    ],
-   "image": null
+   "image": "badges/b-osd-id.png"
   },
   {
    "id": "b-jcs-id",
@@ -3985,9 +3999,10 @@
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-29",
-    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
    ],
-   "image": null
+   "image": "badges/b-jcs-id.png"
   },
   {
    "id": "b-army-staff-id",
@@ -4021,9 +4036,10 @@
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-30",
-    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
    ],
-   "image": null
+   "image": "badges/b-army-staff-id.png"
   },
   {
    "id": "b-tomb-guard-id",
@@ -4081,9 +4097,10 @@
    "proof": "official",
    "sources": [
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-32",
-    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)"
+    "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
+    "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
    ],
-   "image": null
+   "image": "badges/b-horseman-id.png"
   },
   {
    "id": "b-marksmanship",
@@ -4161,9 +4178,10 @@
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16e-f",
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-2d",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
-    "Text read from the copy hosted at home.army.mil/jackson"
+    "Text read from the copy hosted at home.army.mil/jackson",
+    "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
    ],
-   "image": null
+   "image": "badges/b-ranger-tab.png"
   },
   {
    "id": "b-sf-tab",
@@ -4191,9 +4209,10 @@
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16e-f",
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-2d",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
-    "Text read from the copy hosted at home.army.mil/jackson"
+    "Text read from the copy hosted at home.army.mil/jackson",
+    "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
    ],
-   "image": null
+   "image": "badges/b-sf-tab.png"
   },
   {
    "id": "b-sapper-tab",
@@ -4221,9 +4240,10 @@
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16e-f",
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-2d",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
-    "Text read from the copy hosted at home.army.mil/jackson"
+    "Text read from the copy hosted at home.army.mil/jackson",
+    "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
    ],
-   "image": null
+   "image": "badges/b-sapper-tab.png"
   },
   {
    "id": "b-presidents-hundred-tab",
@@ -4252,9 +4272,10 @@
     "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-15e",
     "AR 600-8-22, Military Awards, 19 Jan 2024, para 8-2d",
     "Text read from the copy hosted at ri.ng.mil (Rhode Island National Guard)",
-    "Text read from the copy hosted at home.army.mil/jackson"
+    "Text read from the copy hosted at home.army.mil/jackson",
+    "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
    ],
-   "image": null
+   "image": "badges/b-presidents-hundred-tab.png"
   },
   {
    "id": "b-airborne-trim",
