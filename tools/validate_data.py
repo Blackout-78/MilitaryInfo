@@ -92,7 +92,7 @@ def main() -> int:
         yf, yt = e.get("yearFrom"), e.get("yearTo")
         if yf is not None and yt is not None and yf > yt:
             bad(where, "yearFrom is after yearTo")
-        if e.get("image") and not (IMAGES / e["image"]).exists():
+        if e.get("image") and e["image"] != "none" and not (IMAGES / e["image"]).exists():
             bad(where, f"image file missing: {e['image']}")
         check_swatches(where, e.get("swatches"))
         check_variants(where, e.get("variants"))

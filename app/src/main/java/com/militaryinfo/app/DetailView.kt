@@ -44,7 +44,7 @@ class DetailView(
 
     private fun build(body: LinearLayout) {
         val c = context
-        body.addView(c.imageBox(entry.image, 180), lp())
+        if (entry.image != "none") body.addView(c.imageBox(entry.image, 180), lp())
         body.addView(c.label(entry.name, 22f, medium = true), lp().margins(t = c.dp(14)))
 
         val tags = LinearLayout(c).apply { orientation = HORIZONTAL }

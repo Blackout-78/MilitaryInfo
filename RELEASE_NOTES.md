@@ -1,3 +1,9 @@
+## 0.18.7
+- Blank pictures: 8 drawn illustrations from the manuals' wording, each labeled ILLUSTRATION - NOT OFFICIAL: Coast Guard Second Class, First Class and Master Diver, Diving Medical Technician, Command Ashore device; Marine Private and Airman Basic (empty sleeve, E-1 wears no insignia); Army service stripes (example).
+- The earlier bad diver drawings were redrawn as a proper diving helmet and breastplate.
+- Text-only pages (marksmanship rules, airborne trim, where badges are worn) no longer show an "Image to add" box.
+- Still blank because no accurate source exists: 13 Air Force and Space Force duty badges (the 2020 dress manual has text only), Tomb Guard badge, several dress uniforms, Navy E-1, DWS, two ribbons.
+
 ## 0.18.6
 - 9 more pictures, each checked against its title (public domain, credited): Army Diver, Parachute Rigger and Space badges, Army Recruiting ribbon, Developmental Special Duty ribbon, Navy and Marine Corps Medal ribbon, Navy Chief and Master Chief cap devices, Army Blue Mess uniform.
 - Rejected after viewing: a female model for the male-officer NWU Type III page, an unconfirmed Air Force Academy badge, an unconfirmed Navy Good Conduct ribbon.

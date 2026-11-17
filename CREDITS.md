@@ -307,3 +307,11 @@ All from Wikimedia Commons, tagged public domain. The EOD Basic and Senior pictu
 | n-e7 | Cap device of a United States Navy chief petty officer (subdued).png | Public domain | https://commons.wikimedia.org/wiki/File:Cap_device_of_a_United_States_Navy_chief_petty_officer_(subdued).png |
 | n-e9 | Cap device of a United States Navy master chief petty officer (subdued).png | Public domain | https://commons.wikimedia.org/wiki/File:Cap_device_of_a_United_States_Navy_master_chief_petty_officer_(subdued).png |
 | u-mess-blue | US Army mess blue uniform (PSYOP officer branch color).jpg | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:US_Army_mess_blue_uniform_(PSYOP_officer_branch_color).jpg |
+| b-cg-diver2 | Own illustration (tools/make_illustrations.py) | CC0 | |
+| b-cg-diver1 | Own illustration (tools/make_illustrations.py) | CC0 | |
+| b-cg-masterdiver | Own illustration (tools/make_illustrations.py) | CC0 | |
+| b-cg-dmt | Own illustration (tools/make_illustrations.py) | CC0 | |
+| b-cg-cmdashore | Own illustration (tools/make_illustrations.py) | CC0 | |
+| mc-pvt | Own illustration (tools/make_illustrations.py) | CC0 | |
+| af-ab | Own illustration (tools/make_illustrations.py) | CC0 | |
+| r-service-stripes | Own illustration (tools/make_illustrations.py) | CC0 | |

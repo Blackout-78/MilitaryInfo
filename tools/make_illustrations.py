@@ -85,6 +85,55 @@ def eagle(cx,cy,s,color,dark):
     g+=f'<path d="M{cx-s*0.14},{cy-s*0.2} Q{cx},{cy-s*0.35} {cx+s*0.14},{cy-s*0.2} L{cx+s*0.2},{cy+s*0.35} L{cx+s*0.3},{cy+s*0.75} L{cx-s*0.3},{cy+s*0.75} L{cx-s*0.2},{cy+s*0.35} Z"/>'
     g+=f'<circle cx="{cx}" cy="{cy-s*0.4}" r="{s*0.15}"/><polygon points="{cx+s*0.12},{cy-s*0.42} {cx+s*0.3},{cy-s*0.35} {cx+s*0.12},{cy-s*0.3}" fill="{dark}"/>'
     return g+'</g>'
+
+def mk5(cx,cy,s,color,dark,mark=''):
+    """US Navy Mark V style dive helmet on a breastplate (front view)."""
+    g=f'<g fill="{color}" stroke="{dark}" stroke-width="2.5">'
+    # breastplate (broad shoulders, tapering) and bolts
+    g+=f'<path d="M{cx-s*0.95},{cy+s*0.05} Q{cx-s*0.95},{cy-s*0.12} {cx-s*0.5},{cy-s*0.12} L{cx+s*0.5},{cy-s*0.12} Q{cx+s*0.95},{cy-s*0.12} {cx+s*0.95},{cy+s*0.05} L{cx+s*0.62},{cy+s*0.78} L{cx-s*0.62},{cy+s*0.78} Z"/>'
+    for bx in (-0.72,-0.38,0.38,0.72): g+=f'<circle cx="{cx+bx*s}" cy="{cy+s*0.08}" r="{s*0.05}" fill="{dark}" stroke="none"/>'
+    # neck ring
+    g+=f'<ellipse cx="{cx}" cy="{cy-s*0.12}" rx="{s*0.55}" ry="{s*0.12}"/>'
+    # dome
+    g+=f'<path d="M{cx-s*0.5},{cy-s*0.14} L{cx-s*0.5},{cy-s*0.55} A{s*0.5},{s*0.55} 0 0 1 {cx+s*0.5},{cy-s*0.55} L{cx+s*0.5},{cy-s*0.14} Z"/>'
+    # top knob
+    g+=f'<rect x="{cx-s*0.1}" y="{cy-s*1.18}" width="{s*0.2}" height="{s*0.14}"/>'
+    # side windows
+    for sx in (-0.42,0.42): g+=f'<circle cx="{cx+sx*s}" cy="{cy-s*0.45}" r="{s*0.11}" fill="{dark}"/>'
+    # front window: ring + glass + guard bars
+    g+=f'<circle cx="{cx}" cy="{cy-s*0.45}" r="{s*0.27}"/><circle cx="{cx}" cy="{cy-s*0.45}" r="{s*0.18}" fill="{dark}"/>'
+    g+=f'<line x1="{cx-s*0.18}" y1="{cy-s*0.45}" x2="{cx+s*0.18}" y2="{cy-s*0.45}" stroke="{color}" stroke-width="2"/><line x1="{cx}" y1="{cy-s*0.63}" x2="{cx}" y2="{cy-s*0.27}" stroke="{color}" stroke-width="2"/>'
+    return g+'</g>'+mark
+def serpent(cx,cy,s,sgn,color,dark):
+    d=f'M{cx+sgn*s*0.1},{cy-s*0.9} q{sgn*s*0.45},{s*0.3} 0,{s*0.6} q{-sgn*s*0.45},{s*0.3} 0,{s*0.6} q{sgn*s*0.45},{s*0.3} 0,{s*0.6}'
+    return (f'<path d="{d}" fill="none" stroke="{dark}" stroke-width="{s*0.2}" stroke-linecap="round"/><path d="{d}" fill="none" stroke="{color}" stroke-width="{s*0.12}" stroke-linecap="round"/>'
+            f'<circle cx="{cx+sgn*s*0.1}" cy="{cy-s*0.92}" r="{s*0.11}" fill="{color}" stroke="{dark}" stroke-width="2"/>')
+def eagle2(cx,cy,s,color,dark):
+    """Eagle with spread wings and fanned tail, head turned to its right (viewer's left)."""
+    g=f'<g fill="{color}" stroke="{dark}" stroke-width="2">'
+    for sgn in (-1,1):
+        p=f'M{cx+sgn*s*0.14},{cy-s*0.22} Q{cx+sgn*s*0.7},{cy-s*0.85} {cx+sgn*s*1.25},{cy-s*0.45}'
+        tips=[(1.2,-0.22),(1.0,-0.05),(0.8,0.1),(0.6,0.22),(0.4,0.3)]
+        for i,(tx,ty) in enumerate(tips):
+            p+=f' L{cx+sgn*s*tx},{cy+s*ty} L{cx+sgn*s*(tx-0.1)},{cy+s*(ty-0.08)}'
+        p+=f' L{cx+sgn*s*0.16},{cy+s*0.1} Z'
+        g+=f'<path d="{p}"/>'
+    for k in (-0.2,-0.1,0,0.1,0.2):
+        g+=f'<rect x="{cx+k*s*1.5-s*0.05}" y="{cy+s*0.35}" width="{s*0.1}" height="{s*0.45}" rx="3"/>'
+    g+=f'<ellipse cx="{cx}" cy="{cy+s*0.1}" rx="{s*0.2}" ry="{s*0.38}"/>'
+    g+=f'<circle cx="{cx-s*0.04}" cy="{cy-s*0.4}" r="{s*0.14}"/><path d="M{cx-s*0.16},{cy-s*0.43} L{cx-s*0.34},{cy-s*0.33} L{cx-s*0.15},{cy-s*0.3} Z" fill="{dark}"/>'
+    return g+'</g>'
+def trident(x,y,h,color,dark):
+    return (f'<g stroke="{dark}" stroke-width="2" fill="none"><line x1="{x}" y1="{y}" x2="{x}" y2="{y-h}" stroke="{color}" stroke-width="5"/>'
+            f'<path d="M{x-h*0.22},{y-h*0.78} L{x-h*0.22},{y-h*0.98} M{x+h*0.22},{y-h*0.78} L{x+h*0.22},{y-h*0.98} M{x-h*0.22},{y-h*0.78} Q{x},{y-h*0.55} {x+h*0.22},{y-h*0.78} M{x},{y-h} L{x},{y-h*0.7}" stroke="{color}" stroke-width="5" stroke-linecap="round"/></g>')
+def seahorses2(cx,cy,s,color,dark):
+    g=''
+    for sgn in (-1,1):
+        x=cx+sgn*s*0.9
+        g+=f'<path d="M{x},{cy-s*0.8} q{-sgn*s*0.25},{s*0.2} 0,{s*0.5} q{sgn*s*0.3},{s*0.4} 0,{s*0.8} q{-sgn*s*0.2},{s*0.3} {-sgn*s*0.05},{s*0.5}" fill="none" stroke="{dark}" stroke-width="{s*0.26}" stroke-linecap="round"/>'
+        g+=f'<path d="M{x},{cy-s*0.8} q{-sgn*s*0.25},{s*0.2} 0,{s*0.5} q{sgn*s*0.3},{s*0.4} 0,{s*0.8} q{-sgn*s*0.2},{s*0.3} {-sgn*s*0.05},{s*0.5}" fill="none" stroke="{color}" stroke-width="{s*0.17}" stroke-linecap="round"/>'
+        g+=f'<circle cx="{x-sgn*s*0.1}" cy="{cy-s*0.85}" r="{s*0.15}" fill="{color}" stroke="{dark}" stroke-width="2"/>'
+    return g
 def oakwreath(cx,cy,r,color,dark,open_top=False,gold2=None):
     g=''
     for i in range(14):
@@ -136,6 +185,29 @@ D['m-dev-cg-m']=letter('M',200,125,150,GOLD)
 D['m-dev-hourglass']=hourglass(200,125,70,BRONZE,BRONZED)
 D['m-dev-arrowhead']=arrowhead(200,125,75,BRONZE,BRONZED)
 CAP={'m-dev-numeral':'numeral 2 (shape only; metal not shown)','m-dev-hourglass':'bronze hourglass (silver, gold also)','m-dev-campaign-star':'bronze star (also silver)','m-dev-star':'bronze star (also silver)','m-dev-star-silver':'silver star','m-dev-star516':'gold star (also silver)'}
+
+D['b-cg-diver2']=mk5(200,150,78,PEW,PEWD)
+D['b-cg-diver1']=serpent(112,150,70,-1,PEWL,PEWD)+serpent(288,150,70,1,PEWL,PEWD)+mk5(200,150,78,PEW,PEWD)
+D['b-cg-dmt']=seahorses2(200,175,64,PEWL,PEWD)+trident(178,100,70,PEWL,PEWD)+trident(222,100,70,PEWL,PEWD)+mk5(200,170,66,PEW,PEWD,caduceus(200,184,26,PEWD,PEWD))
+D['b-cg-cmdashore']=oakwreath(200,135,86,GOLD,GOLDD)+eagle2(200,128,52,SIL,PEWD)
+CAP['b-cg-diver2']='helmet and breastplate'
+
+KNOT=lambda cx,cy,s: f'<g fill="none" stroke="{PEWD}" stroke-width="3"><ellipse cx="{cx}" cy="{cy}" rx="{s*0.2}" ry="{s*0.11}"/><ellipse cx="{cx}" cy="{cy}" rx="{s*0.11}" ry="{s*0.2}"/></g>'
+D['b-cg-masterdiver']=seahorses2(200,175,64,PEWL,PEWD)+trident(178,100,70,PEWL,PEWD)+trident(222,100,70,PEWL,PEWD)+mk5(200,170,66,PEW,PEWD,KNOT(200,184,40))
+CAP['b-cg-masterdiver']='Diving Officer design, pewter'
+def sleeve(inner):
+    return f'<rect x="110" y="60" width="180" height="170" rx="10" fill="#26324a" stroke="#4a5c80" stroke-width="3" stroke-dasharray="8 6"/>'+inner
+D['mc-pvt']=sleeve(letter('NO INSIGNIA',200,145,21,'#9fb0c9'))
+D['af-ab']=sleeve(letter('NO INSIGNIA',200,145,21,'#9fb0c9'))
+CAP['mc-pvt']='E-1 wears no insignia'; CAP['af-ab']='E-1 wears no insignia'
+def stripes(n):
+    g=''
+    for i in range(n):
+        x=150+i*30
+        g+=f'<polygon points="{x},215 {x+14},215 {x+54},85 {x+40},85" fill="{GOLD}" stroke="{GOLDD}" stroke-width="2"/>'
+    return f'<rect x="110" y="60" width="180" height="170" rx="6" fill="#1f3a6e" stroke="#4a5c80" stroke-width="3"/>'+g
+D['r-service-stripes']=stripes(3)
+CAP['r-service-stripes']='example: 3 stripes = 9 years'
 if __name__=='__main__':
     for k,body in D.items():
         svg=card(body,(CAP.get(k)+' - ' if k in CAP else '')+ILL) if k in CAP else card(body,ILL)
