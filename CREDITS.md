@@ -392,3 +392,56 @@ All from Wikimedia Commons, tagged public domain. The EOD Basic and Senior pictu
 | u-af-aflc | USAF - Logistics Command.png | Public domain | https://commons.wikimedia.org/wiki/File:USAF_-_Logistics_Command.png |
 | u-af-atc | Air Training Command Emblem.png | Public domain | https://commons.wikimedia.org/wiki/File:Air_Training_Command_Emblem.png |
 | u-af-mats | Military Air Transport Service - Emblem.svg | Public domain | https://commons.wikimedia.org/wiki/File:Military_Air_Transport_Service_-_Emblem.svg |
+| u-ssi-82abn | 82nd Abn Div patch.jpg | Public domain | https://commons.wikimedia.org/wiki/File:82nd_Abn_Div_patch.jpg |
+| u-ssi-17abn | 17th Airborne Division.jpg | Public domain | https://commons.wikimedia.org/wiki/File:17th_Airborne_Division.jpg |
+| u-ssi-172ibde | 172nd Infantry Brigade SSI (1963-2015).png | Public domain | https://commons.wikimedia.org/wiki/File:172nd_Infantry_Brigade_SSI_(1963-2015).png |
+| u-ssi-6cavbde | 6th Cavalry Brigade SSI (1975-2015).png | Public domain | https://commons.wikimedia.org/wiki/File:6th_Cavalry_Brigade_SSI_(1975-2015).png |
+| u-ssi-16eng | 16th Engineer Brigade SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:16th_Engineer_Brigade_SSI.svg |
+| u-ssi-18eng | 18th Engineer Brigade SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:18th_Engineer_Brigade_SSI.svg |
+| u-ssi-411eng | 411th Engineer Brigade SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:411th_Engineer_Brigade_SSI.svg |
+| u-ssi-16mp | 16th Military Police Brigade SSI.png | Public domain | https://commons.wikimedia.org/wiki/File:16th_Military_Police_Brigade_SSI.png |
+| u-ssi-18mp | 18th Military Police Brigade SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:18th_Military_Police_Brigade_SSI.svg |
+| u-ssi-35mp | US Army 35th Military Police Brigade SSI.png | Public domain | https://commons.wikimedia.org/wiki/File:US_Army_35th_Military_Police_Brigade_SSI.png |
+| u-ssi-45sust | 45th Sustainment Brigade SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:45th_Sustainment_Brigade_SSI.svg |
+| u-ssi-55sust | 55th Sustainment Brigade SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:55th_Sustainment_Brigade_SSI.svg |
+| u-ssi-1med | 1 Medical Brigade SSI.png | Public domain | https://commons.wikimedia.org/wiki/File:1_Medical_Brigade_SSI.png |
+| u-ssi-5med | 5 Medical Brigade SSI.png | Public domain | https://commons.wikimedia.org/wiki/File:5_Medical_Brigade_SSI.png |
+| u-ssi-3sig | 3rd Signal Brigade shoulder sleeve insignia.png | Public domain | https://commons.wikimedia.org/wiki/File:3rd_Signal_Brigade_shoulder_sleeve_insignia.png |
+| u-ssi-79ibct | 79 Infantry Brigade Combat Team insignia.svg | Public domain | https://commons.wikimedia.org/wiki/File:79_Infantry_Brigade_Combat_Team_insignia.svg |
+| u-ssi-29ibde | 29th Infantry Brigade SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:29th_Infantry_Brigade_SSI.svg |
+| u-ssi-32ibde | 32nd Infantry Brigade SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:32nd_Infantry_Brigade_SSI.svg |
+| u-ssi-37ibde | 37th Infantry Brigade SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:37th_Infantry_Brigade_SSI.svg |
+| u-ssi-40ibct | 40th Infantry Brigade Combat Team SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:40th_Infantry_Brigade_Combat_Team_SSI.svg |
+| u-ssi-53ibde | 53rd Infantry Brigade SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:53rd_Infantry_Brigade_SSI.svg |
+| u-ssi-91cyber | US Army 91st Cyber Bde SSI.png | Public domain | https://commons.wikimedia.org/wiki/File:US_Army_91st_Cyber_Bde_SSI.png |
+| u-ssi-1sustcmd | 1st Sustainment Command SSI.png | Public domain | https://commons.wikimedia.org/wiki/File:1st_Sustainment_Command_SSI.png |
+| u-ssi-68med | 68th Medical Command SSI.png | Public domain | https://commons.wikimedia.org/wiki/File:68th_Medical_Command_SSI.png |
+| u-ssi-412eng | 412-Engineer-Command-SSI.png | Public domain | https://commons.wikimedia.org/wiki/File:412-Engineer-Command-SSI.png |
+| u-ssi-usasoc | U.S. Army Special Operations Command SSI (1989-2015).svg | Public domain | https://commons.wikimedia.org/wiki/File:U.S._Army_Special_Operations_Command_SSI_(1989-2015).svg |
+| u-af-naf-first | 1st Air Force.png | Public domain | https://commons.wikimedia.org/wiki/File:1st_Air_Force.png |
+| u-af-naf-second | Second Air Force - Emblem (USAF).png | Public domain | https://commons.wikimedia.org/wiki/File:Second_Air_Force_-_Emblem_(USAF).png |
+| u-af-naf-third | Third Air Force - Emblem.png | Public domain | https://commons.wikimedia.org/wiki/File:Third_Air_Force_-_Emblem.png |
+| u-af-naf-fourth | Fourth Air Force - Emblem.png | Public domain | https://commons.wikimedia.org/wiki/File:Fourth_Air_Force_-_Emblem.png |
+| u-af-naf-fifth | Fifth Air Force - Emblem.png | Public domain | https://commons.wikimedia.org/wiki/File:Fifth_Air_Force_-_Emblem.png |
+| u-af-naf-seventh | Seventh Air Force - Emblem.png | Public domain | https://commons.wikimedia.org/wiki/File:Seventh_Air_Force_-_Emblem.png |
+| u-af-naf-eighth | Eighth Air Force - Emblem.png | Public domain | https://commons.wikimedia.org/wiki/File:Eighth_Air_Force_-_Emblem.png |
+| u-af-naf-ninth | Ninth Air Force - Emblem.png | Public domain | https://commons.wikimedia.org/wiki/File:Ninth_Air_Force_-_Emblem.png |
+| u-af-naf-tenth | Tenth Air Force - Emblem.png | Public domain | https://commons.wikimedia.org/wiki/File:Tenth_Air_Force_-_Emblem.png |
+| u-af-naf-eleventh | Eleventh Air Force - Emblem.png | Public domain | https://commons.wikimedia.org/wiki/File:Eleventh_Air_Force_-_Emblem.png |
+| u-af-naf-thirteenth | Thirteenth Air Force - Emblem.png | Public domain | https://commons.wikimedia.org/wiki/File:Thirteenth_Air_Force_-_Emblem.png |
+| u-af-naf-fifteenth | 15th Air Force.png | Public domain | https://commons.wikimedia.org/wiki/File:15th_Air_Force.png |
+| u-af-naf-sixteenth | 16th Air Force.png | Public domain | https://commons.wikimedia.org/wiki/File:16th_Air_Force.png |
+| u-af-naf-seventeenth | Seventeenth Air Force - Emblem.png | Public domain | https://commons.wikimedia.org/wiki/File:Seventeenth_Air_Force_-_Emblem.png |
+| u-af-naf-eighteenth | Eighteenth Air Force - Emblem.png | Public domain | https://commons.wikimedia.org/wiki/File:Eighteenth_Air_Force_-_Emblem.png |
+| u-af-naf-nineteenth | Nineteenth Air Force - Emblem.png | Public domain | https://commons.wikimedia.org/wiki/File:Nineteenth_Air_Force_-_Emblem.png |
+| u-af-naf-twentieth | Twentieth Air Force - Emblem.png | Public domain | https://commons.wikimedia.org/wiki/File:Twentieth_Air_Force_-_Emblem.png |
+| u-af-naf-twsecond | Twenty-Second Air Force - Emblem.png | Public domain | https://commons.wikimedia.org/wiki/File:Twenty-Second_Air_Force_-_Emblem.png |
+| u-af-naf-twthird | Twenty-Third Air Force - Emblem.png | Public domain | https://commons.wikimedia.org/wiki/File:Twenty-Third_Air_Force_-_Emblem.png |
+| u-af-naf-twfourth | Twenty-Fourth Air Force - Emblem.png | Public domain | https://commons.wikimedia.org/wiki/File:Twenty-Fourth_Air_Force_-_Emblem.png |
+| u-af-naf-twelfth | 12THAF.png | Public domain | https://commons.wikimedia.org/wiki/File:12THAF.png |
+| u-cg-atlantic | Commander Atlantic Area Crest.png | Public domain | https://commons.wikimedia.org/wiki/File:Commander_Atlantic_Area_Crest.png |
+| u-cg-pacific | Emblem Coast Guard Pacific Area.svg | Public domain | https://commons.wikimedia.org/wiki/File:Emblem_Coast_Guard_Pacific_Area.svg |
+| u-cg-reserve | United States Coast Guard Reserve emblem.png | Public domain | https://commons.wikimedia.org/wiki/File:United_States_Coast_Guard_Reserve_emblem.png |
+| u-cg-aux | Seal of the United States Coast Guard Auxiliary.svg | Public domain | https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Coast_Guard_Auxiliary.svg |
+| u-sf-cspoc | CSpOC Patch.jpg | Public domain | https://commons.wikimedia.org/wiki/File:CSpOC_Patch.jpg |
+| u-sf-12sws | 12 SWS Emblem v2.jpg | Public domain | https://commons.wikimedia.org/wiki/File:12_SWS_Emblem_v2.jpg |

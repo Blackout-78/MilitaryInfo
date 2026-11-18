@@ -1,3 +1,8 @@
+## 0.21.0
+- Patches tab grows from 61 to 114 units: more Army brigades and commands (22), 19 Air Force numbered air forces, Coast Guard Atlantic and Pacific Areas, Reserve and Auxiliary, and two Space Force units.
+- Every picture was checked against its name. Entries whose source text described a different unit were removed (for example 56th Field Artillery Command, 44th Medical Command, Coast Guard districts).
+- Eras are estimated from the years in the source text. Entries with no year in the text are tagged Unverified.
+
 ## 0.20.0
 - Patches tab now has 61 units: 40 Army shoulder patches (divisions, armies, commands, Rangers, airborne), 3 Marine divisions, 18 Air Force major commands (current and former).
 - Every picture was checked against its name. Text comes from Wikipedia introductions, so the proof tag is Historical; 12 entries whose eras are not in the source text are Unverified.

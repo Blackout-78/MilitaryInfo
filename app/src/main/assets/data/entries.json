@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "0.20.0-patches-1",
+  "dataVersion": "0.21.0-patches-2",
   "entries": [
     {
       "id": "m-moh",
@@ -16397,9 +16397,11 @@
         "Army"
       ],
       "eras": [
+        "interwar",
         "ww2",
         "korea",
         "vietnam",
+        "coldwar",
         "gulf",
         "modern"
       ],
@@ -16433,7 +16435,9 @@
       ],
       "eras": [
         "ww1",
+        "interwar",
         "ww2",
+        "korea",
         "vietnam",
         "coldwar",
         "gulf",
@@ -16469,6 +16473,9 @@
       ],
       "eras": [
         "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 2nd Infantry Division (2ID, 2nd ID) (\"Indianhead\") is a formation of the United States Army. Since the 1960s, its primary mission has been the defense of South Korea in the event of an invasion from North Korea.",
@@ -16500,9 +16507,11 @@
         "Army"
       ],
       "eras": [
-        "ww1",
         "ww2",
         "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 3rd Infantry Division (3ID) (nicknamed Rock of the Marne) is a combined arms division of the United States Army based at Fort Stewart, Georgia. It is a subordinate unit of the XVIII Airborne Corps under U.S. Army Forces Command.",
@@ -16557,7 +16566,7 @@
       "sources": [
         "Wikipedia, \"4th Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -16572,6 +16581,10 @@
       ],
       "eras": [
         "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 25th Infantry Division (nicknamed \"Tropic Lightning\") is a United States Army division based at Schofield Barracks in Hawaii. The division, which was activated on 1 October 1941 in Hawaii, conducts military operations primarily in the Asia-Pacific region.",
@@ -16604,7 +16617,13 @@
       ],
       "eras": [
         "ww1",
-        "ww2"
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
       ],
       "summary": "The 29th Infantry Division (29th ID), also known as the \"Blue and Gray Division\", is an infantry division of the United States Army based at Fort Belvoir in Fairfax County, Virginia.",
       "facts": [
@@ -16635,8 +16654,11 @@
         "Army"
       ],
       "eras": [
-        "ww1",
         "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 30th Infantry Division was a United States Army unit of the National Guard that served in World War I and World War II. It was nicknamed the \"Old Hickory\" division, in honor of President Andrew Jackson. The Germans nicknamed this division \"Roosevelt's SS\".",
@@ -16669,6 +16691,7 @@
       ],
       "eras": [
         "ww1",
+        "interwar",
         "ww2"
       ],
       "summary": "The United States 32nd Infantry Division was formed from Army National Guard units from Wisconsin and Michigan and fought primarily during World War I and World War II.",
@@ -16719,7 +16742,7 @@
       "sources": [
         "Wikipedia, \"35th Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -16734,7 +16757,12 @@
       ],
       "eras": [
         "ww1",
+        "interwar",
         "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 42nd Infantry Division (42ID) (\"Rainbow\") is a division of the United States Army National Guard. It was nicknamed the Rainbow Division because, during rapid mobilization for service the First World War, it was formed from 27 National Guard units from across the US.",
@@ -16766,8 +16794,11 @@
         "Army"
       ],
       "eras": [
+        "interwar",
         "ww2",
-        "korea"
+        "korea",
+        "vietnam",
+        "coldwar"
       ],
       "summary": "The 45th Infantry Division was an infantry division of the United States Army, most associated with the Oklahoma Army National Guard, from 1920 to 1968. Headquartered for most of its history in Oklahoma City, Oklahoma, the guardsmen fought in both World War II and the Korean War.",
       "facts": [
@@ -16799,6 +16830,10 @@
       ],
       "eras": [
         "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 75th Innovation Command (75th IC) is a separate command of the United States Army Reserve. The 75th IC was activated as the 75th Infantry Division in World War II on April 15 1943.",
@@ -16830,8 +16865,7 @@
         "Army"
       ],
       "eras": [
-        "ww1",
-        "ww2"
+        "modern"
       ],
       "summary": "The 78th Training Division (Operations) (\"Lightning\") is a unit of the United States Army which served in World War I and World War II as the 78th Infantry Division, and currently trains and evaluates units of the United States Army Reserve for deployment.",
       "facts": [
@@ -16841,12 +16875,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "78th Infantry Division: army shoulder patches.",
       "image": "badges/u-ssi-78id.png",
       "sources": [
         "Wikipedia, \"78th Training Division\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -16889,8 +16924,6 @@
         "Army"
       ],
       "eras": [
-        "ww1",
-        "ww2",
         "modern"
       ],
       "summary": "The 83rd Infantry Division (\"Thunderbolt\") was a formation of the United States Army in World War I and World War II. Since 2014 the division's descendant is the 83rd United States Army Reserve Readiness Training Center (83rd USARRTC), United States Army Reserve, at Fort Knox, Kentucky.",
@@ -16920,8 +16953,12 @@
         "Army"
       ],
       "eras": [
-        "ww1",
-        "ww2"
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
       ],
       "summary": "The 88th Readiness Division is an administrative formation of the United States Army Reserve. It traces its history to the 88th Infantry Division, a infantry division of the United States Army that saw service in both World War I and World War II.",
       "facts": [
@@ -16952,8 +16989,7 @@
         "Army"
       ],
       "eras": [
-        "ww1",
-        "ww2"
+        "modern"
       ],
       "summary": "The 90th Infantry Division (\"Tough 'Ombres\") was a unit of the United States Army that served in World War I and World War II. Its lineage is carried on by the 90th Sustainment Brigade.",
       "facts": [
@@ -16963,12 +16999,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "90th Infantry Division: army shoulder patches.",
       "image": "badges/u-ssi-90id.png",
       "sources": [
         "Wikipedia, \"90th Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -16983,7 +17020,12 @@
       ],
       "eras": [
         "ww1",
+        "interwar",
         "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 96th Infantry Division was an infantry division of the United States Army. It was formed in 1918 and served in World War I and in the Pacific War during World War II. It was reformed after the war and was part of the United States Army Reserve until 1965.",
@@ -17010,13 +17052,12 @@
       "id": "u-ssi-100id",
       "tab": "patches",
       "group": "Army shoulder patches (SSI)",
-      "name": "100th Infantry Division",
+      "name": "100th Infantry Division (now 100th Training Division)",
       "branches": [
         "Army"
       ],
       "eras": [
-        "ww1",
-        "ww2"
+        "ww1"
       ],
       "summary": "The 100th Training Division (Leader Development) (formerly the 100th Infantry Division) is a division of the United States Army headquartered at Fort Knox, Kentucky. It currently serves as a major training command of the United States Army Reserve.",
       "facts": [
@@ -17029,7 +17070,7 @@
       "swatches": [],
       "attachments": [],
       "proof": "historical",
-      "remember": "100th Infantry Division: army shoulder patches.",
+      "remember": "100th Infantry Division (now 100th Training Division): army shoulder patches.",
       "image": "badges/u-ssi-100id.png",
       "sources": [
         "Wikipedia, \"100th Training Division\" (introduction text; a secondary source, not an official record)",
@@ -17077,7 +17118,8 @@
         "Army"
       ],
       "eras": [
-        "ww2"
+        "ww2",
+        "coldwar"
       ],
       "summary": "The 13th Airborne Division was an airborne forces formation of division-size of the United States Army that was active during World War II. The division was commanded for most of its existence by Major General Elbridge G. Chapman.",
       "facts": [
@@ -17108,7 +17150,7 @@
         "Army"
       ],
       "eras": [
-        "ww2"
+        "modern"
       ],
       "summary": "The 6th Armored Division (\"Super Sixth\") was an armored division of the United States Army during World War II. It was formed with a cadre from the 2nd Armored Division.",
       "facts": [
@@ -17118,12 +17160,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "6th Armored Division: army shoulder patches.",
       "image": "badges/u-ssi-6ad.png",
       "sources": [
         "Wikipedia, \"6th Armored Division (United States)\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17168,7 +17211,7 @@
         "Army"
       ],
       "eras": [
-        "ww2"
+        "modern"
       ],
       "summary": "The 14th Armored Division was an armored division of the United States Army assigned to the Seventh Army of the Sixth Army Group during World War II. It remains on the permanent roll of the Regular Army as an inactive division, and is eligible for reactivation.",
       "facts": [
@@ -17179,12 +17222,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "14th Armored Division: army shoulder patches.",
       "image": "badges/u-ssi-14ad.png",
       "sources": [
         "Wikipedia, \"14th Armored Division (United States)\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17198,7 +17242,10 @@
         "Army"
       ],
       "eras": [
-        "ww2"
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar"
       ],
       "summary": "The 20th Armored Division was an armored division of the United States Army that fought in World War II. It was activated on 15 March 1943 at Camp Campbell in Kentucky.",
       "facts": [
@@ -17224,13 +17271,19 @@
       "id": "u-ssi-173abn",
       "tab": "patches",
       "group": "Army shoulder patches (SSI)",
-      "name": "173rd Airborne Brigade",
+      "name": "173rd Airborne Brigade (Sky Soldiers)",
       "branches": [
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
         "ww2",
-        "vietnam"
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
       ],
       "summary": "The 173rd Mobile Brigade Combat Team (Airborne) (\"Sky Soldiers\") is an airborne mobile Brigade Combat Team (MBCT) of the United States Army based in Vicenza, Italy. It is the United States European Command's conventional airborne strategic response force for Europe.",
       "facts": [
@@ -17243,7 +17296,7 @@
       "swatches": [],
       "attachments": [],
       "proof": "historical",
-      "remember": "173rd Airborne Brigade: army shoulder patches.",
+      "remember": "173rd Airborne Brigade (Sky Soldiers): army shoulder patches.",
       "image": "badges/u-ssi-173abn.png",
       "sources": [
         "Wikipedia, \"173rd Airborne Brigade\" (introduction text; a secondary source, not an official record)",
@@ -17353,7 +17406,6 @@
         "Army"
       ],
       "eras": [
-        "ww2",
         "modern"
       ],
       "summary": "Sixth Army is a theater army of the United States Army. The Army service component command of United States Southern Command, its area of responsibility includes 31 countries and 15 areas of special sovereignty in Central and South America and the Caribbean. It is headquartered at Fort Sam Houston.",
@@ -17436,7 +17488,7 @@
       "sources": [
         "Wikipedia, \"United States Army Japan\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17450,6 +17502,9 @@
         "Army"
       ],
       "eras": [
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The United States Army Forces Command (FORSCOM) was the largest command of the United States Army. It provided land forces to the Department of Defense's unified combatant commands. FORSCOM was headquartered at Fort Bragg, North Carolina, and consisted of more than 750,000 active Army, U.S.",
@@ -17563,7 +17618,7 @@
       "sources": [
         "Wikipedia, \"United States Army Recruiting Command\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17597,7 +17652,7 @@
       "sources": [
         "Wikipedia, \"United States Army Parachute Team\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17611,8 +17666,9 @@
         "Army"
       ],
       "eras": [
-        "ww1",
         "ww2",
+        "korea",
+        "vietnam",
         "coldwar"
       ],
       "summary": "The United States Army Security Agency (ASA) was the United States Army's signals intelligence branch from 1945 to 1987.",
@@ -17697,7 +17753,7 @@
       "sources": [
         "Wikipedia, \"1st Marine Division\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17711,8 +17767,7 @@
         "Marine Corps"
       ],
       "eras": [
-        "ww2",
-        "vietnam"
+        "modern"
       ],
       "summary": "The 3rd Marine Division is a division of the United States Marine Corps based at Camp Courtney, Marine Corps Base Camp Smedley D. Butler in Okinawa, Japan.",
       "facts": [
@@ -17723,12 +17778,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "3rd Marine Division: marine corps division insignia.",
       "image": "badges/u-mc-3mardiv.png",
       "sources": [
         "Wikipedia, \"3rd Marine Division\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17743,6 +17799,9 @@
       ],
       "eras": [
         "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
         "gulf",
         "modern"
       ],
@@ -17821,7 +17880,7 @@
       "sources": [
         "Wikipedia, \"Air Education and Training Command\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17835,7 +17894,7 @@
         "Air Force"
       ],
       "eras": [
-        "coldwar"
+        "modern"
       ],
       "summary": "The Air Force Global Strike Command (AFGSC) is a major command (MAJCOM) of the United States Air Force, headquartered at Barksdale Air Force Base, Louisiana. AFGSC provides combat-ready forces to conduct strategic nuclear deterrence and global strike operations in support of combatant commanders.",
       "facts": [
@@ -17846,12 +17905,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Air Force Global Strike Command (AFGSC): air force major commands.",
       "image": "badges/u-af-afgsc.png",
       "sources": [
         "Wikipedia, \"Air Force Global Strike Command\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17882,7 +17942,7 @@
       "sources": [
         "Wikipedia, \"Air Force Materiel Command\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17913,7 +17973,7 @@
       "sources": [
         "Wikipedia, \"United States Air Force Reserve\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17927,7 +17987,10 @@
         "Air Force"
       ],
       "eras": [
-        "vietnam"
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
       ],
       "summary": "Air Force Special Operations Command (AFSOC), headquartered at Hurlburt Field, Florida, is the special operations component of the United States Air Force. An Air Force major command (MAJCOM), AFSOC is also the U.S.",
       "facts": [
@@ -17957,7 +18020,11 @@
         "Air Force"
       ],
       "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
         "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The Air Mobility Command (AMC) is a major command (MAJCOM) of the U.S. Air Force. It is headquartered at Scott Air Force Base, Illinois, east of St. Louis, Missouri, near Mascoutah, Illinois.",
@@ -17988,8 +18055,6 @@
         "Air Force"
       ],
       "eras": [
-        "vietnam",
-        "gulf",
         "modern"
       ],
       "summary": "The Pacific Air Forces (PACAF) is a major command (MAJCOM) of the United States Air Force and is also the air component command of the United States Indo-Pacific Command (USINDOPACOM).",
@@ -18001,12 +18066,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Pacific Air Forces (PACAF): air force major commands.",
       "image": "badges/u-af-pacaf.png",
       "sources": [
         "Wikipedia, \"Pacific Air Forces\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18021,6 +18087,10 @@
       ],
       "eras": [
         "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The United States Air Forces in Europe – Air Forces Africa (USAFE-AFAFRICA) is a major command (MAJCOM) of the United States Air Force (USAF) and a component command of both United States European Command (USEUCOM) and United States Africa Command (USAFRICOM).",
@@ -18072,7 +18142,7 @@
       "sources": [
         "Wikipedia, \"Air National Guard\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18086,7 +18156,11 @@
         "Air Force"
       ],
       "eras": [
-        "coldwar"
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
       ],
       "summary": "Strategic Air Command (SAC) was a Cold War-era United States Department of Defense Specified Command and a United States Air Force (USAF) Major Command (MAJCOM) responsible for command and control of the strategic bomber and intercontinental ballistic missile (ICBM) components of the United States ...",
       "facts": [
@@ -18116,7 +18190,11 @@
         "Air Force"
       ],
       "eras": [
-        "ww2"
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
       ],
       "summary": "Tactical Air Command (TAC) is an inactive United States Air Force organization. It was a major command of the United States Air Force, established on 21 March 1946 and headquartered at Langley Air Force Base, Virginia.",
       "facts": [
@@ -18147,6 +18225,10 @@
       ],
       "eras": [
         "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The Military Airlift Command (MAC) is an inactive United States Air Force major command (MAJCOM) that was headquartered at Scott Air Force Base, Illinois.",
@@ -18196,7 +18278,7 @@
       "sources": [
         "Wikipedia, \"Aerospace Defense Command\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18228,7 +18310,7 @@
       "sources": [
         "Wikipedia, \"Air Force Systems Command\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18259,7 +18341,7 @@
       "sources": [
         "Wikipedia, \"Air Materiel Command\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18273,8 +18355,11 @@
         "Air Force"
       ],
       "eras": [
-        "ww2",
-        "coldwar"
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
       ],
       "summary": "The Air Training Command (ATC) is a former United States Air Force (USAF) Major Command designation. It was headquartered at Randolph Air Force Base, Texas, but was initially formed at Barksdale Air Force Base, Louisiana.",
       "facts": [
@@ -18304,7 +18389,12 @@
         "Air Force"
       ],
       "eras": [
-        "ww2"
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
       ],
       "summary": "The Military Air Transport Service (MATS) is an inactive Department of Defense Unified Command. Activated on 1 June 1948, MATS was a consolidation of the United States Navy's Naval Air Transport Service (NATS) and the United States Air Force's Air Transport Command (ATC) into a single joint command.",
       "facts": [
@@ -18321,6 +18411,1737 @@
       "sources": [
         "Wikipedia, \"Military Air Transport Service\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-82abn",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "82nd Airborne Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The 82nd Airborne Division (\"All American\") is a United States Army airborne infantry division that specializes in parachute assault, based in Fort Bragg, North Carolina. Currently, the division is commanded by Major General Brandon Tegtmeier.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "It was first activated at Camp Gordon, in Georgia in August 1917.",
+        "The 82nd Infantry Division was the second United States Army infantry-combat division of eight to deploy and return in England, and fight in France.",
+        "Picture file on Wikimedia Commons: 82nd Abn Div patch.jpg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "82nd Airborne Division: army shoulder patches.",
+      "image": "badges/u-ssi-82abn.png",
+      "sources": [
+        "Wikipedia, \"82nd Airborne Division\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-17abn",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "17th Airborne Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2"
+      ],
+      "summary": "The 17th Airborne Division, \"The Golden Talons\", was an airborne infantry division of the United States Army during World War II, commanded by Major General William M. Miley. Activated in April 1943, the division took part in the Knollwood Maneuver and other exercises that helped ensure that the ...",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Miley.",
+        "Activated in April 1943, the division took part in the Knollwood Maneuver and other exercises that helped ensure that the U.S.",
+        "Picture file on Wikimedia Commons: 17th Airborne Division.jpg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "17th Airborne Division: army shoulder patches.",
+      "image": "badges/u-ssi-17abn.png",
+      "sources": [
+        "Wikipedia, \"17th Airborne Division\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-172ibde",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "172nd Infantry Brigade",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The 172nd Infantry Brigade was a light infantry brigade of the United States Army stationed at Fort Wainwright, Alaska and later moved its headquarters to Grafenwöhr, Germany.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "An active duty independent brigade, it was part of V Corps and was one of five active-duty, separate, brigade combat teams in the U.S.",
+        "Army before its most recent inactivation on 31 May 2013.",
+        "Picture file on Wikimedia Commons: 172nd Infantry Brigade SSI (1963-2015).png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "172nd Infantry Brigade: army shoulder patches.",
+      "image": "badges/u-ssi-172ibde.png",
+      "sources": [
+        "Wikipedia, \"172nd Infantry Brigade (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-6cavbde",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "6th Cavalry Brigade",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The 6th Cavalry Brigade was a tactical formation of the United States Army which served in the Second World War before being disbanded following the end of the Cold War.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Picture file on Wikimedia Commons: 6th Cavalry Brigade SSI (1975-2015).png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "6th Cavalry Brigade: army shoulder patches.",
+      "image": "badges/u-ssi-6cavbde.png",
+      "sources": [
+        "Wikipedia, \"6th Cavalry Brigade (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-16eng",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "16th Engineer Brigade",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The 16th Engineer Brigade is a combat engineer brigade of the United States Army National Guard of Ohio. The brigade is responsible for a number of units throughout Ohio, most of which are also combat engineer units.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Picture file on Wikimedia Commons: 16th Engineer Brigade SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "16th Engineer Brigade: army shoulder patches.",
+      "image": "badges/u-ssi-16eng.png",
+      "sources": [
+        "Wikipedia, \"16th Engineer Brigade\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-18eng",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "18th Engineer Brigade",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The 18th Engineer Brigade (Theater Army) was an engineer brigade of the United States Army. It was a subordinate unit of 21st Sustainment Command (Theater) and was last headquartered at Conn Barracks in Schweinfurt, Germany.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Soldiers of the 18th Engineer Brigade provided various supportive duties to other Army units, including construction, engineering, and mechanical work on other Army projects.",
+        "On 16 May 2014, the 18th Engineer Brigade was inactivated in Schweinfurt, Germany.",
+        "Picture file on Wikimedia Commons: 18th Engineer Brigade SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "18th Engineer Brigade: army shoulder patches.",
+      "image": "badges/u-ssi-18eng.png",
+      "sources": [
+        "Wikipedia, \"18th Engineer Brigade\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-411eng",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "411th Engineer Brigade",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The 411th Engineer Brigade (Theater Army) is a combat engineer brigade of the United States Army headquartered in New Windsor, New York. It is a major engineer command of the United States Army Reserve.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Tracing its lineage back to the 355th Engineer Regiment, the brigade assumed its predecessor's campaign participation credit and honors, which were received fighting in the European Theater of World War II.",
+        "The reserve brigade did not participate in any Cold War era fighting, and only saw periodic moves to various army bases around New York State.",
+        "Picture file on Wikimedia Commons: 411th Engineer Brigade SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "411th Engineer Brigade: army shoulder patches.",
+      "image": "badges/u-ssi-411eng.png",
+      "sources": [
+        "Wikipedia, \"411th Engineer Brigade (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-16mp",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "16th Military Police Brigade",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The 16th Military Police Brigade is a military police brigade of the United States Army headquartered at Fort Bragg, North Carolina. This brigade was the only airborne-qualified military police units in the U.S. Army, outside of the former 82nd MP Company of the 82nd Airborne Division.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "It provides security and protection support the XVIII Airborne Corps when deployed.",
+        "As a brigade with organic airborne units, it is authorized a beret flash and parachute wing trimming, and the shoulder sleeve insignia was authorized to be worn with an airborne tab.",
+        "Picture file on Wikimedia Commons: 16th Military Police Brigade SSI.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "16th Military Police Brigade: army shoulder patches.",
+      "image": "badges/u-ssi-16mp.png",
+      "sources": [
+        "Wikipedia, \"16th Military Police Brigade\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-18mp",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "18th Military Police Brigade",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The 18th Military Police Brigade is a military police brigade of the United States Army based in Vilseck, Germany, with subordinate battalions and companies stationed throughout Germany. It provides law enforcement and force protection duties to United States Army Europe.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Activated during the Vietnam War, the Brigade oversaw all Military Police operations in the country for a large portion of the conflict, undertaking a wide variety of missions throughout the country and providing command and ...",
+        "After Vietnam, the Brigade deployed units to several other operations, namely Operation Desert Storm and Operation Provide Comfort.",
+        "Picture file on Wikimedia Commons: 18th Military Police Brigade SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "18th Military Police Brigade: army shoulder patches.",
+      "image": "badges/u-ssi-18mp.png",
+      "sources": [
+        "Wikipedia, \"18th Military Police Brigade\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-35mp",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "35th Military Police Brigade",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The 35th Military Police Brigade (Combat Support) is a unit of the Missouri Army National Guard, located at Jefferson Barracks, Missouri.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Activated in September 2020, the brigade provides command and control of the state’s major military police formations, including the 175th and 205th Military Police Battalions.",
+        "With the formation as of 2020, this combines all Military Police Battalions of the Missouri Guard into one Combat Support Brigade.",
+        "Picture file on Wikimedia Commons: US Army 35th Military Police Brigade SSI.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "35th Military Police Brigade: army shoulder patches.",
+      "image": "badges/u-ssi-35mp.png",
+      "sources": [
+        "Wikipedia, \"35th Military Police Brigade\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-45sust",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "45th Sustainment Brigade",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The 45th Sustainment Brigade was a sustainment brigade of the United States Army based at Schofield Barracks, Hawaii. The 45th SB was directly subordinate to the 8th Theater Sustainment Command until 2015 when the Army aligned sustainment brigades to major divisions.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "The 45th SB was then re-designated to the 25th Sustainment Brigade, with the 25th Infantry Division obtaining complete administrative and operational control.",
+        "Picture file on Wikimedia Commons: 45th Sustainment Brigade SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "45th Sustainment Brigade: army shoulder patches.",
+      "image": "badges/u-ssi-45sust.png",
+      "sources": [
+        "Wikipedia, \"45th Sustainment Brigade\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-55sust",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "55th Sustainment Brigade",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The 55th Sustainment Brigade is a sustainment brigade of the United States Army Reserve. It is located at Fort Belvoir, Virginia. Activated in March 2006, the unit has served at least one tour in Iraq and Afghanistan.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "The 55th Sustainment Brigade was established in September 2006 from the 55th Theater Material Management Center.",
+        "The mission of the brigade is to provide command and control for all subordinate units, and provide sustainment in an area of operations as defined by the ESC/TSC.",
+        "Picture file on Wikimedia Commons: 55th Sustainment Brigade SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "55th Sustainment Brigade: army shoulder patches.",
+      "image": "badges/u-ssi-55sust.png",
+      "sources": [
+        "Wikipedia, \"55th Sustainment Brigade\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-1med",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "1st Medical Brigade",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The 1st Medical Brigade is a medical brigade of the United States Army. It is located at Fort Hood, Texas, providing health care and medical services to the Fort Hood community, and continuing training in its combat support mission.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Picture file on Wikimedia Commons: 1 Medical Brigade SSI.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "1st Medical Brigade: army shoulder patches.",
+      "image": "badges/u-ssi-1med.png",
+      "sources": [
+        "Wikipedia, \"1st Medical Brigade\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-5med",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "5th Medical Brigade",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The 5th Medical Brigade is a medical brigade of the United States Army Reserve subordinate to the 3rd Medical Command and headquartered in Birmingham, Alabama.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Picture file on Wikimedia Commons: 5 Medical Brigade SSI.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "5th Medical Brigade: army shoulder patches.",
+      "image": "badges/u-ssi-5med.png",
+      "sources": [
+        "Wikipedia, \"5th Medical Brigade\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-3sig",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "3rd Signal Brigade",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The 3rd Signal Brigade of the United States Army was an element of III Corps. It was based at Fort Hood, Texas, but was inactivated on 15 April 2008 as part of the transformation of the U.S. Army to a Modular Force Structure.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "The 3rd Signal Brigade has a history of inactivations and reactivations ever since formation of the unit in 1946.",
+        "The 3rd Signal Brigade was composed of the Brigade's Headquarters and Headquarters Company & the 57th Signal Battalion.",
+        "Picture file on Wikimedia Commons: 3rd Signal Brigade shoulder sleeve insignia.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "3rd Signal Brigade: army shoulder patches.",
+      "image": "badges/u-ssi-3sig.png",
+      "sources": [
+        "Wikipedia, \"3rd Signal Brigade\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-79ibct",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "79th Infantry Brigade Combat Team",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The 79th Infantry Brigade Combat Team is a modular infantry brigade of the United States Army and the California Army National Guard.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Formed in 1917 from units of the San Diego City Guard, it served on the Western Front in the First World War and was disbanded in 1919, a year after the conflict ended.",
+        "It was active again from 1921 to 1942 during the early days of the Second World War, and from that point onward remained dormant.",
+        "Picture file on Wikimedia Commons: 79 Infantry Brigade Combat Team insignia.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "79th Infantry Brigade Combat Team: army shoulder patches.",
+      "image": "badges/u-ssi-79ibct.png",
+      "sources": [
+        "Wikipedia, \"79th Infantry Brigade Combat Team\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-29ibde",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "29th Infantry Brigade Combat Team",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The 29th Infantry Brigade Combat Team is an infantry brigade combat team of the United States Army National Guard of Hawaii. It traces its origins to the 29th Infantry Brigade (Separate) originally formed in the Hawaii Army National Guard in 1959.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "The current name and Table of Organisation and Equipment, adopting the new \"Brigade Combat Team\" structure, was adopted in 2006.",
+        "Picture file on Wikimedia Commons: 29th Infantry Brigade SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "29th Infantry Brigade Combat Team: army shoulder patches.",
+      "image": "badges/u-ssi-29ibde.png",
+      "sources": [
+        "Wikipedia, \"29th Infantry Brigade Combat Team\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-32ibde",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "32nd Infantry Brigade Combat Team",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The 32nd Infantry Brigade Combat Team (\"Red Arrow\") is an infantry brigade combat team (IBCT) in the United States Army National Guard. It was formed from the inactivated 32nd Infantry Division in 1967. It is the largest unit in the Wisconsin Army National Guard.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Picture file on Wikimedia Commons: 32nd Infantry Brigade SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "32nd Infantry Brigade Combat Team: army shoulder patches.",
+      "image": "badges/u-ssi-32ibde.png",
+      "sources": [
+        "Wikipedia, \"32nd Infantry Brigade Combat Team\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-37ibde",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "37th Infantry Brigade Combat Team",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The 37th Infantry Brigade Combat Team (Buckeye) is an infantry brigade combat team of the United States Army National Guard with the brigade headquarters, cavalry squadron, field artillery battalion, engineer battalion, one infantry battalion, and support battalion stationed in Ohio, one infantry ...",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "The headquarters of the 37th IBCT traces its lineage and honors back to the headquarters of the 37th Infantry Division.",
+        "Picture file on Wikimedia Commons: 37th Infantry Brigade SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "37th Infantry Brigade Combat Team: army shoulder patches.",
+      "image": "badges/u-ssi-37ibde.png",
+      "sources": [
+        "Wikipedia, \"37th Infantry Brigade Combat Team\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-40ibct",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "40th Infantry Brigade Combat Team",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The 40th Infantry Brigade Combat Team was an infantry brigade of the United States Army National Guard in the state of California.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Picture file on Wikimedia Commons: 40th Infantry Brigade Combat Team SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "40th Infantry Brigade Combat Team: army shoulder patches.",
+      "image": "badges/u-ssi-40ibct.png",
+      "sources": [
+        "Wikipedia, \"40th Infantry Brigade Combat Team\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-53ibde",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "53rd Infantry Brigade Combat Team",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The 53rd Infantry Brigade Combat Team is an infantry brigade combat team of the Florida Army National Guard. The 53rd Infantry Brigade is the largest National Guard unit in the state of Florida.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "The brigade was one of fifteen enhanced readiness brigades, designed and trained to support active duty divisions.",
+        "The brigade includes 32 units in Florida and Alabama with 4,166 authorized personnel.",
+        "Picture file on Wikimedia Commons: 53rd Infantry Brigade SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "53rd Infantry Brigade Combat Team: army shoulder patches.",
+      "image": "badges/u-ssi-53ibde.png",
+      "sources": [
+        "Wikipedia, \"53rd Infantry Brigade Combat Team\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-91cyber",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "91st Cyber Brigade",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The 91st Cyber Brigade the \"Shadow Brigade\" is a unit of the Army National Guard since September 2017 stationed at Fort Belvoir, Va. The Brigade's mission is to provide training and readiness in cyber security and operational control in the cyber realm.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "In March 2025, the brigade direct commissioned Robert M.",
+        "Lee (CEO and co-founder of Dragos) at the rank of Lieutenant Colonel in the billet of executive officer of the Information Operations Support Center at Fort Belvoir similar to the Detachment 201 commissioning ceremony in June ...",
+        "Picture file on Wikimedia Commons: US Army 91st Cyber Bde SSI.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "91st Cyber Brigade: army shoulder patches.",
+      "image": "badges/u-ssi-91cyber.png",
+      "sources": [
+        "Wikipedia, \"91st Cyber Brigade\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-1sustcmd",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "1st Sustainment Command (Theater)",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The 1st Theater Sustainment Command (1st TSC) is a major subordinate unit of United States Army Central at Fort Knox, Kentucky, United States.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Picture file on Wikimedia Commons: 1st Sustainment Command SSI.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "1st Sustainment Command (Theater): army shoulder patches.",
+      "image": "badges/u-ssi-1sustcmd.png",
+      "sources": [
+        "Wikipedia, \"1st Theater Sustainment Command\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-68med",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "68th Medical Command",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The 68th Theater Medical Command (68 TMC) was constituted on 18 October 1927 in the US Regular Army as the 18th Medical Regiment.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Redesignated as the 68th Medical Regiment and reorganized as the 68th Medical Group, the organization served in combat in Europe in World War II and in the Republic of Vietnam.",
+        "During the Cold War, it was stationed at Fort George G.",
+        "Picture file on Wikimedia Commons: 68th Medical Command SSI.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "68th Medical Command: army shoulder patches.",
+      "image": "badges/u-ssi-68med.png",
+      "sources": [
+        "Wikipedia, \"68th Theater Medical Command\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-412eng",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "412th Theater Engineer Command",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The 412th Theater Engineer Command (412th TEC), previously the 372nd Engineer General Service Regiment, is a United States Army Reserve unit that conducts theater-level engineer operations for Eighth U.S. Army, Korea; U.S. Army Europe; and U.S.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Army Pacific, supports continental U.S. – based engineer requirements as directed, and is prepared to participate in Joint and Combined regional contingency operations.",
+        "Picture file on Wikimedia Commons: 412-Engineer-Command-SSI.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "412th Theater Engineer Command: army shoulder patches.",
+      "image": "badges/u-ssi-412eng.png",
+      "sources": [
+        "Wikipedia, \"412th Engineer Command (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-usasoc",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "U.S. Army Special Operations Command (1989-2015 design)",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The United States Army Special Operations Command (Airborne) (USASOC) is the command charged with overseeing the various special operations forces of the United States Army. Headquartered at Fort Bragg, North Carolina, it is the largest component of the United States Special Operations Command.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "It is an Army Service Component Command.",
+        "Its mission is to organize, train, educate, man, equip, fund, administer, mobilize, deploy and sustain Army special operations forces to successfully conduct worldwide special operations.",
+        "Picture file on Wikimedia Commons: U.S. Army Special Operations Command SSI (1989-2015).svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "U.S. Army Special Operations Command (1989-2015 design): army shoulder patches.",
+      "image": "badges/u-ssi-usasoc.png",
+      "sources": [
+        "Wikipedia, \"United States Army Special Operations Command\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-naf-first",
+      "tab": "patches",
+      "group": "Air Force numbered air forces",
+      "name": "First Air Force",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The First Air Force (Air Forces Northern & Air Forces Space; 1 AF-AFNORTH & AFSPACE) is a numbered air force of the U.S. Air Force Air Combat Command (ACC). It is headquartered at Tyndall Air Force Base, Florida.",
+      "facts": [
+        "Its primary mission is the air defense of the Contiguous United States (CONUS), United States Virgin Islands and Puerto Rico.",
+        "Since May 2022, it also provides the Air Force contribution to United States Space Command, as Air Forces Space (AFSPACE), including support functions for NASA human space flight.",
+        "Picture file on Wikimedia Commons: 1st Air Force.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "First Air Force: air force numbered air forces.",
+      "image": "badges/u-af-naf-first.png",
+      "sources": [
+        "Wikipedia, \"First Air Force\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-naf-second",
+      "tab": "patches",
+      "group": "Air Force numbered air forces",
+      "name": "Second Air Force",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The Second Air Force (2 AF; 2d Air Force in 1942) is a USAF numbered air force responsible for conducting basic military and technical training for Air Force enlisted members and non-flying officers.",
+      "facts": [
+        "In World War II the CONUS unit defended the Northwestern United States and Upper Great Plains regions and during the Cold War, was Strategic Air Command unit with strategic bombers and missiles.",
+        "Elements of Second Air Force engaged in combat operations during the Korean War; Vietnam War, as well as Operation Desert Storm.",
+        "Picture file on Wikimedia Commons: Second Air Force - Emblem (USAF).png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Second Air Force: air force numbered air forces.",
+      "image": "badges/u-af-naf-second.png",
+      "sources": [
+        "Wikipedia, \"Second Air Force\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-naf-third",
+      "tab": "patches",
+      "group": "Air Force numbered air forces",
+      "name": "Third Air Force",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The Third Air Force (Air Forces Europe) (3 AF) is a numbered air force of the United States Air Forces in Europe - Air Forces Africa (USAFE-AFAFRICA). Its headquarters is Ramstein Air Base, Germany.",
+      "facts": [
+        "It is responsible for all U.S. air forces in Europe and Africa, and operations and support activities in the U.S.",
+        "European Command and U.S.",
+        "Picture file on Wikimedia Commons: Third Air Force - Emblem.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Third Air Force: air force numbered air forces.",
+      "image": "badges/u-af-naf-third.png",
+      "sources": [
+        "Wikipedia, \"Third Air Force\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-naf-fourth",
+      "tab": "patches",
+      "group": "Air Force numbered air forces",
+      "name": "Fourth Air Force",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The Fourth Air Force (4 AF) is a numbered air force of the Air Force Reserve Command (AFRC). It is headquartered at March Air Reserve Base, California. 4 AF directs the activities and supervises the training of more than 30,000 Air Force Reservists.",
+      "facts": [
+        "If called to active duty, 4 AF's ready reserve units would be assigned to Air Mobility Command, Air Education and Training Command, and Pacific Air Forces.",
+        "Several airfields are associated with the Fourth Air Force.",
+        "Picture file on Wikimedia Commons: Fourth Air Force - Emblem.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Fourth Air Force: air force numbered air forces.",
+      "image": "badges/u-af-naf-fourth.png",
+      "sources": [
+        "Wikipedia, \"Fourth Air Force\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-naf-fifth",
+      "tab": "patches",
+      "group": "Air Force numbered air forces",
+      "name": "Fifth Air Force",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The Fifth Air Force (5 AF) is a numbered Air Force of the United States Air Force Pacific Air Forces (PACAF). Founded in September 1941 and headquartered at Yokota Air Base, Japan, it is the service’s oldest continuously serving numbered Air Force.",
+      "facts": [
+        "Fifth Air Force is the Headquarters Pacific Air Forces forward element in Japan and the air component to United States Forces Japan.",
+        "It plans, conducts, controls, and coordinates air operations assigned by the PACAF commander.",
+        "Picture file on Wikimedia Commons: Fifth Air Force - Emblem.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Fifth Air Force: air force numbered air forces.",
+      "image": "badges/u-af-naf-fifth.png",
+      "sources": [
+        "Wikipedia, \"Fifth Air Force\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-naf-seventh",
+      "tab": "patches",
+      "group": "Air Force numbered air forces",
+      "name": "Seventh Air Force",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The Seventh Air Force (Air Forces Korea) (7 AF) is a Numbered Air Force of the United States Pacific Air Forces (PACAF). It is headquartered at Osan Air Base, South Korea. The command's mission is to plan and direct air component operations in the Republic of Korea and in the Northwest Pacific.",
+      "facts": [
+        "Established on 19 October 1940 as the Hawaiian Air Force at Fort Shafter, Territory of Hawaii, the 7 AF was a United States Army Air Forces combat unit in the Pacific Theater of World War II, providing air defense of the Hawaiian ...",
+        "It was assigned units engaging enemy forces in the Gilbert Islands; Marshall Islands; Caroline Islands; Mariana Islands, and in the last major battle of the Pacific War, the Battle of Okinawa.",
+        "Picture file on Wikimedia Commons: Seventh Air Force - Emblem.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Seventh Air Force: air force numbered air forces.",
+      "image": "badges/u-af-naf-seventh.png",
+      "sources": [
+        "Wikipedia, \"Seventh Air Force\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-naf-eighth",
+      "tab": "patches",
+      "group": "Air Force numbered air forces",
+      "name": "Eighth Air Force",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The Eighth Air Force (Air Forces Strategic) is a numbered air force (NAF) of the United States Air Force's Air Force Global Strike Command (AFGSC). It is headquartered at Barksdale Air Force Base, Louisiana.",
+      "facts": [
+        "The command serves as Air Forces Strategic – Global Strike, one of the air components of United States Strategic Command (USSTRATCOM).",
+        "The Eighth Air Force includes the heart of America's heavy bomber force: the Northrop Grumman B-2 Spirit stealth bomber, the Rockwell B-1 Lancer supersonic bomber, and the Boeing B-52 Stratofortress heavy bomber aircraft.",
+        "Picture file on Wikimedia Commons: Eighth Air Force - Emblem.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Eighth Air Force: air force numbered air forces.",
+      "image": "badges/u-af-naf-eighth.png",
+      "sources": [
+        "Wikipedia, \"Eighth Air Force\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-naf-ninth",
+      "tab": "patches",
+      "group": "Air Force numbered air forces",
+      "name": "Ninth Air Force",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The Ninth Air Force (Air Forces Central) is a Numbered Air Force of the United States Air Force headquartered at Shaw Air Force Base, South Carolina.",
+      "facts": [
+        "It is the Air Force Service Component of United States Central Command (USCENTCOM), a joint Department of Defense combatant command responsible for U.S. security interests in 27 nations that stretch from the Horn of Africa ...",
+        "Activated as 9th Air Force on 8 April 1942, the command fought in World War II both in the Western Desert Campaign in Egypt and Libya and as the tactical fighter component of the United States Strategic Air Forces in Europe ...",
+        "Picture file on Wikimedia Commons: Ninth Air Force - Emblem.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Ninth Air Force: air force numbered air forces.",
+      "image": "badges/u-af-naf-ninth.png",
+      "sources": [
+        "Wikipedia, \"Ninth Air Force\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-naf-tenth",
+      "tab": "patches",
+      "group": "Air Force numbered air forces",
+      "name": "Tenth Air Force",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The Tenth Air Force (10 AF) is a unit of the U.S. Air Force, specifically a numbered air force of the Air Force Reserve Command (AFRC). 10 AF is headquartered at Naval Air Station Fort Worth Joint Reserve Base/Carswell Field (formerly Carswell AFB), Texas.",
+      "facts": [
+        "The command directs the activities of 14,000 Air Force Reservists and 950 civilians located at 30 military installations throughout the United States. 10 AF is the AFRC numbered air force whose units and aircraft are primarily ...",
+        "In addition, Tenth Air Force units fly satellites for Air Force Space Command (AFSPC) in support of the Department of Defense and NOAA.",
+        "Picture file on Wikimedia Commons: Tenth Air Force - Emblem.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Tenth Air Force: air force numbered air forces.",
+      "image": "badges/u-af-naf-tenth.png",
+      "sources": [
+        "Wikipedia, \"Tenth Air Force\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-naf-eleventh",
+      "tab": "patches",
+      "group": "Air Force numbered air forces",
+      "name": "Eleventh Air Force",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The Eleventh Air Force (11 AF) is a Numbered Air Force of the United States Air Force Pacific Air Forces (PACAF).",
+      "facts": [
+        "It is headquartered at Joint Base Elmendorf–Richardson, Alaska. 11 AF plans, conducts, controls and coordinates air operations in accordance with the tasks assigned by the commander, Pacific Air Forces, and is the force provider ...",
+        "The Commander, Eleventh Air Force, also serves as Commander, Alaskan Command, and as commander of the Alaskan North American Aerospace Defense Command Region.",
+        "Picture file on Wikimedia Commons: Eleventh Air Force - Emblem.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Eleventh Air Force: air force numbered air forces.",
+      "image": "badges/u-af-naf-eleventh.png",
+      "sources": [
+        "Wikipedia, \"Eleventh Air Force\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-naf-thirteenth",
+      "tab": "patches",
+      "group": "Air Force numbered air forces",
+      "name": "Thirteenth Air Force",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The Thirteenth Expeditionary Air Force (13 EAF) is a provisional numbered air force of the United States Air Force Pacific Air Forces (PACAF). It is headquartered at Hickam Air Force Base, Joint Base Pearl Harbor–Hickam on the island of Oahu, Hawaii.",
+      "facts": [
+        "It has never been stationed in the continental United States.",
+        "The command plans, commands and controls, delivers, and assesses air, space, and information operations in the Asia-Pacific region—excluding the Korea theater of operations—across the security spectrum from peacetime engagement ...",
+        "Picture file on Wikimedia Commons: Thirteenth Air Force - Emblem.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Thirteenth Air Force: air force numbered air forces.",
+      "image": "badges/u-af-naf-thirteenth.png",
+      "sources": [
+        "Wikipedia, \"Thirteenth Expeditionary Air Force\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-naf-fifteenth",
+      "tab": "patches",
+      "group": "Air Force numbered air forces",
+      "name": "Fifteenth Air Force",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The Fifteenth Air Force (15 AF) is a numbered air force of the United States Air Force's Air Combat Command (ACC). It is headquartered at Shaw Air Force Base.",
+      "facts": [
+        "It was reactivated on 20 August 2020, merging the previous units of the Ninth Air Force and Twelfth Air Force into a new numbered air force responsible for generating and presenting Air Combat Command's conventional forces.",
+        "Established on 1 November 1943, Fifteenth AF was a United States Army Air Forces combat air force deployed to the European Theater of World War II, bombing Europe from bases in southern Italy and engaging in air-to-air fighter ...",
+        "Picture file on Wikimedia Commons: 15th Air Force.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Fifteenth Air Force: air force numbered air forces.",
+      "image": "badges/u-af-naf-fifteenth.png",
+      "sources": [
+        "Wikipedia, \"Fifteenth Air Force\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-naf-sixteenth",
+      "tab": "patches",
+      "group": "Air Force numbered air forces",
+      "name": "Sixteenth Air Force",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The Sixteenth Air Force (Air Forces Cyber) (16 AF) is a United States Air Force (USAF) organization responsible for information warfare, which encompasses intelligence gathering and analysis, surveillance, reconnaissance, cyber warfare and electronic warfare operations.",
+      "facts": [
+        "Its headquarters is at Joint Base San Antonio-Lackland (JBSA) in Texas.",
+        "The organization was the first newly established Numbered Air Force (NAF) by the USAF after World War II.",
+        "Picture file on Wikimedia Commons: 16th Air Force.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Sixteenth Air Force: air force numbered air forces.",
+      "image": "badges/u-af-naf-sixteenth.png",
+      "sources": [
+        "Wikipedia, \"Sixteenth Air Force\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-naf-seventeenth",
+      "tab": "patches",
+      "group": "Air Force numbered air forces",
+      "name": "Seventeenth Air Force",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The Seventeenth Expeditionary Air Force (17 EAF) was a numbered air force of the United States Air Force located at Ramstein Air Base, Germany. The command served the United States Air Forces in Europe during 1953–1996 and United States Air Forces Africa during 2008–2012.",
+      "facts": [
+        "Upon reactivation on 1 October 2008, it became the air and space component of United States Africa Command.",
+        "In this capacity, Seventeenth Air Force was referred to as U.S.",
+        "Picture file on Wikimedia Commons: Seventeenth Air Force - Emblem.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Seventeenth Air Force: air force numbered air forces.",
+      "image": "badges/u-af-naf-seventeenth.png",
+      "sources": [
+        "Wikipedia, \"Seventeenth Expeditionary Air Force\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-naf-eighteenth",
+      "tab": "patches",
+      "group": "Air Force numbered air forces",
+      "name": "Eighteenth Air Force",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "Eighteenth Air Force (18 AF) is one of two Numbered Air Forces (NAF) in Air Mobility Command (AMC) and one of the largest NAFs in the United States Air Force. Eighteenth Air Force was activated on 28 March 1951, inactivated on 1 January 1958, and re-activated on 1 October 2003.",
+      "facts": [
+        "It is headquartered at Scott Air Force Base, Illinois.",
+        "Picture file on Wikimedia Commons: Eighteenth Air Force - Emblem.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Eighteenth Air Force: air force numbered air forces.",
+      "image": "badges/u-af-naf-eighteenth.png",
+      "sources": [
+        "Wikipedia, \"Eighteenth Air Force\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-naf-nineteenth",
+      "tab": "patches",
+      "group": "Air Force numbered air forces",
+      "name": "Nineteenth Air Force",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The Nineteenth Air Force (19 AF) is an active Numbered Air Force of the United States Air Force. During the Cold War it was a component of Tactical Air Command, with a mission of command and control over deployed USAF forces in support of United States foreign policy initiatives.",
+      "facts": [
+        "The command was reactivated in 1993 under Air Education and Training Command with a mission of conducting AETC's flying training. 19th Air Force was inactivated on 9 July 2012 as a cost-cutting measure by the Secretary of the Air ...",
+        "AETC commander General Robin Rand directed the reactivation to consolidate the management of the AETC flying mission again under a Numbered Air Force instead of the AETC Headquarters.",
+        "Picture file on Wikimedia Commons: Nineteenth Air Force - Emblem.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Nineteenth Air Force: air force numbered air forces.",
+      "image": "badges/u-af-naf-nineteenth.png",
+      "sources": [
+        "Wikipedia, \"Nineteenth Air Force\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-naf-twentieth",
+      "tab": "patches",
+      "group": "Air Force numbered air forces",
+      "name": "Twentieth Air Force",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The Twentieth Air Force (Air Forces Strategic) (20th AF) is a numbered air force of the United States Air Force Global Strike Command (AFGSC). It is headquartered at Francis E. Warren Air Force Base, Wyoming. 20 AF's primary mission is intercontinental ballistic missile (ICBM) operations.",
+      "facts": [
+        "The Twentieth Air Force commander is also the Commander, Task Force 214 (TF 214), which provides alert ICBMs to the United States Strategic Command (USSTRATCOM).",
+        "Established on 4 April 1944 at Washington D.C, 20 AF was a United States Army Air Forces combat air force deployed to the Pacific Theater of World War II.",
+        "Picture file on Wikimedia Commons: Twentieth Air Force - Emblem.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Twentieth Air Force: air force numbered air forces.",
+      "image": "badges/u-af-naf-twentieth.png",
+      "sources": [
+        "Wikipedia, \"Twentieth Air Force\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-naf-twsecond",
+      "tab": "patches",
+      "group": "Air Force numbered air forces",
+      "name": "Twenty-Second Air Force",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "Twenty-Second Air Force (22 AF) is a Numbered Air Force component of Air Force Reserve Command (AFRC). It was activated on 1 July 1993 and is headquartered at Dobbins Air Reserve Base, Georgia.",
+      "facts": [
+        "In the event of mobilization, some of the Twenty-Second Air Force's subordinate units would come under the operational control (OPCON) of the Air Mobility Command's (AMC) 21st Expeditionary Mobility Task Force, headquartered at ...",
+        "Picture file on Wikimedia Commons: Twenty-Second Air Force - Emblem.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Twenty-Second Air Force: air force numbered air forces.",
+      "image": "badges/u-af-naf-twsecond.png",
+      "sources": [
+        "Wikipedia, \"Twenty-Second Air Force\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-naf-twthird",
+      "tab": "patches",
+      "group": "Air Force numbered air forces",
+      "name": "Twenty-Third Air Force",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The Twenty-Third Air Force (Air Forces Special Operations Forces) was a Numbered Air Force that was assigned to Air Force Special Operations Command. It was stationed at Hurlburt Field, Florida and was active from 1 January 2008 until 4 April 2013.",
+      "facts": [
+        "It served as the operational headquarters for Air Force special operations forces assigned to joint and combined commands.",
+        "Starting in 2012, it transferred operational control of some of its units to other headquarters; its remaining functions were assumed by the Air Force Special Operations Command Air Operations Center when it was inactivated the ...",
+        "Picture file on Wikimedia Commons: Twenty-Third Air Force - Emblem.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Twenty-Third Air Force: air force numbered air forces.",
+      "image": "badges/u-af-naf-twthird.png",
+      "sources": [
+        "Wikipedia, \"Twenty-Third Air Force\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-naf-twfourth",
+      "tab": "patches",
+      "group": "Air Force numbered air forces",
+      "name": "Twenty-Fourth Air Force",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "Twenty-Fourth Air Force / Air Forces Cyber (AFCYBER) was a Numbered Air Force within the United States Air Force. The Air Force consolidated its cyberspace combat and support forces into 24 AF. 24 AF was the Air Force component of U.S. Cyber Command.",
+      "facts": [
+        "On 11 October 2019, the 24th AF was merged with the 25th AF to form a reactivated 16th Air Force.",
+        "Picture file on Wikimedia Commons: Twenty-Fourth Air Force - Emblem.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Twenty-Fourth Air Force: air force numbered air forces.",
+      "image": "badges/u-af-naf-twfourth.png",
+      "sources": [
+        "Wikipedia, \"Twenty-Fourth Air Force\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-naf-twelfth",
+      "tab": "patches",
+      "group": "Air Force numbered air forces",
+      "name": "Twelfth Air Force",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The Twelfth Air Force (12 AF; Air Forces Southern, (AFSOUTH)) is a Numbered Air Force of the United States Air Force Air Combat Command (ACC). It is headquartered at Davis–Monthan Air Force Base, Arizona.",
+      "facts": [
+        "The command is the air component to United States Southern Command (USSOUTHCOM) conducting security cooperation and providing air, space, and cyberspace capabilities throughout Latin America and the Caribbean.",
+        "Established on 20 August 1942 at Bolling Field, District of Columbia, 12th Air Force was a United States Army Air Forces combat air force deployed to the Mediterranean Theater of World War II.",
+        "Picture file on Wikimedia Commons: 12THAF.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Twelfth Air Force: air force numbered air forces.",
+      "image": "badges/u-af-naf-twelfth.png",
+      "sources": [
+        "Wikipedia, \"Twelfth Air Force\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-cg-atlantic",
+      "tab": "patches",
+      "group": "Coast Guard commands",
+      "name": "Coast Guard Atlantic Area",
+      "branches": [
+        "Coast Guard"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "Coast Guard Atlantic Area (LANTAREA) is an Area Command of the United States Coast Guard, a regional command element and force provider tasked with maritime safety, security, and stewardship throughout the Atlantic.",
+      "facts": [
+        "The command oversees all Coast Guard domestic operations east of the Rocky Mountains, including the Caribbean and foreign areas of interest in Europe, Africa, and Southeast Asia.",
+        "Picture file on Wikimedia Commons: Commander Atlantic Area Crest.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "Coast Guard Atlantic Area: coast guard commands.",
+      "image": "badges/u-cg-atlantic.png",
+      "sources": [
+        "Wikipedia, \"Coast Guard Atlantic Area\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-cg-pacific",
+      "tab": "patches",
+      "group": "Coast Guard commands",
+      "name": "Coast Guard Pacific Area",
+      "branches": [
+        "Coast Guard"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "Coast Guard Pacific Area & Defense Forces West (PACAREA) is an Area Command of the United States Coast Guard, a regional command element and force provider tasked with maritime safety, security, and stewardship throughout the Pacific.",
+      "facts": [
+        "The command's area of responsibility encompasses six of the seven continents, 71 countries, and more than 74 million square miles of ocean—from the U.S.",
+        "Western States to the waters off the east coast of Africa, and from the Arctic to Antarctica.",
+        "Picture file on Wikimedia Commons: Emblem Coast Guard Pacific Area.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "Coast Guard Pacific Area: coast guard commands.",
+      "image": "badges/u-cg-pacific.png",
+      "sources": [
+        "Wikipedia, \"Coast Guard Pacific Area\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-cg-reserve",
+      "tab": "patches",
+      "group": "Coast Guard commands",
+      "name": "Coast Guard Reserve",
+      "branches": [
+        "Coast Guard"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The United States Coast Guard Reserve is the reserve component of the United States Coast Guard. It is organized, trained, administered, and supplied under the direction of the commandant of the Coast Guard through the assistant commandant for reserve (CG-R).",
+      "facts": [
+        "Picture file on Wikimedia Commons: United States Coast Guard Reserve emblem.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "Coast Guard Reserve: coast guard commands.",
+      "image": "badges/u-cg-reserve.png",
+      "sources": [
+        "Wikipedia, \"United States Coast Guard Reserve\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-cg-aux",
+      "tab": "patches",
+      "group": "Coast Guard commands",
+      "name": "Coast Guard Auxiliary",
+      "branches": [
+        "Coast Guard"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The United States Coast Guard Auxiliary (USCGAUX, CGAux, or USCG Aux) is the uniformed, auxiliary service component of the United States Coast Guard. Congress established the unit on 23 June 1939, as the United States Coast Guard Reserve.",
+      "facts": [
+        "On February 19, 1941, the entity was renamed the United States Coast Guard Auxiliary.",
+        "The Auxiliary's purpose is to bolster all USCG undertakings both at sea and in the sky, with the exception of tasks necessitating direct law enforcement.",
+        "Picture file on Wikimedia Commons: Seal of the United States Coast Guard Auxiliary.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Coast Guard Auxiliary: coast guard commands.",
+      "image": "badges/u-cg-aux.png",
+      "sources": [
+        "Wikipedia, \"United States Coast Guard Auxiliary\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-sf-cspoc",
+      "tab": "patches",
+      "group": "Space Force unit patches",
+      "name": "Combined Space Operations Center (CSpOC)",
+      "branches": [
+        "Space Force"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The Combined Space Operations Center (CSpOC) is a U.S.–led multinational space operations center that provides command and control of space forces for the United States Space Command under the United States Space Force component field command United States Space Forces – Space.",
+      "facts": [
+        "The CSpOC is located at Vandenberg Space Force Base.",
+        "Picture file on Wikimedia Commons: CSpOC Patch.jpg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "Combined Space Operations Center (CSpOC): space force unit patches.",
+      "image": "badges/u-sf-cspoc.png",
+      "sources": [
+        "Wikipedia, \"Combined Space Operations Center\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-sf-12sws",
+      "tab": "patches",
+      "group": "Space Force unit patches",
+      "name": "12th Space Warning Squadron",
+      "branches": [
+        "Space Force"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The 12th Space Warning Squadron is a United States Space Force ground-based radar used for missile warning, missile defense, and space situation awareness, stationed at Pituffik Space Base, Greenland.",
+      "facts": [
+        "Picture file on Wikimedia Commons: 12 SWS Emblem v2.jpg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "12th Space Warning Squadron: space force unit patches.",
+      "image": "badges/u-sf-12sws.png",
+      "sources": [
+        "Wikipedia, \"12th Space Warning Squadron\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: not stated in the source text; set from general knowledge and not yet checked"
       ],
       "yearFrom": null,
       "yearTo": null
