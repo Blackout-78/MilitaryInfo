@@ -1038,5 +1038,13 @@
   "group": "Space Force unit patches",
   "wiki": "12th Space Warning Squadron",
   "file": "File:12 SWS Emblem v2.jpg"
+ },
+ {
+  "id": "u-dui-1-24in",
+  "name": "1st Battalion, 24th Infantry Regiment (\"Deuce Four\")",
+  "branch": "Army",
+  "group": "Army unit insignia (DUI)",
+  "wiki": "24th Infantry Regiment (United States)",
+  "file": "File:24 Infantry Regiment DUI.png"
  }
 ]
