@@ -1,3 +1,7 @@
+## 0.22.2
+- Patches tab: added 1st Battalion, 24th Infantry Regiment ("Deuce Four"). History from army.mil and the Deuce4.com Living Legacy page; picture is the public-domain 24th Infantry Regiment insignia (San Juan blockhouse).
+- The Deuce4.com crest is copyrighted by that site, so it is not used.
+
 ## 0.22.1
 - Badge entries checked against the DA PAM 670-1 PDF (26 Jan 2021). The group numbers, marksmanship rules, President's Hundred tab and airborne trimming already matched.
 - New Badges wear rules: badges on the combat uniform, miniature badges on mess uniforms, and the physical fitness badge. Each shows its paragraph and page.

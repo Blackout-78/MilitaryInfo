@@ -33,8 +33,10 @@ def clip(ss,n):
         if out and len(out)+len(s)>n: break
         out+=(" " if out else "")+s
     return cut(out,n)
+OVR=json.load(open(ROOT/"tools/unit_overrides.json"))
 HER=json.load(open(ROOT/"tools/heraldry_data.json"))
-doc=json.load(open(ENT)); keep=[e for e in doc["entries"] if not e["id"].startswith("u-")]
+doc=json.load(open(ENT)); PICKIDS={p["id"] for p in PICKS}
+keep=[e for e in doc["entries"] if e["id"] not in PICKIDS]
 credits=[]; new=[]
 for p in PICKS:
     i=p["id"]
@@ -55,12 +57,14 @@ for p in PICKS:
     if i in HER:
         h=HER[i]; facts=h["facts"]+facts; eras=h["eras"]; manual=False
         srcs=[f"Heraldry of the World (heraldry-wiki.com), \"{h['page']}\" - reproduces the US Army Institute of Heraldry record; {h['url']}"]
+    if i in OVR:
+        o=OVR[i]; summary=o["summary"]; facts=o["facts"]; eras=o["eras"]; manual=False; srcs=o["sources"]
     shutil.copy(SRC/f"{i}.png",IMG/f"{i}.png")
     new.append({"id":i,"tab":"patches","group":p["group"],"name":p["name"],"branches":[p["branch"]],"eras":eras,
-      "summary":summary,"facts":facts,"variants":[],"swatches":[],"attachments":[],"proof":"unverified" if manual else "historical",
+      "summary":summary,"facts":facts,"variants":[],"swatches":[],"attachments":[],"proof":OVR[i]["proof"] if i in OVR else ("unverified" if manual else "historical"),
       "remember":p["name"]+": "+p["group"].split(" (")[0].lower()+".","image":f"badges/{i}.png",
-      "sources":[f"Wikipedia, \"{m['wiki_title']}\" (introduction text; a secondary source, not an official record)",
-                 "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"]+(srcs or [])+(["Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"] if manual else []),
+      "sources":(srcs if i in OVR else [f"Wikipedia, \"{m['wiki_title']}\" (introduction text; a secondary source, not an official record)",
+                 "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"]+(srcs or []))+(["Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"] if manual else []),
       "yearFrom":None,"yearTo":None})
     credits.append(f"| {i} | {m['title'][5:]} | {m['license']} | {m['page']} |")
 doc["entries"]=keep+new; json.dump(doc,open(ENT,"w"),indent=2,ensure_ascii=False)
