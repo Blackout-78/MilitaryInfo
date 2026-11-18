@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "0.22.0-patch-rules",
+  "dataVersion": "0.22.1-badge-rules",
   "entries": [
     {
       "id": "u-rule-ssi",
@@ -4763,7 +4763,10 @@
         "No more than three marksmanship qualification clasps may be worn on each badge (para 22-15c)",
         "Other marksmanship badges listed: distinguished international shooter, distinguished rifleman, distinguished pistol shot, national trophy match, Inter-Service competition, U.S. Army excellence in competition rifleman and pistol shot (para 22-15a)",
         "Badge group 5 for order of wear (DA Pam 670-1, para 22-16a)",
-        "Clasp weapon names were not found in the sources read, so they are not listed here"
+        "Clasp weapon names were not found in the sources read, so they are not listed here",
+        "Order of precedence, highest first: distinguished international shooter, distinguished rifleman, distinguished pistol shot, national trophy match, Inter-Service competition, excellence in competition rifleman, excellence in competition pistol shot, then the qualification badges (para 22-15a)",
+        "Worn on the ASU and AGSU coats and the ASU shirt; a Soldier who fails to qualify under AR 350-1, or is exempt, does not wear them (para 22-15b)",
+        "Marksmanship badges are worn to the wearer's left of any special skill badges (para 22-15c)"
       ],
       "remember": "Expert, Sharpshooter, Marksman. Max three clasps.",
       "swatches": [],
@@ -4969,7 +4972,14 @@
         "Up to three badges above the ribbons or pocket flap (para 22-16b(3)(e))",
         "Only three badges from groups 3, 4, or 5, including marksmanship, below the ribbons (para 22-16b(3)(b))",
         "AGSU: a total of four badges at one time (para 22-16b(2))",
-        "Group 1: CIB, CMB, CAB. Group 2: EIB, EFMB, ESB. Group 3: astronaut device, aviator, flight surgeon, aviation, EOD, parachute rigger. Group 4: parachutist, pathfinder, freefall, air assault, diver, space, and Ranger, SF, Sapper tabs. Group 5: driver and mechanic, marksmanship. Group 6: physical fitness (APFU only) (para 22-16a)"
+        "Group 1: CIB, CMB, CAB. Group 2: EIB, EFMB, ESB. Group 3: astronaut device, aviator, flight surgeon, aviation, EOD, parachute rigger. Group 4: parachutist, pathfinder, freefall, air assault, diver, space, and Ranger, SF, Sapper tabs. Group 5: driver and mechanic, marksmanship. Group 6: physical fitness (APFU only) (para 22-16a)",
+        "Army service uniform (ASU): a total of six badges at one time, counting any marksmanship badges but not tab metal replicas (para 22-16b(1))",
+        "Up to three badges may be worn above the ribbons, and one badge from group 1 or group 2 counts toward those three (para 22-16b(3)(a))",
+        "The driver and mechanic badge is not worn above the ribbons, only on the left pocket flap (para 22-16b(3)(a),(b))",
+        "There is no precedence within a group: a Soldier with the parachutist and air assault badges chooses their order (para 22-16b(3)(c))",
+        "Badges are worn one above the other, 1/2 inch apart, in group order from top to bottom (para 22-16b(3)(d))",
+        "Mirror-finish commercial badges are allowed, but they cannot be mixed with badges that lack that finish (para 22-16b(3)(f))",
+        "Tab metal replicas are not worn above the ribbons and are not stacked; they go on the pocket flap (para 22-16b(3)(g))"
       ],
       "remember": "Groups 1 and 2 on top, max three above and three below.",
       "swatches": [],
@@ -4978,7 +4988,7 @@
       "proof": "official",
       "sources": [
         "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021, para 22-16",
-        "Text read from the copy hosted at home.army.mil/jackson"
+        "DA PAM 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 January 2021, para 22-16b; checked against the PDF supplied by the user"
       ],
       "image": "none"
     },
@@ -20729,6 +20739,95 @@
         "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "b-wear-combat",
+      "tab": "badges",
+      "group": "Wear rules",
+      "name": "Badges on the combat uniform",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "Subdued badges go above the U.S. Army tape on the combat uniform.",
+      "facts": [
+        "Up to five badges, in group order from top to bottom and from the wearer's right to left. Only one badge from group 1 or group 2 may be worn; up to five from groups 3, 4 and 5, with the total not above five (para 22-16d(2))",
+        "Badges may be sew-on or pin-on, but Soldiers may wear them in a deployed or field environment only if sewn on (para 22-16d(1))",
+        "One badge: centered 1/8 inch above the U.S. Army tape. Two badges: one vertical column, 1/4 inch between badges (para 22-16d(2)(a),(b))",
+        "The driver and mechanic badge is not authorized on utility uniforms (para 22-16d(2))"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "official",
+      "remember": "Badges on the combat uniform: see summary.",
+      "image": "none",
+      "sources": [
+        "DA PAM 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 January 2021, para 22-16d, pp. 313-314; read from the PDF supplied by the user"
+      ],
+      "yearFrom": 2021,
+      "yearTo": null
+    },
+    {
+      "id": "b-wear-mess",
+      "tab": "badges",
+      "group": "Wear rules",
+      "name": "Miniature badges on mess and evening mess uniforms",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "Dress miniature badges and miniature tab replicas are worn above the miniature medals.",
+      "facts": [
+        "Up to five badges or miniature tab replicas, or a combination; only one badge from group 1 or group 2 (para 22-16c(1))",
+        "One or two badges sit centered immediately above the miniature medals; a third goes 1/4 inch above the lower two; five are stacked in the same pattern. Order is by group, top to bottom and right to left (para 22-16c(1))",
+        "Dress miniatures may also be worn on the Class B service shirt, but not mixed with full-sized or miniature badges. The CIB and EIB are the only badges made in three sizes: full, miniature and dress miniature (para 22-16c(2))",
+        "Miniature badges and miniature metal tab replicas are not authorized on the AGSU (para 22-16c(3))"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "official",
+      "remember": "Miniature badges on mess and evening mess uniforms: see summary.",
+      "image": "none",
+      "sources": [
+        "DA PAM 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 January 2021, para 22-16c, pp. 312-313; read from the PDF supplied by the user"
+      ],
+      "yearFrom": 2021,
+      "yearTo": null
+    },
+    {
+      "id": "b-pt-badge",
+      "tab": "badges",
+      "group": "Wear rules",
+      "name": "Physical fitness badge",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "Group 6 badge, a cloth badge worn only on the Army physical fitness uniform (APFU).",
+      "facts": [
+        "Authorized only as a cloth badge and worn only on the APFU (para 22-16g)",
+        "On the t-shirt: centered on the upper left front. On the APFU running jacket: sewn centered 1/2 inch above the Army logo (para 22-16g)",
+        "Group 6 in the order of group precedence (para 22-16a(6))"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "official",
+      "remember": "Physical fitness badge: see summary.",
+      "image": "none",
+      "sources": [
+        "DA PAM 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 January 2021, para 22-16g and 22-16a(6), pp. 294 and 316; read from the PDF supplied by the user"
+      ],
+      "yearFrom": 2021,
       "yearTo": null
     }
   ]

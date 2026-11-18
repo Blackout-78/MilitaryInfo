@@ -1,3 +1,8 @@
+## 0.22.1
+- Badge entries checked against the DA PAM 670-1 PDF (26 Jan 2021). The group numbers, marksmanship rules, President's Hundred tab and airborne trimming already matched.
+- New Badges wear rules: badges on the combat uniform, miniature badges on mess uniforms, and the physical fitness badge. Each shows its paragraph and page.
+- "Where badges are worn" now includes the six-badge limit on the ASU, the driver and mechanic badge rule, spacing, and tab replica rules. Marksmanship now lists the order of precedence.
+
 ## 0.22.0
 - Patches tab: 9 official wear rules from DA PAM 670-1 (26 Jan 2021), each with paragraph and page: unit patch (SSI), combat patch (SSI-MOHC), U.S. flag insignia, Army logo patch, distinctive unit insignia, regimental distinctive insignia, regimental affiliation, special skill tabs above the patch, and the retiree patch.
 - These are tagged Official. The unit list (111 units) is unchanged.
