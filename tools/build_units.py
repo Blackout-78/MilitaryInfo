@@ -33,6 +33,7 @@ def clip(ss,n):
         if out and len(out)+len(s)>n: break
         out+=(" " if out else "")+s
     return cut(out,n)
+HER=json.load(open(ROOT/"tools/heraldry_data.json"))
 doc=json.load(open(ENT)); keep=[e for e in doc["entries"] if not e["id"].startswith("u-")]
 credits=[]; new=[]
 for p in PICKS:
@@ -50,12 +51,16 @@ for p in PICKS:
     facts=[cut(x,230) for x in ss[used:used+2]]
     facts.append("Picture file on Wikimedia Commons: "+m["title"][5:])
     if p["branch"]=="Army" and "Ranger Regiment" not in p["name"]: facts.insert(0,"Patch type: Army shoulder sleeve insignia (SSI).")
+    srcs=None
+    if i in HER:
+        h=HER[i]; facts=h["facts"]+facts; eras=h["eras"]; manual=False
+        srcs=[f"Heraldry of the World (heraldry-wiki.com), \"{h['page']}\" - reproduces the US Army Institute of Heraldry record; {h['url']}"]
     shutil.copy(SRC/f"{i}.png",IMG/f"{i}.png")
     new.append({"id":i,"tab":"patches","group":p["group"],"name":p["name"],"branches":[p["branch"]],"eras":eras,
       "summary":summary,"facts":facts,"variants":[],"swatches":[],"attachments":[],"proof":"unverified" if manual else "historical",
       "remember":p["name"]+": "+p["group"].split(" (")[0].lower()+".","image":f"badges/{i}.png",
       "sources":[f"Wikipedia, \"{m['wiki_title']}\" (introduction text; a secondary source, not an official record)",
-                 "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"]+(["Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"] if manual else []),
+                 "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"]+(srcs or [])+(["Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"] if manual else []),
       "yearFrom":None,"yearTo":None})
     credits.append(f"| {i} | {m['title'][5:]} | {m['license']} | {m['page']} |")
 doc["entries"]=keep+new; json.dump(doc,open(ENT,"w"),indent=2,ensure_ascii=False)

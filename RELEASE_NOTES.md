@@ -1,3 +1,7 @@
+## 0.21.2
+- First two patches with official-record details (design, approval and redesignation dates) from Heraldry of the World, which reproduces the US Army Institute of Heraldry record: 1st Infantry Division and 25th Infantry Division. Credited on each page.
+- The site blocks automated access and many pages did not open, so the rest are added only when a page can be read.
+
 ## 0.21.1
 - Source check on the Patches tab. Eras were being guessed from years in the text, and some were wrong (for example units that fought in WWII but showed only modern). Now an era range is set only when the source text gives a formation year; otherwise the entry is tagged Unverified and shows under every era.
 - Removed 3 more entries whose source text described a different unit: 75th Infantry Division, 88th Infantry Division, Air Force Logistics Command.

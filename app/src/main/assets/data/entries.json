@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "0.21.1-patch-sources",
+  "dataVersion": "0.21.2-heraldry",
   "entries": [
     {
       "id": "m-moh",
@@ -16445,6 +16445,8 @@
       ],
       "summary": "The 1st Infantry Division (1ID) is a combined arms division of the United States Army, and is the oldest continuously serving division in the Regular Army. It has seen continuous service since its organization in 1917 during World War I.",
       "facts": [
+        "Design: a red numeral \"1\" on an olive drab shield, about 2 1/2 in. wide by 3 3/4 in. tall.",
+        "Originally approved 31 October 1918 as a red \"1\" for the 1st Division; amended 31 March 1927 to add the background; redesignated for the 1st Infantry Division 19 August 1942.",
         "Patch type: Army shoulder sleeve insignia (SSI).",
         "It was officially nicknamed \"The Big Red One\" (abbreviated \"BRO\") after its shoulder patch and is also nicknamed \"The Fighting First\".",
         "The division has also received troop monikers of \"The Big Dead One\" and \"The Bloody First\" as puns on the respective officially sanctioned nicknames.",
@@ -16453,13 +16455,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "unverified",
+      "proof": "historical",
       "remember": "1st Infantry Division: army shoulder patches.",
       "image": "badges/u-ssi-1id.png",
       "sources": [
         "Wikipedia, \"1st Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
+        "Heraldry of the World (heraldry-wiki.com), \"1st Infantry Division Big Red One, US Army\" - reproduces the US Army Institute of Heraldry record; https://www.heraldry-wiki.com/wiki/1st_Infantry_Division_Big_Red_One,_US_Army"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -16597,6 +16599,9 @@
       ],
       "summary": "The 25th Infantry Division (nicknamed \"Tropic Lightning\") is a United States Army division based at Schofield Barracks in Hawaii. The division, which was activated on 1 October 1941 in Hawaii, conducts military operations primarily in the Asia-Pacific region.",
       "facts": [
+        "Design: a red taro leaf, stem up, about 2 7/8 in. high, with a 1/8 in. yellow border and a yellow lightning flash.",
+        "The taro leaf recalls the division's descent from the Hawaiian Division; the lightning flash stands for how it carries out its assignments.",
+        "Division organized 1 October 1914 at Schofield Barracks, Hawaii and activated 26 August 1941; insignia authorized 25 September 1944 (per the page).",
         "Patch type: Army shoulder sleeve insignia (SSI).",
         "Its present deployment is composed of infantry brigade combat team (IBCT) and aviation units.",
         "Tropic Lightning soldiers regularly train with other U.S. military branches to practice and maintain joint operations capabilities.",
@@ -16610,7 +16615,8 @@
       "image": "badges/u-ssi-25id.png",
       "sources": [
         "Wikipedia, \"25th Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Heraldry of the World (heraldry-wiki.com), \"25th Infantry Division Tropic Lightning, US Army\" - reproduces the US Army Institute of Heraldry record; https://www.heraldry-wiki.com/wiki/25th_Infantry_Division_Tropic_Lightning,_US_Army"
       ],
       "yearFrom": null,
       "yearTo": null
