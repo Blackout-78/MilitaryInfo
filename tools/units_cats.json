@@ -1,14 +1,10 @@
 {
- "usmc_units": {
-  "cat": "Category:Insignia of the United States Marine Corps",
-  "depth": 1
- },
- "navy_units": {
-  "cat": "Category:Insignia of the United States Navy",
-  "depth": 1
- },
- "uscg_units": {
-  "cat": "Category:Insignia of the United States Coast Guard",
-  "depth": 1
- }
+ "army_ssi":{"cat":"Category:Shoulder Sleeve Insignia of the United States Army (SSI)","depth":2},
+ "army_tabs":{"cat":"Category:Airborne Tabs of the United States Army","depth":0},
+ "usmc_div":{"cat":"Category:United States Marine Corps division insignia","depth":1},
+ "usaf_majcom":{"cat":"Category:Major Command emblems of the United States Air Force","depth":1},
+ "usaf_naf":{"cat":"Category:Numbered Air Force emblems of the United States Air Force","depth":1},
+ "usaf_foa":{"cat":"Category:Field Operating Agency emblems of the United States Air Force","depth":1},
+ "usspace":{"cat":"Category:United States Space Force patches","depth":1},
+ "uscg":{"cat":"Category:Emblems of the United States Coast Guard","depth":1}
 }
