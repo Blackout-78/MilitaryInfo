@@ -1,0 +1,15 @@
+name: Probe heraldry-wiki
+on: workflow_dispatch
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install pillow
+      - run: python3 tools/heraldry_probe.py || true
+      - name: Publish to scratch branch
+        run: |
+          cd cands && git init -q -b heraldry-probe && git config user.email a@b.c && git config user.name bot
+          git add -A && git commit -q -m "unit candidates" && git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" heraldry-probe
