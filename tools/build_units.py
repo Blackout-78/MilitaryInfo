@@ -66,7 +66,7 @@ for p in PICKS:
       "sources":(srcs if i in OVR else [f"Wikipedia, \"{m['wiki_title']}\" (introduction text; a secondary source, not an official record)",
                  "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"]+(srcs or []))+(["Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"] if manual else []),
       "yearFrom":None,"yearTo":None})
-    credits.append(f"| {i}-skull | Skull marked 24 (unofficial Punishers emblem), supplied by the app owner | Owner-supplied; design resembles a Marvel-owned symbol, private use | n/a |") if i=="u-dui-1-24in" else None
+    credits.append(f"| {i}-skull | Skull marked 24 (unofficial Punishers emblem), image file added to the app | Source of artwork not confirmed; design resembles a Marvel-owned symbol, private use | n/a |") if i=="u-dui-1-24in" else None
     credits.append(f"| {i} | {m['title'][5:]} | {m['license']} | {m['page']} |")
 doc["entries"]=keep+new; json.dump(doc,open(ENT,"w"),indent=2,ensure_ascii=False)
 cr=ROOT/"CREDITS.md"; lines=[l for l in cr.read_text().splitlines() if not l.startswith("| u-")]

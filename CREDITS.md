@@ -442,5 +442,5 @@ All from Wikimedia Commons, tagged public domain. The EOD Basic and Senior pictu
 | u-cg-aux | Seal of the United States Coast Guard Auxiliary.svg | Public domain | https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Coast_Guard_Auxiliary.svg |
 | u-sf-cspoc | CSpOC Patch.jpg | Public domain | https://commons.wikimedia.org/wiki/File:CSpOC_Patch.jpg |
 | u-sf-12sws | 12 SWS Emblem v2.jpg | Public domain | https://commons.wikimedia.org/wiki/File:12_SWS_Emblem_v2.jpg |
-| u-dui-1-24in-skull | Skull marked 24 (unofficial Punishers emblem), supplied by the app owner | Owner-supplied; design resembles a Marvel-owned symbol, private use | n/a |
+| u-dui-1-24in-skull | Skull marked 24 (unofficial Punishers emblem), image file added to the app | Source of artwork not confirmed; design resembles a Marvel-owned symbol, private use | n/a |
 | u-dui-1-24in | 24 Infantry Regiment DUI.png | Public domain | https://commons.wikimedia.org/wiki/File:24_Infantry_Regiment_DUI.png |

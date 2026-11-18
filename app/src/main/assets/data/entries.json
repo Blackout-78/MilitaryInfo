@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "0.22.4-deuce-text",
+  "dataVersion": "0.22.5-deuce-wording",
   "entries": [
     {
       "id": "u-rule-ssi",
@@ -20846,7 +20846,7 @@
       ],
       "summary": "1st Battalion, 24th Infantry Regiment, nicknamed \"Deuce Four\". The battalion was reactivated on 24 August 1995. Its Iraq-era Soldiers called themselves the \"Punishers\"; the skull marked \"24\" is their unofficial emblem. The regiment it carries on was organized in 1869 and had all-Black enlisted ranks (Buffalo Soldiers).",
       "facts": [
-        "Picture: an unofficial morale emblem (a skull marked \"24\") supplied by the app owner for the Punishers era. It is not an Army insignia and no Army record approves it.",
+        "Picture: an unofficial morale emblem (a skull marked \"24\") linked to the Punishers era. It is not an Army insignia and no Army record approves it.",
         "Variant picture: the 24th Infantry Regiment's official distinctive unit insignia, a blockhouse on a blue disc with the scroll \"San Juan\".",
         "Heritage: the regiment was organized 1 November 1869 from the 38th and 41st Infantry Regiments, with all-Black enlisted ranks. In 1898 it assaulted the Spanish blockhouse and trenches on San Juan Hill, Cuba.",
         "1916: Mexican border, then General Pershing's Punitive Expedition. World War II: South Pacific from April 1942, including Guadalcanal. Korea: deployed June 1950 and earned the Republic of Korea Presidential Unit Citation for the Pusan defense. Inactivated 1 October 1951.",
@@ -20873,7 +20873,7 @@
       "sources": [
         "army.mil, \"1-24 Infantry Battalion History\" (https://www.army.mil/article/166701)",
         "Deuce4.com, \"A Living Legacy\" (https://deuce4.com/a-living-legacy/), a veteran-led initiative, not an official Army site",
-        "Skull picture: supplied by the app owner; unofficial, source of the artwork not confirmed",
+        "Skull picture: added to this app from an image file; unofficial, source of the artwork not confirmed",
         "Regiment insignia picture: Wikimedia Commons, 24 Infantry Regiment DUI.png (public domain) - see CREDITS.md"
       ],
       "yearFrom": null,

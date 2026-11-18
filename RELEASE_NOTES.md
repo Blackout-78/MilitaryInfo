@@ -1,3 +1,6 @@
+## 0.22.5
+- 1st Battalion, 24th Infantry Regiment: removed the wording "supplied by the app owner" from the skull picture notes, so nothing ties the entry to the app's author. No page says the author served.
+
 ## 0.22.4
 - 1st Battalion, 24th Infantry Regiment: removed the line about the battalion's makeup, which no source supported. The entry now keeps only sourced history.
 
