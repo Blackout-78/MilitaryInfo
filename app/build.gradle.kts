@@ -13,8 +13,8 @@ android {
         applicationId = "com.militaryinfo.app"
         minSdk = 26
         targetSdk = 34
-        versionCode = 52
-        versionName = "0.21.2"
+        versionCode = 53
+        versionName = "0.22.0"
     }
 
     buildFeatures {

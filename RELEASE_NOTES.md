@@ -1,3 +1,7 @@
+## 0.22.0
+- Patches tab: 9 official wear rules from DA PAM 670-1 (26 Jan 2021), each with paragraph and page: unit patch (SSI), combat patch (SSI-MOHC), U.S. flag insignia, Army logo patch, distinctive unit insignia, regimental distinctive insignia, regimental affiliation, special skill tabs above the patch, and the retiree patch.
+- These are tagged Official. The unit list (111 units) is unchanged.
+
 ## 0.21.2
 - First two patches with official-record details (design, approval and redesignation dates) from Heraldry of the World, which reproduces the US Army Institute of Heraldry record: 1st Infantry Division and 25th Infantry Division. Credited on each page.
 - The site blocks automated access and many pages did not open, so the rest are added only when a page can be read.

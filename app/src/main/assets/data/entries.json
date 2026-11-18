@@ -1,7 +1,274 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "0.21.2-heraldry",
+  "dataVersion": "0.22.0-patch-rules",
   "entries": [
+    {
+      "id": "u-rule-ssi",
+      "tab": "patches",
+      "group": "Wear rules (DA PAM 670-1)",
+      "name": "Shoulder sleeve insignia (SSI): current organization",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "Your unit's patch goes on the left sleeve. In the field uniform it is a hook-and-loop patch; on the Army green service coat it is sewn on.",
+      "facts": [
+        "Combat (utility) uniform: the subdued SSI goes on the hook-and-loop pad on the left sleeve, centered both ways between the top and the bottom of the pocket. If a brassard is worn, it is centered from the bottom of the brassard to the bottom of the pocket.",
+        "Soldiers do not sew the SSI on the combat uniform. The subdued SSI is not worn on the garrison culinary uniform.",
+        "Army green service uniform (AGSU) coat: the full-color SSI of your current organization is worn on the left sleeve, 1/2 inch below the top of the shoulder seam.",
+        "Special skill or marksmanship tabs are worn above the SSI (see the tab rule)."
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "official",
+      "remember": "Shoulder sleeve insignia (SSI): current organization: see summary.",
+      "image": "none",
+      "sources": [
+        "DA PAM 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 January 2021, para 21-17, p. 232"
+      ],
+      "yearFrom": 2021,
+      "yearTo": null
+    },
+    {
+      "id": "u-rule-mohc",
+      "tab": "patches",
+      "group": "Wear rules (DA PAM 670-1)",
+      "name": "SSI for military operations in hostile conditions (SSI-MOHC)",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The \"combat patch\": the patch of a unit you served with in hostile conditions, worn on the right sleeve. Wearing it is optional.",
+      "facts": [
+        "Only Soldiers who are or were assigned to units that meet all the criteria in AR 670-1 may wear it.",
+        "Soldiers with more than one SSI-MOHC choose which one to wear, and may choose to wear none.",
+        "Combat uniform: the subdued patch goes on the right sleeve hook-and-loop pad, centered from the bottom of the U.S. flag (or tactical flag) insignia to the bottom of the pocket. It is not sewn on the combat uniform.",
+        "AGSU coat: the patch is worn on the right sleeve, 1/2 inch below the top of the right shoulder seam.",
+        "It is not authorized on organizational uniforms except as described in this paragraph."
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "official",
+      "remember": "SSI for military operations in hostile conditions (SSI-MOHC): see summary.",
+      "image": "none",
+      "sources": [
+        "DA PAM 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 January 2021, para 21-18, p. 233"
+      ],
+      "yearFrom": 2021,
+      "yearTo": null
+    },
+    {
+      "id": "u-rule-flag",
+      "tab": "patches",
+      "group": "Wear rules (DA PAM 670-1)",
+      "name": "U.S. flag insignia",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The flag worn on the right shoulder pocket flap area of utility uniforms.",
+      "facts": [
+        "The full-color flag is red, white and blue, about 2 inches by 3 inches. The tactical flag is subdued green and black and is worn when the commander directs it under tactical field conditions.",
+        "It is worn on the right sleeve with the star field forward, so the flag looks like it is flying in the breeze as the wearer moves forward. This is the \"reverse side\" flag.",
+        "It goes on the uppermost part of the hook-and-loop pad, with the top of the insignia at the top of the pad. It is not sewn on the uniform."
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "official",
+      "remember": "U.S. flag insignia: see summary.",
+      "image": "none",
+      "sources": [
+        "DA PAM 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 January 2021, para 21-19, p. 234"
+      ],
+      "yearFrom": 2021,
+      "yearTo": null
+    },
+    {
+      "id": "u-rule-logo",
+      "tab": "patches",
+      "group": "Wear rules (DA PAM 670-1)",
+      "name": "U.S. Army logo patch",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "A patch of the Army logo, worn only by the groups the manual lists. It is not a distinctive unit patch like the SSI.",
+      "facts": [
+        "It is authorized only when the Chief of Staff of the Army approves, and the design must follow the Army logo rules set by the Assistant Secretary of the Army (Manpower and Reserve Affairs). The trademark symbol is not shown on the uniform.",
+        "Authorized wearers listed in the manual: U.S. Army Accessions Command; U.S. Army Accession Command Support Brigade; U.S. Army Combat Readiness Center; officer and enlisted personnel assigned to Headquarters, Department of the Army (HQDA staff only); and initial entry training and one station unit training Soldiers."
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "official",
+      "remember": "U.S. Army logo patch: see summary.",
+      "image": "none",
+      "sources": [
+        "DA PAM 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 January 2021, para 21-17b, p. 232"
+      ],
+      "yearFrom": 2021,
+      "yearTo": null
+    },
+    {
+      "id": "u-rule-dui",
+      "tab": "patches",
+      "group": "Wear rules (DA PAM 670-1)",
+      "name": "Distinctive unit insignia (DUI): how worn",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "A small metal pin, approved by The Institute of Heraldry, worn on the shoulder loops of the service coat and on the beret and sweater.",
+      "facts": [
+        "The DUI is metal or metal and enamel only. Everyone assigned to the unit wears it, except general officers, the Sergeant Major of the Army (SMA) and the Senior Enlisted Advisor to the Chairman (SEAC), who wear their own insignia instead.",
+        "Service uniform coat: centered on the shoulder loops, with the base toward the outside shoulder seam. Soldiers do not wear it on the dress variation.",
+        "Beret: enlisted Soldiers wear the DUI centered on the organizational flash.",
+        "Pullover sweater: centered above the nameplate, with the top edge 1/4 inch below the top edge of the sweater patch. Soldiers on recruiting duty wear the recruiting badge instead.",
+        "A Soldier in a unit with no DUI wears the regimental distinctive insignia (RDI) in the same places."
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "official",
+      "remember": "Distinctive unit insignia (DUI): how worn: see summary.",
+      "image": "none",
+      "sources": [
+        "DA PAM 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 January 2021, para 21-22, p. 236"
+      ],
+      "yearFrom": 2021,
+      "yearTo": null
+    },
+    {
+      "id": "u-rule-rdi",
+      "tab": "patches",
+      "group": "Wear rules (DA PAM 670-1)",
+      "name": "Regimental distinctive insignia (RDI): how worn",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "Worn by Soldiers affiliated with a regiment or a whole-branch regiment, based on their branch or specialty.",
+      "facts": [
+        "Male Soldiers, Army service uniform coat and shirt: centered 1/8 inch above the top of the pocket flap, or 1/4 inch above any unit awards or foreign badges. On the AGSU shirt it is not authorized.",
+        "Male Soldiers, blue and white mess uniforms: centered on the right lapel, 1/2 inch below the notch.",
+        "Female Soldiers, ASU and AGSU: centered 1/2 inch above the nameplate, or 1/4 inch above any unit awards or foreign badges.",
+        "The RDI and DUI are the same for Soldiers assigned to and affiliated with the same unit."
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "official",
+      "remember": "Regimental distinctive insignia (RDI): how worn: see summary.",
+      "image": "none",
+      "sources": [
+        "DA PAM 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 January 2021, para 21-23, pp. 237-239"
+      ],
+      "yearFrom": 2021,
+      "yearTo": null
+    },
+    {
+      "id": "u-rule-regaffil",
+      "tab": "patches",
+      "group": "Wear rules (DA PAM 670-1)",
+      "name": "Regimental affiliation insignia",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "A Soldier can show regimental affiliation with either the RDI or a DUI.",
+      "facts": [
+        "An RDI is based on the Soldier's branch, corps or special branch (from PMOS or specialty). A DUI is based on a unit where the Soldier is serving or has previously served successfully.",
+        "A Soldier may wear the RDI of the affiliated regiment, or the DUI of a unit they served in, as shown by their assignment history in their personnel record.",
+        "Either one is worn as described for the DUI."
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "official",
+      "remember": "Regimental affiliation insignia: see summary.",
+      "image": "none",
+      "sources": [
+        "DA PAM 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 January 2021, para 21-24, p. 239"
+      ],
+      "yearFrom": 2021,
+      "yearTo": null
+    },
+    {
+      "id": "u-rule-tabs",
+      "tab": "patches",
+      "group": "Wear rules (DA PAM 670-1)",
+      "name": "Special skill tabs: wear above the SSI",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "Ranger, Special Forces and Sapper tabs sit above the unit patch.",
+      "facts": [
+        "Combat uniform: up to three special skill tabs, centered 1/4 inch above the SSI on the left sleeve, with 1/8 inch between tabs. The President's Hundred tab (a marksmanship tab) goes 1/8 inch below the lowest special skill tab.",
+        "Tabs that are part of the unit SSI, such as airborne or mountain tabs, do not count against the three.",
+        "AGSU coat: two tabs of the Soldier's choosing, centered 1/4 inch above the SSI, plus any tab that is part of the unit SSI.",
+        "Ranger tab: 2-3/8 in. long, 11/16 in. wide, yellow border and letters. Special Forces tab: teal blue arc, 3-1/4 in. wide, yellow letters. Sapper tab: red arc, 2-3/8 in. long, white letters. In OCP they are subdued: bagby green background with black letters."
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "official",
+      "remember": "Special skill tabs: wear above the SSI: see summary.",
+      "image": "none",
+      "sources": [
+        "DA PAM 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 January 2021, para 22-16e and f, pp. 314-316"
+      ],
+      "yearFrom": 2021,
+      "yearTo": null
+    },
+    {
+      "id": "u-rule-retiree",
+      "tab": "patches",
+      "group": "Wear rules (DA PAM 670-1)",
+      "name": "Retiree shoulder patch (Soldier For Life)",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "Retired Soldiers do not wear unit patches. They may wear the retiree patch on the left shoulder of the AGSU.",
+      "facts": [
+        "The patch is a yellow cloth disc with a black border. The inner yellow disc bears the Army logo. The outer ring reads \"Retired\" at the top and \"Soldier For Life\" at the bottom, in yellow.",
+        "On the Army service uniform, retired personnel wear the retired service ID badge instead.",
+        "Exception: retired personnel teaching at an approved school wear the patch of the command responsible for the course. Senior and Junior ROTC instructors wear the U.S. Army Cadet Command SSI on the left shoulder."
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "official",
+      "remember": "Retiree shoulder patch (Soldier For Life): see summary.",
+      "image": "none",
+      "sources": [
+        "DA PAM 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 January 2021, para 23-3, p. 336"
+      ],
+      "yearFrom": 2021,
+      "yearTo": null
+    },
     {
       "id": "m-moh",
       "tab": "medals",
