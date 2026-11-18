@@ -22,7 +22,7 @@ for k in PICKS:
     except Exception as e: m["img_error"]=str(e)
     try:
         d=get("https://en.wikipedia.org/w/api.php",{"action":"query","format":"json","prop":"extracts","exintro":1,"explaintext":1,"redirects":1,"titles":k["wiki"]})
-        p=list(d["query"]["pages"].values())[0]; m["wiki_title"]=p.get("title"); m["extract"]=(p.get("extract") or "")[:1200]
+        p=list(d["query"]["pages"].values())[0]; m["wiki_title"]=p.get("title"); m["extract"]=(p.get("extract") or "")[:1200]; m["wiki_missing"]=("missing" in p)
     except Exception as e: m["wiki_error"]=str(e)
     meta[i]=m; print("ok" if "img_error" not in m and "wiki_error" not in m else "PARTIAL",i); time.sleep(0.5)
 json.dump(meta,open("out/badges/meta.json","w"),indent=1)

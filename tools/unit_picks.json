@@ -502,5 +502,541 @@
   "group": "Air Force major commands (former)",
   "wiki": "Air Force Space Command",
   "file": "File:Air Force Space Command.png"
+ },
+ {
+  "id": "u-ssi-82abn",
+  "name": "82nd Airborne Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "82nd Airborne Division (United States)",
+  "file": "File:82nd Abn Div patch.jpg"
+ },
+ {
+  "id": "u-ssi-17abn",
+  "name": "17th Airborne Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "17th Airborne Division (United States)",
+  "file": "File:17th Airborne Division.jpg"
+ },
+ {
+  "id": "u-ssi-80abn",
+  "name": "80th Airborne Division (now 80th Training Command)",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "80th Training Command (United States)",
+  "file": "File:80th Airborne Division.jpg"
+ },
+ {
+  "id": "u-ssi-172ibde",
+  "name": "172nd Infantry Brigade",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "172nd Infantry Brigade (United States)",
+  "file": "File:172nd Infantry Brigade SSI (1963-2015).png"
+ },
+ {
+  "id": "u-ssi-6cavbde",
+  "name": "6th Cavalry Brigade",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "6th Cavalry Brigade (United States)",
+  "file": "File:6th Cavalry Brigade SSI (1975-2015).png"
+ },
+ {
+  "id": "u-ssi-16eng",
+  "name": "16th Engineer Brigade",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "16th Engineer Brigade (United States)",
+  "file": "File:16th Engineer Brigade SSI.svg"
+ },
+ {
+  "id": "u-ssi-18eng",
+  "name": "18th Engineer Brigade",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "18th Engineer Brigade (United States)",
+  "file": "File:18th Engineer Brigade SSI.svg"
+ },
+ {
+  "id": "u-ssi-411eng",
+  "name": "411th Engineer Brigade",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "411th Engineer Brigade (United States)",
+  "file": "File:411th Engineer Brigade SSI.svg"
+ },
+ {
+  "id": "u-ssi-16mp",
+  "name": "16th Military Police Brigade",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "16th Military Police Brigade (United States)",
+  "file": "File:16th Military Police Brigade SSI.png"
+ },
+ {
+  "id": "u-ssi-18mp",
+  "name": "18th Military Police Brigade",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "18th Military Police Brigade (United States)",
+  "file": "File:18th Military Police Brigade SSI.svg"
+ },
+ {
+  "id": "u-ssi-35mp",
+  "name": "35th Military Police Brigade",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "35th Military Police Brigade (United States)",
+  "file": "File:US Army 35th Military Police Brigade SSI.png"
+ },
+ {
+  "id": "u-ssi-15sust",
+  "name": "15th Sustainment Brigade",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "15th Sustainment Brigade (United States)",
+  "file": "File:15th Sustainment Brigade SSI.svg"
+ },
+ {
+  "id": "u-ssi-45sust",
+  "name": "45th Sustainment Brigade",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "45th Sustainment Brigade (United States)",
+  "file": "File:45th Sustainment Brigade SSI.svg"
+ },
+ {
+  "id": "u-ssi-55sust",
+  "name": "55th Sustainment Brigade",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "55th Sustainment Brigade (United States)",
+  "file": "File:55th Sustainment Brigade SSI.svg"
+ },
+ {
+  "id": "u-ssi-108sust",
+  "name": "108th Sustainment Brigade",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "108th Sustainment Brigade (United States)",
+  "file": "File:108th Sustainment Brigade SSI.svg"
+ },
+ {
+  "id": "u-ssi-1med",
+  "name": "1st Medical Brigade",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "1st Medical Brigade (United States)",
+  "file": "File:1 Medical Brigade SSI.png"
+ },
+ {
+  "id": "u-ssi-5med",
+  "name": "5th Medical Brigade",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "5th Medical Brigade (United States)",
+  "file": "File:5 Medical Brigade SSI.png"
+ },
+ {
+  "id": "u-ssi-3sig",
+  "name": "3rd Signal Brigade",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "3rd Signal Brigade (United States)",
+  "file": "File:3rd Signal Brigade shoulder sleeve insignia.png"
+ },
+ {
+  "id": "u-ssi-53sig",
+  "name": "53rd Signal Brigade",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "53rd Signal Brigade (United States)",
+  "file": "File:53rd Signal Brigade SSI.png"
+ },
+ {
+  "id": "u-ssi-79ibct",
+  "name": "79th Infantry Brigade Combat Team",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "79th Infantry Brigade Combat Team (United States)",
+  "file": "File:79 Infantry Brigade Combat Team insignia.svg"
+ },
+ {
+  "id": "u-ssi-29ibde",
+  "name": "29th Infantry Brigade Combat Team",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "29th Infantry Brigade Combat Team (United States)",
+  "file": "File:29th Infantry Brigade SSI.svg"
+ },
+ {
+  "id": "u-ssi-32ibde",
+  "name": "32nd Infantry Brigade Combat Team",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "32nd Infantry Brigade Combat Team (United States)",
+  "file": "File:32nd Infantry Brigade SSI.svg"
+ },
+ {
+  "id": "u-ssi-37ibde",
+  "name": "37th Infantry Brigade Combat Team",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "37th Infantry Brigade Combat Team (United States)",
+  "file": "File:37th Infantry Brigade SSI.svg"
+ },
+ {
+  "id": "u-ssi-40ibct",
+  "name": "40th Infantry Brigade Combat Team",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "40th Infantry Brigade Combat Team (United States)",
+  "file": "File:40th Infantry Brigade Combat Team SSI.svg"
+ },
+ {
+  "id": "u-ssi-53ibde",
+  "name": "53rd Infantry Brigade Combat Team",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "53rd Infantry Brigade Combat Team (United States)",
+  "file": "File:53rd Infantry Brigade SSI.svg"
+ },
+ {
+  "id": "u-ssi-91cyber",
+  "name": "91st Cyber Brigade",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "91st Cyber Brigade (United States)",
+  "file": "File:US Army 91st Cyber Bde SSI.png"
+ },
+ {
+  "id": "u-ssi-1sustcmd",
+  "name": "1st Sustainment Command (Theater)",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "1st Theater Sustainment Command",
+  "file": "File:1st Sustainment Command SSI.png"
+ },
+ {
+  "id": "u-ssi-68med",
+  "name": "68th Medical Command",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "68th Medical Command",
+  "file": "File:68th Medical Command SSI.png"
+ },
+ {
+  "id": "u-ssi-44med",
+  "name": "44th Medical Command",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "44th Medical Command",
+  "file": "File:44th Medical Command SSI.svg"
+ },
+ {
+  "id": "u-ssi-56fa",
+  "name": "56th Field Artillery Command",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "56th Field Artillery Command",
+  "file": "File:56th Field Artillery Command SSI.svg"
+ },
+ {
+  "id": "u-ssi-412eng",
+  "name": "412th Theater Engineer Command",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "412th Theater Engineer Command",
+  "file": "File:412-Engineer-Command-SSI.png"
+ },
+ {
+  "id": "u-ssi-usasoc",
+  "name": "U.S. Army Special Operations Command (1989-2015 design)",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "United States Army Special Operations Command",
+  "file": "File:U.S. Army Special Operations Command SSI (1989-2015).svg"
+ },
+ {
+  "id": "u-ssi-artb",
+  "name": "Airborne and Ranger Training Brigade",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "Airborne and Ranger Training Brigade",
+  "file": "File:Airborne and Ranger Training Brigade SSI.png"
+ },
+ {
+  "id": "u-af-naf-first",
+  "name": "First Air Force",
+  "branch": "Air Force",
+  "group": "Air Force numbered air forces",
+  "wiki": "First Air Force",
+  "file": "File:1st Air Force.png"
+ },
+ {
+  "id": "u-af-naf-second",
+  "name": "Second Air Force",
+  "branch": "Air Force",
+  "group": "Air Force numbered air forces",
+  "wiki": "Second Air Force",
+  "file": "File:Second Air Force - Emblem (USAF).png"
+ },
+ {
+  "id": "u-af-naf-third",
+  "name": "Third Air Force",
+  "branch": "Air Force",
+  "group": "Air Force numbered air forces",
+  "wiki": "Third Air Force",
+  "file": "File:Third Air Force - Emblem.png"
+ },
+ {
+  "id": "u-af-naf-fourth",
+  "name": "Fourth Air Force",
+  "branch": "Air Force",
+  "group": "Air Force numbered air forces",
+  "wiki": "Fourth Air Force",
+  "file": "File:Fourth Air Force - Emblem.png"
+ },
+ {
+  "id": "u-af-naf-fifth",
+  "name": "Fifth Air Force",
+  "branch": "Air Force",
+  "group": "Air Force numbered air forces",
+  "wiki": "Fifth Air Force",
+  "file": "File:Fifth Air Force - Emblem.png"
+ },
+ {
+  "id": "u-af-naf-seventh",
+  "name": "Seventh Air Force",
+  "branch": "Air Force",
+  "group": "Air Force numbered air forces",
+  "wiki": "Seventh Air Force",
+  "file": "File:Seventh Air Force - Emblem.png"
+ },
+ {
+  "id": "u-af-naf-eighth",
+  "name": "Eighth Air Force",
+  "branch": "Air Force",
+  "group": "Air Force numbered air forces",
+  "wiki": "Eighth Air Force",
+  "file": "File:Eighth Air Force - Emblem.png"
+ },
+ {
+  "id": "u-af-naf-ninth",
+  "name": "Ninth Air Force",
+  "branch": "Air Force",
+  "group": "Air Force numbered air forces",
+  "wiki": "Ninth Air Force",
+  "file": "File:Ninth Air Force - Emblem.png"
+ },
+ {
+  "id": "u-af-naf-tenth",
+  "name": "Tenth Air Force",
+  "branch": "Air Force",
+  "group": "Air Force numbered air forces",
+  "wiki": "Tenth Air Force",
+  "file": "File:Tenth Air Force - Emblem.png"
+ },
+ {
+  "id": "u-af-naf-eleventh",
+  "name": "Eleventh Air Force",
+  "branch": "Air Force",
+  "group": "Air Force numbered air forces",
+  "wiki": "Eleventh Air Force",
+  "file": "File:Eleventh Air Force - Emblem.png"
+ },
+ {
+  "id": "u-af-naf-thirteenth",
+  "name": "Thirteenth Air Force",
+  "branch": "Air Force",
+  "group": "Air Force numbered air forces",
+  "wiki": "Thirteenth Air Force",
+  "file": "File:Thirteenth Air Force - Emblem.png"
+ },
+ {
+  "id": "u-af-naf-fifteenth",
+  "name": "Fifteenth Air Force",
+  "branch": "Air Force",
+  "group": "Air Force numbered air forces",
+  "wiki": "Fifteenth Air Force",
+  "file": "File:15th Air Force.png"
+ },
+ {
+  "id": "u-af-naf-sixteenth",
+  "name": "Sixteenth Air Force",
+  "branch": "Air Force",
+  "group": "Air Force numbered air forces",
+  "wiki": "Sixteenth Air Force",
+  "file": "File:16th Air Force.png"
+ },
+ {
+  "id": "u-af-naf-seventeenth",
+  "name": "Seventeenth Air Force",
+  "branch": "Air Force",
+  "group": "Air Force numbered air forces",
+  "wiki": "Seventeenth Air Force",
+  "file": "File:Seventeenth Air Force - Emblem.png"
+ },
+ {
+  "id": "u-af-naf-eighteenth",
+  "name": "Eighteenth Air Force",
+  "branch": "Air Force",
+  "group": "Air Force numbered air forces",
+  "wiki": "Eighteenth Air Force",
+  "file": "File:Eighteenth Air Force - Emblem.png"
+ },
+ {
+  "id": "u-af-naf-nineteenth",
+  "name": "Nineteenth Air Force",
+  "branch": "Air Force",
+  "group": "Air Force numbered air forces",
+  "wiki": "Nineteenth Air Force",
+  "file": "File:Nineteenth Air Force - Emblem.png"
+ },
+ {
+  "id": "u-af-naf-twentieth",
+  "name": "Twentieth Air Force",
+  "branch": "Air Force",
+  "group": "Air Force numbered air forces",
+  "wiki": "Twentieth Air Force",
+  "file": "File:Twentieth Air Force - Emblem.png"
+ },
+ {
+  "id": "u-af-naf-twsecond",
+  "name": "Twenty-Second Air Force",
+  "branch": "Air Force",
+  "group": "Air Force numbered air forces",
+  "wiki": "Twenty-Second Air Force",
+  "file": "File:Twenty-Second Air Force - Emblem.png"
+ },
+ {
+  "id": "u-af-naf-twthird",
+  "name": "Twenty-Third Air Force",
+  "branch": "Air Force",
+  "group": "Air Force numbered air forces",
+  "wiki": "Twenty-Third Air Force",
+  "file": "File:Twenty-Third Air Force - Emblem.png"
+ },
+ {
+  "id": "u-af-naf-twfourth",
+  "name": "Twenty-Fourth Air Force",
+  "branch": "Air Force",
+  "group": "Air Force numbered air forces",
+  "wiki": "Twenty-Fourth Air Force",
+  "file": "File:Twenty-Fourth Air Force - Emblem.png"
+ },
+ {
+  "id": "u-af-naf-twelfth",
+  "name": "Twelfth Air Force",
+  "branch": "Air Force",
+  "group": "Air Force numbered air forces",
+  "wiki": "Twelfth Air Force",
+  "file": "File:12THAF.png"
+ },
+ {
+  "id": "u-cg-atlantic",
+  "name": "Coast Guard Atlantic Area",
+  "branch": "Coast Guard",
+  "group": "Coast Guard commands",
+  "wiki": "United States Coast Guard Atlantic Area",
+  "file": "File:Commander Atlantic Area Crest.png"
+ },
+ {
+  "id": "u-cg-pacific",
+  "name": "Coast Guard Pacific Area",
+  "branch": "Coast Guard",
+  "group": "Coast Guard commands",
+  "wiki": "United States Coast Guard Pacific Area",
+  "file": "File:Emblem Coast Guard Pacific Area.svg"
+ },
+ {
+  "id": "u-cg-d1",
+  "name": "First Coast Guard District",
+  "branch": "Coast Guard",
+  "group": "Coast Guard commands",
+  "wiki": "First Coast Guard District",
+  "file": "File:USCG First District.png"
+ },
+ {
+  "id": "u-cg-d5",
+  "name": "Fifth Coast Guard District",
+  "branch": "Coast Guard",
+  "group": "Coast Guard commands",
+  "wiki": "Fifth Coast Guard District",
+  "file": "File:USCG Fifth District.png"
+ },
+ {
+  "id": "u-cg-d7",
+  "name": "Seventh Coast Guard District",
+  "branch": "Coast Guard",
+  "group": "Coast Guard commands",
+  "wiki": "Seventh Coast Guard District",
+  "file": "File:USCG Seventh District.png"
+ },
+ {
+  "id": "u-cg-d11",
+  "name": "Eleventh Coast Guard District",
+  "branch": "Coast Guard",
+  "group": "Coast Guard commands",
+  "wiki": "Eleventh Coast Guard District",
+  "file": "File:Uscg 11 district.png"
+ },
+ {
+  "id": "u-cg-d14",
+  "name": "Fourteenth Coast Guard District",
+  "branch": "Coast Guard",
+  "group": "Coast Guard commands",
+  "wiki": "Fourteenth Coast Guard District",
+  "file": "File:USCG Fourteenth District.png"
+ },
+ {
+  "id": "u-cg-d17",
+  "name": "Seventeenth Coast Guard District",
+  "branch": "Coast Guard",
+  "group": "Coast Guard commands",
+  "wiki": "Seventeenth Coast Guard District",
+  "file": "File:USCG Seventeenth District.png"
+ },
+ {
+  "id": "u-cg-reserve",
+  "name": "Coast Guard Reserve",
+  "branch": "Coast Guard",
+  "group": "Coast Guard commands",
+  "wiki": "United States Coast Guard Reserve",
+  "file": "File:United States Coast Guard Reserve emblem.png"
+ },
+ {
+  "id": "u-cg-aux",
+  "name": "Coast Guard Auxiliary",
+  "branch": "Coast Guard",
+  "group": "Coast Guard commands",
+  "wiki": "United States Coast Guard Auxiliary",
+  "file": "File:Seal of the United States Coast Guard Auxiliary.svg"
+ },
+ {
+  "id": "u-cg-cyber",
+  "name": "Coast Guard Cyber Command",
+  "branch": "Coast Guard",
+  "group": "Coast Guard commands",
+  "wiki": "Coast Guard Cyber Command",
+  "file": "File:Coast Guard Cyber Command.png"
+ },
+ {
+  "id": "u-sf-cspoc",
+  "name": "Combined Space Operations Center (CSpOC)",
+  "branch": "Space Force",
+  "group": "Space Force unit patches",
+  "wiki": "Combined Space Operations Center",
+  "file": "File:CSpOC Patch.jpg"
+ },
+ {
+  "id": "u-sf-12sws",
+  "name": "12th Space Warning Squadron",
+  "branch": "Space Force",
+  "group": "Space Force unit patches",
+  "wiki": "12th Space Warning Squadron",
+  "file": "File:12 SWS Emblem v2.jpg"
  }
 ]
