@@ -343,11 +343,9 @@ All from Wikimedia Commons, tagged public domain. The EOD Basic and Senior pictu
 | u-ssi-35id | 35th Infantry Division SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:35th_Infantry_Division_SSI.svg |
 | u-ssi-42id | 42nd Infantry Division SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:42nd_Infantry_Division_SSI.svg |
 | u-ssi-45id | 45th Infantry insignia (thunderbird).svg | Public domain | https://commons.wikimedia.org/wiki/File:45th_Infantry_insignia_(thunderbird).svg |
-| u-ssi-75id | 75th Infantry Division patch.svg | Public domain | https://commons.wikimedia.org/wiki/File:75th_Infantry_Division_patch.svg |
 | u-ssi-78id | 78th Infantry Division SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:78th_Infantry_Division_SSI.svg |
 | u-ssi-79id | 79th Infantry Division SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:79th_Infantry_Division_SSI.svg |
 | u-ssi-83id | 83rd Infantry Division SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:83rd_Infantry_Division_SSI.svg |
-| u-ssi-88id | 88th Infantry Division SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:88th_Infantry_Division_SSI.svg |
 | u-ssi-90id | 90th Infantry Division.patch.svg | Public domain | https://commons.wikimedia.org/wiki/File:90th_Infantry_Division.patch.svg |
 | u-ssi-96id | 96th Infantry Division SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:96th_Infantry_Division_SSI.svg |
 | u-ssi-100id | 100th Infantry Division SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:100th_Infantry_Division_SSI.svg |
@@ -389,7 +387,6 @@ All from Wikimedia Commons, tagged public domain. The EOD Basic and Senior pictu
 | u-af-mac | USAF - Military Airlift Command.png | Public domain | https://commons.wikimedia.org/wiki/File:USAF_-_Military_Airlift_Command.png |
 | u-af-adc | Air Defense Command.png | Public domain | https://commons.wikimedia.org/wiki/File:Air_Defense_Command.png |
 | u-af-afsc | USAF - Systems Command.png | Public domain | https://commons.wikimedia.org/wiki/File:USAF_-_Systems_Command.png |
-| u-af-aflc | USAF - Logistics Command.png | Public domain | https://commons.wikimedia.org/wiki/File:USAF_-_Logistics_Command.png |
 | u-af-atc | Air Training Command Emblem.png | Public domain | https://commons.wikimedia.org/wiki/File:Air_Training_Command_Emblem.png |
 | u-af-mats | Military Air Transport Service - Emblem.svg | Public domain | https://commons.wikimedia.org/wiki/File:Military_Air_Transport_Service_-_Emblem.svg |
 | u-ssi-82abn | 82nd Abn Div patch.jpg | Public domain | https://commons.wikimedia.org/wiki/File:82nd_Abn_Div_patch.jpg |

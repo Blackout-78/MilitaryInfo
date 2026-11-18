@@ -1,3 +1,8 @@
+## 0.21.1
+- Source check on the Patches tab. Eras were being guessed from years in the text, and some were wrong (for example units that fought in WWII but showed only modern). Now an era range is set only when the source text gives a formation year; otherwise the entry is tagged Unverified and shows under every era.
+- Removed 3 more entries whose source text described a different unit: 75th Infantry Division, 88th Infantry Division, Air Force Logistics Command.
+- Renamed 78th Division and 100th Division to show they are now training divisions.
+
 ## 0.21.0
 - Patches tab grows from 61 to 114 units: more Army brigades and commands (22), 19 Air Force numbered air forces, Coast Guard Atlantic and Pacific Areas, Reserve and Auxiliary, and two Space Force units.
 - Every picture was checked against its name. Entries whose source text described a different unit were removed (for example 56th Field Artillery Command, 44th Medical Command, Coast Guard districts).

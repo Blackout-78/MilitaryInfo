@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "0.21.0-patches-2",
+  "dataVersion": "0.21.1-patch-sources",
   "entries": [
     {
       "id": "m-moh",
@@ -16453,12 +16453,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "1st Infantry Division: army shoulder patches.",
       "image": "badges/u-ssi-1id.png",
       "sources": [
         "Wikipedia, \"1st Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -16472,6 +16473,9 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
         "korea",
         "vietnam",
         "coldwar",
@@ -16488,12 +16492,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "2nd Infantry Division: army shoulder patches.",
       "image": "badges/u-ssi-2id.png",
       "sources": [
         "Wikipedia, \"2nd Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -16507,6 +16512,8 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
         "ww2",
         "korea",
         "vietnam",
@@ -16524,12 +16531,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "3rd Infantry Division: army shoulder patches.",
       "image": "badges/u-ssi-3id.png",
       "sources": [
         "Wikipedia, \"3rd Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -16566,7 +16574,7 @@
       "sources": [
         "Wikipedia, \"4th Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -16635,12 +16643,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "29th Infantry Division: army shoulder patches.",
       "image": "badges/u-ssi-29id.png",
       "sources": [
         "Wikipedia, \"29th Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -16654,6 +16663,8 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
         "ww2",
         "korea",
         "vietnam",
@@ -16671,12 +16682,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "30th Infantry Division: army shoulder patches.",
       "image": "badges/u-ssi-30id.png",
       "sources": [
         "Wikipedia, \"30th Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -16692,7 +16704,12 @@
       "eras": [
         "ww1",
         "interwar",
-        "ww2"
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
       ],
       "summary": "The United States 32nd Infantry Division was formed from Army National Guard units from Wisconsin and Michigan and fought primarily during World War I and World War II.",
       "facts": [
@@ -16704,12 +16721,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "32nd Infantry Division: army shoulder patches.",
       "image": "badges/u-ssi-32id.png",
       "sources": [
         "Wikipedia, \"32nd Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -16742,7 +16760,7 @@
       "sources": [
         "Wikipedia, \"35th Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -16775,12 +16793,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "42nd Infantry Division: army shoulder patches.",
       "image": "badges/u-ssi-42id.png",
       "sources": [
         "Wikipedia, \"42nd Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -16794,11 +16813,14 @@
         "Army"
       ],
       "eras": [
+        "ww1",
         "interwar",
         "ww2",
         "korea",
         "vietnam",
-        "coldwar"
+        "coldwar",
+        "gulf",
+        "modern"
       ],
       "summary": "The 45th Infantry Division was an infantry division of the United States Army, most associated with the Oklahoma Army National Guard, from 1920 to 1968. Headquartered for most of its history in Oklahoma City, Oklahoma, the guardsmen fought in both World War II and the Korean War.",
       "facts": [
@@ -16810,48 +16832,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "45th Infantry Division: army shoulder patches.",
       "image": "badges/u-ssi-45id.png",
       "sources": [
         "Wikipedia, \"45th Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
-      ],
-      "yearFrom": null,
-      "yearTo": null
-    },
-    {
-      "id": "u-ssi-75id",
-      "tab": "patches",
-      "group": "Army shoulder patches (SSI)",
-      "name": "75th Infantry Division",
-      "branches": [
-        "Army"
-      ],
-      "eras": [
-        "ww2",
-        "korea",
-        "vietnam",
-        "coldwar",
-        "gulf",
-        "modern"
-      ],
-      "summary": "The 75th Innovation Command (75th IC) is a separate command of the United States Army Reserve. The 75th IC was activated as the 75th Infantry Division in World War II on April 15 1943.",
-      "facts": [
-        "Patch type: Army shoulder sleeve insignia (SSI).",
-        "Inactivated in 1945, it was reactivated in 1952 at Houston, Texas, from the assets of the disbanded 22nd Armored Division of the United States Army Organized Reserves.",
-        "It was active as an Infantry Division from 1952 to 1957, when it was reorganized and redesignated as the 75th Maneuver Area Command (MAC), and given responsibility for planning and conducting Field Training Exercises (FTX) and ...",
-        "Picture file on Wikimedia Commons: 75th Infantry Division patch.svg"
-      ],
-      "variants": [],
-      "swatches": [],
-      "attachments": [],
-      "proof": "historical",
-      "remember": "75th Infantry Division: army shoulder patches.",
-      "image": "badges/u-ssi-75id.png",
-      "sources": [
-        "Wikipedia, \"75th Innovation Command\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -16860,11 +16847,18 @@
       "id": "u-ssi-78id",
       "tab": "patches",
       "group": "Army shoulder patches (SSI)",
-      "name": "78th Infantry Division",
+      "name": "78th Division (now 78th Training Division)",
       "branches": [
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 78th Training Division (Operations) (\"Lightning\") is a unit of the United States Army which served in World War I and World War II as the 78th Infantry Division, and currently trains and evaluates units of the United States Army Reserve for deployment.",
@@ -16876,12 +16870,12 @@
       "swatches": [],
       "attachments": [],
       "proof": "unverified",
-      "remember": "78th Infantry Division: army shoulder patches.",
+      "remember": "78th Division (now 78th Training Division): army shoulder patches.",
       "image": "badges/u-ssi-78id.png",
       "sources": [
         "Wikipedia, \"78th Training Division\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -16895,6 +16889,13 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 79th Infantry Division (formerly known as the 79th Division) was an infantry formation of the United States Army Reserve in World Wars I and II. Since 2009, it has been active as the 79th Theater Sustainment Command.",
@@ -16905,12 +16906,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "79th Infantry Division: army shoulder patches.",
       "image": "badges/u-ssi-79id.png",
       "sources": [
         "Wikipedia, \"79th Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -16924,6 +16926,13 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 83rd Infantry Division (\"Thunderbolt\") was a formation of the United States Army in World War I and World War II. Since 2014 the division's descendant is the 83rd United States Army Reserve Readiness Training Center (83rd USARRTC), United States Army Reserve, at Fort Knox, Kentucky.",
@@ -16934,48 +16943,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "83rd Infantry Division: army shoulder patches.",
       "image": "badges/u-ssi-83id.png",
       "sources": [
         "Wikipedia, \"83rd Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
-      ],
-      "yearFrom": null,
-      "yearTo": null
-    },
-    {
-      "id": "u-ssi-88id",
-      "tab": "patches",
-      "group": "Army shoulder patches (SSI)",
-      "name": "88th Infantry Division",
-      "branches": [
-        "Army"
-      ],
-      "eras": [
-        "ww2",
-        "korea",
-        "vietnam",
-        "coldwar",
-        "gulf",
-        "modern"
-      ],
-      "summary": "The 88th Readiness Division is an administrative formation of the United States Army Reserve. It traces its history to the 88th Infantry Division, a infantry division of the United States Army that saw service in both World War I and World War II.",
-      "facts": [
-        "Patch type: Army shoulder sleeve insignia (SSI).",
-        "It was one of the first of the Organized Reserve divisions to be called into federal service, created nearly \"from scratch\" after the implementation of the draft in 1940.",
-        "Previous divisions were composed of a core of either Regular Army or National Guard personnel plus draftees.",
-        "Picture file on Wikimedia Commons: 88th Infantry Division SSI.svg"
-      ],
-      "variants": [],
-      "swatches": [],
-      "attachments": [],
-      "proof": "historical",
-      "remember": "88th Infantry Division: army shoulder patches.",
-      "image": "badges/u-ssi-88id.png",
-      "sources": [
-        "Wikipedia, \"88th Readiness Division\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -16989,6 +16963,13 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 90th Infantry Division (\"Tough 'Ombres\") was a unit of the United States Army that served in World War I and World War II. Its lineage is carried on by the 90th Sustainment Brigade.",
@@ -17005,7 +16986,7 @@
       "sources": [
         "Wikipedia, \"90th Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17057,7 +17038,14 @@
         "Army"
       ],
       "eras": [
-        "ww1"
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
       ],
       "summary": "The 100th Training Division (Leader Development) (formerly the 100th Infantry Division) is a division of the United States Army headquartered at Fort Knox, Kentucky. It currently serves as a major training command of the United States Army Reserve.",
       "facts": [
@@ -17069,12 +17057,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "100th Infantry Division (now 100th Training Division): army shoulder patches.",
       "image": "badges/u-ssi-100id.png",
       "sources": [
         "Wikipedia, \"100th Training Division\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17088,7 +17077,14 @@
         "Army"
       ],
       "eras": [
-        "ww2"
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
       ],
       "summary": "The 103rd Infantry Division (\"Cactus Division\") was a unit of the United States Army that served in the U.S. Seventh Army of the 6th Army Group during World War II. It was variously assigned to the VI Corps, XV Corps, and XXI Corps.",
       "facts": [
@@ -17099,12 +17095,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "103rd Infantry Division: army shoulder patches.",
       "image": "badges/u-ssi-103id.png",
       "sources": [
         "Wikipedia, \"103rd Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17150,6 +17147,13 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 6th Armored Division (\"Super Sixth\") was an armored division of the United States Army during World War II. It was formed with a cadre from the 2nd Armored Division.",
@@ -17166,7 +17170,7 @@
       "sources": [
         "Wikipedia, \"6th Armored Division (United States)\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17211,6 +17215,13 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 14th Armored Division was an armored division of the United States Army assigned to the Seventh Army of the Sixth Army Group during World War II. It remains on the permanent roll of the Regular Army as an inactive division, and is eligible for reactivation.",
@@ -17228,7 +17239,7 @@
       "sources": [
         "Wikipedia, \"14th Armored Division (United States)\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17295,12 +17306,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "173rd Airborne Brigade (Sky Soldiers): army shoulder patches.",
       "image": "badges/u-ssi-173abn.png",
       "sources": [
         "Wikipedia, \"173rd Airborne Brigade\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17314,6 +17326,13 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 75th Ranger Regiment, also known as the Rangers, is the United States Army Special Operations Command's premier light-infantry and special operations force.",
@@ -17325,12 +17344,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "75th Ranger Regiment: army shoulder patches.",
       "image": "badges/u-ssi-75rr.png",
       "sources": [
         "Wikipedia, \"75th Ranger Regiment\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17344,7 +17364,14 @@
         "Army"
       ],
       "eras": [
-        "ww2"
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
       ],
       "summary": "The Seventh Army was a United States army created during World War II that evolved into the United States Army Europe (USAREUR) during the 1950s and 1960s.",
       "facts": [
@@ -17356,12 +17383,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Seventh Army: army shoulder patches.",
       "image": "badges/u-ssi-7a.png",
       "sources": [
         "Wikipedia, \"Seventh United States Army\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17375,7 +17403,14 @@
         "Army"
       ],
       "eras": [
-        "ww2"
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
       ],
       "summary": "The Ninth Army was a field army of the United States Army, most recently garrisoned at Caserma Ederle, Vicenza, Italy. It was the United States Army Service Component Command of United States Africa Command (USAFRICOM or AFRICOM).",
       "facts": [
@@ -17387,12 +17422,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Ninth Army: army shoulder patches.",
       "image": "badges/u-ssi-9a.png",
       "sources": [
         "Wikipedia, \"Ninth Army (United States)\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17406,6 +17442,13 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "Sixth Army is a theater army of the United States Army. The Army service component command of United States Southern Command, its area of responsibility includes 31 countries and 15 areas of special sovereignty in Central and South America and the Caribbean. It is headquartered at Fort Sam Houston.",
@@ -17418,12 +17461,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Sixth Army: army shoulder patches.",
       "image": "badges/u-ssi-6a.png",
       "sources": [
         "Wikipedia, \"Sixth Army (United States)\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17437,6 +17481,13 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "United States Army South (ARSOUTH) was an Army service component command of United States Southern Command whose area of responsibility includes 31 countries and 15 areas of special sovereignty in Central and South America and the Caribbean. It was headquartered at Fort Sam Houston, Texas. U.S.",
@@ -17449,12 +17500,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "U.S. Army South: army shoulder patches.",
       "image": "badges/u-ssi-arsouth.png",
       "sources": [
         "Wikipedia, \"United States Army South\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17488,7 +17540,7 @@
       "sources": [
         "Wikipedia, \"United States Army Japan\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17566,6 +17618,13 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The United States Army Futures Command (AFC) was a United States Army command that ran modernization projects. It was headquartered in Austin, Texas. The AFC began initial operations on 1 July 2018.",
@@ -17578,12 +17637,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Army Futures Command: army shoulder patches.",
       "image": "badges/u-ssi-afc.png",
       "sources": [
         "Wikipedia, \"United States Army Futures Command\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17618,7 +17678,7 @@
       "sources": [
         "Wikipedia, \"United States Army Recruiting Command\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17652,7 +17712,7 @@
       "sources": [
         "Wikipedia, \"United States Army Parachute Team\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17666,10 +17726,14 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
         "ww2",
         "korea",
         "vietnam",
-        "coldwar"
+        "coldwar",
+        "gulf",
+        "modern"
       ],
       "summary": "The United States Army Security Agency (ASA) was the United States Army's signals intelligence branch from 1945 to 1987.",
       "facts": [
@@ -17681,12 +17745,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Army Security Agency: army shoulder patches.",
       "image": "badges/u-ssi-asa.png",
       "sources": [
         "Wikipedia, \"United States Army Security Agency\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17700,7 +17765,14 @@
         "Army"
       ],
       "eras": [
-        "ww2"
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
       ],
       "summary": "The I Armored Corps was a corps-sized formation of the United States Army that was active in World War II.",
       "facts": [
@@ -17712,12 +17784,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "1st Armored Corps: army shoulder patches.",
       "image": "badges/u-ssi-1armcorps.png",
       "sources": [
         "Wikipedia, \"I Armored Corps (United States)\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17753,7 +17826,7 @@
       "sources": [
         "Wikipedia, \"1st Marine Division\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17767,6 +17840,13 @@
         "Marine Corps"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 3rd Marine Division is a division of the United States Marine Corps based at Camp Courtney, Marine Corps Base Camp Smedley D. Butler in Okinawa, Japan.",
@@ -17784,7 +17864,7 @@
       "sources": [
         "Wikipedia, \"3rd Marine Division\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17798,6 +17878,8 @@
         "Marine Corps"
       ],
       "eras": [
+        "ww1",
+        "interwar",
         "ww2",
         "korea",
         "vietnam",
@@ -17814,12 +17896,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "4th Marine Division: marine corps division insignia.",
       "image": "badges/u-mc-4mardiv.png",
       "sources": [
         "Wikipedia, \"4th Marine Division\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17833,6 +17916,13 @@
         "Air Force"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The Air Combat Command (ACC) is a major command (MAJCOM) of the United States Air Force, reporting to Headquarters, United States Air Force (HAF) at the Pentagon. It is the primary provider of air combat forces for the Air Force, and it is the direct successor to Tactical Air Command.",
@@ -17844,12 +17934,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Air Combat Command (ACC): air force major commands.",
       "image": "badges/u-af-acc.png",
       "sources": [
         "Wikipedia, \"Air Combat Command\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17880,7 +17971,7 @@
       "sources": [
         "Wikipedia, \"Air Education and Training Command\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17894,6 +17985,13 @@
         "Air Force"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The Air Force Global Strike Command (AFGSC) is a major command (MAJCOM) of the United States Air Force, headquartered at Barksdale Air Force Base, Louisiana. AFGSC provides combat-ready forces to conduct strategic nuclear deterrence and global strike operations in support of combatant commanders.",
@@ -17911,7 +18009,7 @@
       "sources": [
         "Wikipedia, \"Air Force Global Strike Command\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17942,7 +18040,7 @@
       "sources": [
         "Wikipedia, \"Air Force Materiel Command\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17973,7 +18071,7 @@
       "sources": [
         "Wikipedia, \"United States Air Force Reserve\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -17987,6 +18085,10 @@
         "Air Force"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
         "vietnam",
         "coldwar",
         "gulf",
@@ -18001,12 +18103,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Air Force Special Operations Command (AFSOC): air force major commands.",
       "image": "badges/u-af-afsoc.png",
       "sources": [
         "Wikipedia, \"Air Force Special Operations Command\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18020,6 +18123,8 @@
         "Air Force"
       ],
       "eras": [
+        "ww1",
+        "interwar",
         "ww2",
         "korea",
         "vietnam",
@@ -18036,12 +18141,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Air Mobility Command (AMC): air force major commands.",
       "image": "badges/u-af-amc.png",
       "sources": [
         "Wikipedia, \"Air Mobility Command\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18055,6 +18161,13 @@
         "Air Force"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The Pacific Air Forces (PACAF) is a major command (MAJCOM) of the United States Air Force and is also the air component command of the United States Indo-Pacific Command (USINDOPACOM).",
@@ -18072,7 +18185,7 @@
       "sources": [
         "Wikipedia, \"Pacific Air Forces\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18142,7 +18255,7 @@
       "sources": [
         "Wikipedia, \"Air National Guard\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18156,6 +18269,9 @@
         "Air Force"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
         "korea",
         "vietnam",
         "coldwar",
@@ -18171,12 +18287,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Strategic Air Command (SAC): air force major commands.",
       "image": "badges/u-af-sac.png",
       "sources": [
         "Wikipedia, \"Strategic Air Command\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18224,6 +18341,8 @@
         "Air Force"
       ],
       "eras": [
+        "ww1",
+        "interwar",
         "ww2",
         "korea",
         "vietnam",
@@ -18240,12 +18359,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Military Airlift Command (MAC): air force major commands.",
       "image": "badges/u-af-mac.png",
       "sources": [
         "Wikipedia, \"Military Airlift Command\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18278,7 +18398,7 @@
       "sources": [
         "Wikipedia, \"Aerospace Defense Command\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18310,38 +18430,7 @@
       "sources": [
         "Wikipedia, \"Air Force Systems Command\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
-      ],
-      "yearFrom": null,
-      "yearTo": null
-    },
-    {
-      "id": "u-af-aflc",
-      "tab": "patches",
-      "group": "Air Force major commands (former)",
-      "name": "Air Force Logistics Command (AFLC)",
-      "branches": [
-        "Air Force"
-      ],
-      "eras": [
-        "vietnam",
-        "coldwar"
-      ],
-      "summary": "Air Materiel Command (AMC) was a United States Army Air Forces and United States Air Force command. Its headquarters was located at Wright-Patterson Air Force Base, Ohio.",
-      "facts": [
-        "In 1961, the command was redesignated the Air Force Logistics Command (AFLC) with some of its functions transferred to the new Air Force Systems Command.",
-        "Picture file on Wikimedia Commons: USAF - Logistics Command.png"
-      ],
-      "variants": [],
-      "swatches": [],
-      "attachments": [],
-      "proof": "unverified",
-      "remember": "Air Force Logistics Command (AFLC): air force major commands.",
-      "image": "badges/u-af-aflc.png",
-      "sources": [
-        "Wikipedia, \"Air Materiel Command\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18389,6 +18478,8 @@
         "Air Force"
       ],
       "eras": [
+        "ww1",
+        "interwar",
         "ww2",
         "korea",
         "vietnam",
@@ -18405,12 +18496,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Military Air Transport Service (MATS): air force major commands.",
       "image": "badges/u-af-mats.png",
       "sources": [
         "Wikipedia, \"Military Air Transport Service\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18462,7 +18554,14 @@
         "Army"
       ],
       "eras": [
-        "ww2"
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
       ],
       "summary": "The 17th Airborne Division, \"The Golden Talons\", was an airborne infantry division of the United States Army during World War II, commanded by Major General William M. Miley. Activated in April 1943, the division took part in the Knollwood Maneuver and other exercises that helped ensure that the ...",
       "facts": [
@@ -18474,12 +18573,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "17th Airborne Division: army shoulder patches.",
       "image": "badges/u-ssi-17abn.png",
       "sources": [
         "Wikipedia, \"17th Airborne Division\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18531,6 +18631,13 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 6th Cavalry Brigade was a tactical formation of the United States Army which served in the Second World War before being disbanded following the end of the Cold War.",
@@ -18547,7 +18654,7 @@
       "sources": [
         "Wikipedia, \"6th Cavalry Brigade (United States)\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18561,6 +18668,13 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 16th Engineer Brigade is a combat engineer brigade of the United States Army National Guard of Ohio. The brigade is responsible for a number of units throughout Ohio, most of which are also combat engineer units.",
@@ -18577,7 +18691,7 @@
       "sources": [
         "Wikipedia, \"16th Engineer Brigade\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18591,6 +18705,10 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
         "vietnam",
         "coldwar",
         "gulf",
@@ -18606,12 +18724,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "18th Engineer Brigade: army shoulder patches.",
       "image": "badges/u-ssi-18eng.png",
       "sources": [
         "Wikipedia, \"18th Engineer Brigade\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18625,6 +18744,13 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 411th Engineer Brigade (Theater Army) is a combat engineer brigade of the United States Army headquartered in New Windsor, New York. It is a major engineer command of the United States Army Reserve.",
@@ -18643,7 +18769,7 @@
       "sources": [
         "Wikipedia, \"411th Engineer Brigade (United States)\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18657,6 +18783,13 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 16th Military Police Brigade is a military police brigade of the United States Army headquartered at Fort Bragg, North Carolina. This brigade was the only airborne-qualified military police units in the U.S. Army, outside of the former 82nd MP Company of the 82nd Airborne Division.",
@@ -18669,12 +18802,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "16th Military Police Brigade: army shoulder patches.",
       "image": "badges/u-ssi-16mp.png",
       "sources": [
         "Wikipedia, \"16th Military Police Brigade\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18688,6 +18822,13 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 18th Military Police Brigade is a military police brigade of the United States Army based in Vilseck, Germany, with subordinate battalions and companies stationed throughout Germany. It provides law enforcement and force protection duties to United States Army Europe.",
@@ -18700,12 +18841,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "18th Military Police Brigade: army shoulder patches.",
       "image": "badges/u-ssi-18mp.png",
       "sources": [
         "Wikipedia, \"18th Military Police Brigade\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18719,6 +18861,13 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 35th Military Police Brigade (Combat Support) is a unit of the Missouri Army National Guard, located at Jefferson Barracks, Missouri.",
@@ -18731,12 +18880,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "35th Military Police Brigade: army shoulder patches.",
       "image": "badges/u-ssi-35mp.png",
       "sources": [
         "Wikipedia, \"35th Military Police Brigade\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18750,6 +18900,13 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 45th Sustainment Brigade was a sustainment brigade of the United States Army based at Schofield Barracks, Hawaii. The 45th SB was directly subordinate to the 8th Theater Sustainment Command until 2015 when the Army aligned sustainment brigades to major divisions.",
@@ -18761,12 +18918,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "45th Sustainment Brigade: army shoulder patches.",
       "image": "badges/u-ssi-45sust.png",
       "sources": [
         "Wikipedia, \"45th Sustainment Brigade\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18811,6 +18969,13 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 1st Medical Brigade is a medical brigade of the United States Army. It is located at Fort Hood, Texas, providing health care and medical services to the Fort Hood community, and continuing training in its combat support mission.",
@@ -18827,7 +18992,7 @@
       "sources": [
         "Wikipedia, \"1st Medical Brigade\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18841,6 +19006,13 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 5th Medical Brigade is a medical brigade of the United States Army Reserve subordinate to the 3rd Medical Command and headquartered in Birmingham, Alabama.",
@@ -18857,7 +19029,7 @@
       "sources": [
         "Wikipedia, \"5th Medical Brigade\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18871,6 +19043,9 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
         "korea",
         "vietnam",
         "coldwar",
@@ -18887,12 +19062,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "3rd Signal Brigade: army shoulder patches.",
       "image": "badges/u-ssi-3sig.png",
       "sources": [
         "Wikipedia, \"3rd Signal Brigade\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -18925,12 +19101,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "79th Infantry Brigade Combat Team: army shoulder patches.",
       "image": "badges/u-ssi-79ibct.png",
       "sources": [
         "Wikipedia, \"79th Infantry Brigade Combat Team\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -19009,6 +19186,13 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 37th Infantry Brigade Combat Team (Buckeye) is an infantry brigade combat team of the United States Army National Guard with the brigade headquarters, cavalry squadron, field artillery battalion, engineer battalion, one infantry battalion, and support battalion stationed in Ohio, one infantry ...",
@@ -19026,7 +19210,7 @@
       "sources": [
         "Wikipedia, \"37th Infantry Brigade Combat Team\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -19040,6 +19224,13 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 40th Infantry Brigade Combat Team was an infantry brigade of the United States Army National Guard in the state of California.",
@@ -19056,7 +19247,7 @@
       "sources": [
         "Wikipedia, \"40th Infantry Brigade Combat Team\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -19070,6 +19261,13 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 53rd Infantry Brigade Combat Team is an infantry brigade combat team of the Florida Army National Guard. The 53rd Infantry Brigade is the largest National Guard unit in the state of Florida.",
@@ -19088,7 +19286,7 @@
       "sources": [
         "Wikipedia, \"53rd Infantry Brigade Combat Team\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -19102,6 +19300,13 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 91st Cyber Brigade the \"Shadow Brigade\" is a unit of the Army National Guard since September 2017 stationed at Fort Belvoir, Va. The Brigade's mission is to provide training and readiness in cyber security and operational control in the cyber realm.",
@@ -19114,12 +19319,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "91st Cyber Brigade: army shoulder patches.",
       "image": "badges/u-ssi-91cyber.png",
       "sources": [
         "Wikipedia, \"91st Cyber Brigade\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -19133,6 +19339,13 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 1st Theater Sustainment Command (1st TSC) is a major subordinate unit of United States Army Central at Fort Knox, Kentucky, United States.",
@@ -19149,7 +19362,7 @@
       "sources": [
         "Wikipedia, \"1st Theater Sustainment Command\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -19200,6 +19413,13 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 412th Theater Engineer Command (412th TEC), previously the 372nd Engineer General Service Regiment, is a United States Army Reserve unit that conducts theater-level engineer operations for Eighth U.S. Army, Korea; U.S. Army Europe; and U.S.",
@@ -19217,7 +19437,7 @@
       "sources": [
         "Wikipedia, \"412th Engineer Command (United States)\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -19231,6 +19451,13 @@
         "Army"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The United States Army Special Operations Command (Airborne) (USASOC) is the command charged with overseeing the various special operations forces of the United States Army. Headquartered at Fort Bragg, North Carolina, it is the largest component of the United States Special Operations Command.",
@@ -19249,7 +19476,7 @@
       "sources": [
         "Wikipedia, \"United States Army Special Operations Command\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -19298,6 +19525,8 @@
         "Air Force"
       ],
       "eras": [
+        "ww1",
+        "interwar",
         "ww2",
         "korea",
         "vietnam",
@@ -19314,12 +19543,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Second Air Force: air force numbered air forces.",
       "image": "badges/u-af-naf-second.png",
       "sources": [
         "Wikipedia, \"Second Air Force\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -19403,6 +19633,8 @@
         "Air Force"
       ],
       "eras": [
+        "ww1",
+        "interwar",
         "ww2",
         "korea",
         "vietnam",
@@ -19419,12 +19651,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Fifth Air Force: air force numbered air forces.",
       "image": "badges/u-af-naf-fifth.png",
       "sources": [
         "Wikipedia, \"Fifth Air Force\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -19438,6 +19671,8 @@
         "Air Force"
       ],
       "eras": [
+        "ww1",
+        "interwar",
         "ww2",
         "korea",
         "vietnam",
@@ -19454,12 +19689,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Seventh Air Force: air force numbered air forces.",
       "image": "badges/u-af-naf-seventh.png",
       "sources": [
         "Wikipedia, \"Seventh Air Force\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -19473,6 +19709,8 @@
         "Air Force"
       ],
       "eras": [
+        "ww1",
+        "interwar",
         "ww2",
         "korea",
         "vietnam",
@@ -19489,12 +19727,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Eighth Air Force: air force numbered air forces.",
       "image": "badges/u-af-naf-eighth.png",
       "sources": [
         "Wikipedia, \"Eighth Air Force\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -19508,6 +19747,8 @@
         "Air Force"
       ],
       "eras": [
+        "ww1",
+        "interwar",
         "ww2",
         "korea",
         "vietnam",
@@ -19524,12 +19765,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Ninth Air Force: air force numbered air forces.",
       "image": "badges/u-af-naf-ninth.png",
       "sources": [
         "Wikipedia, \"Ninth Air Force\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -19578,6 +19820,8 @@
         "Air Force"
       ],
       "eras": [
+        "ww1",
+        "interwar",
         "ww2",
         "korea",
         "vietnam",
@@ -19594,12 +19838,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Eleventh Air Force: air force numbered air forces.",
       "image": "badges/u-af-naf-eleventh.png",
       "sources": [
         "Wikipedia, \"Eleventh Air Force\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -19613,6 +19858,8 @@
         "Air Force"
       ],
       "eras": [
+        "ww1",
+        "interwar",
         "ww2",
         "korea",
         "vietnam",
@@ -19629,12 +19876,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Thirteenth Air Force: air force numbered air forces.",
       "image": "badges/u-af-naf-thirteenth.png",
       "sources": [
         "Wikipedia, \"Thirteenth Expeditionary Air Force\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -19648,6 +19896,8 @@
         "Air Force"
       ],
       "eras": [
+        "ww1",
+        "interwar",
         "ww2",
         "korea",
         "vietnam",
@@ -19664,12 +19914,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Fifteenth Air Force: air force numbered air forces.",
       "image": "badges/u-af-naf-fifteenth.png",
       "sources": [
         "Wikipedia, \"Fifteenth Air Force\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -19716,6 +19967,9 @@
         "Air Force"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
         "korea",
         "vietnam",
         "coldwar",
@@ -19731,12 +19985,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Seventeenth Air Force: air force numbered air forces.",
       "image": "badges/u-af-naf-seventeenth.png",
       "sources": [
         "Wikipedia, \"Seventeenth Expeditionary Air Force\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -19813,6 +20068,8 @@
         "Air Force"
       ],
       "eras": [
+        "ww1",
+        "interwar",
         "ww2",
         "korea",
         "vietnam",
@@ -19829,12 +20086,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Twentieth Air Force: air force numbered air forces.",
       "image": "badges/u-af-naf-twentieth.png",
       "sources": [
         "Wikipedia, \"Twentieth Air Force\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -19877,6 +20135,13 @@
         "Air Force"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The Twenty-Third Air Force (Air Forces Special Operations Forces) was a Numbered Air Force that was assigned to Air Force Special Operations Command. It was stationed at Hurlburt Field, Florida and was active from 1 January 2008 until 4 April 2013.",
@@ -19888,12 +20153,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Twenty-Third Air Force: air force numbered air forces.",
       "image": "badges/u-af-naf-twthird.png",
       "sources": [
         "Wikipedia, \"Twenty-Third Air Force\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -19907,6 +20173,13 @@
         "Air Force"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "Twenty-Fourth Air Force / Air Forces Cyber (AFCYBER) was a Numbered Air Force within the United States Air Force. The Air Force consolidated its cyberspace combat and support forces into 24 AF. 24 AF was the Air Force component of U.S. Cyber Command.",
@@ -19917,12 +20190,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Twenty-Fourth Air Force: air force numbered air forces.",
       "image": "badges/u-af-naf-twfourth.png",
       "sources": [
         "Wikipedia, \"Twenty-Fourth Air Force\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -19936,6 +20210,8 @@
         "Air Force"
       ],
       "eras": [
+        "ww1",
+        "interwar",
         "ww2",
         "korea",
         "vietnam",
@@ -19952,12 +20228,13 @@
       "variants": [],
       "swatches": [],
       "attachments": [],
-      "proof": "historical",
+      "proof": "unverified",
       "remember": "Twelfth Air Force: air force numbered air forces.",
       "image": "badges/u-af-naf-twelfth.png",
       "sources": [
         "Wikipedia, \"Twelfth Air Force\" (introduction text; a secondary source, not an official record)",
-        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -19971,6 +20248,13 @@
         "Coast Guard"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "Coast Guard Atlantic Area (LANTAREA) is an Area Command of the United States Coast Guard, a regional command element and force provider tasked with maritime safety, security, and stewardship throughout the Atlantic.",
@@ -19987,7 +20271,7 @@
       "sources": [
         "Wikipedia, \"Coast Guard Atlantic Area\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -20001,6 +20285,13 @@
         "Coast Guard"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "Coast Guard Pacific Area & Defense Forces West (PACAREA) is an Area Command of the United States Coast Guard, a regional command element and force provider tasked with maritime safety, security, and stewardship throughout the Pacific.",
@@ -20018,7 +20309,7 @@
       "sources": [
         "Wikipedia, \"Coast Guard Pacific Area\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -20032,6 +20323,13 @@
         "Coast Guard"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The United States Coast Guard Reserve is the reserve component of the United States Coast Guard. It is organized, trained, administered, and supplied under the direction of the commandant of the Coast Guard through the assistant commandant for reserve (CG-R).",
@@ -20047,7 +20345,7 @@
       "sources": [
         "Wikipedia, \"United States Coast Guard Reserve\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -20096,6 +20394,13 @@
         "Space Force"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The Combined Space Operations Center (CSpOC) is a U.S.–led multinational space operations center that provides command and control of space forces for the United States Space Command under the United States Space Force component field command United States Space Forces – Space.",
@@ -20112,7 +20417,7 @@
       "sources": [
         "Wikipedia, \"Combined Space Operations Center\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
@@ -20126,6 +20431,13 @@
         "Space Force"
       ],
       "eras": [
+        "ww1",
+        "interwar",
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
         "modern"
       ],
       "summary": "The 12th Space Warning Squadron is a United States Space Force ground-based radar used for missile warning, missile defense, and space situation awareness, stationed at Pituffik Space Base, Greenland.",
@@ -20141,7 +20453,7 @@
       "sources": [
         "Wikipedia, \"12th Space Warning Squadron\" (introduction text; a secondary source, not an official record)",
         "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
-        "Eras: not stated in the source text; set from general knowledge and not yet checked"
+        "Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"
       ],
       "yearFrom": null,
       "yearTo": null
