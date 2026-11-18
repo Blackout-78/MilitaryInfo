@@ -1,3 +1,6 @@
+## 0.22.4
+- 1st Battalion, 24th Infantry Regiment: removed the line about the battalion's makeup, which no source supported. The entry now keeps only sourced history.
+
 ## 0.22.3
 - 1st Battalion, 24th Infantry Regiment: the picture is now the unofficial "Punishers" skull marked 24, labeled as not an Army insignia. The official 24th Infantry Regiment insignia is kept as a second picture.
 - Text now separates the 1869 all-Black regiment (Buffalo Soldiers) from the integrated battalion reactivated in 1995.
