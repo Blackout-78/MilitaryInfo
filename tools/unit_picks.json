@@ -1,0 +1,506 @@
+[
+ {
+  "id": "u-ssi-1cd",
+  "name": "1st Cavalry Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "1st Cavalry Division (United States)",
+  "file": "File:1st Cavalry Division SSI (full color).svg"
+ },
+ {
+  "id": "u-ssi-1id",
+  "name": "1st Infantry Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "1st Infantry Division (United States)",
+  "file": "File:1st Infantry Division SSI (1918-2015).svg"
+ },
+ {
+  "id": "u-ssi-2id",
+  "name": "2nd Infantry Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "2nd Infantry Division (United States)",
+  "file": "File:2nd Infantry Division SSI (full color).svg"
+ },
+ {
+  "id": "u-ssi-3id",
+  "name": "3rd Infantry Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "3rd Infantry Division (United States)",
+  "file": "File:3rd Infantry Division SSI (1918-2015).svg"
+ },
+ {
+  "id": "u-ssi-4id",
+  "name": "4th Infantry Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "4th Infantry Division (United States)",
+  "file": "File:4 Infantry Division SSI.PNG"
+ },
+ {
+  "id": "u-ssi-25id",
+  "name": "25th Infantry Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "25th Infantry Division (United States)",
+  "file": "File:25th Infantry Division.patch.png"
+ },
+ {
+  "id": "u-ssi-29id",
+  "name": "29th Infantry Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "29th Infantry Division (United States)",
+  "file": "File:29th Infantry Division SSI.svg"
+ },
+ {
+  "id": "u-ssi-30id",
+  "name": "30th Infantry Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "30th Infantry Division (United States)",
+  "file": "File:30th Infantry Division SSI.svg"
+ },
+ {
+  "id": "u-ssi-32id",
+  "name": "32nd Infantry Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "32nd Infantry Division (United States)",
+  "file": "File:32nd infantry division shoulder patch.svg"
+ },
+ {
+  "id": "u-ssi-35id",
+  "name": "35th Infantry Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "35th Infantry Division (United States)",
+  "file": "File:35th Infantry Division SSI.svg"
+ },
+ {
+  "id": "u-ssi-42id",
+  "name": "42nd Infantry Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "42nd Infantry Division (United States)",
+  "file": "File:42nd Infantry Division SSI.svg"
+ },
+ {
+  "id": "u-ssi-45id",
+  "name": "45th Infantry Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "45th Infantry Division (United States)",
+  "file": "File:45th Infantry insignia (thunderbird).svg"
+ },
+ {
+  "id": "u-ssi-75id",
+  "name": "75th Infantry Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "75th Infantry Division (United States)",
+  "file": "File:75th Infantry Division patch.svg"
+ },
+ {
+  "id": "u-ssi-78id",
+  "name": "78th Infantry Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "78th Infantry Division (United States)",
+  "file": "File:78th Infantry Division SSI.svg"
+ },
+ {
+  "id": "u-ssi-79id",
+  "name": "79th Infantry Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "79th Infantry Division (United States)",
+  "file": "File:79th Infantry Division SSI.svg"
+ },
+ {
+  "id": "u-ssi-83id",
+  "name": "83rd Infantry Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "83rd Infantry Division (United States)",
+  "file": "File:83rd Infantry Division SSI.svg"
+ },
+ {
+  "id": "u-ssi-88id",
+  "name": "88th Infantry Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "88th Infantry Division (United States)",
+  "file": "File:88th Infantry Division SSI.svg"
+ },
+ {
+  "id": "u-ssi-90id",
+  "name": "90th Infantry Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "90th Infantry Division (United States)",
+  "file": "File:90th Infantry Division.patch.svg"
+ },
+ {
+  "id": "u-ssi-96id",
+  "name": "96th Infantry Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "96th Infantry Division (United States)",
+  "file": "File:96th Infantry Division SSI.svg"
+ },
+ {
+  "id": "u-ssi-100id",
+  "name": "100th Infantry Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "100th Infantry Division (United States)",
+  "file": "File:100th Infantry Division SSI.svg"
+ },
+ {
+  "id": "u-ssi-103id",
+  "name": "103rd Infantry Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "103rd Infantry Division (United States)",
+  "file": "File:103rd Infantry Division SSI.svg"
+ },
+ {
+  "id": "u-ssi-13abn",
+  "name": "13th Airborne Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "13th Airborne Division (United States)",
+  "file": "File:13th Airborne Division SSI.png"
+ },
+ {
+  "id": "u-ssi-6ad",
+  "name": "6th Armored Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "6th Armored Division (United States)",
+  "file": "File:6th US Armored Division SSI.svg"
+ },
+ {
+  "id": "u-ssi-11ad",
+  "name": "11th Armored Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "11th Armored Division (United States)",
+  "file": "File:11th US Armored Division SSI.svg"
+ },
+ {
+  "id": "u-ssi-14ad",
+  "name": "14th Armored Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "14th Armored Division (United States)",
+  "file": "File:14th US Armored Division SSI.svg"
+ },
+ {
+  "id": "u-ssi-20ad",
+  "name": "20th Armored Division",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "20th Armored Division (United States)",
+  "file": "File:20th US Armored Division SSI.svg"
+ },
+ {
+  "id": "u-ssi-173abn",
+  "name": "173rd Airborne Brigade",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "173rd Airborne Brigade",
+  "file": "File:173Airborne Brigade Shoulder Patch.png"
+ },
+ {
+  "id": "u-ssi-75rr",
+  "name": "75th Ranger Regiment",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "75th Ranger Regiment",
+  "file": "File:75th Ranger Regiment insignia.png"
+ },
+ {
+  "id": "u-ssi-7a",
+  "name": "Seventh Army",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "Seventh United States Army",
+  "file": "File:US Seventh Army SSI.svg"
+ },
+ {
+  "id": "u-ssi-9a",
+  "name": "Ninth Army",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "Ninth United States Army",
+  "file": "File:US Ninth Army patch.svg"
+ },
+ {
+  "id": "u-ssi-6a",
+  "name": "Sixth Army",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "Sixth United States Army",
+  "file": "File:US Sixth Army patch.svg"
+ },
+ {
+  "id": "u-ssi-arsouth",
+  "name": "U.S. Army South",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "United States Army South",
+  "file": "File:UNITED STATES ARMY SOUTH SSI.svg"
+ },
+ {
+  "id": "u-ssi-usarj",
+  "name": "U.S. Army, Japan",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "United States Army Japan",
+  "file": "File:United States Army, Japan - Shoulder sleeve insignia.svg"
+ },
+ {
+  "id": "u-ssi-forscom",
+  "name": "U.S. Army Forces Command (FORSCOM)",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "United States Army Forces Command",
+  "file": "File:United States Army Forces Command SSI.svg"
+ },
+ {
+  "id": "u-ssi-cybercom",
+  "name": "U.S. Army Cyber Command",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "United States Army Cyber Command",
+  "file": "File:US Army Cyber Command SSI.png"
+ },
+ {
+  "id": "u-ssi-afc",
+  "name": "Army Futures Command",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "United States Army Futures Command",
+  "file": "File:Army Futures Command SSI.svg"
+ },
+ {
+  "id": "u-ssi-recruiting",
+  "name": "U.S. Army Recruiting Command",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "United States Army Recruiting Command",
+  "file": "File:U.S. Army Recruiting Command SSI.png"
+ },
+ {
+  "id": "u-ssi-marksman",
+  "name": "U.S. Army Marksmanship Unit",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "United States Army Marksmanship Unit",
+  "file": "File:US Army Marksmanship Unit SSI.png"
+ },
+ {
+  "id": "u-ssi-parachute",
+  "name": "U.S. Army Parachute Team (Golden Knights)",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "United States Army Parachute Team",
+  "file": "File:US Army Parachute Team SSI.png"
+ },
+ {
+  "id": "u-ssi-asa",
+  "name": "Army Security Agency",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "Army Security Agency",
+  "file": "File:Army Security Agency SSI.png"
+ },
+ {
+  "id": "u-ssi-1armcorps",
+  "name": "1st Armored Corps",
+  "branch": "Army",
+  "group": "Army shoulder patches (SSI)",
+  "wiki": "I Armored Corps (United States)",
+  "file": "File:1st Armored Corps SSI.svg"
+ },
+ {
+  "id": "u-mc-1mardiv",
+  "name": "1st Marine Division",
+  "branch": "Marine Corps",
+  "group": "Marine Corps division insignia",
+  "wiki": "1st Marine Division (United States)",
+  "file": "File:US 1st Marine Division SSI.svg"
+ },
+ {
+  "id": "u-mc-3mardiv",
+  "name": "3rd Marine Division",
+  "branch": "Marine Corps",
+  "group": "Marine Corps division insignia",
+  "wiki": "3rd Marine Division (United States)",
+  "file": "File:US 3d Marine Division SSI.svg"
+ },
+ {
+  "id": "u-mc-4mardiv",
+  "name": "4th Marine Division",
+  "branch": "Marine Corps",
+  "group": "Marine Corps division insignia",
+  "wiki": "4th Marine Division (United States)",
+  "file": "File:USMC - 4th Division.png"
+ },
+ {
+  "id": "u-af-acc",
+  "name": "Air Combat Command (ACC)",
+  "branch": "Air Force",
+  "group": "Air Force major commands",
+  "wiki": "Air Combat Command",
+  "file": "File:Air Combat Command.png"
+ },
+ {
+  "id": "u-af-aetc",
+  "name": "Air Education and Training Command (AETC)",
+  "branch": "Air Force",
+  "group": "Air Force major commands",
+  "wiki": "Air Education and Training Command",
+  "file": "File:Air Education and Training Command.svg"
+ },
+ {
+  "id": "u-af-afgsc",
+  "name": "Air Force Global Strike Command (AFGSC)",
+  "branch": "Air Force",
+  "group": "Air Force major commands",
+  "wiki": "Air Force Global Strike Command",
+  "file": "File:Air Force Global Strike Command.svg"
+ },
+ {
+  "id": "u-af-afmc",
+  "name": "Air Force Materiel Command (AFMC)",
+  "branch": "Air Force",
+  "group": "Air Force major commands",
+  "wiki": "Air Force Materiel Command",
+  "file": "File:Air Force Materiel Command shield.svg"
+ },
+ {
+  "id": "u-af-afrc",
+  "name": "Air Force Reserve Command (AFRC)",
+  "branch": "Air Force",
+  "group": "Air Force major commands",
+  "wiki": "Air Force Reserve Command",
+  "file": "File:Air Force Reserve Command.png"
+ },
+ {
+  "id": "u-af-afsoc",
+  "name": "Air Force Special Operations Command (AFSOC)",
+  "branch": "Air Force",
+  "group": "Air Force major commands",
+  "wiki": "Air Force Special Operations Command",
+  "file": "File:Air Force Special Operations Command.png"
+ },
+ {
+  "id": "u-af-amc",
+  "name": "Air Mobility Command (AMC)",
+  "branch": "Air Force",
+  "group": "Air Force major commands",
+  "wiki": "Air Mobility Command",
+  "file": "File:Air Mobility Command.svg"
+ },
+ {
+  "id": "u-af-pacaf",
+  "name": "Pacific Air Forces (PACAF)",
+  "branch": "Air Force",
+  "group": "Air Force major commands",
+  "wiki": "Pacific Air Forces",
+  "file": "File:Pacific Air Forces.svg"
+ },
+ {
+  "id": "u-af-usafe",
+  "name": "U.S. Air Forces in Europe (USAFE)",
+  "branch": "Air Force",
+  "group": "Air Force major commands",
+  "wiki": "United States Air Forces in Europe \u2013 Air Forces Africa",
+  "file": "File:United States Air Forces in Europe.svg"
+ },
+ {
+  "id": "u-af-ang",
+  "name": "Air National Guard",
+  "branch": "Air Force",
+  "group": "Air Force major commands",
+  "wiki": "Air National Guard",
+  "file": "File:Air National Guard.png"
+ },
+ {
+  "id": "u-af-sac",
+  "name": "Strategic Air Command (SAC)",
+  "branch": "Air Force",
+  "group": "Air Force major commands (former)",
+  "wiki": "Strategic Air Command",
+  "file": "File:SAC Shield.svg"
+ },
+ {
+  "id": "u-af-tac",
+  "name": "Tactical Air Command (TAC)",
+  "branch": "Air Force",
+  "group": "Air Force major commands (former)",
+  "wiki": "Tactical Air Command",
+  "file": "File:Tactical Air Command Emblem.png"
+ },
+ {
+  "id": "u-af-mac",
+  "name": "Military Airlift Command (MAC)",
+  "branch": "Air Force",
+  "group": "Air Force major commands (former)",
+  "wiki": "Military Airlift Command",
+  "file": "File:USAF - Military Airlift Command.png"
+ },
+ {
+  "id": "u-af-adc",
+  "name": "Air Defense Command (ADC)",
+  "branch": "Air Force",
+  "group": "Air Force major commands (former)",
+  "wiki": "Air Defense Command",
+  "file": "File:Air Defense Command.png"
+ },
+ {
+  "id": "u-af-afsc",
+  "name": "Air Force Systems Command (AFSC)",
+  "branch": "Air Force",
+  "group": "Air Force major commands (former)",
+  "wiki": "Air Force Systems Command",
+  "file": "File:USAF - Systems Command.png"
+ },
+ {
+  "id": "u-af-aflc",
+  "name": "Air Force Logistics Command (AFLC)",
+  "branch": "Air Force",
+  "group": "Air Force major commands (former)",
+  "wiki": "Air Force Logistics Command",
+  "file": "File:USAF - Logistics Command.png"
+ },
+ {
+  "id": "u-af-atc",
+  "name": "Air Training Command (ATC)",
+  "branch": "Air Force",
+  "group": "Air Force major commands (former)",
+  "wiki": "Air Training Command",
+  "file": "File:Air Training Command Emblem.png"
+ },
+ {
+  "id": "u-af-mats",
+  "name": "Military Air Transport Service (MATS)",
+  "branch": "Air Force",
+  "group": "Air Force major commands (former)",
+  "wiki": "Military Air Transport Service",
+  "file": "File:Military Air Transport Service - Emblem.svg"
+ },
+ {
+  "id": "u-af-afspc",
+  "name": "Air Force Space Command (AFSPC)",
+  "branch": "Air Force",
+  "group": "Air Force major commands (former)",
+  "wiki": "Air Force Space Command",
+  "file": "File:Air Force Space Command.png"
+ }
+]
