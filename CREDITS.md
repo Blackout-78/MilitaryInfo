@@ -182,12 +182,6 @@ All from Wikimedia Commons, tagged public domain. The EOD Basic and Senior pictu
 | m-cgbthgr | Coast Guard Honor Graduate Ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Coast_Guard_Honor_Graduate_Ribbon.svg |
 | m-cgrecr | Coast Guard Recruiting Service Ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Coast_Guard_Recruiting_Service_Ribbon.svg |
 | m-moh | Medal of Honor ribbon.svg | Public domain (Ipankonin) | https://commons.wikimedia.org/wiki/File:Medal_of_Honor_ribbon.svg |
-| u-woodland-bdu | M81 Woodland Camoflauge Pattern BDU.jpg | Public domain (Tyler178) | https://commons.wikimedia.org/wiki/File:M81_Woodland_Camoflauge_Pattern_BDU.jpg |
-| u-pinks-greens | US Army WWII Officer pinks and greens uniform.jpg | Public domain (Unaccredited US Army photographer) | https://commons.wikimedia.org/wiki/File:US_Army_WWII_Officer_pinks_and_greens_uniform.jpg |
-| u-acu-ocp | ArmyacuOCP.jpg | Public domain (U.S. Army) | https://commons.wikimedia.org/wiki/File:ArmyacuOCP.jpg |
-| u-agsu | Army greens.jpg | CC0 (Meghann Myers) | https://commons.wikimedia.org/wiki/File:Army_greens.jpg |
-| u-asu | Casey blue class A.jpg | Public domain (Sgt. Nancy Deweese, Old Guard Public Aff) | https://commons.wikimedia.org/wiki/File:Casey_blue_class_A.jpg |
-| u-apfu | US Army Physical Fitness Uniform.jpg | Public domain (US Army photographer) | https://commons.wikimedia.org/wiki/File:US_Army_Physical_Fitness_Uniform.jpg |
 | nu-sdb-enl | US Navy 091105-N-0718S-051 Sailors from the Center for Information Dominance Detachment Monterey stand in formation while waiting to be inspected in their service dress blue uniform.jpg | Public domain (U.S. Navy photo by Mass Communication Sp) | https://commons.wikimedia.org/wiki/File:US_Navy_091105-N-0718S-051_Sailors_from_the_Center_for_Information_Dominance_Detachment_Monterey_stand_in_formation_while_waiting_to_be_inspected_in_their_service_dress_blue_uniform.jpg |
 | nu-khaki-off | US Navy 070919-N-5319A-011 A Sailor shows off the prototype uniform for service dress khaki, a throwback to the traditional WWII style uniform.jpg | Public domain (U.S. Navy photo by Mass Communication Sp) | https://commons.wikimedia.org/wiki/File:US_Navy_070919-N-5319A-011_A_Sailor_shows_off_the_prototype_uniform_for_service_dress_khaki,_a_throwback_to_the_traditional_WWII_style_uniform.jpg |
 | nu-sdw-off | NMRTC Rota Highlights Tradition, Readiness During Dress White Inspection (9659735).jpg | Public domain (U.S. Navy photo by Lt.Cmdr. Alicia Sacks) | https://commons.wikimedia.org/wiki/File:NMRTC_Rota_Highlights_Tradition,_Readiness_During_Dress_White_Inspection_(9659735).jpg |
@@ -306,7 +300,6 @@ All from Wikimedia Commons, tagged public domain. The EOD Basic and Senior pictu
 | m-recruiting | USA Army Recruiting Ribbon.svg | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:USA_Army_Recruiting_Ribbon.svg |
 | n-e7 | Cap device of a United States Navy chief petty officer (subdued).png | Public domain | https://commons.wikimedia.org/wiki/File:Cap_device_of_a_United_States_Navy_chief_petty_officer_(subdued).png |
 | n-e9 | Cap device of a United States Navy master chief petty officer (subdued).png | Public domain | https://commons.wikimedia.org/wiki/File:Cap_device_of_a_United_States_Navy_master_chief_petty_officer_(subdued).png |
-| u-mess-blue | US Army mess blue uniform (PSYOP officer branch color).jpg | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:US_Army_mess_blue_uniform_(PSYOP_officer_branch_color).jpg |
 | b-cg-diver2 | Own illustration (tools/make_illustrations.py) | CC0 | |
 | b-cg-diver1 | Own illustration (tools/make_illustrations.py) | CC0 | |
 | b-cg-masterdiver | Own illustration (tools/make_illustrations.py) | CC0 | |
@@ -316,7 +309,6 @@ All from Wikimedia Commons, tagged public domain. The EOD Basic and Senior pictu
 | af-ab | Own illustration (tools/make_illustrations.py) | CC0 | |
 | r-service-stripes | Own illustration (tools/make_illustrations.py) | CC0 | |
 | b-tomb-guard-id | Own text card (tools/make_cards.py) | CC0 | |
-| u-mess-white | Own text card (tools/make_cards.py) | CC0 | |
 | n-e1 | Own text card (tools/make_cards.py) | CC0 | |
 | nu-nwu3 | Own text card (tools/make_cards.py) | CC0 | |
 | nb-dws | Own text card (tools/make_cards.py) | CC0 | |
@@ -339,3 +331,64 @@ All from Wikimedia Commons, tagged public domain. The EOD Basic and Senior pictu
 | b-af-dcma | Own text card (tools/make_cards.py) | CC0 | |
 | b-af-nro | Own text card (tools/make_cards.py) | CC0 | |
 | b-af-dla | Own text card (tools/make_cards.py) | CC0 | |
+| u-ssi-1cd | 1st Cavalry Division SSI (full color).svg | Public domain | https://commons.wikimedia.org/wiki/File:1st_Cavalry_Division_SSI_(full_color).svg |
+| u-ssi-1id | 1st Infantry Division SSI (1918-2015).svg | Public domain | https://commons.wikimedia.org/wiki/File:1st_Infantry_Division_SSI_(1918-2015).svg |
+| u-ssi-2id | 2nd Infantry Division SSI (full color).svg | Public domain | https://commons.wikimedia.org/wiki/File:2nd_Infantry_Division_SSI_(full_color).svg |
+| u-ssi-3id | 3rd Infantry Division SSI (1918-2015).svg | Public domain | https://commons.wikimedia.org/wiki/File:3rd_Infantry_Division_SSI_(1918-2015).svg |
+| u-ssi-4id | 4 Infantry Division SSI.PNG | Public domain | https://commons.wikimedia.org/wiki/File:4_Infantry_Division_SSI.PNG |
+| u-ssi-25id | 25th Infantry Division.patch.png | Public domain | https://commons.wikimedia.org/wiki/File:25th_Infantry_Division.patch.png |
+| u-ssi-29id | 29th Infantry Division SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:29th_Infantry_Division_SSI.svg |
+| u-ssi-30id | 30th Infantry Division SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:30th_Infantry_Division_SSI.svg |
+| u-ssi-32id | 32nd infantry division shoulder patch.svg | Public domain | https://commons.wikimedia.org/wiki/File:32nd_infantry_division_shoulder_patch.svg |
+| u-ssi-35id | 35th Infantry Division SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:35th_Infantry_Division_SSI.svg |
+| u-ssi-42id | 42nd Infantry Division SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:42nd_Infantry_Division_SSI.svg |
+| u-ssi-45id | 45th Infantry insignia (thunderbird).svg | Public domain | https://commons.wikimedia.org/wiki/File:45th_Infantry_insignia_(thunderbird).svg |
+| u-ssi-75id | 75th Infantry Division patch.svg | Public domain | https://commons.wikimedia.org/wiki/File:75th_Infantry_Division_patch.svg |
+| u-ssi-78id | 78th Infantry Division SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:78th_Infantry_Division_SSI.svg |
+| u-ssi-79id | 79th Infantry Division SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:79th_Infantry_Division_SSI.svg |
+| u-ssi-83id | 83rd Infantry Division SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:83rd_Infantry_Division_SSI.svg |
+| u-ssi-88id | 88th Infantry Division SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:88th_Infantry_Division_SSI.svg |
+| u-ssi-90id | 90th Infantry Division.patch.svg | Public domain | https://commons.wikimedia.org/wiki/File:90th_Infantry_Division.patch.svg |
+| u-ssi-96id | 96th Infantry Division SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:96th_Infantry_Division_SSI.svg |
+| u-ssi-100id | 100th Infantry Division SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:100th_Infantry_Division_SSI.svg |
+| u-ssi-103id | 103rd Infantry Division SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:103rd_Infantry_Division_SSI.svg |
+| u-ssi-13abn | 13th Airborne Division SSI.png | Public domain | https://commons.wikimedia.org/wiki/File:13th_Airborne_Division_SSI.png |
+| u-ssi-6ad | 6th US Armored Division SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:6th_US_Armored_Division_SSI.svg |
+| u-ssi-11ad | 11th US Armored Division SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:11th_US_Armored_Division_SSI.svg |
+| u-ssi-14ad | 14th US Armored Division SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:14th_US_Armored_Division_SSI.svg |
+| u-ssi-20ad | 20th US Armored Division SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:20th_US_Armored_Division_SSI.svg |
+| u-ssi-173abn | 173Airborne Brigade Shoulder Patch.png | Public domain | https://commons.wikimedia.org/wiki/File:173Airborne_Brigade_Shoulder_Patch.png |
+| u-ssi-75rr | 75th Ranger Regiment insignia.png | Public domain | https://commons.wikimedia.org/wiki/File:75th_Ranger_Regiment_insignia.png |
+| u-ssi-7a | US Seventh Army SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:US_Seventh_Army_SSI.svg |
+| u-ssi-9a | US Ninth Army patch.svg | Public domain | https://commons.wikimedia.org/wiki/File:US_Ninth_Army_patch.svg |
+| u-ssi-6a | US Sixth Army patch.svg | Public domain | https://commons.wikimedia.org/wiki/File:US_Sixth_Army_patch.svg |
+| u-ssi-arsouth | UNITED STATES ARMY SOUTH SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:UNITED_STATES_ARMY_SOUTH_SSI.svg |
+| u-ssi-usarj | United States Army, Japan - Shoulder sleeve insignia.svg | Public domain | https://commons.wikimedia.org/wiki/File:United_States_Army,_Japan_-_Shoulder_sleeve_insignia.svg |
+| u-ssi-forscom | United States Army Forces Command SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:United_States_Army_Forces_Command_SSI.svg |
+| u-ssi-cybercom | US Army Cyber Command SSI.png | Public domain | https://commons.wikimedia.org/wiki/File:US_Army_Cyber_Command_SSI.png |
+| u-ssi-afc | Army Futures Command SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:Army_Futures_Command_SSI.svg |
+| u-ssi-recruiting | U.S. Army Recruiting Command SSI.png | Public domain | https://commons.wikimedia.org/wiki/File:U.S._Army_Recruiting_Command_SSI.png |
+| u-ssi-parachute | US Army Parachute Team SSI.png | Public domain | https://commons.wikimedia.org/wiki/File:US_Army_Parachute_Team_SSI.png |
+| u-ssi-asa | Army Security Agency SSI.png | Public domain | https://commons.wikimedia.org/wiki/File:Army_Security_Agency_SSI.png |
+| u-ssi-1armcorps | 1st Armored Corps SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:1st_Armored_Corps_SSI.svg |
+| u-mc-1mardiv | US 1st Marine Division SSI.svg | Public domain | https://commons.wikimedia.org/wiki/File:US_1st_Marine_Division_SSI.svg |
+| u-mc-3mardiv | US 3d Marine Division SSI.svg | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:US_3d_Marine_Division_SSI.svg |
+| u-mc-4mardiv | USMC - 4th Division.png | Public domain | https://commons.wikimedia.org/wiki/File:USMC_-_4th_Division.png |
+| u-af-acc | Air Combat Command.png | Public domain | https://commons.wikimedia.org/wiki/File:Air_Combat_Command.png |
+| u-af-aetc | Air Education and Training Command.svg | Public domain | https://commons.wikimedia.org/wiki/File:Air_Education_and_Training_Command.svg |
+| u-af-afgsc | Air Force Global Strike Command.svg | Public domain | https://commons.wikimedia.org/wiki/File:Air_Force_Global_Strike_Command.svg |
+| u-af-afmc | Air Force Materiel Command shield.svg | CC0 | https://commons.wikimedia.org/wiki/File:Air_Force_Materiel_Command_shield.svg |
+| u-af-afrc | Air Force Reserve Command.png | Public domain | https://commons.wikimedia.org/wiki/File:Air_Force_Reserve_Command.png |
+| u-af-afsoc | Air Force Special Operations Command.png | Public domain | https://commons.wikimedia.org/wiki/File:Air_Force_Special_Operations_Command.png |
+| u-af-amc | Air Mobility Command.svg | Public domain | https://commons.wikimedia.org/wiki/File:Air_Mobility_Command.svg |
+| u-af-pacaf | Pacific Air Forces.svg | Public domain | https://commons.wikimedia.org/wiki/File:Pacific_Air_Forces.svg |
+| u-af-usafe | United States Air Forces in Europe.svg | Public domain | https://commons.wikimedia.org/wiki/File:United_States_Air_Forces_in_Europe.svg |
+| u-af-ang | Air National Guard.png | Public domain | https://commons.wikimedia.org/wiki/File:Air_National_Guard.png |
+| u-af-sac | SAC Shield.svg | Public domain | https://commons.wikimedia.org/wiki/File:SAC_Shield.svg |
+| u-af-tac | Tactical Air Command Emblem.png | Public domain | https://commons.wikimedia.org/wiki/File:Tactical_Air_Command_Emblem.png |
+| u-af-mac | USAF - Military Airlift Command.png | Public domain | https://commons.wikimedia.org/wiki/File:USAF_-_Military_Airlift_Command.png |
+| u-af-adc | Air Defense Command.png | Public domain | https://commons.wikimedia.org/wiki/File:Air_Defense_Command.png |
+| u-af-afsc | USAF - Systems Command.png | Public domain | https://commons.wikimedia.org/wiki/File:USAF_-_Systems_Command.png |
+| u-af-aflc | USAF - Logistics Command.png | Public domain | https://commons.wikimedia.org/wiki/File:USAF_-_Logistics_Command.png |
+| u-af-atc | Air Training Command Emblem.png | Public domain | https://commons.wikimedia.org/wiki/File:Air_Training_Command_Emblem.png |
+| u-af-mats | Military Air Transport Service - Emblem.svg | Public domain | https://commons.wikimedia.org/wiki/File:Military_Air_Transport_Service_-_Emblem.svg |

@@ -1,3 +1,8 @@
+## 0.20.0
+- Patches tab now has 61 units: 40 Army shoulder patches (divisions, armies, commands, Rangers, airborne), 3 Marine divisions, 18 Air Force major commands (current and former).
+- Every picture was checked against its name. Text comes from Wikipedia introductions, so the proof tag is Historical; 12 entries whose eras are not in the source text are Unverified.
+- More units (brigades, wings, Navy, Coast Guard, Space Force) are coming in later versions.
+
 ## 0.19.0
 - New tab: Patches (unit patches), between Ranks and Settings. Same search, branch and era filters.
 - Ranks tab is now titled Ranks only.

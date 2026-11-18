@@ -1,90 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "0.19.0-patches-tab",
+  "dataVersion": "0.20.0-patches-1",
   "entries": [
-    {
-      "id": "u-woodland-bdu",
-      "tab": "uniforms",
-      "group": "Field",
-      "name": "Woodland BDU",
-      "branches": [
-        "Army"
-      ],
-      "eras": [
-        "coldwar",
-        "gulf",
-        "modern"
-      ],
-      "yearFrom": 1981,
-      "yearTo": 2005,
-      "summary": "Four-color woodland camouflage battle dress uniform. The Army field uniform from the early 1980s until the ACU.",
-      "facts": [
-        "Adopted in 1981 as the Battle Dress Uniform (BDU)",
-        "Replaced by the ACU, fielded starting in 2005",
-        "A six-color desert version was issued for desert operations",
-        "UNVERIFIED: the Desert BDU (six-color) variant has no source and no picture yet; the page shows a blank rather than the woodland photo"
-      ],
-      "remember": "Woodland 1981, ACU 2005.",
-      "swatches": [],
-      "variants": [
-        {
-          "label": "Woodland BDU (four-color)",
-          "era": "coldwar",
-          "note": "The standard green, brown, and black pattern.",
-          "image": "badges/u-woodland-bdu.png"
-        },
-        {
-          "label": "Desert BDU (six-color)",
-          "era": "gulf",
-          "note": "Nicknamed the chocolate chip.",
-          "image": "none"
-        }
-      ],
-      "attachments": [],
-      "proof": "unverified",
-      "sources": [],
-      "image": "badges/u-woodland-bdu.png"
-    },
-    {
-      "id": "u-pinks-greens",
-      "tab": "uniforms",
-      "group": "Service",
-      "name": "Pinks and greens",
-      "branches": [
-        "Army"
-      ],
-      "eras": [
-        "ww2",
-        "modern"
-      ],
-      "yearFrom": null,
-      "yearTo": null,
-      "summary": "WWII-era officer service uniform: pink-toned trousers with a dark green coat. Brought back in modern form as the Army Green Service Uniform.",
-      "facts": [
-        "Pink-toned trousers with a dark olive-green coat",
-        "Officer combination in World War II",
-        "The modern Army Green Service Uniform revives the look"
-      ],
-      "remember": "Pinks on the legs, greens on the coat.",
-      "swatches": [],
-      "variants": [
-        {
-          "label": "WWII officer service combination",
-          "era": "ww2",
-          "image": "badges/u-pinks-greens.png"
-        },
-        {
-          "label": "Army Green Service Uniform",
-          "era": "modern",
-          "note": "The modern revival of the look.",
-          "image": "badges/u-agsu.png"
-        }
-      ],
-      "attachments": [],
-      "proof": "unverified",
-      "sources": [],
-      "image": "badges/u-pinks-greens.png"
-    },
     {
       "id": "m-moh",
       "tab": "medals",
@@ -6282,245 +6199,6 @@
         "Para 21-29a to 21-29d. The 6-month rule is from AR 670-1 para 21-29a as quoted at ar670.com (unofficial copy); DA Pam text read did not state it"
       ],
       "image": "badges/r-overseas-bars.png"
-    },
-    {
-      "id": "u-acu-ocp",
-      "tab": "uniforms",
-      "group": "Field",
-      "name": "Army Combat Uniform (OCP)",
-      "branches": [
-        "Army"
-      ],
-      "eras": [
-        "modern"
-      ],
-      "yearFrom": null,
-      "yearTo": null,
-      "summary": "The daily work, utility, and field uniform, in the Operational Camouflage Pattern.",
-      "facts": [
-        "Includes a coat, trousers, tan 499 undershirt, tan 499 rigger belt, socks, coyote leather combat boots, and headgear (para 4-2)",
-        "Patrol cap is the standard garrison headgear (para 4-10a(1))",
-        "Coat has hook-and-loop fasteners for the flag, insignia, and tapes (para 4-8a)",
-        "OCP items replace UCP items as those become unserviceable and on-hand stock runs out (para 4-1b)"
-      ],
-      "remember": "OCP: the daily work and field uniform.",
-      "swatches": [],
-      "variants": [
-        {
-          "label": "Maternity work uniform (OCP)",
-          "era": "modern",
-          "note": "A daily work and utility uniform for pregnant Soldiers (para 5-1)."
-        }
-      ],
-      "attachments": [],
-      "proof": "official",
-      "sources": [
-        "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021 (read from the copy hosted at home.army.mil/jackson)",
-        "Paras 4-1, 4-2, 4-7f, 4-8a, 4-10"
-      ],
-      "image": "badges/u-acu-ocp.png"
-    },
-    {
-      "id": "u-agsu",
-      "tab": "uniforms",
-      "group": "Service",
-      "name": "Army Green Service Uniform (AGSU)",
-      "branches": [
-        "Army"
-      ],
-      "eras": [
-        "modern"
-      ],
-      "yearFrom": null,
-      "yearTo": null,
-      "summary": "Service uniform in heritage colors. The pamphlet's 2021 revision added it.",
-      "facts": [
-        "Coat: heritage green 564",
-        "Trousers or slacks: heritage taupe 565",
-        "Shirt: heritage tan 566, short- or long-sleeved",
-        "Necktie: four-in-hand, heritage green",
-        "A clothing bag issue item for enlisted personnel (para 14-1)",
-        "Sew-on grade insignia: heritage tan 566 on heritage green 564 (para 21-7b)"
-      ],
-      "remember": "Green coat 564, taupe trousers 565, tan shirt 566.",
-      "swatches": [],
-      "variants": [
-        {
-          "label": "Maternity version",
-          "era": "modern",
-          "note": "Covered in chapter 15."
-        }
-      ],
-      "attachments": [],
-      "proof": "official",
-      "sources": [
-        "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021 (read from the copy hosted at home.army.mil/jackson)",
-        "Paras 14-1, 14-2a, 21-7b"
-      ],
-      "image": "badges/u-agsu.png"
-    },
-    {
-      "id": "u-asu",
-      "tab": "uniforms",
-      "group": "Dress",
-      "name": "Army Service Uniform (Army Blue)",
-      "branches": [
-        "Army"
-      ],
-      "eras": [
-        "modern"
-      ],
-      "yearFrom": null,
-      "yearTo": null,
-      "summary": "Army blue service and dress uniform for men and women.",
-      "facts": [
-        "Male Class A: Army blue coat, low-waist trousers, white short- or long-sleeved shirt (para 11-2b(1))",
-        "Male Class B: low-waist trousers and white short- or long-sleeved shirt, no coat (para 11-2b(2))",
-        "Coat color: Army blue 450 or 150 (para 11-2a(1))",
-        "Private through specialist wear no ornamentation on the trousers (para 11-8c(4))",
-        "Male is chapter 11, female is chapter 12, maternity is chapter 13",
-        "Service stripes go on the left sleeve and overseas service bars on the right sleeve (paras 21-28, 21-29)"
-      ],
-      "remember": "Blue coat is Class A. Drop the coat for Class B.",
-      "swatches": [],
-      "variants": [
-        {
-          "label": "Male",
-          "era": "modern",
-          "gender": "male",
-          "note": "Chapter 11.",
-          "image": "badges/u-asu.png"
-        },
-        {
-          "label": "Female",
-          "era": "modern",
-          "gender": "female",
-          "note": "Chapter 12.",
-          "image": "none"
-        }
-      ],
-      "attachments": [],
-      "proof": "official",
-      "sources": [
-        "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021 (read from the copy hosted at home.army.mil/jackson)",
-        "Paras 1-7a, 11-1, 11-2, 11-8c(4), 12-1, 21-28, 21-29"
-      ],
-      "image": "badges/u-asu.png"
-    },
-    {
-      "id": "u-mess-blue",
-      "tab": "uniforms",
-      "group": "Formal",
-      "name": "Army Blue Mess uniform",
-      "branches": [
-        "Army"
-      ],
-      "eras": [
-        "modern"
-      ],
-      "yearFrom": null,
-      "yearTo": null,
-      "summary": "Black-tie uniform that corresponds to a civilian tuxedo. The Blue Evening Mess is the most formal.",
-      "facts": [
-        "Male blue mess uniform is worn for black-tie functions and corresponds to a civilian tuxedo (para 16-6a)",
-        "Male blue evening mess uniform is the most formal uniform worn by Army personnel (para 16-6a)",
-        "Female: blue mess jacket, blue skirt (knee- or full-length), white formal blouse, black dress neck tab, black cummerbund, black pumps, sheer stockings (para 17-2)"
-      ],
-      "remember": "Blue mess is Army black tie.",
-      "swatches": [],
-      "variants": [
-        {
-          "label": "Male",
-          "era": "modern",
-          "gender": "male",
-          "note": "Chapter 16."
-        },
-        {
-          "label": "Female",
-          "era": "modern",
-          "gender": "female",
-          "note": "Chapter 17."
-        }
-      ],
-      "attachments": [],
-      "proof": "official",
-      "sources": [
-        "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021 (read from the copy hosted at home.army.mil/jackson)",
-        "Paras 16-6a, 17-1, 17-2"
-      ],
-      "image": "badges/u-mess-blue.png"
-    },
-    {
-      "id": "u-mess-white",
-      "tab": "uniforms",
-      "group": "Formal",
-      "name": "Army White Mess uniform",
-      "branches": [
-        "Army"
-      ],
-      "eras": [
-        "modern"
-      ],
-      "yearFrom": null,
-      "yearTo": null,
-      "summary": "Seasonal black-tie uniform in white. The White Evening Mess is the most formal.",
-      "facts": [
-        "Normally worn from April to October. Clothing zones I and II may wear it year-round (paras 18-1, 19-1)",
-        "Male: white mess jacket, black high-waist trousers, white shirt, necktie, white vest (evening only), black cummerbund, black oxford shoes, black socks, white undershirt (para 18-2)",
-        "Female: white mess jacket, black or white skirt, white formal blouse, black neck tab, black or white cummerbund, pumps, sheer stockings (para 19-2)",
-        "Male white mess is worn for black-tie functions, like the blue mess (para 18-6a)"
-      ],
-      "remember": "White mess: April to October.",
-      "swatches": [],
-      "variants": [
-        {
-          "label": "Male",
-          "era": "modern",
-          "gender": "male",
-          "note": "Chapter 18."
-        },
-        {
-          "label": "Female",
-          "era": "modern",
-          "gender": "female",
-          "note": "Chapter 19."
-        }
-      ],
-      "attachments": [],
-      "proof": "official",
-      "sources": [
-        "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021 (read from the copy hosted at home.army.mil/jackson)",
-        "Paras 18-1, 18-2, 18-6a, 19-1, 19-2"
-      ],
-      "image": "badges/u-mess-white.png"
-    },
-    {
-      "id": "u-apfu",
-      "tab": "uniforms",
-      "group": "Fitness",
-      "name": "Army Physical Fitness Uniform (APFU)",
-      "branches": [
-        "Army"
-      ],
-      "eras": [
-        "modern"
-      ],
-      "yearFrom": null,
-      "yearTo": null,
-      "summary": "The authorized physical fitness uniform.",
-      "facts": [
-        "The physical fitness uniform authorized for wear is classified as the Army physical fitness uniform (para 10-1)"
-      ],
-      "remember": null,
-      "swatches": [],
-      "variants": [],
-      "attachments": [],
-      "proof": "official",
-      "sources": [
-        "DA Pam 670-1, Guide to the Wear and Appearance of Army Uniforms and Insignia, 26 Jan 2021 (read from the copy hosted at home.army.mil/jackson)",
-        "Chapter 10, para 10-1. Components were not read"
-      ],
-      "image": "badges/u-apfu.png"
     },
     {
       "id": "n-ens",
@@ -16709,6 +16387,1943 @@
         "Picture: Joint Chiefs of Staff seal (2).svg, Wikimedia Commons, Public domain"
       ],
       "image": "badges/b-mc-jcs.png"
+    },
+    {
+      "id": "u-ssi-1cd",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "1st Cavalry Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The 1st Cavalry Division (\"First Team\") is a combined arms division and is one of the most decorated combat divisions of the United States Army. It is based at Fort Hood, Texas.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "It was formed in 1921 and served during World War II, the Korean War, the Vietnam War, the Persian Gulf War, with the Stabilization Force in Bosnia and Herzegovina, the Iraq War, the War in Afghanistan as well as Operation ...",
+        "As of August 2026, the 1st Cavalry Division is subordinate to the III Armored Corps and is commanded by Brigadier General Chad C.",
+        "Picture file on Wikimedia Commons: 1st Cavalry Division SSI (full color).svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "1st Cavalry Division: army shoulder patches.",
+      "image": "badges/u-ssi-1cd.png",
+      "sources": [
+        "Wikipedia, \"1st Cavalry Division (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-1id",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "1st Infantry Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "ww2",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The 1st Infantry Division (1ID) is a combined arms division of the United States Army, and is the oldest continuously serving division in the Regular Army. It has seen continuous service since its organization in 1917 during World War I.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "It was officially nicknamed \"The Big Red One\" (abbreviated \"BRO\") after its shoulder patch and is also nicknamed \"The Fighting First\".",
+        "The division has also received troop monikers of \"The Big Dead One\" and \"The Bloody First\" as puns on the respective officially sanctioned nicknames.",
+        "Picture file on Wikimedia Commons: 1st Infantry Division SSI (1918-2015).svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "1st Infantry Division: army shoulder patches.",
+      "image": "badges/u-ssi-1id.png",
+      "sources": [
+        "Wikipedia, \"1st Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-2id",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "2nd Infantry Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "korea",
+        "modern"
+      ],
+      "summary": "The 2nd Infantry Division (2ID, 2nd ID) (\"Indianhead\") is a formation of the United States Army. Since the 1960s, its primary mission has been the defense of South Korea in the event of an invasion from North Korea.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Approximately 17,000 soldiers serve in the 2nd Infantry Division, with 10,000 stationed in South Korea, accounting for about 35% of the United States Forces Korea personnel.",
+        "Known as the 2nd Infantry Division-ROK/U.S.",
+        "Picture file on Wikimedia Commons: 2nd Infantry Division SSI (full color).svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "2nd Infantry Division: army shoulder patches.",
+      "image": "badges/u-ssi-2id.png",
+      "sources": [
+        "Wikipedia, \"2nd Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-3id",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "3rd Infantry Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "ww2",
+        "korea",
+        "modern"
+      ],
+      "summary": "The 3rd Infantry Division (3ID) (nicknamed Rock of the Marne) is a combined arms division of the United States Army based at Fort Stewart, Georgia. It is a subordinate unit of the XVIII Airborne Corps under U.S. Army Forces Command.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Its current organization includes a division headquarters and headquarters battalion, two armored brigade combat teams, one aviation brigade, a division artillery, a sustainment brigade and a combat sustainment support battalion ...",
+        "The division has a distinguished history, having seen active service in World War I, World War II, the Korean War, and in the Iraq War (US phase 2003–2011), and in the War in Afghanistan (2001–2021).",
+        "Picture file on Wikimedia Commons: 3rd Infantry Division SSI (1918-2015).svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "3rd Infantry Division: army shoulder patches.",
+      "image": "badges/u-ssi-3id.png",
+      "sources": [
+        "Wikipedia, \"3rd Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-4id",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "4th Infantry Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "ww2",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The 4th Infantry Division is a division of the United States Army based at Fort Carson, Colorado. It is composed of a division headquarters battalion, three Stryker brigade combat teams, a combat aviation brigade, a division sustainment brigade, and a division artillery.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "The 4th Infantry Division's official nickname, \"Ivy\", is a play on words of the Roman numeral IV or 4.",
+        "Ivy leaves symbolize tenacity and fidelity which is the basis of the division's motto: \"Steadfast and Loyal\".",
+        "Picture file on Wikimedia Commons: 4 Infantry Division SSI.PNG"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "4th Infantry Division: army shoulder patches.",
+      "image": "badges/u-ssi-4id.png",
+      "sources": [
+        "Wikipedia, \"4th Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-25id",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "25th Infantry Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2",
+        "modern"
+      ],
+      "summary": "The 25th Infantry Division (nicknamed \"Tropic Lightning\") is a United States Army division based at Schofield Barracks in Hawaii. The division, which was activated on 1 October 1941 in Hawaii, conducts military operations primarily in the Asia-Pacific region.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Its present deployment is composed of infantry brigade combat team (IBCT) and aviation units.",
+        "Tropic Lightning soldiers regularly train with other U.S. military branches to practice and maintain joint operations capabilities.",
+        "Picture file on Wikimedia Commons: 25th Infantry Division.patch.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "25th Infantry Division: army shoulder patches.",
+      "image": "badges/u-ssi-25id.png",
+      "sources": [
+        "Wikipedia, \"25th Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-29id",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "29th Infantry Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "ww2"
+      ],
+      "summary": "The 29th Infantry Division (29th ID), also known as the \"Blue and Gray Division\", is an infantry division of the United States Army based at Fort Belvoir in Fairfax County, Virginia.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "The division is currently a formation of the Army National Guard and includes units from Virginia, Maryland, Kentucky, North Carolina, South Carolina, and West Virginia.",
+        "Formed in 1917, the division deployed to France as a part of the American Expeditionary Force during World War I.",
+        "Picture file on Wikimedia Commons: 29th Infantry Division SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "29th Infantry Division: army shoulder patches.",
+      "image": "badges/u-ssi-29id.png",
+      "sources": [
+        "Wikipedia, \"29th Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-30id",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "30th Infantry Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "ww2",
+        "modern"
+      ],
+      "summary": "The 30th Infantry Division was a United States Army unit of the National Guard that served in World War I and World War II. It was nicknamed the \"Old Hickory\" division, in honor of President Andrew Jackson. The Germans nicknamed this division \"Roosevelt's SS\".",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "The 30th Infantry Division, involved in 282 days of intense combat over a period from June 1944 through April 1945, was regarded by a team of historians led by S.L.A.",
+        "Marshall as the American infantry division that had \"performed the most efficient and consistent battle services\" in the European Theater of Operations (ETO).",
+        "Picture file on Wikimedia Commons: 30th Infantry Division SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "30th Infantry Division: army shoulder patches.",
+      "image": "badges/u-ssi-30id.png",
+      "sources": [
+        "Wikipedia, \"30th Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-32id",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "32nd Infantry Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "ww2"
+      ],
+      "summary": "The United States 32nd Infantry Division was formed from Army National Guard units from Wisconsin and Michigan and fought primarily during World War I and World War II.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "With roots as the Iron Brigade in the American Civil War, the division's ancestral units came to be referred to as the Iron Jaw Division.",
+        "During tough combat in France in World War I, it soon acquired from the French the nickname Les Terribles, referring to its fortitude in advancing over terrain others could not.",
+        "Picture file on Wikimedia Commons: 32nd infantry division shoulder patch.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "32nd Infantry Division: army shoulder patches.",
+      "image": "badges/u-ssi-32id.png",
+      "sources": [
+        "Wikipedia, \"32nd Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-35id",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "35th Infantry Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "ww2"
+      ],
+      "summary": "The 35th Infantry Division (formerly known as the 35th Division) is a formation of the Army National Guard, with its headquarters located at Fort Leavenworth, Kansas.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "The division is primarily composed of Army National Guard units from Missouri and Kansas, though it also includes subordinate units from other states.",
+        "While the Kansas National Guard provides the headquarters element, the division is federally funded and maintained through the Department of the Army under the Department of Defense.",
+        "Picture file on Wikimedia Commons: 35th Infantry Division SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "35th Infantry Division: army shoulder patches.",
+      "image": "badges/u-ssi-35id.png",
+      "sources": [
+        "Wikipedia, \"35th Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-42id",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "42nd Infantry Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "ww2",
+        "modern"
+      ],
+      "summary": "The 42nd Infantry Division (42ID) (\"Rainbow\") is a division of the United States Army National Guard. It was nicknamed the Rainbow Division because, during rapid mobilization for service the First World War, it was formed from 27 National Guard units from across the US.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "The division was engaged in four major operations between July 1918 and the armistice in November 1918, and demobilized in 1919.",
+        "The division then served during World War II in Europe.",
+        "Picture file on Wikimedia Commons: 42nd Infantry Division SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "42nd Infantry Division: army shoulder patches.",
+      "image": "badges/u-ssi-42id.png",
+      "sources": [
+        "Wikipedia, \"42nd Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-45id",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "45th Infantry Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2",
+        "korea"
+      ],
+      "summary": "The 45th Infantry Division was an infantry division of the United States Army, most associated with the Oklahoma Army National Guard, from 1920 to 1968. Headquartered for most of its history in Oklahoma City, Oklahoma, the guardsmen fought in both World War II and the Korean War.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "The 45th Infantry Division guardsmen saw no major action until they became one of the first National Guard units activated in World War II in 1941.",
+        "They took part in intense fighting during the invasion of Sicily and the attack on Salerno in the 1943 Italian Campaign.",
+        "Picture file on Wikimedia Commons: 45th Infantry insignia (thunderbird).svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "45th Infantry Division: army shoulder patches.",
+      "image": "badges/u-ssi-45id.png",
+      "sources": [
+        "Wikipedia, \"45th Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-75id",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "75th Infantry Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2",
+        "modern"
+      ],
+      "summary": "The 75th Innovation Command (75th IC) is a separate command of the United States Army Reserve. The 75th IC was activated as the 75th Infantry Division in World War II on April 15 1943.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Inactivated in 1945, it was reactivated in 1952 at Houston, Texas, from the assets of the disbanded 22nd Armored Division of the United States Army Organized Reserves.",
+        "It was active as an Infantry Division from 1952 to 1957, when it was reorganized and redesignated as the 75th Maneuver Area Command (MAC), and given responsibility for planning and conducting Field Training Exercises (FTX) and ...",
+        "Picture file on Wikimedia Commons: 75th Infantry Division patch.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "75th Infantry Division: army shoulder patches.",
+      "image": "badges/u-ssi-75id.png",
+      "sources": [
+        "Wikipedia, \"75th Innovation Command\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-78id",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "78th Infantry Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "ww2"
+      ],
+      "summary": "The 78th Training Division (Operations) (\"Lightning\") is a unit of the United States Army which served in World War I and World War II as the 78th Infantry Division, and currently trains and evaluates units of the United States Army Reserve for deployment.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Picture file on Wikimedia Commons: 78th Infantry Division SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "78th Infantry Division: army shoulder patches.",
+      "image": "badges/u-ssi-78id.png",
+      "sources": [
+        "Wikipedia, \"78th Training Division\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-79id",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "79th Infantry Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The 79th Infantry Division (formerly known as the 79th Division) was an infantry formation of the United States Army Reserve in World Wars I and II. Since 2009, it has been active as the 79th Theater Sustainment Command.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Picture file on Wikimedia Commons: 79th Infantry Division SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "79th Infantry Division: army shoulder patches.",
+      "image": "badges/u-ssi-79id.png",
+      "sources": [
+        "Wikipedia, \"79th Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-83id",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "83rd Infantry Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "ww2",
+        "modern"
+      ],
+      "summary": "The 83rd Infantry Division (\"Thunderbolt\") was a formation of the United States Army in World War I and World War II. Since 2014 the division's descendant is the 83rd United States Army Reserve Readiness Training Center (83rd USARRTC), United States Army Reserve, at Fort Knox, Kentucky.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Picture file on Wikimedia Commons: 83rd Infantry Division SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "83rd Infantry Division: army shoulder patches.",
+      "image": "badges/u-ssi-83id.png",
+      "sources": [
+        "Wikipedia, \"83rd Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-88id",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "88th Infantry Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "ww2"
+      ],
+      "summary": "The 88th Readiness Division is an administrative formation of the United States Army Reserve. It traces its history to the 88th Infantry Division, a infantry division of the United States Army that saw service in both World War I and World War II.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "It was one of the first of the Organized Reserve divisions to be called into federal service, created nearly \"from scratch\" after the implementation of the draft in 1940.",
+        "Previous divisions were composed of a core of either Regular Army or National Guard personnel plus draftees.",
+        "Picture file on Wikimedia Commons: 88th Infantry Division SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "88th Infantry Division: army shoulder patches.",
+      "image": "badges/u-ssi-88id.png",
+      "sources": [
+        "Wikipedia, \"88th Readiness Division\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-90id",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "90th Infantry Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "ww2"
+      ],
+      "summary": "The 90th Infantry Division (\"Tough 'Ombres\") was a unit of the United States Army that served in World War I and World War II. Its lineage is carried on by the 90th Sustainment Brigade.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Picture file on Wikimedia Commons: 90th Infantry Division.patch.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "90th Infantry Division: army shoulder patches.",
+      "image": "badges/u-ssi-90id.png",
+      "sources": [
+        "Wikipedia, \"90th Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-96id",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "96th Infantry Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "ww2",
+        "modern"
+      ],
+      "summary": "The 96th Infantry Division was an infantry division of the United States Army. It was formed in 1918 and served in World War I and in the Pacific War during World War II. It was reformed after the war and was part of the United States Army Reserve until 1965.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "In 1967 the number \"96\" was resurrected for a U.S.",
+        "Army Reserve area administrative headquarters, the 96th Army Reserve Command.",
+        "Picture file on Wikimedia Commons: 96th Infantry Division SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "96th Infantry Division: army shoulder patches.",
+      "image": "badges/u-ssi-96id.png",
+      "sources": [
+        "Wikipedia, \"96th Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-100id",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "100th Infantry Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "ww2"
+      ],
+      "summary": "The 100th Training Division (Leader Development) (formerly the 100th Infantry Division) is a division of the United States Army headquartered at Fort Knox, Kentucky. It currently serves as a major training command of the United States Army Reserve.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "It has been known as the \"Century Division\" owing to its \"100th\" designation.",
+        "Throughout its long history, the division has taken on numerous roles.",
+        "Picture file on Wikimedia Commons: 100th Infantry Division SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "100th Infantry Division: army shoulder patches.",
+      "image": "badges/u-ssi-100id.png",
+      "sources": [
+        "Wikipedia, \"100th Training Division\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-103id",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "103rd Infantry Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2"
+      ],
+      "summary": "The 103rd Infantry Division (\"Cactus Division\") was a unit of the United States Army that served in the U.S. Seventh Army of the 6th Army Group during World War II. It was variously assigned to the VI Corps, XV Corps, and XXI Corps.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "By war's end it was part of VI Corps' dash across Bavaria into the Alps, reaching Innsbruck, Austria, taking the Brenner Pass, and earning the honor of linking up with the United States Fifth Army coming north from Vipiteno ...",
+        "Picture file on Wikimedia Commons: 103rd Infantry Division SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "103rd Infantry Division: army shoulder patches.",
+      "image": "badges/u-ssi-103id.png",
+      "sources": [
+        "Wikipedia, \"103rd Infantry Division (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-13abn",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "13th Airborne Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2"
+      ],
+      "summary": "The 13th Airborne Division was an airborne forces formation of division-size of the United States Army that was active during World War II. The division was commanded for most of its existence by Major General Elbridge G. Chapman.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "It was officially activated in the United States in August 1943 at Fort Bragg in North Carolina, remaining active until February 1946, however it never saw combat.",
+        "After activation, the division remained in the United States to complete its training.",
+        "Picture file on Wikimedia Commons: 13th Airborne Division SSI.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "13th Airborne Division: army shoulder patches.",
+      "image": "badges/u-ssi-13abn.png",
+      "sources": [
+        "Wikipedia, \"13th Airborne Division (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-6ad",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "6th Armored Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2"
+      ],
+      "summary": "The 6th Armored Division (\"Super Sixth\") was an armored division of the United States Army during World War II. It was formed with a cadre from the 2nd Armored Division.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Picture file on Wikimedia Commons: 6th US Armored Division SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "6th Armored Division: army shoulder patches.",
+      "image": "badges/u-ssi-6ad.png",
+      "sources": [
+        "Wikipedia, \"6th Armored Division (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-11ad",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "11th Armored Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2"
+      ],
+      "summary": "The 11th Armored Division (11 AD) was a division of the United States Army in World War II. It was activated on 15 August 1942 at Camp Polk, Louisiana and moved on 24 June 1943 for the Louisiana Maneuvers under the command of Major General Edward H. Brooks.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "The division transferred then to Camp Barkeley, Texas on 5 September 1943, the division participated, beginning 29 October 1943, in the California Maneuvers and arrived at Camp Cooke California on 11 February 1944.",
+        "The division staged at Camp Kilmer, New Jersey from 16 to 29 September 1944 until departing New York Port of Embarkation on 29 September 1944, arriving in England on 11 October 1944.",
+        "Picture file on Wikimedia Commons: 11th US Armored Division SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "11th Armored Division: army shoulder patches.",
+      "image": "badges/u-ssi-11ad.png",
+      "sources": [
+        "Wikipedia, \"11th Armored Division (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-14ad",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "14th Armored Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2"
+      ],
+      "summary": "The 14th Armored Division was an armored division of the United States Army assigned to the Seventh Army of the Sixth Army Group during World War II. It remains on the permanent roll of the Regular Army as an inactive division, and is eligible for reactivation.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "The division is officially nicknamed the \"Liberators\".",
+        "Picture file on Wikimedia Commons: 14th US Armored Division SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "14th Armored Division: army shoulder patches.",
+      "image": "badges/u-ssi-14ad.png",
+      "sources": [
+        "Wikipedia, \"14th Armored Division (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-20ad",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "20th Armored Division",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2"
+      ],
+      "summary": "The 20th Armored Division was an armored division of the United States Army that fought in World War II. It was activated on 15 March 1943 at Camp Campbell in Kentucky.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "The division had no official name although it did associate itself with the nickname \"Armoraiders\" while in training at Camp Campbell.",
+        "After certification as a liberating division by the US Army Center of Military History on 28 October 1988, and the awarding of a Liberation Certificate by the United States Holocaust Memorial Council, veterans of the division ...",
+        "Picture file on Wikimedia Commons: 20th US Armored Division SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "20th Armored Division: army shoulder patches.",
+      "image": "badges/u-ssi-20ad.png",
+      "sources": [
+        "Wikipedia, \"20th Armored Division (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-173abn",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "173rd Airborne Brigade",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2",
+        "vietnam"
+      ],
+      "summary": "The 173rd Mobile Brigade Combat Team (Airborne) (\"Sky Soldiers\") is an airborne mobile Brigade Combat Team (MBCT) of the United States Army based in Vicenza, Italy. It is the United States European Command's conventional airborne strategic response force for Europe.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Activated in 1915, as the 173rd Infantry Brigade, the unit saw service in World War II but is best known for its actions during the Vietnam War.",
+        "The brigade was the first major United States Army ground formation deployed to South Vietnam, serving there from 1965 to 1971 and losing 1,533 soldiers.",
+        "Picture file on Wikimedia Commons: 173Airborne Brigade Shoulder Patch.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "173rd Airborne Brigade: army shoulder patches.",
+      "image": "badges/u-ssi-173abn.png",
+      "sources": [
+        "Wikipedia, \"173rd Airborne Brigade\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-75rr",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "75th Ranger Regiment",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The 75th Ranger Regiment, also known as the Rangers, is the United States Army Special Operations Command's premier light-infantry and special operations force.",
+      "facts": [
+        "The regiment is headquartered at Fort Benning, Georgia, and comprises a regimental headquarters company, a military intelligence battalion, a special troops battalion, and three Ranger battalions.",
+        "The 75th Ranger Regiment primarily handles direct-action raids in hostile or sensitive environments, often killing or capturing high-value targets.",
+        "Picture file on Wikimedia Commons: 75th Ranger Regiment insignia.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "75th Ranger Regiment: army shoulder patches.",
+      "image": "badges/u-ssi-75rr.png",
+      "sources": [
+        "Wikipedia, \"75th Ranger Regiment\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-7a",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "Seventh Army",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2"
+      ],
+      "summary": "The Seventh Army was a United States army created during World War II that evolved into the United States Army Europe (USAREUR) during the 1950s and 1960s.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "It served in North Africa and Italy in the Mediterranean Theater of Operations and France and Germany in the European Theater between 1942 and 1945.",
+        "Originally the I Armored Corps under command of Lieutenant General George S.",
+        "Picture file on Wikimedia Commons: US Seventh Army SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Seventh Army: army shoulder patches.",
+      "image": "badges/u-ssi-7a.png",
+      "sources": [
+        "Wikipedia, \"Seventh United States Army\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-9a",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "Ninth Army",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2"
+      ],
+      "summary": "The Ninth Army was a field army of the United States Army, most recently garrisoned at Caserma Ederle, Vicenza, Italy. It was the United States Army Service Component Command of United States Africa Command (USAFRICOM or AFRICOM).",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Activated just eight weeks before the June 1944 Normandy landings, the Ninth Army was one of the main U.S.",
+        "Army commands which fought in Northwest Europe in 1944 and 1945.",
+        "Picture file on Wikimedia Commons: US Ninth Army patch.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Ninth Army: army shoulder patches.",
+      "image": "badges/u-ssi-9a.png",
+      "sources": [
+        "Wikipedia, \"Ninth Army (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-6a",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "Sixth Army",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2",
+        "modern"
+      ],
+      "summary": "Sixth Army is a theater army of the United States Army. The Army service component command of United States Southern Command, its area of responsibility includes 31 countries and 15 areas of special sovereignty in Central and South America and the Caribbean. It is headquartered at Fort Sam Houston.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "The Sixth Army saw extensive service in the South Pacific during World War II, including in New Britain, New Guinea, and the Philippines.",
+        "Postwar it served stateside training army forces until its inactivation during force reduction in 1995.",
+        "Picture file on Wikimedia Commons: US Sixth Army patch.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Sixth Army: army shoulder patches.",
+      "image": "badges/u-ssi-6a.png",
+      "sources": [
+        "Wikipedia, \"Sixth Army (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-arsouth",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "U.S. Army South",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "United States Army South (ARSOUTH) was an Army service component command of United States Southern Command whose area of responsibility includes 31 countries and 15 areas of special sovereignty in Central and South America and the Caribbean. It was headquartered at Fort Sam Houston, Texas. U.S.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Army South's final officially stated mission is to conduct and support multinational operations and security cooperation in the United States Southern Command area of responsibility in order to counter transnational threats and ...",
+        "It may be still required to serve as a Joint Task Force Land Component Command or Joint Task Force, as directed.",
+        "Picture file on Wikimedia Commons: UNITED STATES ARMY SOUTH SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "U.S. Army South: army shoulder patches.",
+      "image": "badges/u-ssi-arsouth.png",
+      "sources": [
+        "Wikipedia, \"United States Army South\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-usarj",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "U.S. Army, Japan",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "United States Army Japan (USARJ) is a Major Command of the United States Army. It operates port facilities and a series of logistics installations throughout Honshū and Okinawa.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "USARJ participates actively with the Japan Ground Self-Defense Force in bilateral training exercises and the development of bilateral plans.",
+        "It commands and supports United States Army assigned units, attached units, and augmentation forces and employs these forces in support of the commander.",
+        "Picture file on Wikimedia Commons: United States Army, Japan - Shoulder sleeve insignia.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "U.S. Army, Japan: army shoulder patches.",
+      "image": "badges/u-ssi-usarj.png",
+      "sources": [
+        "Wikipedia, \"United States Army Japan\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-forscom",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "U.S. Army Forces Command (FORSCOM)",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The United States Army Forces Command (FORSCOM) was the largest command of the United States Army. It provided land forces to the Department of Defense's unified combatant commands. FORSCOM was headquartered at Fort Bragg, North Carolina, and consisted of more than 750,000 active Army, U.S.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Army Reserve, and Army National Guard soldiers.",
+        "It was created on 1 July 1973 from the former Continental Army Command (CONARC), which in turn supplanted Army Field Forces and Army Ground Forces.",
+        "Picture file on Wikimedia Commons: United States Army Forces Command SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "U.S. Army Forces Command (FORSCOM): army shoulder patches.",
+      "image": "badges/u-ssi-forscom.png",
+      "sources": [
+        "Wikipedia, \"United States Army Forces Command\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-cybercom",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "U.S. Army Cyber Command",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The U.S. Army Cyber Command (ARCYBER) conducts information dominance and cyberspace operations as the Army service component command of United States Cyber Command (USCYBERCOM).",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "ARCYBER was established on 1 October 2010, intending to be the Army's single point of contact for external organizations regarding information operations and cyberspace.",
+        "Picture file on Wikimedia Commons: US Army Cyber Command SSI.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "U.S. Army Cyber Command: army shoulder patches.",
+      "image": "badges/u-ssi-cybercom.png",
+      "sources": [
+        "Wikipedia, \"United States Army Cyber Command\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-afc",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "Army Futures Command",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The United States Army Futures Command (AFC) was a United States Army command that ran modernization projects. It was headquartered in Austin, Texas. The AFC began initial operations on 1 July 2018.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "It was created as a peer of Forces Command (FORSCOM), Training and Doctrine Command (TRADOC), and Army Materiel Command (AMC).",
+        "While the other commands focus on readiness to \"fight tonight\", AFC aimed to improve future readiness for competition with near-peers.",
+        "Picture file on Wikimedia Commons: Army Futures Command SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Army Futures Command: army shoulder patches.",
+      "image": "badges/u-ssi-afc.png",
+      "sources": [
+        "Wikipedia, \"United States Army Futures Command\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-recruiting",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "U.S. Army Recruiting Command",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The United States Army Recruiting Command (USAREC, yoo-ZUH-rek), located at Fort Knox, Kentucky, is responsible for the recruitment and accession of new Soldiers for the United States Army and Army Reserve.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Recruiting operations are conducted throughout the United States, U.S. territories, and at U.S. military facilities in Europe, Asia, and the Middle East.",
+        "This process includes the recruiting, medical and psychological examination, induction, and administrative processing of potential service personnel.",
+        "Picture file on Wikimedia Commons: U.S. Army Recruiting Command SSI.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "U.S. Army Recruiting Command: army shoulder patches.",
+      "image": "badges/u-ssi-recruiting.png",
+      "sources": [
+        "Wikipedia, \"United States Army Recruiting Command\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-parachute",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "U.S. Army Parachute Team (Golden Knights)",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "coldwar",
+        "vietnam",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The United States Army Parachute Team, nicknamed the Golden Knights, is a demonstration and competition parachute team of the United States Army. It consists of demonstration and competition parachutist teams, drawn from all branches of the U.S. Army.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "Members must demonstrate excellence in parachuting.",
+        "Picture file on Wikimedia Commons: US Army Parachute Team SSI.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "U.S. Army Parachute Team (Golden Knights): army shoulder patches.",
+      "image": "badges/u-ssi-parachute.png",
+      "sources": [
+        "Wikipedia, \"United States Army Parachute Team\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-asa",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "Army Security Agency",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww1",
+        "ww2",
+        "coldwar"
+      ],
+      "summary": "The United States Army Security Agency (ASA) was the United States Army's signals intelligence branch from 1945 to 1987.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "The Latin motto of the Army Security Agency was Semper Vigilis (Vigilant Always), which echoes the declaration, often mistakenly attributed to Thomas Jefferson, that \"The price of liberty is eternal vigilance.\" Although most ASA ...",
+        "At the end of the Cold War era, some ASA units also were staffed with ELINT (electronic intelligence) specialists and warrant officers, which incorporated field ECM (electronic counter-measures) and field ECCM (electronic ...",
+        "Picture file on Wikimedia Commons: Army Security Agency SSI.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Army Security Agency: army shoulder patches.",
+      "image": "badges/u-ssi-asa.png",
+      "sources": [
+        "Wikipedia, \"United States Army Security Agency\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-ssi-1armcorps",
+      "tab": "patches",
+      "group": "Army shoulder patches (SSI)",
+      "name": "1st Armored Corps",
+      "branches": [
+        "Army"
+      ],
+      "eras": [
+        "ww2"
+      ],
+      "summary": "The I Armored Corps was a corps-sized formation of the United States Army that was active in World War II.",
+      "facts": [
+        "Patch type: Army shoulder sleeve insignia (SSI).",
+        "The Corps made landfall in Morocco in French North Africa during Operation Torch in November 1942, the Allied invasion of French North Africa, as the Western Task Force, under the command of Major General George S.",
+        "Patton, the first all-American force to enter the war against the Germans.",
+        "Picture file on Wikimedia Commons: 1st Armored Corps SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "1st Armored Corps: army shoulder patches.",
+      "image": "badges/u-ssi-1armcorps.png",
+      "sources": [
+        "Wikipedia, \"I Armored Corps (United States)\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-mc-1mardiv",
+      "tab": "patches",
+      "group": "Marine Corps division insignia",
+      "name": "1st Marine Division",
+      "branches": [
+        "Marine Corps"
+      ],
+      "eras": [
+        "ww2",
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The 1st Marine Division (1st MARDIV) is a Marine division of the United States Marine Corps headquartered at Marine Corps Base Camp Pendleton, California. It is the ground combat element of the I Marine Expeditionary Force (I MEF).",
+      "facts": [
+        "It is the oldest and largest active duty division in the United States Marine Corps, representing a combat-ready force of 22,000 personnel.",
+        "It is one of three active duty divisions in the Marine Corps today and is a multi-role, expeditionary ground combat force.",
+        "Picture file on Wikimedia Commons: US 1st Marine Division SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "1st Marine Division: marine corps division insignia.",
+      "image": "badges/u-mc-1mardiv.png",
+      "sources": [
+        "Wikipedia, \"1st Marine Division\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-mc-3mardiv",
+      "tab": "patches",
+      "group": "Marine Corps division insignia",
+      "name": "3rd Marine Division",
+      "branches": [
+        "Marine Corps"
+      ],
+      "eras": [
+        "ww2",
+        "vietnam"
+      ],
+      "summary": "The 3rd Marine Division is a division of the United States Marine Corps based at Camp Courtney, Marine Corps Base Camp Smedley D. Butler in Okinawa, Japan.",
+      "facts": [
+        "It is one of three active duty infantry divisions in the Marine Corps and together with the 1st Marine Aircraft Wing (1st MAW) and the 3rd Marine Logistics Group (3rd MLG) forms the III Marine Expeditionary Force (III MEF).",
+        "The division was first formed during World War II and saw four years of continuous combat in the Vietnam War.",
+        "Picture file on Wikimedia Commons: US 3d Marine Division SSI.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "3rd Marine Division: marine corps division insignia.",
+      "image": "badges/u-mc-3mardiv.png",
+      "sources": [
+        "Wikipedia, \"3rd Marine Division\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-mc-4mardiv",
+      "tab": "patches",
+      "group": "Marine Corps division insignia",
+      "name": "4th Marine Division",
+      "branches": [
+        "Marine Corps"
+      ],
+      "eras": [
+        "ww2",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The 4th Marine Division is a reserve division in the United States Marine Corps. It was raised in 1943 for service during World War II, and subsequently fought in the Pacific against the Japanese.",
+      "facts": [
+        "Deactivated after the war, the division was re-formed in 1966 and elements of the division deployed during the Gulf War in 1990–1991, as well as during the Iraq War.",
+        "It is currently the ground combat element of the Marine Forces Reserve and is headquartered in New Orleans, Louisiana, and has units throughout the United States.",
+        "Picture file on Wikimedia Commons: USMC - 4th Division.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "4th Marine Division: marine corps division insignia.",
+      "image": "badges/u-mc-4mardiv.png",
+      "sources": [
+        "Wikipedia, \"4th Marine Division\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-acc",
+      "tab": "patches",
+      "group": "Air Force major commands",
+      "name": "Air Combat Command (ACC)",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The Air Combat Command (ACC) is a major command (MAJCOM) of the United States Air Force, reporting to Headquarters, United States Air Force (HAF) at the Pentagon. It is the primary provider of air combat forces for the Air Force, and it is the direct successor to Tactical Air Command.",
+      "facts": [
+        "Air Combat Command is headquartered at Langley Air Force Base, Joint Base Langley–Eustis, Virginia, United States.",
+        "ACC directly operates 1,110 fighter, attack, reconnaissance, combat search and rescue, airborne command and control and electronic aircraft along with command, control, computing, communications and intelligence (C4I) systems ...",
+        "Picture file on Wikimedia Commons: Air Combat Command.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Air Combat Command (ACC): air force major commands.",
+      "image": "badges/u-af-acc.png",
+      "sources": [
+        "Wikipedia, \"Air Combat Command\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-aetc",
+      "tab": "patches",
+      "group": "Air Force major commands",
+      "name": "Air Education and Training Command (AETC)",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The Air Education and Training Command (AETC) is a major command (MAJCOM) of the United States Air Force (USAF), reporting to Headquarters, United States Air Force. It was established July 1, 1993, with the realignment of Air Training Command and Air University.",
+      "facts": [
+        "AETC is headquartered at Randolph Air Force Base, Joint Base San Antonio, Texas.",
+        "AETC is the primary training and professional education command in the Air Force.",
+        "Picture file on Wikimedia Commons: Air Education and Training Command.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "Air Education and Training Command (AETC): air force major commands.",
+      "image": "badges/u-af-aetc.png",
+      "sources": [
+        "Wikipedia, \"Air Education and Training Command\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-afgsc",
+      "tab": "patches",
+      "group": "Air Force major commands",
+      "name": "Air Force Global Strike Command (AFGSC)",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "coldwar"
+      ],
+      "summary": "The Air Force Global Strike Command (AFGSC) is a major command (MAJCOM) of the United States Air Force, headquartered at Barksdale Air Force Base, Louisiana. AFGSC provides combat-ready forces to conduct strategic nuclear deterrence and global strike operations in support of combatant commanders.",
+      "facts": [
+        "Air Force Global Strike Command is the Air Force's service component to the United States Strategic Command (USSTRATCOM).",
+        "Air Force Global Strike Command is the direct descendant unit of the Cold War–era Strategic Air Command (SAC).",
+        "Picture file on Wikimedia Commons: Air Force Global Strike Command.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Air Force Global Strike Command (AFGSC): air force major commands.",
+      "image": "badges/u-af-afgsc.png",
+      "sources": [
+        "Wikipedia, \"Air Force Global Strike Command\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-afmc",
+      "tab": "patches",
+      "group": "Air Force major commands",
+      "name": "Air Force Materiel Command (AFMC)",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The Air Force Materiel Command (AFMC) is a major command (MAJCOM) of the United States Air Force (USAF). AFMC was created on July 1, 1992, through the amalgamation of the former Air Force Logistics Command (AFLC) and the former Air Force Systems Command (AFSC).",
+      "facts": [
+        "AFMC is headquartered at Wright-Patterson Air Force Base in Dayton, Ohio.",
+        "AFMC is one of nine Air Force major commands and has a workforce of approximately 80,000 military and civilian personnel.",
+        "Picture file on Wikimedia Commons: Air Force Materiel Command shield.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "Air Force Materiel Command (AFMC): air force major commands.",
+      "image": "badges/u-af-afmc.png",
+      "sources": [
+        "Wikipedia, \"Air Force Materiel Command\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-afrc",
+      "tab": "patches",
+      "group": "Air Force major commands",
+      "name": "Air Force Reserve Command (AFRC)",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "summary": "The United States Air Force Reserve (USAFR, AFR, or AFRES) is one of the United States Air Force's (USAF) two air reserve components, alongside the Air National Guard (ANG). The USAFR and ANG constitute the USAF's contribution to the reserve components of the United States Armed Forces.",
+      "facts": [
+        "The USAFR represents the federal contribution to the reserve components while the ANG represents the states', certain territories', and the District of Columbia's contribution to the reserve components as the \"air militia\" of ...",
+        "The USAFR is overseen by the Air Force Reserve Command (AFRC), a major command (MAJCOM) of the USAF, with its headquarters at Robins Air Force Base, Georgia.",
+        "Picture file on Wikimedia Commons: Air Force Reserve Command.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "Air Force Reserve Command (AFRC): air force major commands.",
+      "image": "badges/u-af-afrc.png",
+      "sources": [
+        "Wikipedia, \"United States Air Force Reserve\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-afsoc",
+      "tab": "patches",
+      "group": "Air Force major commands",
+      "name": "Air Force Special Operations Command (AFSOC)",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "vietnam"
+      ],
+      "summary": "Air Force Special Operations Command (AFSOC), headquartered at Hurlburt Field, Florida, is the special operations component of the United States Air Force. An Air Force major command (MAJCOM), AFSOC is also the U.S.",
+      "facts": [
+        "Air Force component command to United States Special Operations Command (USSOCOM), a unified combatant command located at MacDill Air Force Base, Florida.",
+        "AFSOC provides all Air Force special operations forces (SOF) for worldwide deployment and assignment to regional unified combatant commands.",
+        "Picture file on Wikimedia Commons: Air Force Special Operations Command.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Air Force Special Operations Command (AFSOC): air force major commands.",
+      "image": "badges/u-af-afsoc.png",
+      "sources": [
+        "Wikipedia, \"Air Force Special Operations Command\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-amc",
+      "tab": "patches",
+      "group": "Air Force major commands",
+      "name": "Air Mobility Command (AMC)",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "coldwar",
+        "modern"
+      ],
+      "summary": "The Air Mobility Command (AMC) is a major command (MAJCOM) of the U.S. Air Force. It is headquartered at Scott Air Force Base, Illinois, east of St. Louis, Missouri, near Mascoutah, Illinois.",
+      "facts": [
+        "Air Mobility Command was established on 1 June 1992 and was formed from elements of the inactivated Military Airlift Command (MAC) and Strategic Air Command (SAC).",
+        "AMC melded MAC's worldwide airlift system of primarily C-5 Galaxy, C-141 Starlifter (later replaced by C-17 Globemaster III beginning in 1995), and C-130 Hercules airlift aircraft with SAC's tanker force of KC-135 Stratotanker ...",
+        "Picture file on Wikimedia Commons: Air Mobility Command.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Air Mobility Command (AMC): air force major commands.",
+      "image": "badges/u-af-amc.png",
+      "sources": [
+        "Wikipedia, \"Air Mobility Command\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-pacaf",
+      "tab": "patches",
+      "group": "Air Force major commands",
+      "name": "Pacific Air Forces (PACAF)",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "vietnam",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The Pacific Air Forces (PACAF) is a major command (MAJCOM) of the United States Air Force and is also the air component command of the United States Indo-Pacific Command (USINDOPACOM).",
+      "facts": [
+        "PACAF is headquartered at the Hickam AFB portion of Joint Base Pearl Harbor–Hickam, Hawaii, and is one of two USAF MAJCOMs assigned outside the continental United States, the other being the United States Air Forces in Europe – ...",
+        "Over the past eighty plus years, PACAF has been engaged in combat in the Korean and Vietnamese Wars and Operations Desert Storm, Southern Watch, Northern Watch, Enduring Freedom, and Iraqi Freedom.",
+        "Picture file on Wikimedia Commons: Pacific Air Forces.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Pacific Air Forces (PACAF): air force major commands.",
+      "image": "badges/u-af-pacaf.png",
+      "sources": [
+        "Wikipedia, \"Pacific Air Forces\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-usafe",
+      "tab": "patches",
+      "group": "Air Force major commands",
+      "name": "U.S. Air Forces in Europe (USAFE)",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "ww2",
+        "modern"
+      ],
+      "summary": "The United States Air Forces in Europe – Air Forces Africa (USAFE-AFAFRICA) is a major command (MAJCOM) of the United States Air Force (USAF) and a component command of both United States European Command (USEUCOM) and United States Africa Command (USAFRICOM).",
+      "facts": [
+        "As part of its mission, USAFE-AFAFRICA commands U.S.",
+        "Air Force units pledged to NATO, maintaining combat-ready wings based from the United Kingdom to Turkey.",
+        "Picture file on Wikimedia Commons: United States Air Forces in Europe.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "U.S. Air Forces in Europe (USAFE): air force major commands.",
+      "image": "badges/u-af-usafe.png",
+      "sources": [
+        "Wikipedia, \"United States Air Forces in Europe – Air Forces Africa\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-ang",
+      "tab": "patches",
+      "group": "Air Force major commands",
+      "name": "Air National Guard",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "korea",
+        "vietnam",
+        "coldwar",
+        "gulf",
+        "modern"
+      ],
+      "summary": "The Air National Guard (ANG), also known as the Air Guard, is a federal military reserve force of the United States Air Force (USAF), as well as the \"air militia\" of each U.S. state, the District of Columbia, the Commonwealth of Puerto Rico, and the territories of Guam and the U.S. Virgin Islands.",
+      "facts": [
+        "It, along with the Army National Guard component of each state, district, commonwealth or territory, makes up the National Guard of each region as applicable.",
+        "The ANG and the United States Air Force Reserve constitute the two air reserve components of the USAF.",
+        "Picture file on Wikimedia Commons: Air National Guard.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "Air National Guard: air force major commands.",
+      "image": "badges/u-af-ang.png",
+      "sources": [
+        "Wikipedia, \"Air National Guard\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-sac",
+      "tab": "patches",
+      "group": "Air Force major commands (former)",
+      "name": "Strategic Air Command (SAC)",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "coldwar"
+      ],
+      "summary": "Strategic Air Command (SAC) was a Cold War-era United States Department of Defense Specified Command and a United States Air Force (USAF) Major Command (MAJCOM) responsible for command and control of the strategic bomber and intercontinental ballistic missile (ICBM) components of the United States ...",
+      "facts": [
+        "SAC was also responsible for strategic reconnaissance aircraft; airborne command posts; and most of the USAF's aerial refueling aircraft.",
+        "SAC primarily consisted of the Second Air Force (2AF), Eighth Air Force (8AF) and the Fifteenth Air Force (15AF), while SAC headquarters (HQ SAC) included Directorates for Operations & Plans, Intelligence, Command & Control ...",
+        "Picture file on Wikimedia Commons: SAC Shield.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Strategic Air Command (SAC): air force major commands.",
+      "image": "badges/u-af-sac.png",
+      "sources": [
+        "Wikipedia, \"Strategic Air Command\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-tac",
+      "tab": "patches",
+      "group": "Air Force major commands (former)",
+      "name": "Tactical Air Command (TAC)",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "ww2"
+      ],
+      "summary": "Tactical Air Command (TAC) is an inactive United States Air Force organization. It was a major command of the United States Air Force, established on 21 March 1946 and headquartered at Langley Air Force Base, Virginia.",
+      "facts": [
+        "It was inactivated on 1 June 1992 and its personnel and equipment absorbed by Air Combat Command (ACC).",
+        "Tactical Air Command was established to provide a balance between strategic, air defense, and tactical forces of the post–World War II U.S.",
+        "Picture file on Wikimedia Commons: Tactical Air Command Emblem.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Tactical Air Command (TAC): air force major commands.",
+      "image": "badges/u-af-tac.png",
+      "sources": [
+        "Wikipedia, \"Tactical Air Command\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-mac",
+      "tab": "patches",
+      "group": "Air Force major commands (former)",
+      "name": "Military Airlift Command (MAC)",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "ww2",
+        "modern"
+      ],
+      "summary": "The Military Airlift Command (MAC) is an inactive United States Air Force major command (MAJCOM) that was headquartered at Scott Air Force Base, Illinois.",
+      "facts": [
+        "Established on 1 January 1966, MAC was the primary strategic airlift organization of the Air Force until 1974, when Air Force tactical airlift units in the Tactical Air Command (TAC) were merged into MAC to create a unified ...",
+        "In 1982, the heritage of the World War II Air Transport Command (ATC) (1942–1948) and the postwar Military Air Transport Service (MATS) (1948–1966) were consolidated with MAC, providing a continuous history of long range airlift.",
+        "Picture file on Wikimedia Commons: USAF - Military Airlift Command.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Military Airlift Command (MAC): air force major commands.",
+      "image": "badges/u-af-mac.png",
+      "sources": [
+        "Wikipedia, \"Military Airlift Command\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-adc",
+      "tab": "patches",
+      "group": "Air Force major commands (former)",
+      "name": "Air Defense Command (ADC)",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "korea",
+        "vietnam",
+        "coldwar"
+      ],
+      "summary": "Aerospace Defense Command was a major command of the United States Air Force, responsible for air defense of the continental United States. It was activated in 1968 and disbanded in 1980.",
+      "facts": [
+        "Its predecessor, Air Defense Command, was established in 1946, briefly inactivated in 1950, reactivated in 1951, and then redesignated Aerospace rather than Air in 1968.",
+        "Its mission was to provide air defense of the continental United States.",
+        "Picture file on Wikimedia Commons: Air Defense Command.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "Air Defense Command (ADC): air force major commands.",
+      "image": "badges/u-af-adc.png",
+      "sources": [
+        "Wikipedia, \"Aerospace Defense Command\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-afsc",
+      "tab": "patches",
+      "group": "Air Force major commands (former)",
+      "name": "Air Force Systems Command (AFSC)",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "vietnam",
+        "coldwar"
+      ],
+      "summary": "The Air Force Systems Command (AFSC) is an inactive United States Air Force Major Command. It was established in April 1951, being split off from Air Materiel Command. The mission of AFSC was Research and Development for new weapons systems.",
+      "facts": [
+        "AFSC took on engineering functions which formerly resided in the Air Materiel Command (AMC), the Army Air Forces Technical Service Command, and the Air Technical Service Command (ATSC) as a separate research and development ...",
+        "It incorporated Air Proving Ground Command in 1957.",
+        "Picture file on Wikimedia Commons: USAF - Systems Command.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "Air Force Systems Command (AFSC): air force major commands.",
+      "image": "badges/u-af-afsc.png",
+      "sources": [
+        "Wikipedia, \"Air Force Systems Command\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-aflc",
+      "tab": "patches",
+      "group": "Air Force major commands (former)",
+      "name": "Air Force Logistics Command (AFLC)",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "vietnam",
+        "coldwar"
+      ],
+      "summary": "Air Materiel Command (AMC) was a United States Army Air Forces and United States Air Force command. Its headquarters was located at Wright-Patterson Air Force Base, Ohio.",
+      "facts": [
+        "In 1961, the command was redesignated the Air Force Logistics Command (AFLC) with some of its functions transferred to the new Air Force Systems Command.",
+        "Picture file on Wikimedia Commons: USAF - Logistics Command.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "unverified",
+      "remember": "Air Force Logistics Command (AFLC): air force major commands.",
+      "image": "badges/u-af-aflc.png",
+      "sources": [
+        "Wikipedia, \"Air Materiel Command\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md",
+        "Eras for this unit are not in the source text; they are from general knowledge and not yet checked"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-atc",
+      "tab": "patches",
+      "group": "Air Force major commands (former)",
+      "name": "Air Training Command (ATC)",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "ww2",
+        "coldwar"
+      ],
+      "summary": "The Air Training Command (ATC) is a former United States Air Force (USAF) Major Command designation. It was headquartered at Randolph Air Force Base, Texas, but was initially formed at Barksdale Air Force Base, Louisiana.",
+      "facts": [
+        "It was re-designated as Air Education and Training Command (AETC) following a merger with Air University (AU) on 1 July 1993.",
+        "ATC was organized on 1 July 1946 as a re-designation of Army Air Forces Training Command (AAFTC) as part of the re-organization of the United States Army Air Forces (USAAF) after World War II.",
+        "Picture file on Wikimedia Commons: Air Training Command Emblem.png"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Air Training Command (ATC): air force major commands.",
+      "image": "badges/u-af-atc.png",
+      "sources": [
+        "Wikipedia, \"Air Training Command\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
+    },
+    {
+      "id": "u-af-mats",
+      "tab": "patches",
+      "group": "Air Force major commands (former)",
+      "name": "Military Air Transport Service (MATS)",
+      "branches": [
+        "Air Force"
+      ],
+      "eras": [
+        "ww2"
+      ],
+      "summary": "The Military Air Transport Service (MATS) is an inactive Department of Defense Unified Command. Activated on 1 June 1948, MATS was a consolidation of the United States Navy's Naval Air Transport Service (NATS) and the United States Air Force's Air Transport Command (ATC) into a single joint command.",
+      "facts": [
+        "It was inactivated and discontinued on 8 January 1966, superseded by the Air Force's Military Airlift Command (MAC) as a separate strategic airlift command, and it returned shore-based Navy cargo aircraft to Navy control as ...",
+        "In 1966, the World War II ATC (1942–1948) and the Military Air Transport Service were consolidated with Military Airlift Command (MAC) (1966–1992).",
+        "Picture file on Wikimedia Commons: Military Air Transport Service - Emblem.svg"
+      ],
+      "variants": [],
+      "swatches": [],
+      "attachments": [],
+      "proof": "historical",
+      "remember": "Military Air Transport Service (MATS): air force major commands.",
+      "image": "badges/u-af-mats.png",
+      "sources": [
+        "Wikipedia, \"Military Air Transport Service\" (introduction text; a secondary source, not an official record)",
+        "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"
+      ],
+      "yearFrom": null,
+      "yearTo": null
     }
   ]
 }
