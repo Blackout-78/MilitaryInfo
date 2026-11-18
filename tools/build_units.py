@@ -58,14 +58,15 @@ for p in PICKS:
         h=HER[i]; facts=h["facts"]+facts; eras=h["eras"]; manual=False
         srcs=[f"Heraldry of the World (heraldry-wiki.com), \"{h['page']}\" - reproduces the US Army Institute of Heraldry record; {h['url']}"]
     if i in OVR:
-        o=OVR[i]; summary=o["summary"]; facts=o["facts"]; eras=o["eras"]; manual=False; srcs=o["sources"]
+        p=dict(p,name=o.get("name",p["name"])) if False else p; o=OVR[i]; summary=o["summary"]; facts=o["facts"]; eras=o["eras"]; manual=False; srcs=o["sources"]
     shutil.copy(SRC/f"{i}.png",IMG/f"{i}.png")
-    new.append({"id":i,"tab":"patches","group":p["group"],"name":p["name"],"branches":[p["branch"]],"eras":eras,
-      "summary":summary,"facts":facts,"variants":[],"swatches":[],"attachments":[],"proof":OVR[i]["proof"] if i in OVR else ("unverified" if manual else "historical"),
-      "remember":p["name"]+": "+p["group"].split(" (")[0].lower()+".","image":f"badges/{i}.png",
+    new.append({"id":i,"tab":"patches","group":p["group"],"name":(OVR[i].get("name") if i in OVR else None) or p["name"],"branches":[p["branch"]],"eras":eras,
+      "summary":summary,"facts":facts,"variants":OVR[i].get("variants",[]) if i in OVR else [],"swatches":[],"attachments":[],"proof":OVR[i]["proof"] if i in OVR else ("unverified" if manual else "historical"),
+      "remember":p["name"]+": "+p["group"].split(" (")[0].lower()+".","image":OVR[i].get("image",f"badges/{i}.png") if i in OVR else f"badges/{i}.png",
       "sources":(srcs if i in OVR else [f"Wikipedia, \"{m['wiki_title']}\" (introduction text; a secondary source, not an official record)",
                  "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"]+(srcs or []))+(["Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"] if manual else []),
       "yearFrom":None,"yearTo":None})
+    credits.append(f"| {i}-skull | Skull marked 24 (unofficial Punishers emblem), supplied by the app owner | Owner-supplied; design resembles a Marvel-owned symbol, private use | n/a |") if i=="u-dui-1-24in" else None
     credits.append(f"| {i} | {m['title'][5:]} | {m['license']} | {m['page']} |")
 doc["entries"]=keep+new; json.dump(doc,open(ENT,"w"),indent=2,ensure_ascii=False)
 cr=ROOT/"CREDITS.md"; lines=[l for l in cr.read_text().splitlines() if not l.startswith("| u-")]

@@ -1,3 +1,7 @@
+## 0.22.3
+- 1st Battalion, 24th Infantry Regiment: the picture is now the unofficial "Punishers" skull marked 24, labeled as not an Army insignia. The official 24th Infantry Regiment insignia is kept as a second picture.
+- Text now separates the 1869 all-Black regiment (Buffalo Soldiers) from the integrated battalion reactivated in 1995.
+
 ## 0.22.2
 - Patches tab: added 1st Battalion, 24th Infantry Regiment ("Deuce Four"). History from army.mil and the Deuce4.com Living Legacy page; picture is the public-domain 24th Infantry Regiment insignia (San Juan blockhouse).
 - The Deuce4.com crest is copyrighted by that site, so it is not used.
