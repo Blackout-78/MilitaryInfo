@@ -1,3 +1,6 @@
+## 0.22.6
+- 1st Battalion, 24th Infantry Regiment: the tag no longer says DUI next to the unofficial skull picture. It now reads "Army unit emblems and DUIs", and the Remember-it line says it is an Army unit.
+
 ## 0.22.5
 - 1st Battalion, 24th Infantry Regiment: removed the wording "supplied by the app owner" from the skull picture notes, so nothing ties the entry to the app's author. No page says the author served.
 

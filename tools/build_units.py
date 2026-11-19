@@ -62,7 +62,7 @@ for p in PICKS:
     shutil.copy(SRC/f"{i}.png",IMG/f"{i}.png")
     new.append({"id":i,"tab":"patches","group":p["group"],"name":(OVR[i].get("name") if i in OVR else None) or p["name"],"branches":[p["branch"]],"eras":eras,
       "summary":summary,"facts":facts,"variants":OVR[i].get("variants",[]) if i in OVR else [],"swatches":[],"attachments":[],"proof":OVR[i]["proof"] if i in OVR else ("unverified" if manual else "historical"),
-      "remember":p["name"]+": "+p["group"].split(" (")[0].lower()+".","image":OVR[i].get("image",f"badges/{i}.png") if i in OVR else f"badges/{i}.png",
+      "remember":(OVR[i]["remember"] if i in OVR and "remember" in OVR[i] else p["name"]+": "+p["group"].split(" (")[0].lower()+"."),"image":OVR[i].get("image",f"badges/{i}.png") if i in OVR else f"badges/{i}.png",
       "sources":(srcs if i in OVR else [f"Wikipedia, \"{m['wiki_title']}\" (introduction text; a secondary source, not an official record)",
                  "Picture: Wikimedia Commons (public domain/CC0) - see CREDITS.md"]+(srcs or []))+(["Eras: the source text gives no formation year, so the era filter is not reliable for this unit (not yet checked)"] if manual else []),
       "yearFrom":None,"yearTo":None})

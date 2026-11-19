@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "0.22.5-deuce-wording",
+  "dataVersion": "0.22.6-deuce-group",
   "entries": [
     {
       "id": "u-rule-ssi",
@@ -20833,7 +20833,7 @@
     {
       "id": "u-dui-1-24in",
       "tab": "patches",
-      "group": "Army unit insignia (DUI)",
+      "group": "Army unit emblems and DUIs",
       "name": "1st Battalion, 24th Infantry Regiment (\"Deuce Four\" / \"Punishers\")",
       "branches": [
         "Army"
@@ -20868,7 +20868,7 @@
       "swatches": [],
       "attachments": [],
       "proof": "unverified",
-      "remember": "1st Battalion, 24th Infantry Regiment (\"Deuce Four\"): army unit insignia.",
+      "remember": "Deuce Four = 1-24 Infantry, an Army unit. Skull = unofficial Punishers emblem.",
       "image": "badges/u-dui-1-24in-skull.png",
       "sources": [
         "army.mil, \"1-24 Infantry Battalion History\" (https://www.army.mil/article/166701)",
