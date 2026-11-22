@@ -1,3 +1,6 @@
+## 0.22.7
+- Security: the app can never gain internet permission from a library, and a stray build file was removed from the repo. No change to what you see. Still offline and private.
+
 ## 0.22.6
 - 1st Battalion, 24th Infantry Regiment: the tag no longer says DUI next to the unofficial skull picture. It now reads "Army unit emblems and DUIs", and the Remember-it line says it is an Army unit.
 
